@@ -1,0 +1,8 @@
+{
+    "Icon": "SuitAstralVoice",
+    "Name": "Âm Hưởng Astra",
+    "SetBonus": {
+        "2": "Tấn công +10%",
+        "4": "Khi nhân vật bất kỳ trong đội vào sân thông qua <color=#FFFFFF>Hỗ Trợ Nhanh</color>, toàn đội nhận được 1 tầng <color=#FFFFFF>Tuyệt Âm</color>, tối đa dồn 3 tầng, duy trì 15s, khi kích hoạt trùng lặp sẽ tạo mới thời gian duy trì, cứ có 1 tầng <color=#FFFFFF>Tuyệt Âm</color>, sát thương của nhân vật vào trận thông qua <color=#FFFFFF>Hỗ Trợ Nhanh</color> sẽ tăng 8%, hiệu quả này là duy nhất trong toàn đội."
+    }
+}
