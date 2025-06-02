@@ -6,32 +6,32 @@
     "Talents": {
         "1": {
             "Title": "Aufladungskammer",
-            "Descirption": "Stellt bei jedem Treffen von Gegnern mit dem 4. Angriff des <color=#FFFFFF>Basisangriffs</color> allen Truppenmitgliedern 0,25Pkt. Energie wieder her.\nWährend einer einzelnen Verwendung dieser Fähigkeit kann max. 2Pkt. Energie für die gesamte Truppe wiederhergestellt werden.",
+            "Description": "Stellt bei jedem Treffen von Gegnern mit dem 4. Angriff des <color=#FFFFFF>Basisangriffs</color> allen Truppenmitgliedern 0,25Pkt. Energie wieder her.\nWährend einer einzelnen Verwendung dieser Fähigkeit kann max. 2Pkt. Energie für die gesamte Truppe wiederhergestellt werden.",
             "Lore": "Effizienz ist das Leben der Technik und in Grace’ Patronenkammer schlägt das Herz der Technik."
         },
         "2": {
             "Title": "Blitzstich",
-            "Descirption": "Verringert beim Treffen von Gegnern mit Granaten, die Grace durch <color=#FFFFFF>Basisangriffe</color>, <color=#FFFFFF>Spezialangriffe</color>, <color=#FFFFFF>verstärkte Spezialangriffe</color> u. a. geworfen hat, den <color=#2EB6FF>Elektro-WDS</color> des Ziels um 8,5 % und verringert den <color=#2EB6FF>WDS gegen Elektro-Anomalieansammlung</color> des Ziels um 8,5 %, hält 8 s.",
+            "Description": "Verringert beim Treffen von Gegnern mit Granaten, die Grace durch <color=#FFFFFF>Basisangriffe</color>, <color=#FFFFFF>Spezialangriffe</color>, <color=#FFFFFF>verstärkte Spezialangriffe</color> u. a. geworfen hat, den <color=#2EB6FF>Elektro-WDS</color> des Ziels um 8,5 % und verringert den <color=#2EB6FF>WDS gegen Elektro-Anomalieansammlung</color> des Ziels um 8,5 %, hält 8 s.",
             "Lore": "Das „Sezieren“ von komplexen mechanischen Strukturen ist Grace’ größtes Hobby, selbst in der Mitte des Gefechts.\nWie fühlt es sich an, auseinandergenommen zu werden und jede Schwäche offenzulegen?"
         },
         "3": {
             "Title": "Chefmechanikerin",
-            "Descirption": "Fähigkeitsstufe von <color=#FFFFFF>Basisangriff</color>, <color=#FFFFFF>Ausweichen</color>, <color=#FFFFFF>Hilfe</color>, <color=#FFFFFF>Spezialangriff</color> und <color=#FFFFFF>Kettenangriff</color> +2",
+            "Description": "Fähigkeitsstufe von <color=#FFFFFF>Basisangriff</color>, <color=#FFFFFF>Ausweichen</color>, <color=#FFFFFF>Hilfe</color>, <color=#FFFFFF>Spezialangriff</color> und <color=#FFFFFF>Kettenangriff</color> +2",
             "Lore": "Grace war persönlich an der Erstellung der „Sicherheitsrichtlinien für das Bauwesen von Belobog Heavy Industries“ beteiligt.\nSie ist außerdem die Angestellte, die das „Verbot von gefährlichen Sprengkörpern auf Baustellen“ am häufigsten missachtet hat."
         },
         "4": {
             "Title": "Sprengkondensator",
-            "Descirption": "Verleiht Grace beim Anwenden des <color=#FFFFFF>verstärkten Spezialangriffs</color> 6 Stapelungen „Aufladung“ (max. 6 Stapelungen).\nVerbraucht beim Treffen von Gegnern mit dem <color=#FFFFFF>Basisangriff</color> oder <color=#FFFFFF>Sprintangriff</color> 1 Stapelung „Aufladung“ und erhöht dadurch die Energie-Generationsrate der aktuellen Fähigkeit um 20 %.",
+            "Description": "Verleiht Grace beim Anwenden des <color=#FFFFFF>verstärkten Spezialangriffs</color> 6 Stapelungen „Aufladung“ (max. 6 Stapelungen).\nVerbraucht beim Treffen von Gegnern mit dem <color=#FFFFFF>Basisangriff</color> oder <color=#FFFFFF>Sprintangriff</color> 1 Stapelung „Aufladung“ und erhöht dadurch die Energie-Generationsrate der aktuellen Fähigkeit um 20 %.",
             "Lore": "Anton hatte den leisen Verdacht, dass innerhalb der Komponente, die Grace als „Elektropuls-Wiederverwertungsmodul“ bezeichnete, tatsächlich ein kleiner Ätherhamster saß, der rund um die Uhr pausenlos Energie erzeugte.\n„Kannst du meinem Bruder auch so eins geben?“"
         },
         "5": {
             "Title": "„Eiskalte Eisenhexe“",
-            "Descirption": "Fähigkeitsstufe von <color=#FFFFFF>Basisangriff</color>, <color=#FFFFFF>Ausweichen</color>, <color=#FFFFFF>Hilfe</color>, <color=#FFFFFF>Spezialangriff</color> und <color=#FFFFFF>Kettenangriff</color> +2",
+            "Description": "Fähigkeitsstufe von <color=#FFFFFF>Basisangriff</color>, <color=#FFFFFF>Ausweichen</color>, <color=#FFFFFF>Hilfe</color>, <color=#FFFFFF>Spezialangriff</color> und <color=#FFFFFF>Kettenangriff</color> +2",
             "Lore": "Die „Eiskalte Eisenhexe“ ist in der Lage, jede mechanische Bestie zu zähmen, oder zumindest dachte das der anonyme Fan, der sich den Namen ausgedacht hat."
         },
         "6": {
             "Title": "Zündungsabzug",
-            "Descirption": "Verstärkt, wenn beim Anwenden eines <color=#FFFFFF>Spezialangriff</color> oder eines <color=#FFFFFF>verstärkten Spezialangriffs</color> alle Stapelungen von <color=#FFFFFF>Stromenergie</color> verbraucht werden, die Wirkung der entsprechenden Fähigkeit, wirft zusätzlich eine Granate und erhöht dabei den SCH jeder Granate auf 200 % ihres ursprünglichen SCH.",
+            "Description": "Verstärkt, wenn beim Anwenden eines <color=#FFFFFF>Spezialangriff</color> oder eines <color=#FFFFFF>verstärkten Spezialangriffs</color> alle Stapelungen von <color=#FFFFFF>Stromenergie</color> verbraucht werden, die Wirkung der entsprechenden Fähigkeit, wirft zusätzlich eine Granate und erhöht dabei den SCH jeder Granate auf 200 % ihres ursprünglichen SCH.",
             "Lore": "Die durchschnittliche Bluttemperatur von Angestellten der Belobog Heavy Industries liegt bei 98 Grad Celsius, während Grace stets als Kühlventil vor dem Siedepunkt angesehen wird.\nWenn Grace erst einmal loslegt, sollte sich jeder die Ohren zuhalten."
         }
     },

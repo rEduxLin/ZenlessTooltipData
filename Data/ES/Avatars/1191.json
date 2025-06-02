@@ -6,32 +6,32 @@
     "Talents": {
         "1": {
             "Title": "Presagio gélido",
-            "Descirption": "Al golpear a un enemigo con un tijeretazo rápido al ejecutar <color=#FFFFFF>ataque rápido: Asalto ártico</color>, las cargas de <color=#FFFFFF>congelación instantánea</color> aumentan a 3. Al golpear a un enemigo con un tijeretazo cargado por medio de <color=#FFFFFF>ataque rápido: Asalto ártico</color>, las cargas de <color=#FFFFFF>congelación instantánea</color> aumentan a 6. Por cada carga de <color=#FFFFFF>congelación instantánea</color> consumida, aumenta la Probabilidad de Crítico de Ellen en un 2 % durante 15 s. Pueden acumularse hasta 6 cargas. La duración de cada carga es independiente.",
+            "Description": "Al golpear a un enemigo con un tijeretazo rápido al ejecutar <color=#FFFFFF>ataque rápido: Asalto ártico</color>, las cargas de <color=#FFFFFF>congelación instantánea</color> aumentan a 3. Al golpear a un enemigo con un tijeretazo cargado por medio de <color=#FFFFFF>ataque rápido: Asalto ártico</color>, las cargas de <color=#FFFFFF>congelación instantánea</color> aumentan a 6. Por cada carga de <color=#FFFFFF>congelación instantánea</color> consumida, aumenta la Probabilidad de Crítico de Ellen en un 2 % durante 15 s. Pueden acumularse hasta 6 cargas. La duración de cada carga es independiente.",
             "Lore": "Los vientos helados son el presagio más certero de que el invierno se acerca y también una señal inequívoca de que Ellen acaba de presentar una baja de largo tiempo para hibernar.\nAunque la pregunta es: ¿los tiburones necesitan hibernar?"
         },
         "2": {
             "Title": "Depredadora ártica",
-            "Descirption": "Después de ejecutar el tercer golpe de <color=#FFFFFF>ataque normal: Tijeretazo helado</color>, puede enlazarlo con <color=#FFFFFF>técnica especial EX: Tiburonado</color>.\nAl ejecutar una <color=#FFFFFF>técnica especial EX</color>, por cada carga de <color=#FFFFFF>congelación instantánea</color> que posea, aumenta el Daño Crítico de la técnica actual en un 20 %. Puede aumentar hasta un 60 %.",
+            "Description": "Después de ejecutar el tercer golpe de <color=#FFFFFF>ataque normal: Tijeretazo helado</color>, puede enlazarlo con <color=#FFFFFF>técnica especial EX: Tiburonado</color>.\nAl ejecutar una <color=#FFFFFF>técnica especial EX</color>, por cada carga de <color=#FFFFFF>congelación instantánea</color> que posea, aumenta el Daño Crítico de la técnica actual en un 20 %. Puede aumentar hasta un 60 %.",
             "Lore": "A pesar de estar manchadas de rojo, las gigantescas tijeras de Ellen carecen de calidez.\nLas frías hojas metálicas inspiran temor de convertirse en la próxima víctima."
         },
         "3": {
             "Title": "Antihoras extra",
-            "Descirption": "Nivel de <color=#FFFFFF>ataque normal</color>, <color=#FFFFFF>evasión</color>, <color=#FFFFFF>técnica de apoyo</color>, <color=#FFFFFF>técnica especial</color> y <color=#FFFFFF>técnica en cadena</color> +2",
+            "Description": "Nivel de <color=#FFFFFF>ataque normal</color>, <color=#FFFFFF>evasión</color>, <color=#FFFFFF>técnica de apoyo</color>, <color=#FFFFFF>técnica especial</color> y <color=#FFFFFF>técnica en cadena</color> +2",
             "Lore": "Esencialmente, «ser eficiente» significa volver a casa temprano. Así que hay que golpear más rápido y con más fuerza."
         },
         "4": {
             "Title": "Relente sempiterno",
-            "Descirption": "Cuando cualquier miembro del equipo <color=#98EFF0>congele</color> o aturda a un enemigo, Ellen obtiene 6 ptos. de <color=#FFFFFF>carga de congelación instantánea</color>, obtiene el efecto de <color=#FFFFFF>carga rápida</color> y produce 4 ptos. de energía. El efecto de Producción de Energía puede activarse una vez cada 10 s.",
+            "Description": "Cuando cualquier miembro del equipo <color=#98EFF0>congele</color> o aturda a un enemigo, Ellen obtiene 6 ptos. de <color=#FFFFFF>carga de congelación instantánea</color>, obtiene el efecto de <color=#FFFFFF>carga rápida</color> y produce 4 ptos. de energía. El efecto de Producción de Energía puede activarse una vez cada 10 s.",
             "Lore": "Un sobrecogedor soplo de frío extremo. Hasta las más aterradoras criaturas aprenderán lo cruel y hermoso que puede resultar el frío de la mano de Ellen.\nAunque, sin duda, los interminables turnos de trabajo que las empleadas domésticas tienen durante las vacaciones son aún más crueles..."
         },
         "5": {
             "Title": "Sueño reparador",
-            "Descirption": "Nivel de <color=#FFFFFF>ataque normal</color>, <color=#FFFFFF>evasión</color>, <color=#FFFFFF>técnica de apoyo</color>, <color=#FFFFFF>técnica especial</color> y <color=#FFFFFF>técnica en cadena</color> +2",
+            "Description": "Nivel de <color=#FFFFFF>ataque normal</color>, <color=#FFFFFF>evasión</color>, <color=#FFFFFF>técnica de apoyo</color>, <color=#FFFFFF>técnica especial</color> y <color=#FFFFFF>técnica en cadena</color> +2",
             "Lore": "Salvo en los combates más encarnizados, siempre parece que Ellen está a punto de caer dormida.\nMuchos son los enemigos que han encarado su muerte al subestimarla por ello."
         },
         "6": {
             "Title": "Hora del ágape",
-            "Descirption": "Al ejecutar una <color=#FFFFFF>técnica especial EX</color>, una <color=#FFFFFF>técnica en cadena</color> u obtener una <color=#FFFFFF>carga rápida</color>, aumenta la Tasa de Perforación de Ellen en un 20 % durante 6 s. Además, obtiene 1 carga de <color=#FFFFFF>festín</color>. Pueden acumularse hasta 3 cargas. Al tener 3 cargas de <color=#FFFFFF>festín</color>, al ejecutar un tijeretazo cargado por medio de <color=#FFFFFF>ataque rápido: Asalto ártico</color>, consumirá todas las cargas de <color=#FFFFFF>festín</color> y aumentará el daño de dicha técnica en un 250 %.",
+            "Description": "Al ejecutar una <color=#FFFFFF>técnica especial EX</color>, una <color=#FFFFFF>técnica en cadena</color> u obtener una <color=#FFFFFF>carga rápida</color>, aumenta la Tasa de Perforación de Ellen en un 20 % durante 6 s. Además, obtiene 1 carga de <color=#FFFFFF>festín</color>. Pueden acumularse hasta 3 cargas. Al tener 3 cargas de <color=#FFFFFF>festín</color>, al ejecutar un tijeretazo cargado por medio de <color=#FFFFFF>ataque rápido: Asalto ártico</color>, consumirá todas las cargas de <color=#FFFFFF>festín</color> y aumentará el daño de dicha técnica en un 250 %.",
             "Lore": "Una herida abierta, una gota de sangre. Una escalofriante caza, un copioso banquete. Un precario destino, un instante de satisfacción."
         }
     },

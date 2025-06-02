@@ -6,32 +6,32 @@
     "Talents": {
         "1": {
             "Title": "Dueto de Dança",
-            "Descirption": "Após serem enviadas para atacar, Drusilla e Anastella ficam no lugar por mais 5,5s antes de voltarem.\nO efeito obtido da <color=#FFFFFF>Passiva Principal: Miniparceira de Destruição</color> para personagens a até 10 m de distância aumenta 130% do valor original.",
+            "Description": "Após serem enviadas para atacar, Drusilla e Anastella ficam no lugar por mais 5,5s antes de voltarem.\nO efeito obtido da <color=#FFFFFF>Passiva Principal: Miniparceira de Destruição</color> para personagens a até 10 m de distância aumenta 130% do valor original.",
             "Lore": "\"Conclua o seu trabalho, senão você vai levar uma surra!\" é como Drusilla tenta motivar todo mundo.\n\"Isso! Vai levar uma surra!\" é como Anastella dá sua contribuição."
         },
         "2": {
             "Title": "Modelo de Maestria",
-            "Descirption": "Ao entrar em combate ou substituir outro personagem, o dano da Rina aumenta 15% durante 12s. Este efeito pode ser ativado uma vez a cada 18s.\n",
+            "Description": "Ao entrar em combate ou substituir outro personagem, o dano da Rina aumenta 15% durante 12s. Este efeito pode ser ativado uma vez a cada 18s.\n",
             "Lore": "\"É necessária uma governanta excelente para liderar governantas excelentes, e uma mestra exemplar para educar Bangboos exemplares.\" — Trecho do discurso de Rina no \"Seminário de Recursos Humanos e Perspectivas de Treinamento de Bangboos da Serviços Domésticos Victória\"."
         },
         "3": {
             "Title": "Especialidade da Governanta",
-            "Descirption": "Obtém +2 níveis de <color=#FFFFFF>Ataque Básico</color>, <color=#FFFFFF>Esquiva</color>, <color=#FFFFFF>Ataque de Assistência</color>, <color=#FFFFFF>Ataque Especial</color> e <color=#FFFFFF>Ataque em Cadeia</color>",
+            "Description": "Obtém +2 níveis de <color=#FFFFFF>Ataque Básico</color>, <color=#FFFFFF>Esquiva</color>, <color=#FFFFFF>Ataque de Assistência</color>, <color=#FFFFFF>Ataque Especial</color> e <color=#FFFFFF>Ataque em Cadeia</color>",
             "Lore": "Rina sempre tem a confiança para se sobressair em tudo e a capacidade de aniquilar qualquer coisa.\nQuando o assunto é entrar no clima para aniquilar inimigos, sua confiança e sua capacidade se alinham."
         },
         "4": {
             "Title": "Agulha e Martelo",
-            "Descirption": "A Recuperação de Energia da Rina aumenta 0,5 quando Drusilla e Anastella estão em combate. O efeito termina quando Drusilla ou Anastella voltam para Rina.",
+            "Description": "A Recuperação de Energia da Rina aumenta 0,5 quando Drusilla e Anastella estão em combate. O efeito termina quando Drusilla ou Anastella voltam para Rina.",
             "Lore": "Drusilla e Anastella nunca concordam em nada.\n\"Bater no bobão da frente\" é uma exceção à regra."
         },
         "5": {
             "Title": "Governanta Perfeccionista",
-            "Descirption": "Obtém +2 níveis de <color=#FFFFFF>Ataque Básico</color>, <color=#FFFFFF>Esquiva</color>, <color=#FFFFFF>Ataque de Assistência</color>, <color=#FFFFFF>Ataque Especial</color> e <color=#FFFFFF>Ataque em Cadeia</color>",
+            "Description": "Obtém +2 níveis de <color=#FFFFFF>Ataque Básico</color>, <color=#FFFFFF>Esquiva</color>, <color=#FFFFFF>Ataque de Assistência</color>, <color=#FFFFFF>Ataque Especial</color> e <color=#FFFFFF>Ataque em Cadeia</color>",
             "Lore": "\"Rina\" significa \"perfeição\" no idioma dos Bangboos.\nPerfeccionismo é a regra número um no manual da Serviços Domésticos Victória.\nRina tem seus próprios critérios na hora de julgar \"perfeição\"."
         },
         "6": {
             "Title": "Terror da Noite de Tempestade",
-            "Descirption": "Quando um <color=#FFFFFF>Ataque Especial Reforçado</color>, <color=#FFFFFF>Ataque em Cadeia</color> ou <color=#FFFFFF>Supremo</color> atinge um inimigo, o <color=#2EB6FF>Dano Elétrico</color> de toda a equipe aumenta 15% por 8s.",
+            "Description": "Quando um <color=#FFFFFF>Ataque Especial Reforçado</color>, <color=#FFFFFF>Ataque em Cadeia</color> ou <color=#FFFFFF>Supremo</color> atinge um inimigo, o <color=#2EB6FF>Dano Elétrico</color> de toda a equipe aumenta 15% por 8s.",
             "Lore": "Um trovão ressoa pelo velho castelo em uma noite chuvosa. As profundezas dos longos corredores são tomadas por sombras sinistras. \nCircuitos de medo sobrecarregados, iniciar gravação de filme de terror."
         }
     },

@@ -6,32 +6,32 @@
     "Talents": {
         "1": {
             "Title": "Schnelllademodus",
-            "Descirption": "Erhöht beim Treffen von Gegnern mit dem 4. Hieb von Anbys <color=#FFFFFF>Basisangriff</color> ihre Energie-Generationsrate um 12 %, hält 30 s.",
+            "Description": "Erhöht beim Treffen von Gegnern mit dem 4. Hieb von Anbys <color=#FFFFFF>Basisangriff</color> ihre Energie-Generationsrate um 12 %, hält 30 s.",
             "Lore": "„Eine Minute aufladen und eine Stunde kämpfen!“\nDas ist das Verkaufsargument für diese Waffenerweiterungsmodule ...\nUnd genau das leisten sie."
         },
         "2": {
             "Title": "Präzise Entladung",
-            "Descirption": "Erhöht, wenn <color=#FFFFFF>Basisangriff: Donnerschlag</color> einen benommenen Gegner trifft, den verursachten Schaden um 30 %. Erhöht, wenn Anbys <color=#FFFFFF>verstärkter Spezialangriff</color> einen Gegner trifft, der nicht benommen ist, die verursachte Benommenheit um 10 %.",
+            "Description": "Erhöht, wenn <color=#FFFFFF>Basisangriff: Donnerschlag</color> einen benommenen Gegner trifft, den verursachten Schaden um 30 %. Erhöht, wenn Anbys <color=#FFFFFF>verstärkter Spezialangriff</color> einen Gegner trifft, der nicht benommen ist, die verursachte Benommenheit um 10 %.",
             "Lore": "„Elektroschocks werden dich umhauen.“\nSie blickte den Gegner kühl an, der ihr zu Füßen lag, und fügte hinzu:\n„Genau wie in den Filmen.“"
         },
         "3": {
             "Title": "Diszipliniert",
-            "Descirption": "Fähigkeitsstufe von <color=#FFFFFF>Basisangriff</color>, <color=#FFFFFF>Ausweichen</color>, <color=#FFFFFF>Hilfe</color>, <color=#FFFFFF>Spezialangriff</color> und <color=#FFFFFF>Kettenangriff</color> +2",
+            "Description": "Fähigkeitsstufe von <color=#FFFFFF>Basisangriff</color>, <color=#FFFFFF>Ausweichen</color>, <color=#FFFFFF>Hilfe</color>, <color=#FFFFFF>Spezialangriff</color> und <color=#FFFFFF>Kettenangriff</color> +2",
             "Lore": "Laufen, schlagen, sich wie Donner bewegen. In Höhlen ist sie keine Amateurin, sondern eine Expertin."
         },
         "4": {
             "Title": "Leitfähige Ladung",
-            "Descirption": "Stellt den inaktiven Elektro-Figuren, wenn Anby einen <color=#FFFFFF>Kettenangriff</color> oder <color=#FFFFFF>Ultimate</color> anwendet, 3 Pkt. Energie wieder her.\nStellt ihnen für je 12 % Energie-Generationsrate, die Anby besitzt, zusätzlich 2 Pkt. Energie wieder her, max. 6 Pkt. zusätzlich.",
+            "Description": "Stellt den inaktiven Elektro-Figuren, wenn Anby einen <color=#FFFFFF>Kettenangriff</color> oder <color=#FFFFFF>Ultimate</color> anwendet, 3 Pkt. Energie wieder her.\nStellt ihnen für je 12 % Energie-Generationsrate, die Anby besitzt, zusätzlich 2 Pkt. Energie wieder her, max. 6 Pkt. zusätzlich.",
             "Lore": "Du wirst nicht lange durchhalten, wenn du allein kämpfst. Erfahrene Höhlenräuber wissen, wie sie Chancen für ihre Truppenmitglieder schaffen."
         },
         "5": {
             "Title": "Straßenerfahrung",
-            "Descirption": "Fähigkeitsstufe von <color=#FFFFFF>Basisangriff</color>, <color=#FFFFFF>Ausweichen</color>, <color=#FFFFFF>Hilfe</color>, <color=#FFFFFF>Spezialangriff</color> und <color=#FFFFFF>Kettenangriff</color> +2",
+            "Description": "Fähigkeitsstufe von <color=#FFFFFF>Basisangriff</color>, <color=#FFFFFF>Ausweichen</color>, <color=#FFFFFF>Hilfe</color>, <color=#FFFFFF>Spezialangriff</color> und <color=#FFFFFF>Kettenangriff</color> +2",
             "Lore": "Die Arbeit bei Cunning Hares kann nicht nur deine geistige Stärke verbessern, sondern auch dabei helfen (anders gesagt: dich zwingen), deine Konstitution zu verbessern."
         },
         "6": {
             "Title": "Ladefeld",
-            "Descirption": "Verleiht Anby beim Anwenden des <color=#FFFFFF>verstärkten Spezialangriffs</color> 8 Stapelungen „Aufladung“ (max. 8 Stapelungen).\nVerbraucht beim Treffen von Gegnern mit dem <color=#FFFFFF>Basisangriff</color> oder <color=#FFFFFF>Sprintangriff</color> 1 Stapelung „Aufladung“ und erhöht dadurch den durch diese Fähigkeit verursachten Schaden um 45 %.",
+            "Description": "Verleiht Anby beim Anwenden des <color=#FFFFFF>verstärkten Spezialangriffs</color> 8 Stapelungen „Aufladung“ (max. 8 Stapelungen).\nVerbraucht beim Treffen von Gegnern mit dem <color=#FFFFFF>Basisangriff</color> oder <color=#FFFFFF>Sprintangriff</color> 1 Stapelung „Aufladung“ und erhöht dadurch den durch diese Fähigkeit verursachten Schaden um 45 %.",
             "Lore": "Über ihren Fingerspitzen flackerte das Blitzlicht.\nAnby hob den Kopf, ihre Augen strahlten vor Entschlossenheit, die über ihr Alter hinausging.\nVielleicht wird sie eines Tages diejenige sein, die das Blitzlicht völlig beherrscht."
         }
     },
