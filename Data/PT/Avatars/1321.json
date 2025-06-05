@@ -53,7 +53,7 @@
             "Description": "Quando há outro personagem do tipo <color=#FFFFFF>Atordoador</color> ou <color=#FFFFFF>Assistência</color> na equipe:\nO Dano do <color=#FFFFFF>Ataque em Cadeia</color> e <color=#FFFFFF>Supremo</color> da Evelyn aumenta 30%. Quando a Taxa CRIT da Evelyn é igual ou ultrapassa 80%, o Multiplicador de Dano do seu <color=#FFFFFF>Ataque em Cadeia</color> e <color=#FFFFFF>Supremo</color> aumenta 125% do valor original."
         }
     },
-    "SkillDesriptions": {
+    "SkillDescriptions": {
         "0": {
             "132100001": {
                 "Title": "Ataque Básico: Arame Farpado",

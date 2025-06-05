@@ -53,7 +53,7 @@
             "Description": "Quando outro personagem na sua equipe compartilha do mesmo atributo ou facção:\nEnquanto o Escudo da <color=#FFFFFF>Passiva Principal: Guardião</color> estiver em vigor, a Taxa CRIT do personagem aumenta 16%."
         }
     },
-    "SkillDesriptions": {
+    "SkillDescriptions": {
         "0": {
             "112100001": {
                 "Title": "Ataque Básico: Renegociação de Dívida",

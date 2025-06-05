@@ -53,7 +53,7 @@
             "Description": "Berlaku jika terdapat Agen di dalam tim yang memiliki Atribut yang sama atau berasal dari faksi yang sama:\nSaat anggota tim mana pun mengakibatkan <color=#2EB6FF>Shock</color> pada musuh, durasi efeknya akan diperpanjang 3 detik. Jika terdapat musuh yang dalam status <color=#2EB6FF>Shock</color> di medan pertarungan, <color=#2EB6FF>Electric DMG</color> yang diakibatkan semua anggota tim akan meningkat 10%."
         }
     },
-    "SkillDesriptions": {
+    "SkillDescriptions": {
         "0": {
             "121100001": {
                 "Title": "Basic Attack: Whack the Dimwit",

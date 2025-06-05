@@ -53,7 +53,7 @@
             "Description": "隊伍中包含<color=#FFFFFF>[強攻]</color>或<color=#FFFFFF>[異常]</color>角色時觸發：\n消耗能量發動<color=#FFFFFF>[精準支援]</color>或<color=#FFFFFF>[普通攻擊：終曲]</color>時，耀嘉音將額外追加釋放1道<color=#FFFFFF>[震音]</color>和3枚<color=#FFFFFF>[音堆]</color>進行攻擊。"
         }
     },
-    "SkillDesriptions": {
+    "SkillDescriptions": {
         "0": {
             "131100001": {
                 "Title": "普通攻擊：《隨想曲》",

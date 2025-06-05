@@ -53,7 +53,7 @@
             "Description": "When another character in your squad is a <color=#FFFFFF>Stun</color> or <color=#FFFFFF>Support</color> character:\nEvelyn's <color=#FFFFFF>Chain Attack</color> and <color=#FFFFFF>Ultimate</color> DMG increases by 30%. When Evelyn's CRIT Rate is at or over 80%, the DMG multiplier for her <color=#FFFFFF>Chain Attack</color> and <color=#FFFFFF>Ultimate</color> increases to 125% of the original value."
         }
     },
-    "SkillDesriptions": {
+    "SkillDescriptions": {
         "0": {
             "132100001": {
                 "Title": "Basic Attack: Razor Wire",

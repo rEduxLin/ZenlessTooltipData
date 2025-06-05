@@ -53,7 +53,7 @@
             "Description": "Si en el equipo hay miembros del mismo Atributo o la misma afiliación que él:\nDespués de entrar en <color=#FFFFFF>estado explosivo</color>, cada 4 golpes críticos, cuando Antón golpee a un enemigo afectado por <color=#2EB6FF>electrochoque</color>, provocará daño de <color=#2EB6FF>electrochoque</color> adicional equivalente a un 45 % del daño original. Puede activarse una vez cada 0.5 s."
         }
     },
-    "SkillDesriptions": {
+    "SkillDescriptions": {
         "0": {
             "111100001": {
                 "Title": "Ataque normal: Calistenia energizante",

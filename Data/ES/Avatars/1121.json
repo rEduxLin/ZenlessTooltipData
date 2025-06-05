@@ -53,7 +53,7 @@
             "Description": "Si en el equipo hay miembros del mismo Atributo o la misma afiliación que él:\nMientras dure el escudo de <color=#FFFFFF>técnica pasiva: Reserva financiera</color>, aumenta la Probabilidad de Crítico del personaje en un 16 %."
         }
     },
-    "SkillDesriptions": {
+    "SkillDescriptions": {
         "0": {
             "112100001": {
                 "Title": "Ataque normal: Saldo de cuentas",

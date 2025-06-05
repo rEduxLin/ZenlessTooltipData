@@ -53,7 +53,7 @@
             "Description": "Wenn sich in der Truppe eine <color=#FFFFFF>Attacke</color>-Figur oder eine Figur mit demselben Attribut befindet:\nErhöht, wenn Triggers KRIT-Rate 40 % übersteigt, die durch <color=#FFFFFF>Nachschock</color> verursachte Benommenheit pro 1 % KRIT-Rate über diesem Schwellenwert um 1,5 %, max. um 75 %."
         }
     },
-    "SkillDesriptions": {
+    "SkillDescriptions": {
         "0": {
             "136100001": {
                 "Title": "Basisangriff: Erstschuss",

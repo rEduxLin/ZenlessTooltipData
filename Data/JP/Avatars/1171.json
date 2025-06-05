@@ -53,7 +53,7 @@
             "Description": "チームに他の<color=#FFFFFF>[異常]</color>メンバーまたは自身と同じ陣営のメンバーがいる時に発動：\n<color=#FFFFFF>『通常攻撃：フレイム・ブレンド』</color>、<color=#FFFFFF>『強化特殊スキル：ヒートシェイキング・メソッド』</color>、<color=#FFFFFF>『強化特殊スキル：ヒートシェイキング・メソッド・ダブル』</color>が敵に命中、または<color=#FFFFFF>「エンバー」</color>効果が発動した時、攻撃による<color=#FF5521>炎属性の状態異常蓄積値</color>が65%アップする。任意のメンバーが敵に<color=#FF5521>「熱傷」</color>効果を付与した場合、<color=#FF5521>「熱傷」</color>効果の継続時間が3秒延長される。"
         }
     },
-    "SkillDesriptions": {
+    "SkillDescriptions": {
         "0": {
             "117100001": {
                 "Title": "通常攻撃：フレイム・ビルド",

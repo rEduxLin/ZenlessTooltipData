@@ -53,7 +53,7 @@
             "Description": "队伍中存在与自身属性或阵营相同的角色时触发：\n派派拥有20层或以上<color=#FFFFFF>[动力]</color>时，全队造成的伤害提升18%。"
         }
     },
-    "SkillDesriptions": {
+    "SkillDescriptions": {
         "0": {
             "128100001": {
                 "Title": "普通攻击：准备发车",

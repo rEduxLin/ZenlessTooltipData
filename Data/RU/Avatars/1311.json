@@ -53,7 +53,7 @@
             "Description": "Если в отряде есть агент специальности <color=#FFFFFF>«Нападение»</color> или <color=#FFFFFF>«Аномалия»</color>:\nКогда Астра Яо расходует энергию на <color=#FFFFFF>точную поддержку</color> или <color=#FFFFFF>базовую атаку «Кода»</color>, она дополнительно выполняет 1 атаку <color=#FFFFFF>«Тремоло»</color> и 3 атаки <color=#FFFFFF>«Тональный кластер»</color>."
         }
     },
-    "SkillDesriptions": {
+    "SkillDescriptions": {
         "0": {
             "131100001": {
                 "Title": "Базовая атака: Каприччио",

@@ -53,7 +53,7 @@
             "Description": "チームに<color=#FFFFFF>[支援]</color>メンバーまたは自身と同じ陣営のメンバーがいる時に発動：\n<color=#FFFFFF>『通常攻撃：霜月』</color>の与ダメージが60%アップする。任意のメンバーが<color=#FFFFFF>「混沌」</color>効果を発動した時、星見雅が<color=#FFFFFF>「落霜」</color>を2Pt獲得し、次の<color=#FFFFFF>「霜月の構え」</color>中、<color=#FFFFFF>『通常攻撃：霜月』</color>がターゲットの<color=#98EFF0>氷属性ダメージ耐性</color>を30%無視する。"
         }
     },
-    "SkillDesriptions": {
+    "SkillDescriptions": {
         "0": {
             "109100001": {
                 "Title": "通常攻撃：風花",

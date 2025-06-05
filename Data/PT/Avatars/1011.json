@@ -53,7 +53,7 @@
             "Description": "Quando outro Agente de sua equipe tem o mesmo atributo ou facção:\nQuando a <color=#FFFFFF>Contraesquiva</color> de Anby atinge um inimigo, ela ganha mais 7,2 de Energia. Pode ser acionado uma vez a cada 5s."
         }
     },
-    "SkillDesriptions": {
+    "SkillDescriptions": {
         "0": {
             "101100001": {
                 "Title": "Ataque Básico: Turbovolt",

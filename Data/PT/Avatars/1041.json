@@ -53,7 +53,7 @@
             "Description": "Quando outro personagem na sua equipe compartilha do mesmo atributo ou facção:\nA N.º 11 causa 10% a mais de <color=#FF5521>Dano de Fogo</color>. Ao atacar inimigos Atordoados, esse efeito aumenta mais 22,5%."
         }
     },
-    "SkillDesriptions": {
+    "SkillDescriptions": {
         "0": {
             "104100001": {
                 "Title": "Ataque Básico: Faíscas de Aquecimento",

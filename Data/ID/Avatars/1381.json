@@ -53,7 +53,7 @@
             "Description": "Berlaku jika terdapat Agen <color=#FFFFFF>Stun</color> atau <color=#FFFFFF>Support</color> di dalam tim:\nSoldier 0 - Anby akan mendapatkan peningkatan CRIT Rate sebesar 10%. Saat menggunakan Soldier 0 - Anby sebagai Agen yang Dikendalikan, <color=#FFFFFF>Aftershock</color> dari semua anggota tim akan mengakibatkan 25% DMG lebih besar terhadap musuh yang ditandai <color=#FFFFFF>Silver Star</color>."
         }
     },
-    "SkillDesriptions": {
+    "SkillDescriptions": {
         "0": {
             "138100001": {
                 "Title": "Basic Attack: Penetrating Shock",

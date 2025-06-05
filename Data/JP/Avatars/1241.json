@@ -53,7 +53,7 @@
             "Description": "チームに<color=#FFFFFF>[支援]</color>のメンバーまたは自身と同じ陣営のメンバーがいる時に発動：\n朱鳶が<color=#FFFFFF>『強化特殊スキル』</color>、<color=#FFFFFF>『連携スキル』</color>または<color=#FFFFFF>『終結スキル』</color>を発動した時、自身の会心率が30%アップする、継続時間10秒。"
         }
     },
-    "SkillDesriptions": {
+    "SkillDescriptions": {
         "0": {
             "124100001": {
                 "Title": "通常攻撃：動くな！",

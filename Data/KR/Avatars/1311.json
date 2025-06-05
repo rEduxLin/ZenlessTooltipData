@@ -53,7 +53,7 @@
             "Description": "파티 내 <color=#FFFFFF>[강공]</color> 혹은 <color=#FFFFFF>[이상]</color> 캐릭터 존재 시 발동:\n에너지를 소모해 <color=#FFFFFF>[정밀 지원]</color> 혹은 <color=#FFFFFF>[일반 공격: 피날레]</color> 시전 시, 아스트라 야오가 <color=#FFFFFF>[트레몰로]</color> 1개 및 <color=#FFFFFF>[톤 클러스터]</color> 3개를 추가로 방출해 공격한다."
         }
     },
-    "SkillDesriptions": {
+    "SkillDescriptions": {
         "0": {
             "131100001": {
                 "Title": "일반 공격: 〈카프리치오〉",

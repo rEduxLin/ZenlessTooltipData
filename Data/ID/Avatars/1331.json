@@ -53,7 +53,7 @@
             "Description": "Berlaku jika terdapat Agen <color=#FFFFFF>Anomaly</color> lain atau Agen yang memiliki Atribut yang sama di dalam tim:\nSaat Agen lain di dalam tim mengakibatkan Attribute Anomaly terhadap musuh, Vivian akan mengonsumsi 1 poin <color=#FFFFFF>Guard Feather</color> dan melancarkan <color=#FFFFFF>Basic Attack: Featherbloom</color> terhadap target. Efek ini dapat terpicu 1 kali setiap 0,5 detik.\nDMG dari <color=#FE437E>Corruption</color> dan DMG <color=#FFFFFF>Disorder</color> dari status <color=#FE437E>Corruption</color> yang diakibatkan semua anggota tim meningkat <color=#2BAD00>12%</color>."
         }
     },
-    "SkillDesriptions": {
+    "SkillDescriptions": {
         "0": {
             "133100001": {
                 "Title": "Basic Attack: Feathered Strike",

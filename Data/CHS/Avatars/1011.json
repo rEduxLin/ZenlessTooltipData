@@ -53,7 +53,7 @@
             "Description": "队伍中存在与自身属性或阵营相同的角色时触发：\n安比发动<color=#FFFFFF>[闪避反击]</color>命中敌人时，额外回复7.2点能量，5秒内最多触发一次。"
         }
     },
-    "SkillDesriptions": {
+    "SkillDescriptions": {
         "0": {
             "101100001": {
                 "Title": "普通攻击：伏特速攻",

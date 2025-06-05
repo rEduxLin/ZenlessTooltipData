@@ -53,7 +53,7 @@
             "Description": "When another character in your squad shares the same Attribute or Faction:\nWhen Nicole's <color=#FFFFFF>Core Passive: Mechanical Case</color> applies a debuff to an enemy, all squad members deal 25% more <color=#FE437E>Ether DMG</color> to the target for 3.5s."
         }
     },
-    "SkillDesriptions": {
+    "SkillDescriptions": {
         "0": {
             "103100001": {
                 "Title": "Basic Attack: Cunning Combo",

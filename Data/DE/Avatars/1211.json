@@ -53,7 +53,7 @@
             "Description": "Wenn eine andere Figur in der Truppe dasselbe Attribut hat oder eine andere Figur derselben Fraktion angehört:\nErhöht, wenn ein Truppenmitglied einem Gegner den Effekt <color=#2EB6FF>Elektroschock</color> verleiht, die Dauer dieses Effekts um 3 s. Erhöht, wenn sich auf dem Feld Gegner im Zustand <color=#2EB6FF>Elektroschock</color> befinden, den <color=#2EB6FF>Elektro-SCH</color> durch alle Truppenmitglieder um 10 %."
         }
     },
-    "SkillDesriptions": {
+    "SkillDescriptions": {
         "0": {
             "121100001": {
                 "Title": "Basisangriff: Verpass dem Trottel eine!",

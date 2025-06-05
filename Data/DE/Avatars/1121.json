@@ -53,7 +53,7 @@
             "Description": "Wenn eine andere Figur in der Truppe dasselbe Attribut hat oder eine andere Figur derselben Fraktion angehört:\nErhöht, wenn der durch die <color=#FFFFFF>passive Kernfähigkeit: Wächter</color> erzeugte Schild vorhanden ist, die KRIT-Rate der Figur um 16 %."
         }
     },
-    "SkillDesriptions": {
+    "SkillDescriptions": {
         "0": {
             "112100001": {
                 "Title": "Basisangriff: Schuldenabgleich",

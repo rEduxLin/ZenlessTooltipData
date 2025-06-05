@@ -53,7 +53,7 @@
             "Description": "When another character in your squad is an <color=#FFFFFF>Anomaly</color> character or shares the same Faction:\nJane's <color=#F0D12B>Physical Anomaly Buildup Rate</color> is increased by 20%. When the enemy is already suffering from an Attribute Anomaly, Jane's <color=#F0D12B>Physical Anomaly Buildup</color> towards the target is increased by an additional 15%."
         }
     },
-    "SkillDesriptions": {
+    "SkillDescriptions": {
         "0": {
             "126100001": {
                 "Title": "Basic Attack: Dancing Blades",

@@ -53,7 +53,7 @@
             "Description": "Lorsqu'un autre personnage de votre escouade est du même attribut ou de la même faction qu'Ellen :\nLorsque Ellen inflige des <color=#98EFF0>DGT de glace</color>, ses prochains <color=#98EFF0>DGT de glace</color> augmentent de 3 % pendant 10 s. Cet effet est cumulable 10 fois, et chaque déclenchement réinitialise la durée de l'effet."
         }
     },
-    "SkillDesriptions": {
+    "SkillDescriptions": {
         "0": {
             "119100001": {
                 "Title": "Attaque normale : Mâchoire tranchante",

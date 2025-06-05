@@ -53,7 +53,7 @@
             "Description": "Berlaku jika terdapat Agen di dalam tim yang memiliki Atribut yang sama atau berasal dari faksi yang sama:\n<color=#FF5521>Fire DMG</color> yang diakibatkan Soldier 11 meningkat 10%. Saat menyerang musuh yang berada dalam status Stun, efek ini akan meningkat 22,5%."
         }
     },
-    "SkillDesriptions": {
+    "SkillDescriptions": {
         "0": {
             "104100001": {
                 "Title": "Basic Attack: Warmup Sparks",

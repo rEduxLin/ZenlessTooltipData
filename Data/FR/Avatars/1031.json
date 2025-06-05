@@ -53,7 +53,7 @@
             "Description": "Lorsqu'un autre personnage de votre escouade est du même attribut ou de la même faction que Nicole :\nLorsque <color=#FFFFFF>Passif principal : Malette mécanique</color> de Nicole inflige un malus à un ennemi, les <color=#FE437E>DGT éthériques</color> infligés à la cible par tous les membres de l'escouade augmentent de 25 % pendant 3,5 s."
         }
     },
-    "SkillDesriptions": {
+    "SkillDescriptions": {
         "0": {
             "103100001": {
                 "Title": "Attaque normale : Combo rusé",

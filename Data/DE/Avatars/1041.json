@@ -53,7 +53,7 @@
             "Description": "Wenn eine andere Figur in der Truppe dasselbe Attribut hat oder eine andere Figur derselben Fraktion angehört:\nErhöht den <color=#FF5521>Feuer-SCH</color> durch Soldatin Nr. 11 um 10 % und erhöht diesen Bonuseffekt beim Treffen von benommenen Gegnern zusätzlich um 22,5 %."
         }
     },
-    "SkillDesriptions": {
+    "SkillDescriptions": {
         "0": {
             "104100001": {
                 "Title": "Basisangriff: Aufwärmfunken",

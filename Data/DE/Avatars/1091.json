@@ -53,7 +53,7 @@
             "Description": "Wenn sich in der Truppe eine <color=#FFFFFF>Support</color>-Figur befindet oder eine Figur derselben Fraktion angehört:\nDer durch den <color=#FFFFFF>Basisangriff: Shimotsuki</color> verursachte SCH erhöht sich um 60 %. Wenn ein Truppenmitglied <color=#FFFFFF>Unordnung</color> auslöst, erhält Hoshimi Miyabi 2 Pkt. <color=#FFFFFF>Frostfall</color> und während der Dauer der nächsten <color=#FFFFFF>Shimotsuki-Haltung</color> ignoriert der <color=#FFFFFF>Basisangriff: Shimotsuki</color> 30 % des <color=#98EFF0>Eis-WDS</color> des Ziels."
         }
     },
-    "SkillDesriptions": {
+    "SkillDescriptions": {
         "0": {
             "109100001": {
                 "Title": "Basisangriff: Kazahana",

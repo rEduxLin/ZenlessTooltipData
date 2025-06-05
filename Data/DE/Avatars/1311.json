@@ -53,7 +53,7 @@
             "Description": "Wenn sich in der Truppe eine <color=#FFFFFF>Attacke</color>- oder <color=#FFFFFF>Anomalie</color>-Figur befindet:\nWenn Energie verbraucht wird, um eine <color=#FFFFFF>präzise Hilfe</color> oder <color=#FFFFFF>Basisangriff: Ausklang</color> auszulösen, führt Astra Yao zusätzlich einen Folgeangriff mit 1 <color=#FFFFFF>Tremolo</color> und 3 <color=#FFFFFF>Tontrauben</color> aus."
         }
     },
-    "SkillDesriptions": {
+    "SkillDescriptions": {
         "0": {
             "131100001": {
                 "Title": "Basisangriff: Capriccio",

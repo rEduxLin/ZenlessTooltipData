@@ -53,7 +53,7 @@
             "Description": "Berlaku jika terdapat Agen <color=#FFFFFF>Stun</color> atau <color=#FFFFFF>Support</color> di dalam tim:\nDMG yang diakibatkan dari <color=#FFFFFF>Chain Attack</color> dan <color=#FFFFFF>Ultimate</color> yang dilancarkan oleh Evelyn meningkat 30%. Saat CRIT Rate Evelyn mencapai 80% atau lebih, Kelipatan DMG dari <color=#FFFFFF>Chain Attack</color> dan <color=#FFFFFF>Ultimate</color> meningkat 125% dari nilai awalnya."
         }
     },
-    "SkillDesriptions": {
+    "SkillDescriptions": {
         "0": {
             "132100001": {
                 "Title": "Basic Attack: Razor Wire",

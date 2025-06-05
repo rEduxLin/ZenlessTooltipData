@@ -53,7 +53,7 @@
             "Description": "Berlaku jika terdapat Agen di dalam tim yang memiliki Atribut yang sama atau berasal dari faksi yang sama:\nSetelah anggota tim mana pun mengakibatkan efek <color=#F0D12B>Assault</color> terhadap musuh, DMG dari <color=#FFFFFF>EX Special Attack</color> Nekomata berikutnya akan meningkat 35%. Dapat ditumpuk maks. 2 lapis."
         }
     },
-    "SkillDesriptions": {
+    "SkillDescriptions": {
         "0": {
             "102100001": {
                 "Title": "Basic Attack: Kitty Slash",

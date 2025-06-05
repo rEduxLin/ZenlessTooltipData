@@ -53,7 +53,7 @@
             "Description": "Lorsqu'un autre membre de votre escouade est un personnage <color=#FFFFFF>Soutien</color> ou est de la même faction que Zhu Yuan :\nAprès une <color=#FFFFFF>attaque spéciale EX</color>, un <color=#FFFFFF>enchaînement</color> ou un <color=#FFFFFF>ultime</color>, le taux CRIT de Zhu Yuan augmente de 30 % pendant 10 s."
         }
     },
-    "SkillDesriptions": {
+    "SkillDescriptions": {
         "0": {
             "124100001": {
                 "Title": "Attaque normale : On ne bouge plus !",

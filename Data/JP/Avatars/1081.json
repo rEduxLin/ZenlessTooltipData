@@ -53,7 +53,7 @@
             "Description": "チームに自身と同じ属性または同じ陣営のメンバーがいる時に発動：\nビリーが<color=#FFFFFF>『連携スキル』</color>を発動した後、次に<color=#FFFFFF>『終結スキル』</color>を発動した時に、スキルの与ダメージが50%アップする、最大2重まで重ね掛け可能。<color=#FFFFFF>『終結スキル』</color>を発動するとリセットされる。"
         }
     },
-    "SkillDesriptions": {
+    "SkillDescriptions": {
         "0": {
             "108100001": {
                 "Title": "通常攻撃：出力全開",

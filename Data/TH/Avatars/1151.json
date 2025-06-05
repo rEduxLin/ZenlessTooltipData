@@ -53,7 +53,7 @@
             "Description": "เมื่อในทีมมีตัวละครธาตุเดียวกัน หรืออยู่ฝ่ายเดียวกันกับตัวเอง:\nGuard Boar สามารถสืบทอด CRIT Rate และ CRIT DMG ต่อจาก Lucy ได้"
         }
     },
-    "SkillDesriptions": {
+    "SkillDescriptions": {
         "0": {
             "115100001": {
                 "Title": "โจมตีปกติ: Lady's Bat",

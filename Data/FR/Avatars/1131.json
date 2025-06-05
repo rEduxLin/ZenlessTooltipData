@@ -53,7 +53,7 @@
             "Description": "Lorsqu'un autre personnage de votre escouade est du même attribut ou de la même faction que Soukaku :\nLorsque Soukaku consomme <color=#FFFFFF>Vortex</color> pour lancer <color=#FFFFFF>Hisser les couleurs</color>, les <color=#98EFF0>DGT de glace</color> de tous les membres de l'escouade augmentent de 20 % pendant 22 s."
         }
     },
-    "SkillDesriptions": {
+    "SkillDescriptions": {
         "0": {
             "113100001": {
                 "Title": "Attaque normale : Gâteaux de riz",

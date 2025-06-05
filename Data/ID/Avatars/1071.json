@@ -53,7 +53,7 @@
             "Description": "Berlaku jika terdapat Agen lain yang dapat melancarkan <color=#FFFFFF>Defensive Assist</color> atau Agen yang berasal dari faksi yang sama di dalam tim:\nSaat Caesar memicu <color=#FFFFFF>Perfect Block</color>, <color=#FFFFFF>Retaliation</color>, <color=#FFFFFF>Defensive Assist</color>, atau melancarkan <color=#FFFFFF>Basic Attack: Dead End</color>, dia akan memberikan efek debuff terhadap musuh yang berada dalam radius 7m darinya, meningkatkan DMG yang diakibatkan semua anggota tim terhadap musuh tersebut sebesar 25% selama 30 detik."
         }
     },
-    "SkillDesriptions": {
+    "SkillDescriptions": {
         "0": {
             "107100001": {
                 "Title": "Basic Attack: Rampaging Slash",

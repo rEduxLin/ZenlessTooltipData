@@ -53,7 +53,7 @@
             "Description": "Berlaku jika terdapat Agen <color=#FFFFFF>Attack</color> atau Agen yang berasal dari faksi yang sama di dalam tim:\nSaat Pulchra melancarkan <color=#FFFFFF>Special Attack: Rending Claw - Nightmare Shadow</color>, <color=#FFFFFF>EX Special Attack</color>, <color=#FFFFFF>Assist Follow-Up</color>, <color=#FFFFFF>Chain Attack</color>, atau <color=#FFFFFF>Ultimate</color> dan mengenai musuh, dia akan memberikan efek <color=#FFFFFF>Binding Trap</color> pada musuh selama 15 detik. Setelah terpengaruh efek <color=#FFFFFF>Binding Trap</color>, DMG yang diakibatkan dari <color=#FFFFFF>Aftershock</color> yang dilancarkan semua unit terhadap target meningkat 30%."
         }
     },
-    "SkillDesriptions": {
+    "SkillDescriptions": {
         "0": {
             "135100001": {
                 "Title": "Basic Attack: Swift Strike",

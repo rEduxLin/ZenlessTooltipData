@@ -53,7 +53,7 @@
             "Description": "Berlaku jika terdapat Agen di dalam tim yang memiliki Atribut yang sama atau berasal dari faksi yang sama:\nSaat serangan Lycaon mengenai musuh yang berada dalam status Stun, kelipatan Stun DMG musuh tersebut akan meningkat 35%."
         }
     },
-    "SkillDesriptions": {
+    "SkillDescriptions": {
         "0": {
             "114100001": {
                 "Title": "Basic Attack: Moon Hunter",

@@ -53,7 +53,7 @@
             "Description": "Berlaku jika terdapat Agen di dalam tim yang memiliki Atribut yang sama atau berasal dari faksi yang sama:\nGuard Boar dapat mewarisi CRIT Rate dan CRIT DMG Lucy."
         }
     },
-    "SkillDesriptions": {
+    "SkillDescriptions": {
         "0": {
             "115100001": {
                 "Title": "Basic Attack: Lady's Bat",

@@ -53,7 +53,7 @@
             "Description": "Lorsqu'un autre personnage de votre escouade est du même attribut ou de la même faction que Ben :\nLorsque le bouclier de <color=#FFFFFF>Passif principal : Gardien</color> est actif, le taux CRIT du personnage augmente de 16 %."
         }
     },
-    "SkillDesriptions": {
+    "SkillDescriptions": {
         "0": {
             "112100001": {
                 "Title": "Attaque normale : Regroupement de dettes",

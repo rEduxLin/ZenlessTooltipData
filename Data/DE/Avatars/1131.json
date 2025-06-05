@@ -53,7 +53,7 @@
             "Description": "Wenn eine andere Figur in der Truppe dasselbe Attribut hat oder eine andere Figur derselben Fraktion angehört:\nErhöht, wenn Soukaku <color=#FFFFFF>Vortex</color> verbraucht und <color=#FFFFFF>Gehisste Flagge</color> auslöst, den durch alle Truppenmitglieder verursachten <color=#98EFF0>Eis-SCH</color> um 20 %, hält 22 s."
         }
     },
-    "SkillDesriptions": {
+    "SkillDescriptions": {
         "0": {
             "113100001": {
                 "Title": "Basisangriff: Reiskuchen machen",

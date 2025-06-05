@@ -53,7 +53,7 @@
             "Description": "隊伍中包含與自身屬性或陣營相同的角色時觸發：\n格莉絲發動<color=#FFFFFF>[強化特殊技]</color>命中敵人時，目標下次被施加<color=#2EB6FF>[感電]</color>效果時，該次<color=#2EB6FF>[感電]</color>傷害提升18%，最多疊加2層，同一招式內每個敵人最多觸發一次效果，<color=#2EB6FF>[感電]</color>狀態結束時效果重置。"
         }
     },
-    "SkillDesriptions": {
+    "SkillDescriptions": {
         "0": {
             "118100001": {
                 "Title": "普通攻擊：高壓釘槍",

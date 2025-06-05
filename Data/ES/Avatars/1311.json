@@ -53,7 +53,7 @@
             "Description": "Si en el equipo hay un miembro <color=#FFFFFF>atacante</color> o <color=#FFFFFF>anómalo</color>, al consumir energía para ejecutar un <color=#FFFFFF>apoyo preciso</color> o un <color=#FFFFFF>ataque normal: Coda</color>, Astra Yao libera adicionalmente 1 <color=#FFFFFF>trémolo</color> y 3 <color=#FFFFFF>clústeres tonales</color> de manera subsiguiente."
         }
     },
-    "SkillDesriptions": {
+    "SkillDescriptions": {
         "0": {
             "131100001": {
                 "Title": "Ataque normal: Capriccio",

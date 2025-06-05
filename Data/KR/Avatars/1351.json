@@ -53,7 +53,7 @@
             "Description": "파티에 <color=#FFFFFF>[강공]</color> 캐릭터 혹은 자신과 진영이 같은 캐릭터가 존재할 시 발동:\n펄크라가 시전한 <color=#FFFFFF>[특수 스킬: 포식의 발톱·악몽의 엄습]</color>, <color=#FFFFFF>[강화 특수 스킬]</color>, <color=#FFFFFF>[지원 돌격]</color>, <color=#FFFFFF>[콤보 스킬]</color>, <color=#FFFFFF>[궁극기]</color>가 적에게 명중 시 적에게 <color=#FFFFFF>[트랩]</color> 효과를 부여한다. 지속 시간: 15초. <color=#FFFFFF>[트랩]</color> 효과가 부여된 후, 모든 유닛의 <color=#FFFFFF>[여진 공격]</color>이 타깃에게 주는 피해가 30% 증가한다."
         }
     },
-    "SkillDesriptions": {
+    "SkillDescriptions": {
         "0": {
             "135100001": {
                 "Title": "일반 공격: 민첩한 타격",

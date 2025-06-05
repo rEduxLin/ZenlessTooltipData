@@ -53,7 +53,7 @@
             "Description": "Quando outro personagem na sua equipe compartilha do mesmo atributo ou facção:\nCorin causa 35% mais dano a inimigos Atordoados."
         }
     },
-    "SkillDesriptions": {
+    "SkillDescriptions": {
         "0": {
             "106100001": {
                 "Title": "Ataque Básico: Limpeza Total",

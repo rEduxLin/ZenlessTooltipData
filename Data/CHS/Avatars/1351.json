@@ -53,7 +53,7 @@
             "Description": "队伍中存在<color=#FFFFFF>[强攻]</color>角色或与自身阵营相同的角色时触发：\n波可娜发动<color=#FFFFFF>[特殊技：噬爪·噩梦袭影]</color>、<color=#FFFFFF>[强化特殊技]</color>、<color=#FFFFFF>[支援突击]</color>、<color=#FFFFFF>[连携技]</color>、<color=#FFFFFF>[终结技]</color>命中敌人时，将对敌人施加<color=#FFFFFF>[困迹]</color>效果，持续15秒；被施加<color=#FFFFFF>[困迹]</color>效果后，所有单位发动<color=#FFFFFF>[追加攻击]</color>对目标造成的伤害提升30%。"
         }
     },
-    "SkillDesriptions": {
+    "SkillDescriptions": {
         "0": {
             "135100001": {
                 "Title": "普通攻击：捷击",

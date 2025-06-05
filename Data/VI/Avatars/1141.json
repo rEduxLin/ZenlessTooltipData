@@ -53,7 +53,7 @@
             "Description": "Khi trong đội có nhân vật cùng phe hoặc thuộc tính giống bản thân sẽ kích hoạt:\nKhi Lycaon tấn công trúng kẻ địch ở trạng thái Choáng, Bội Số DMG Choáng của mục tiêu tăng 35%."
         }
     },
-    "SkillDesriptions": {
+    "SkillDescriptions": {
         "0": {
             "114100001": {
                 "Title": "Tấn Công Thường: Vũ Điệu Săn Trăng",

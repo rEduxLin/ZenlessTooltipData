@@ -53,7 +53,7 @@
             "Description": "Wenn eine andere Figur in der Truppe dasselbe Attribut hat oder eine andere Figur derselben Fraktion angehört:\nStellt Anby beim Treffen von Gegnern mit ihrem <color=#FFFFFF>Ausweichkonter</color> zusätzlich 7,2 Pkt. Energie wieder her, 5 s Abklingzeit."
         }
     },
-    "SkillDesriptions": {
+    "SkillDescriptions": {
         "0": {
             "101100001": {
                 "Title": "Basisangriff: Turbo-Volt",

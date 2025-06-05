@@ -53,7 +53,7 @@
             "Description": "Berlaku jika terdapat Agen di dalam tim yang memiliki Atribut yang sama atau berasal dari faksi yang sama:\nDMG yang diakibatkan Corin terhadap musuh yang berada dalam status Stun meningkat 35%."
         }
     },
-    "SkillDesriptions": {
+    "SkillDescriptions": {
         "0": {
             "106100001": {
                 "Title": "Basic Attack: Wipeout",

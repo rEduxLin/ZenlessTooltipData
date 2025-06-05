@@ -53,7 +53,7 @@
             "Description": "When another character in your squad shares the same Attribute or Faction:\nWhen Ellen deals <color=#98EFF0>Ice DMG</color>, subsequent <color=#98EFF0>Ice DMG</color> increases by 3% for 10s. This effect can stack up to 10 times, and repeated triggers reset the duration."
         }
     },
-    "SkillDesriptions": {
+    "SkillDescriptions": {
         "0": {
             "119100001": {
                 "Title": "Basic Attack: Saw Teeth Trimming",

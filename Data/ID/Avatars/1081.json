@@ -53,7 +53,7 @@
             "Description": "Berlaku jika terdapat Agen di dalam tim yang memiliki Atribut yang sama atau berasal dari faksi yang sama:\nSetelah Billy melancarkan <color=#FFFFFF>Chain Attack</color>, DMG dari <color=#FFFFFF>Ultimate</color> selanjutnya yang dilancarkan akan meningkat 50%. Efek ini dapat ditumpuk maks. 2 lapis, dan akan direset setelah Billy melancarkan <color=#FFFFFF>Ultimate</color>."
         }
     },
-    "SkillDesriptions": {
+    "SkillDescriptions": {
         "0": {
             "108100001": {
                 "Title": "Basic Attack: Full Firepower",

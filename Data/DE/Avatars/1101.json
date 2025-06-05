@@ -53,7 +53,7 @@
             "Description": "Wenn eine andere Figur in der Truppe dasselbe Attribut hat oder eine andere Figur derselben Fraktion angehört:\nVerleiht dem Ziel einen Maluseffekt, wenn Koleda mit einem <color=#FFFFFF>verstärkten Spezialangriff</color> eine Explosion auslöst und Gegner trifft. Erhöht, nachdem das Ziel benommen gemacht wurde, den durch die <color=#FFFFFF>Kettenangriffe</color> aller Truppenmitglieder verursachten SCH am Ziel um 35 %, max. 2-fach stapelbar. Dieser Effekt wird zurückgesetzt, wenn der Zustand Benommenheit endet."
         }
     },
-    "SkillDesriptions": {
+    "SkillDescriptions": {
         "0": {
             "110100001": {
                 "Title": "Basisangriff: Knall und Knack!",

@@ -53,7 +53,7 @@
             "Description": "Si en el equipo hay miembros del mismo Atributo o la misma afiliación que ella:\nLos puercos armados adquieren la Probabilidad de Crítico y el Daño Crítico de Lucy."
         }
     },
-    "SkillDesriptions": {
+    "SkillDescriptions": {
         "0": {
             "115100001": {
                 "Title": "Ataque normal: ¡Bateadora a posición!",

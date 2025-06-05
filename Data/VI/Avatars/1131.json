@@ -53,7 +53,7 @@
             "Description": "Khi trong đội có nhân vật cùng phe hoặc thuộc tính giống bản thân sẽ kích hoạt:\nKhi Soukaku tiêu hao <color=#FFFFFF>Dòng Xoáy</color> phát động <color=#FFFFFF>Cờ Lệnh</color>, <color=#98EFF0>DMG Băng</color> do toàn đội gây ra tăng 20%, duy trì 22s."
         }
     },
-    "SkillDesriptions": {
+    "SkillDescriptions": {
         "0": {
             "113100001": {
                 "Title": "Tấn Công Thường: Làm Bánh Gạo",

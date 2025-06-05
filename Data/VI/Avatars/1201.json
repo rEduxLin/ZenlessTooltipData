@@ -53,7 +53,7 @@
             "Description": "Khi trong đội có nhân vật <color=#FFFFFF>Khống Chế</color> hoặc <color=#FFFFFF>Dị Thường</color> sẽ kích hoạt:\nKhi Harumasa đánh trúng kẻ địch đang trong trạng thái Choáng hoặc Thuộc Tính Dị Thường, sát thương bản thân gây ra sẽ tăng 40%. Khi Harumasa bắn <color=#FFFFFF>Lạc Vũ</color> trúng kẻ địch đang trong trạng thái Choáng hoặc Thuộc Tính Dị Thường, sẽ gán 2 tầng hiệu quả <color=#FFFFFF>Điện Ngục</color> lên mục tiêu."
         }
     },
-    "SkillDesriptions": {
+    "SkillDescriptions": {
         "0": {
             "120100001": {
                 "Title": "Tấn Công Thường: Xuyên Vân",

@@ -53,7 +53,7 @@
             "Description": "チームに<color=#FFFFFF>[撃破]</color>または<color=#FFFFFF>[支援]</color>のメンバーがいる時に発動：\nイヴリンの<color=#FFFFFF>『連携スキル』</color>および<color=#FFFFFF>『終結スキル』</color>の与ダメージが30%アップする。\nイヴリンの会心率が80%以上の時、<color=#FFFFFF>『連携スキル』</color>および<color=#FFFFFF>『終結スキル』</color>のダメージ倍率が本来の125%になる。"
         }
     },
-    "SkillDesriptions": {
+    "SkillDescriptions": {
         "0": {
             "132100001": {
                 "Title": "通常攻撃：シャープ・ストリング",

@@ -53,7 +53,7 @@
             "Description": "When another character in your squad shares the same Attribute or Faction:\nWhen Lycaon hits a Stunned enemy, the target's Stun DMG Multiplier increases by 35%."
         }
     },
-    "SkillDesriptions": {
+    "SkillDescriptions": {
         "0": {
             "114100001": {
                 "Title": "Basic Attack: Moon Hunter",

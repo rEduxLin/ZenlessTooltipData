@@ -53,7 +53,7 @@
             "Description": "Quando há outro personagem <color=#FFFFFF>Anômalo</color> ou do mesmo atributo na equipe:\nQuando qualquer membro da equipe causa Anomalia de Atributo a um inimigo, Vivian consome 1 <color=#FFFFFF>Pluma Protetora</color> e lança um <color=#FFFFFF>Ataque Básico: Florescer da Pena Cadente</color> no alvo. A habilidade pode ser ativada uma vez a cada 0,5s.\nO dano de <color=#FE437E>Corrupção</color> causado por qualquer membro da equipe e o dano de <color=#FFFFFF>Disfunção</color> causado a inimigos com <color=#FE437E>Corrupção</color> aumentam <color=#2BAD00>12%</color>."
         }
     },
-    "SkillDesriptions": {
+    "SkillDescriptions": {
         "0": {
             "133100001": {
                 "Title": "Ataque Básico: Golpe de Plumas",

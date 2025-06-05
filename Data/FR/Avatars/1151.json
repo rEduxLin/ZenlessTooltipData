@@ -53,7 +53,7 @@
             "Description": "Lorsqu'un autre personnage de votre escouade est du même attribut ou de la même faction que Lucy :\nLes porcelets gardiens héritent du taux CRIT et des DGT CRIT de Lucy."
         }
     },
-    "SkillDesriptions": {
+    "SkillDescriptions": {
         "0": {
             "115100001": {
                 "Title": "Attaque normale : Batte de dame",

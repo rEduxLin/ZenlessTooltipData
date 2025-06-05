@@ -53,7 +53,7 @@
             "Description": "Quando na sua equipe há outro personagem de <color=#FFFFFF>Assistência</color>, ou que tenha facção em comum com Zhu Yuan:\nA Taxa CRIT de Zhu Yuan aumenta 30% por 10s após usar um <color=#FFFFFF>Ataque Especial Reforçado</color>, <color=#FFFFFF>Ataque em Cadeia</color> ou <color=#FFFFFF>Supremo</color>."
         }
     },
-    "SkillDesriptions": {
+    "SkillDescriptions": {
         "0": {
             "124100001": {
                 "Title": "Ataque Básico: Não Se Mexa!",

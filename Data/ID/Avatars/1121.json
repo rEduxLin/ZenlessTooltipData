@@ -53,7 +53,7 @@
             "Description": "Berlaku jika terdapat Agen di dalam tim yang memiliki Atribut yang sama atau berasal dari faksi yang sama:\nSaat memiliki Shield yang didapatkan dari <color=#FFFFFF>Core Passive: Guardian</color>, CRIT Rate Agen akan meningkat 16%."
         }
     },
-    "SkillDesriptions": {
+    "SkillDescriptions": {
         "0": {
             "112100001": {
                 "Title": "Basic Attack: Debt Reconciliation",

@@ -53,7 +53,7 @@
             "Description": "Lorsqu'il y a un autre personnage <color=#FFFFFF>Attaque</color> ou de la même faction que Pulchra dans votre escouade :\nLorsque Pulchra touche un ennemi avec <color=#FFFFFF>Attaque spéciale : Griffe déchirante - Ombre cauchemardesque</color>, une <color=#FFFFFF>attaque spéciale EX</color>, un <color=#FFFFFF>soutien de suivi</color>, un <color=#FFFFFF>enchaînement</color> ou un <color=#FFFFFF>ultime</color>, elle inflige <color=#FFFFFF>Piège d'enchaînement</color> pendant 15 s. Après avoir infligé <color=#FFFFFF>Piège d'enchaînement</color>, les DGT de <color=#FFFFFF>Contrecoup</color> de toutes les unités de l'escouade infligés à la cible augmentent de 30 %."
         }
     },
-    "SkillDesriptions": {
+    "SkillDescriptions": {
         "0": {
             "135100001": {
                 "Title": "Attaque normale : Frappe rapide",

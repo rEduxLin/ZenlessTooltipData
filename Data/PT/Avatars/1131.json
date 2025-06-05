@@ -53,7 +53,7 @@
             "Description": "Quando outro personagem na sua equipe compartilha do mesmo atributo ou facção:\nQuando Soukaku consome o <color=#FFFFFF>Vórtice</color> para ativar <color=#FFFFFF>Hastear a Bandeira</color>, o <color=#98EFF0>Dano de Gelo</color> da equipe aumenta 20% durante 22s."
         }
     },
-    "SkillDesriptions": {
+    "SkillDescriptions": {
         "0": {
             "113100001": {
                 "Title": "Ataque Básico: Bolo de Arroz Saindo",

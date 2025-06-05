@@ -53,7 +53,7 @@
             "Description": "Wenn sich in der Truppe eine <color=#FFFFFF>Durchbruch</color>- oder <color=#FFFFFF>Support</color>-Figur befindet:\nErhöht den SCH von Evelyns <color=#FFFFFF>Kettenangriff</color> und <color=#FFFFFF>Ultimate</color> um 30 %. Wenn Evelyns KRIT-Rate mindestens 80 % beträgt, erhöht sich der SCH-Multiplikator ihres <color=#FFFFFF>Kettenangriffs</color> und <color=#FFFFFF>Ultimates</color> auf 125 % des ursprünglichen Werts."
         }
     },
-    "SkillDesriptions": {
+    "SkillDescriptions": {
         "0": {
             "132100001": {
                 "Title": "Basisangriff: Klingendraht",

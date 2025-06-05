@@ -53,7 +53,7 @@
             "Description": "When another character in your squad shares the same Attribute or Faction:\nAfter any character inflicts <color=#F0D12B>Assault</color>, increases the DMG of Nekomata's next <color=#FFFFFF>EX Special Attack</color> by 35%, stacking up to 2 times."
         }
     },
-    "SkillDesriptions": {
+    "SkillDescriptions": {
         "0": {
             "102100001": {
                 "Title": "Basic Attack: Kitty Slash",

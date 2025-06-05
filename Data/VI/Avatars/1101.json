@@ -53,7 +53,7 @@
             "Description": "Khi trong đội có nhân vật cùng phe hoặc thuộc tính giống bản thân sẽ kích hoạt:\nKhi Koleda phát động <color=#FFFFFF>Siêu Chiến Kỹ</color> kích nổ trúng kẻ địch, sẽ gây hiệu ứng xấu cho chúng. Sát thương <color=#FFFFFF>Liên Kích</color> của toàn đội gây cho mục tiêu ở trạng thái Choáng sẽ tăng 35%, tối đa cộng dồn 2 tầng, khi kết thúc trạng thái Choáng sẽ tái lập hiệu quả."
         }
     },
-    "SkillDesriptions": {
+    "SkillDescriptions": {
         "0": {
             "110100001": {
                 "Title": "Tấn Công Thường: Đập Bẹp, Nghiền Nát",

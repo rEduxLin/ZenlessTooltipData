@@ -53,7 +53,7 @@
             "Description": "チームに<color=#FFFFFF>「撃破」</color>または<color=#FFFFFF>「支援」</color>のメンバーがいる時に発動：\n0号・アンビーの会心率が10%アップする。\n0号・アンビーを操作している時、<color=#FFFFFF>「銀星」</color>の印を持つ敵に対し、チーム全体の<color=#FFFFFF>『追加攻撃』</color>の与ダメージが25%アップする。"
         }
     },
-    "SkillDesriptions": {
+    "SkillDescriptions": {
         "0": {
             "138100001": {
                 "Title": "通常攻撃：絶縁破壊",

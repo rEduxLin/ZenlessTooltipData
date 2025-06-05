@@ -53,7 +53,7 @@
             "Description": "Wenn sich in der Truppe eine weitere <color=#FFFFFF>Attacke</color>-Figur befindet oder eine Figur derselben Fraktion angehört:\nWenn im Zustand <color=#FFFFFF>Moralausbruch</color> Lighter mit dem 5. Angriff seines <color=#FFFFFF>Basisangriffs</color> einen Gegner trifft, erhalten alle Truppenmitglieder eine Stapelung <color=#FFFFFF>Euphorie</color>, max. 20-fach stapelbar, hält 30 s. Beim wiederholten Auslösen wird die Dauer aktualisiert. Für jede Stapelung <color=#FFFFFF>Euphorie</color> im Besitz erhöhen sich der <color=#98EFF0>Eis-SCH</color> und der <color=#FF5521>Feuer-SCH</color> durch Agenten um 1,25 %. Wenn beim Erhalt von <color=#FFFFFF>Euphorie</color> Lighters Stoßkraft 170 Pkt. übersteigt, erhöht sich pro 10 Pkt. zusätzlicher Stoßkraft der Bonuseffekt von <color=#FFFFFF>Euphorie</color> um weitere 0,25 %. Wenn ein Truppenmitglied einen <color=#FFFFFF>Kettenangriff</color> anwendet, wird die <color=#FFFFFF>Euphorie</color>-Dauer der gesamten Truppe aktualisiert. <color=#FFFFFF>Euphorie</color> kann den durch Agenten verursachten <color=#98EFF0>Eis-SCH</color> und <color=#FF5521>Feuer-SCH</color> max. um 75 % erhöhen."
         }
     },
-    "SkillDesriptions": {
+    "SkillDescriptions": {
         "0": {
             "116100001": {
                 "Title": "Basisangriff: L-förmige Donnerfaust",

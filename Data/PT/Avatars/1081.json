@@ -53,7 +53,7 @@
             "Description": "Quando outro personagem na sua equipe compartilha do mesmo atributo ou facção:\nDepois que Billy usa um <color=#FFFFFF>Ataque em Cadeia</color>, aumenta o dano do seu próximo <color=#FFFFFF>Supremo</color> em 50%. Pode acumular até 2 vezes. Esse efeito é reiniciado sempre que um <color=#FFFFFF>Supremo</color> é ativado."
         }
     },
-    "SkillDesriptions": {
+    "SkillDescriptions": {
         "0": {
             "108100001": {
                 "Title": "Ataque Básico: Potência Máxima",

@@ -53,7 +53,7 @@
             "Description": "Wenn eine andere Figur in der Truppe dasselbe Attribut hat oder eine andere Figur derselben Fraktion angehört:\nErhöht, wenn Nicole mit ihrer <color=#FFFFFF>passiven Kernfähigkeit: Mechanische Mappe</color> einen Maluseffekt auf Gegner auslöst, den von allen Truppenmitgliedern verursachten <color=#FE437E>Äther-SCH</color> am Ziel zusätzlich um 25 %, hält 3,5 s."
         }
     },
-    "SkillDesriptions": {
+    "SkillDescriptions": {
         "0": {
             "103100001": {
                 "Title": "Basisangriff: Raffinierte Kombo",

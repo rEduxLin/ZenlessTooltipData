@@ -53,7 +53,7 @@
             "Description": "Si en el equipo hay miembros del mismo Atributo o la misma afiliación que él:\nCuando Lycaon golpea a un enemigo afectado por Aturdimiento, aumenta su tasa de vulnerabilidad en un 35 %."
         }
     },
-    "SkillDesriptions": {
+    "SkillDescriptions": {
         "0": {
             "114100001": {
                 "Title": "Ataque normal: Cazador lunar",

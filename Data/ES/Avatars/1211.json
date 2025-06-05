@@ -53,7 +53,7 @@
             "Description": "Si en el equipo hay miembros del mismo Atributo o la misma afiliación que ella:\nCuando cualquier miembro del equipo provoca un <color=#2EB6FF>electrochoque</color> sobre el enemigo, la duración del efecto aumenta en 3 s. Si hay enemigos afectados por <color=#2EB6FF>electrochoque</color> en combate, aumenta el <color=#2EB6FF>daño eléctrico</color> infligido por todos los miembros del equipo en un 10 %."
         }
     },
-    "SkillDesriptions": {
+    "SkillDescriptions": {
         "0": {
             "121100001": {
                 "Title": "Ataque normal: Te ganaste una tunda",

@@ -53,7 +53,7 @@
             "Description": "Si en el equipo hay un agente <color=#FFFFFF>atacante</color> o del mismo atributo que ella, cuando la Probabilidad de Crítico de Gatillo supera el 40 %, por cada 1 % adicional, el Aturdimiento provocado por la <color=#FFFFFF>réplica</color> aumenta en un 1.5 %, hasta un máximo del 75 %."
         }
     },
-    "SkillDesriptions": {
+    "SkillDescriptions": {
         "0": {
             "136100001": {
                 "Title": "Ataque normal: Disparo con cañón frío",

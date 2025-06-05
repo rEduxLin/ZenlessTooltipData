@@ -53,7 +53,7 @@
             "Description": "队伍中存在与自身属性或阵营相同的角色时触发：\n妮可通过<color=#FFFFFF>[核心被动：机关箱]</color>对敌人施加减益效果时，全队对目标造成的<color=#FE437E>以太伤害</color>额外提升25%，持续3.5秒。"
         }
     },
-    "SkillDesriptions": {
+    "SkillDescriptions": {
         "0": {
             "103100001": {
                 "Title": "普通攻击：狡兔连打",

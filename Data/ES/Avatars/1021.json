@@ -53,7 +53,7 @@
             "Description": "Si en el equipo hay miembros del mismo Atributo o la misma afiliación que ella:\nCuando cualquier agente <color=#F0D12B>embista</color> a un enemigo, la próxima vez que Nekomata ejecute una <color=#FFFFFF>técnica especial EX</color>, aumenta su daño infligido en un 35 %. Pueden acumularse hasta 2 cargas."
         }
     },
-    "SkillDesriptions": {
+    "SkillDescriptions": {
         "0": {
             "102100001": {
                 "Title": "Ataque normal: Zarpazo felino",

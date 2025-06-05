@@ -53,7 +53,7 @@
             "Description": "Wenn eine andere Figur in der Truppe dasselbe Attribut hat oder eine andere Figur derselben Fraktion angehört:\nWenn Seth einen Gegner mit dem <color=#FFFFFF>Kettenangriff: Endgültiges Urteil</color> oder während des <color=#FFFFFF>Basisangriffs: Blitzschlag – Elektroschock</color> mit dem Gnadenstoß trifft, wird dessen WDS gegen Anomalieansammlung für alle Attribute um 20 % verringert, hält 20 s."
         }
     },
-    "SkillDesriptions": {
+    "SkillDescriptions": {
         "0": {
             "127100001": {
                 "Title": "Basisangriff: Blitzschlag",

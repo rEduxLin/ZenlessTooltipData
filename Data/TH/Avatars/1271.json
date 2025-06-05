@@ -53,7 +53,7 @@
             "Description": "เมื่อในทีมมีตัวละครธาตุเดียวกัน หรืออยู่ฝ่ายเดียวกันกับตัวเอง:\nเมื่อ Seth ใช้ <color=#FFFFFF>[สกิลต่อเนื่อง: Final Judgement]</color> ถูกศัตรู หรือในระหว่าง <color=#FFFFFF>[โจมตีปกติ: Lightning Strike - Electrified]</color> ใช้การโจมตีปิดฉากถูกศัตรู ความต้านทานการสะสม Anomaly ของธาตุทั้งหมดของเป้าหมาย จะลดลง 20% ต่อเนื่อง 20 วินาที"
         }
     },
-    "SkillDesriptions": {
+    "SkillDescriptions": {
         "0": {
             "127100001": {
                 "Title": "โจมตีปกติ: Lightning Strike",

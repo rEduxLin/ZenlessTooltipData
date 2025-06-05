@@ -53,7 +53,7 @@
             "Description": "Quando há outro personagem na equipe do tipo <color=#FFFFFF>Atacante</color> ou do mesmo atributo:\nQuando a Taxa CRIT de Trigger ultrapassa 40%, cada 1% acima desse limite de Taxa CRIT aumenta o Atordoamento causado pelo <color=#FFFFFF>Ataque Subsequente</color> em 1,5%, até um aumento máximo de 75%."
         }
     },
-    "SkillDesriptions": {
+    "SkillDescriptions": {
         "0": {
             "136100001": {
                 "Title": "Ataque Básico: Disparo de Cano Frio",

@@ -53,7 +53,7 @@
             "Description": "隊伍中包含與自身屬性或陣營相同的角色時觸發：\n妮可透過<color=#FFFFFF>[核心被動：機關箱]</color>對敵人施加減益效果時，全隊對目標造成的<color=#FE437E>以太傷害</color>額外提升25%，持續3.5秒。"
         }
     },
-    "SkillDesriptions": {
+    "SkillDescriptions": {
         "0": {
             "103100001": {
                 "Title": "普通攻擊：狡兔連打",

@@ -53,7 +53,7 @@
             "Description": "チームに<color=#FFFFFF>[強攻]</color>または<color=#FFFFFF>[異常]</color>のメンバーがいる時に発動：\nエネルギーを消費して<color=#FFFFFF>『精密支援』</color>または<color=#FFFFFF>『通常攻撃：フィナーレ』</color>を発動した時、アストラは追加で<color=#FFFFFF>「ビブラート」</color>を1発、<color=#FFFFFF>「トーンクラスター」</color>を3発放って攻撃する。"
         }
     },
-    "SkillDesriptions": {
+    "SkillDescriptions": {
         "0": {
             "131100001": {
                 "Title": "通常攻撃：カプリチオ",

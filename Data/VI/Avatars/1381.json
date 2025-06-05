@@ -53,7 +53,7 @@
             "Description": "Khi trong đội có nhân vật <color=#FFFFFF>Khống Chế</color> hoặc <color=#FFFFFF>Chi Viện</color> sẽ kích hoạt:\nChiến Binh 0 - Anby tăng 10% Tỷ Lệ Bạo Kích. Khi nhân vật đang thao tác là Chiến Binh 0 - Anby, sát thương <color=#FFFFFF>Cú Đánh Bổ Sung</color> của toàn đội gây ra cho kẻ địch có <color=#FFFFFF>Ngôi Sao Bạc</color> sẽ tăng 25%."
         }
     },
-    "SkillDesriptions": {
+    "SkillDescriptions": {
         "0": {
             "138100001": {
                 "Title": "Tấn Công Thường: Xuyên Điện",

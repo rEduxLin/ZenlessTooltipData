@@ -53,7 +53,7 @@
             "Description": "队伍中存在<color=#FFFFFF>[击破]</color>角色或<color=#FFFFFF>[支援]</color>角色时触发：\n伊芙琳的<color=#FFFFFF>[连携技]</color>和<color=#FFFFFF>[终结技]</color>造成的伤害提升30%；当伊芙琳的暴击率大于等于80%时，<color=#FFFFFF>[连携技]</color>和<color=#FFFFFF>[终结技]</color>的伤害倍率提升至原本的125%。"
         }
     },
-    "SkillDesriptions": {
+    "SkillDescriptions": {
         "0": {
             "132100001": {
                 "Title": "普通攻击：割弦",

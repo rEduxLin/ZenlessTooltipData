@@ -53,7 +53,7 @@
             "Description": "Khi trong đội có nhân vật cùng phe hoặc có thuộc tính giống bản thân sẽ kích hoạt:\nKhi Nicole thông qua <color=#FFFFFF>Bị Động Cốt Lõi: Rương Cơ Quan</color> thi triển hiệu quả debuff lên kẻ địch, <color=#FE437E>DMG Ether</color> do toàn đội gây cho mục tiêu tăng thêm 25%, duy trì 3,5s."
         }
     },
-    "SkillDesriptions": {
+    "SkillDescriptions": {
         "0": {
             "103100001": {
                 "Title": "Tấn Công Thường: Thỏ Đánh Liên Hồi",

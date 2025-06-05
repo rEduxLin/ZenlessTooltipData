@@ -53,7 +53,7 @@
             "Description": "Si en el equipo hay miembros del mismo Atributo o la misma afiliación que él:\nCuando Billy ejecuta una <color=#FFFFFF>técnica en cadena</color>, aumenta el daño infligido por su siguiente <color=#FFFFFF>técnica definitiva</color> en un 50 %. Pueden acumularse hasta 2 cargas. Este efecto se reinicia al ejecutar una <color=#FFFFFF>técnica definitiva</color>."
         }
     },
-    "SkillDesriptions": {
+    "SkillDescriptions": {
         "0": {
             "108100001": {
                 "Title": "Ataque normal: Fuego abierto",

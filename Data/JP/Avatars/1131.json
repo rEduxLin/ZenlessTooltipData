@@ -53,7 +53,7 @@
             "Description": "チームに自身と同じ属性または同じ陣営のメンバーがいる時に発動：\n蒼角が<color=#FFFFFF>「渦潮」</color>を消費して<color=#FFFFFF>「旗挙げ」</color>を発動した時、チーム全体の与える<color=#98EFF0>氷属性ダメージ</color>が20%アップする、継続時間22秒。"
         }
     },
-    "SkillDesriptions": {
+    "SkillDescriptions": {
         "0": {
             "113100001": {
                 "Title": "通常攻撃：餅つき",

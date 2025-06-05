@@ -53,7 +53,7 @@
             "Description": "เมื่อในทีมมีตัวละครอื่นที่สามารถใช้ <color=#FFFFFF>[ซัปพอร์ตตั้งรับ]</color> ได้ หรือตัวละครที่อยู่ฝ่ายเดียวกันกับตัวเอง:\nเมื่อ Caesar ใช้ <color=#FFFFFF>[Perfect Block]</color>, <color=#FFFFFF>[Retaliation]</color>, <color=#FFFFFF>[ซัปพอร์ตตั้งรับ]</color> หรือปล่อย <color=#FFFFFF>[โจมตีปกติ: Dead End]</color> จะใช้เอฟเฟกต์ดีบัฟกับศัตรูใกล้ตัว ที่อยู่ในขอบเขตระยะ 7 เมตร เพื่อทำให้ทั้งทีมสร้างความเสียหาย แก่ศัตรูดังกล่าวเพิ่มขึ้น 25% ต่อเนื่อง 30 วินาที"
         }
     },
-    "SkillDesriptions": {
+    "SkillDescriptions": {
         "0": {
             "107100001": {
                 "Title": "โจมตีปกติ: Rampaging Slash",

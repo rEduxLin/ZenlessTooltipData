@@ -53,7 +53,7 @@
             "Description": "Wenn sich in der Truppe eine andere Figur befindet, die <color=#FFFFFF>Defensivhilfe</color> auslösen kann oder eine andere Figur derselben Fraktion angehört:\nWenn Caesar <color=#FFFFFF>perfekte Parade</color>, <color=#FFFFFF>Gegenschlag</color>, <color=#FFFFFF>Defensivhilfe</color> oder <color=#FFFFFF>Basisangriff: Sackgasse!</color> auslöst, erhalten alle Gegner in einer Reichweite von 7 m einen Maluseffekt und erleiden 25 % mehr SCH durch alle Truppenmitglieder, hält 30 s."
         }
     },
-    "SkillDesriptions": {
+    "SkillDescriptions": {
         "0": {
             "107100001": {
                 "Title": "Basisangriff: Tobender Hieb",

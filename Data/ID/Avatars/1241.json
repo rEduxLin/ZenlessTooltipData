@@ -53,7 +53,7 @@
             "Description": "Berlaku jika terdapat Agen <color=#FFFFFF>Support</color> atau Agen yang berasal dari faksi yang sama di dalam tim:\nSaat Zhu Yuan melancarkan <color=#FFFFFF>EX Special Attack</color>, <color=#FFFFFF>Chain Attack</color>, atau <color=#FFFFFF>Ultimate</color>, CRIT Rate Zhu Yuan akan meningkat 30% selama 10 detik."
         }
     },
-    "SkillDesriptions": {
+    "SkillDescriptions": {
         "0": {
             "124100001": {
                 "Title": "Basic Attack: Don't Move!",

@@ -53,7 +53,7 @@
             "Description": "파티에 자신과 속성 혹은 진영이 같은 캐릭터가 존재할 시 발동:\n파이퍼가 <color=#FFFFFF>[동력]</color>을 20스택 이상 보유하면, 모든 파티원이 주는 피해가 18% 증가한다."
         }
     },
-    "SkillDesriptions": {
+    "SkillDescriptions": {
         "0": {
             "128100001": {
                 "Title": "일반 공격: 운전 준비",

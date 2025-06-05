@@ -53,7 +53,7 @@
             "Description": "เมื่อในทีมมีตัวละครอื่นที่เป็น <color=#FFFFFF>[ธาตุผิดปกติ]</color> หรือตัวละครที่มีธาตุเดียวกันกับตัวเอง:\nหลังจากสลับท่วงท่า เมื่อ Tsukishiro Yanagi ใช้ <color=#FFFFFF>[โจมตีปกติ: Tsukuyomi Kagura]</color> ถูกศัตรู จะสะสม<color=#2EB6FF>ค่าการสะสม Electric Anomaly</color> เพิ่มขึ้น 45% ต่อเนื่อง 8 วินาที"
         }
     },
-    "SkillDesriptions": {
+    "SkillDescriptions": {
         "0": {
             "122100001": {
                 "Title": "โจมตีปกติ: Tsukuyomi Kagura",

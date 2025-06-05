@@ -53,7 +53,7 @@
             "Description": "Si en el equipo hay miembros del mismo Atributo o la misma afiliación que ella:\nCuando Soukaku consume cargas de <color=#FFFFFF>vórtice</color> para <color=#FFFFFF>izar el estandarte</color>, aumenta el <color=#98EFF0>daño glacial</color> de todos los miembros del equipo en un 20 % durante 22 s."
         }
     },
-    "SkillDesriptions": {
+    "SkillDescriptions": {
         "0": {
             "113100001": {
                 "Title": "Ataque normal: Preparación de pastelillos de arroz",

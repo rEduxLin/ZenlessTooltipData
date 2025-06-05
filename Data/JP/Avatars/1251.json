@@ -53,7 +53,7 @@
             "Description": "チームに<color=#FFFFFF>[強攻]</color>のメンバーまたは自身と同じ陣営のメンバーがいる時に発動：\n<color=#FFFFFF>『通常攻撃』</color>の与えるブレイク値が20%アップする。また、青衣の衝撃力が120Ptを上回る場合、1Pt上回るごとに自身の攻撃力が6Ptアップする、この効果によってアップできる攻撃力は最大600Ptまで。"
         }
     },
-    "SkillDesriptions": {
+    "SkillDescriptions": {
         "0": {
             "125100001": {
                 "Title": "通常攻撃：一刹",

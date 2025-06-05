@@ -53,7 +53,7 @@
             "Description": "When another character in your squad shares the same Attribute or Faction:\nWhen Soukaku consumes <color=#FFFFFF>Vortex</color> to activate <color=#FFFFFF>Fly the Flag</color>, the <color=#98EFF0>Ice DMG</color> of all squad members is increased by 20% for 22s."
         }
     },
-    "SkillDesriptions": {
+    "SkillDescriptions": {
         "0": {
             "113100001": {
                 "Title": "Basic Attack: Making Rice Cakes",

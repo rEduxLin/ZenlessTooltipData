@@ -53,7 +53,7 @@
             "Description": "チームに<color=#FFFFFF>[強攻]</color>のメンバーまたは自身と同じ陣営のメンバーがいる時に発動：\nプルクラの<color=#FFFFFF>『特殊スキル：バイトクロー・ナイトメア』</color>、<color=#FFFFFF>『強化特殊スキル』</color>、<color=#FFFFFF>『支援突撃』</color>、<color=#FFFFFF>『連携スキル』</color>または<color=#FFFFFF>『終結スキル』</color>が敵に命中した時、ターゲットに<color=#FFFFFF>「囚縛」</color>効果を付与する、継続時間15秒。\n<color=#FFFFFF>「囚縛」</color>効果を付与された敵に対し、全味方ユニットの<color=#FFFFFF>『追加攻撃』</color>の与ダメージが30%アップする。"
         }
     },
-    "SkillDesriptions": {
+    "SkillDescriptions": {
         "0": {
             "135100001": {
                 "Title": "通常攻撃：ファストスラッシュ",

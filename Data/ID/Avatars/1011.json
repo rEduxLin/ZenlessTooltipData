@@ -53,7 +53,7 @@
             "Description": "Berlaku jika terdapat Agen di dalam tim yang memiliki Atribut yang sama atau berasal dari faksi yang sama:\nSaat <color=#FFFFFF>Dodge Counter</color> Anby mengenai musuh, dia akan memulihkan 7,2 poin Energy. Efek ini dapat dipicu sekali setiap 5 detik."
         }
     },
-    "SkillDesriptions": {
+    "SkillDescriptions": {
         "0": {
             "101100001": {
                 "Title": "Basic Attack: Turbo Volt",

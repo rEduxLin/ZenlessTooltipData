@@ -53,7 +53,7 @@
             "Description": "Wenn eine andere Figur in der Truppe dasselbe Attribut hat oder eine andere Figur derselben Fraktion angehört:\nErhöht, wenn Piper 20 oder mehr Stapelungen <color=#FFFFFF>Antrieb</color> hat, den SCH durch alle Truppenmitglieder um 18 %."
         }
     },
-    "SkillDesriptions": {
+    "SkillDescriptions": {
         "0": {
             "128100001": {
                 "Title": "Basisangriff: Abfahrtszeit",

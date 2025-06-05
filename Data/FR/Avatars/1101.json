@@ -53,7 +53,7 @@
             "Description": "Lorsqu'un autre personnage de votre escouade est du même attribut ou de la même faction que Koleda :\nLorsque l'explosion de l'<color=#FFFFFF>attaque spéciale EX</color> de Koleda touche un ennemi, celui-ci subit un malus. Lorsque la cible est étourdie, les DGT des <color=#FFFFFF>enchaînements</color> de tous les membres de l'escouade infligés à cet ennemi augmentent de 35 %. Effet cumulable 2 fois. L'effet se réinitialise lorsque l'effet d'Étourdissement prend fin."
         }
     },
-    "SkillDesriptions": {
+    "SkillDescriptions": {
         "0": {
             "110100001": {
                 "Title": "Attaque normale : Écraser, laminer !",

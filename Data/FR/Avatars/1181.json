@@ -53,7 +53,7 @@
             "Description": "Lorsqu'un autre agent de votre escouade est du même attribut ou de la même faction de Grace :\nLorsqu'un ennemi est touché par une <color=#FFFFFF>attaque spéciale EX</color> de Grace, les DGT du prochain effet <color=#2EB6FF>Électrocution</color> infligés à la cible augmentent de 18 %. Cet effet est cumulable 2 fois et peut être déclenché par chaque ennemi une fois par utilisation. L'effet se réinitialise lorsque l'état <color=#2EB6FF>Électrocution</color> prend fin."
         }
     },
-    "SkillDesriptions": {
+    "SkillDescriptions": {
         "0": {
             "118100001": {
                 "Title": "Attaque normale : Pic de pression",

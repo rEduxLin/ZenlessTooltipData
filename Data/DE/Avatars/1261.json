@@ -53,7 +53,7 @@
             "Description": "Wenn sich in der Truppe eine weitere <color=#FFFFFF>Anomalie</color>-Figur befindet oder eine andere Figur derselben Fraktion wie Jane angehört:\nJanes <color=#F0D12B>phys. Anomalieansammlungsrate</color> wird um 20 % erhöht. Wenn der Gegner bereits eine Attributanomalie erlitten hat, erhöht die durch Jane angehäufte <color=#F0D12B>phys. Anomalieansammlung</color> gegen ihn zusätzlich um 15 %."
         }
     },
-    "SkillDesriptions": {
+    "SkillDescriptions": {
         "0": {
             "126100001": {
                 "Title": "Basisangriff: Tanzende Klingen",

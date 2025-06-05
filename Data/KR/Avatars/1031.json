@@ -53,7 +53,7 @@
             "Description": "파티에 자신과 속성 혹은 진영이 같은 캐릭터가 존재할 시 발동:\n니콜이 <color=#FFFFFF>[핵심 패시브: 트릭 상자]</color>로 적에게 디버프 효과를 부여할 시 모든 파티원이 타깃에게 주는 <color=#FE437E>에테르 피해</color>가 추가로 25% 증가한다. 지속 시간: 3.5초"
         }
     },
-    "SkillDesriptions": {
+    "SkillDescriptions": {
         "0": {
             "103100001": {
                 "Title": "일반 공격: 교활한 토끼 연타",

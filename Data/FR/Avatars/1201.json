@@ -53,7 +53,7 @@
             "Description": "Lorsqu'un autre personnage de votre escouade est de la spécialisation <color=#FFFFFF>Confusion</color> ou <color=#FFFFFF>Anomalie</color> :\nLorsque les attaques de Harumasa touchent des ennemis étourdis ou souffrant d'une anomalie d'attribut, ses DGT augmentent de 40 %. Lorsque <color=#FFFFFF>Plume tombante</color> touche un ennemi étourdi ou souffrant d'une anomalie d'attribut, elle inflige 2 cumuls d'<color=#FFFFFF>Électro-prison</color> à la cible."
         }
     },
-    "SkillDesriptions": {
+    "SkillDescriptions": {
         "0": {
             "120100001": {
                 "Title": "Attaque normale : Perce-nuage",

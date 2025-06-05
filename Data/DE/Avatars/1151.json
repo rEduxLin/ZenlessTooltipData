@@ -53,7 +53,7 @@
             "Description": "Wenn eine andere Figur in der Truppe dasselbe Attribut hat oder eine andere Figur derselben Fraktion angehört:\nLucys KRIT-Rate und KRIT-SCH können an die Wächterschweinchen übergeben werden."
         }
     },
-    "SkillDesriptions": {
+    "SkillDescriptions": {
         "0": {
             "115100001": {
                 "Title": "Basisangriff: Schläger einer sanften Dame",

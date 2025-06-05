@@ -53,7 +53,7 @@
             "Description": "Si en el equipo hay más miembros capaces de activar un <color=#FFFFFF>apoyo defensivo</color> o de la misma afiliación que ella, cuando César activa un <color=#FFFFFF>bloqueo impecable</color>, una <color=#FFFFFF>contraofensiva</color> o un <color=#FFFFFF>apoyo defensivo</color>, o ejecuta un <color=#FFFFFF>ataque normal: ¡No hay marcha atrás!</color>, aplica un efecto negativo sobre los enemigos que se encuentren dentro de un radio de 7 m. El daño infligido por todos los miembros del equipo a estos enemigos aumenta en un 25 % durante 30 s."
         }
     },
-    "SkillDesriptions": {
+    "SkillDescriptions": {
         "0": {
             "107100001": {
                 "Title": "Ataque normal: Corte desaforado",

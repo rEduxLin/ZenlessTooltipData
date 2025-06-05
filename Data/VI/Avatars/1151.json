@@ -53,7 +53,7 @@
             "Description": "Khi trong đội có nhân vật cùng phe hoặc thuộc tính giống bản thân sẽ kích hoạt:\nHeo Con Cận Vệ có thể kế thừa Tỷ Lệ Bạo Kích và DMG Bạo Kích của Lucy."
         }
     },
-    "SkillDesriptions": {
+    "SkillDescriptions": {
         "0": {
             "115100001": {
                 "Title": "Tấn Công Thường: Gậy Đánh Bóng Của Thục Nữ",

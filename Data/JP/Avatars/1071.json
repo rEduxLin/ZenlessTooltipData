@@ -53,7 +53,7 @@
             "Description": "チームに<color=#FFFFFF>『パリィ支援』</color>を発動できる他のメンバーまたは自身と同じ陣営のメンバーがいる時に発動：\nシーザーが<color=#FFFFFF>『ジャストガード』</color>、<color=#FFFFFF>『防御反撃』</color>、<color=#FFFFFF>『パリィ支援』</color>を発動、または<color=#FFFFFF>『通常攻撃：ここは通さない！』</color>を発動した時、自身の半径7m以内にいる敵にデバフ効果を付与する。デバフ効果を付与された敵に対し、チーム全体の与ダメージが25%アップする、継続時間30秒。"
         }
     },
-    "SkillDesriptions": {
+    "SkillDescriptions": {
         "0": {
             "107100001": {
                 "Title": "通常攻撃：ランペイジスラッシュ",

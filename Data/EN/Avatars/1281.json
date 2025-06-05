@@ -53,7 +53,7 @@
             "Description": "When another character in your squad shares the same Attribute or Faction:\nWhen Piper has 20 or more stacks of <color=#FFFFFF>Power</color>, all squad members' DMG is increased by 18%."
         }
     },
-    "SkillDesriptions": {
+    "SkillDescriptions": {
         "0": {
             "128100001": {
                 "Title": "Basic Attack: Load Up and Roll Out",

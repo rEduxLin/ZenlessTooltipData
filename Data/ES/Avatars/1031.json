@@ -53,7 +53,7 @@
             "Description": "Si en el equipo hay miembros del mismo Atributo o la misma afiliación que ella:\nCuando Nicole provoca un efecto negativo por medio de <color=#FFFFFF>técnica pasiva: Maletín mecánico</color> sobre el objetivo, aumenta adicionalmente el <color=#FE437E>daño etéreo</color> infligido por todos los miembros del equipo en un 25 % durante 3.5 s."
         }
     },
-    "SkillDesriptions": {
+    "SkillDescriptions": {
         "0": {
             "103100001": {
                 "Title": "Ataque normal: Combo de las Liebres Astutas",

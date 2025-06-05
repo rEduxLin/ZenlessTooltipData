@@ -53,7 +53,7 @@
             "Description": "隊伍中包含<color=#FFFFFF>[擊破]</color>或<color=#FFFFFF>[支援]</color>角色時觸發：\n零號·安比的暴擊率提升10%。目前操作中的角色為零號·安比時，全隊<color=#FFFFFF>[追加攻擊]</color>對擁有<color=#FFFFFF>[銀星]</color>標記的敵人造成的傷害提升25%。"
         }
     },
-    "SkillDesriptions": {
+    "SkillDescriptions": {
         "0": {
             "138100001": {
                 "Title": "普通攻擊：電擊穿",

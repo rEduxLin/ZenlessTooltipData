@@ -53,7 +53,7 @@
             "Description": "Si en el equipo hay un agente <color=#FFFFFF>aturdidor</color> o <color=#FFFFFF>auxiliar</color>, la Probabilidad de Crítico de N.º 0: Anby aumenta en un 10 %. Cuando N.º 0: Anby es la agente activa, el daño de todos los miembros del equipo infligido mediante la <color=#FFFFFF>réplica</color> contra los enemigos marcados por <color=#FFFFFF>estrella argente</color> aumenta en un 25 %."
         }
     },
-    "SkillDesriptions": {
+    "SkillDescriptions": {
         "0": {
             "138100001": {
                 "Title": "Ataque normal: Tronada perforadora",

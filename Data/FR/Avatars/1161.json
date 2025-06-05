@@ -53,7 +53,7 @@
             "Description": "Lorsqu'il y a un autre personnage <color=#FFFFFF>Attaque</color> ou de la même faction dans votre escouade :\nLorsque le 5e coup de l'<color=#FFFFFF>attaque normale</color> de Lighter touche un ennemi dans l'état <color=#FFFFFF>Moral d'acier</color>, tous les membres de l'escouade obtiennent 1 cumul d'<color=#FFFFFF>Euphorie</color> qui dure 30 s, cumulable 20 fois. Les déclenchements répétés réinitialisent la durée. Pour chaque cumul d'<color=#FFFFFF>Euphorie</color>, les <color=#98EFF0>DGT de glace</color> et <color=#FF5521>DGT de feu</color> de l'agent augmentent de 1,25 %.\nLorsque vous obtenez <color=#FFFFFF>Euphorie</color> et que l'impact de Lighter dépasse 170, chaque tranche de 10 pts excédant ce seuil améliore le bonus conféré par chaque cumul d'<color=#FFFFFF>Euphorie</color> de 0,25 % supplémentaire. Lorsque n'importe quel membre de l'escouade lance un <color=#FFFFFF>enchaînement</color>, la durée d'<color=#FFFFFF>Euphorie</color> est réinitialisée pour tous les membres de l'escouade. <color=#FFFFFF>Euphorie</color> peut augmenter les <color=#98EFF0>DGT de glace</color> et les <color=#FF5521>DGT de feu</color> des agents jusqu'à un maximum de +75 %."
         }
     },
-    "SkillDesriptions": {
+    "SkillDescriptions": {
         "0": {
             "116100001": {
                 "Title": "Attaque normale : Poing foudroyant en L",

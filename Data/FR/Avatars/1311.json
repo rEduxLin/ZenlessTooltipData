@@ -53,7 +53,7 @@
             "Description": "Lorsqu'un autre personnage de votre escouade est de la spécialisation <color=#FFFFFF>Attaque</color> ou <color=#FFFFFF>Anomalie</color> :\nLorsque vous consommez de l'énergie pour lancer un <color=#FFFFFF>soutien précis</color> ou <color=#FFFFFF>Attaque normale : Conclusion</color>, Astra Yao enchaîne également avec 1 attaque <color=#FFFFFF>Trémolo</color> et 3 attaques <color=#FFFFFF>Grappes sonores</color>."
         }
     },
-    "SkillDesriptions": {
+    "SkillDescriptions": {
         "0": {
             "131100001": {
                 "Title": "Attaque normale : Capriccio",

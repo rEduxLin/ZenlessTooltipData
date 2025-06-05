@@ -53,7 +53,7 @@
             "Description": "Quando outro personagem na sua equipe compartilha do mesmo atributo ou facção:\nO <color=#2EB6FF>Choque</color> causado nos inimigos por qualquer personagem aumenta 3s. Quando inimigos sob efeito de <color=#2EB6FF>Choque</color> estão em campo, o <color=#2EB6FF>Dano Elétrico</color> causado por toda a equipe aumenta 10%."
         }
     },
-    "SkillDesriptions": {
+    "SkillDescriptions": {
         "0": {
             "121100001": {
                 "Title": "Ataque Básico: Acerte o Paspalho",

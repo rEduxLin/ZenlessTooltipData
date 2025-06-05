@@ -53,7 +53,7 @@
             "Description": "Wenn eine andere Figur in der Truppe dasselbe Attribut hat oder eine andere Figur derselben Fraktion angehört:\nErhöht beim Treffen von benommenen Gegnern mit Lycaons Angriffen den Benommenheit-SCH-Multiplikator des Ziels um 35 %."
         }
     },
-    "SkillDesriptions": {
+    "SkillDescriptions": {
         "0": {
             "114100001": {
                 "Title": "Basisangriff: Mondjäger",

@@ -53,7 +53,7 @@
             "Description": "Quando outro personagem na sua equipe compartilha do mesmo atributo ou facção que o Lycaon:\nQuando Lycaon atinge um inimigo Atordoado, o Multiplicador de Dano de Atordoamento do alvo aumenta 35%."
         }
     },
-    "SkillDesriptions": {
+    "SkillDescriptions": {
         "0": {
             "114100001": {
                 "Title": "Ataque Básico: Caçador da Lua",

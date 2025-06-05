@@ -53,7 +53,7 @@
             "Description": "Wenn eine andere Figur in der Truppe dasselbe Attribut hat oder eine andere Figur derselben Fraktion angehört:\nErhöht beim Treffen von Gegnern mit Grace’ <color=#FFFFFF>verstärktem Spezialangriff</color>, wenn dem Ziel das nächste Mal der Effekt <color=#2EB6FF>Elektroschock</color> verliehen wird, den SCH von diesem <color=#2EB6FF>Elektroschock</color>-Effekt um 18 %, max. 2-fach stapelbar. Während einer einzelnen Verwendung dieser Fähigkeit kann dieser Effekt nur 1-mal pro Gegner ausgelöst werden und wird zurückgesetzt, wenn der Zustand <color=#2EB6FF>Elektroschock</color> endet."
         }
     },
-    "SkillDesriptions": {
+    "SkillDescriptions": {
         "0": {
             "118100001": {
                 "Title": "Basisangriff: Hochdrucknadel",

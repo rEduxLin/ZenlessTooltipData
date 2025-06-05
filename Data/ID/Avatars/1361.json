@@ -53,7 +53,7 @@
             "Description": "Berlaku jika terdapat Agen <color=#FFFFFF>Attack</color> atau Agen yang memiliki Atribut yang sama di dalam tim:\nSaat CRIT Rate Trigger melebihi 40%, setiap 1% CRIT Rate yang melebihinya akan meningkatkan Daze yang diakibatkan dari <color=#FFFFFF>Aftershock</color> yang dilancarkannya sebesar 1,5%, maks. dapat meningkat hingga 75%."
         }
     },
-    "SkillDesriptions": {
+    "SkillDescriptions": {
         "0": {
             "136100001": {
                 "Title": "Basic Attack: Cold-Bore Shot",

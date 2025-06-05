@@ -53,7 +53,7 @@
             "Description": "Berlaku jika terdapat Agen di dalam tim yang memiliki Atribut yang sama atau berasal dari faksi yang sama:\nSaat Soukaku mengonsumsi <color=#FFFFFF>Vortex</color> untuk melancarkan <color=#FFFFFF>Fly the Flag</color>, <color=#98EFF0>Ice DMG</color> semua anggota tim akan meningkat 20% selama 22 detik."
         }
     },
-    "SkillDesriptions": {
+    "SkillDescriptions": {
         "0": {
             "113100001": {
                 "Title": "Basic Attack: Making Rice Cakes",

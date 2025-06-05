@@ -53,7 +53,7 @@
             "Description": "Lorsqu'il y a un autre agent <color=#FFFFFF>Anomalie</color> ou de la même faction que Jane dans l'escouade :\nLe <color=#F0D12B>taux d'accumulation d'anomalie physique</color> de Jane augmente de 20 %. L'<color=#F0D12B>accumulation d'anomalie physique</color> de Jane augmente de 15 % supplémentaires contre les ennemis qui souffrent déjà d'une anomalie d'attribut."
         }
     },
-    "SkillDesriptions": {
+    "SkillDescriptions": {
         "0": {
             "126100001": {
                 "Title": "Attaque normale : Lames dansantes",

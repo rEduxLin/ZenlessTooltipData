@@ -53,7 +53,7 @@
             "Description": "Si en el equipo hay miembros del mismo Atributo o la misma afiliación que ella:\nAumenta el <color=#FF5521>daño ígneo</color> infligido por N.º 11 en un 10 %. Al atacar a un enemigo afectado por Aturdimiento, esta bonificación aumenta en un 22.5 % adicional."
         }
     },
-    "SkillDesriptions": {
+    "SkillDescriptions": {
         "0": {
             "104100001": {
                 "Title": "Ataque normal: Chispas de calentamiento",

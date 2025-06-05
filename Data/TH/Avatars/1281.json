@@ -53,7 +53,7 @@
             "Description": "เมื่อในทีมมีตัวละครธาตุเดียวกัน หรืออยู่ฝ่ายเดียวกันกับตัวเอง:\nเมื่อ Piper มี <color=#FFFFFF>[Power]</color> 20 ชั้นขึ้นไป ทั้งทีมจะสร้างความเสียหายเพิ่มขึ้น 18%"
         }
     },
-    "SkillDesriptions": {
+    "SkillDescriptions": {
         "0": {
             "128100001": {
                 "Title": "โจมตีปกติ: Load Up and Roll Out",

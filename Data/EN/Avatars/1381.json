@@ -53,7 +53,7 @@
             "Description": "When another character in your squad is a <color=#FFFFFF>Stun</color> or <color=#FFFFFF>Support</color> character:\nSoldier 0 - Anby's CRIT Rate increases by 10%. When Soldier 0 - Anby is the active character, all squad members' <color=#FFFFFF>Aftershock</color> DMG to enemies with a <color=#FFFFFF>Silver Star</color> mark increases by 25%."
         }
     },
-    "SkillDesriptions": {
+    "SkillDescriptions": {
         "0": {
             "138100001": {
                 "Title": "Basic Attack: Penetrating Shock",

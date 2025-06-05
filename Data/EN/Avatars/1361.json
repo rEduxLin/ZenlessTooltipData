@@ -53,7 +53,7 @@
             "Description": "When another character in your squad is an <color=#FFFFFF>Attack</color> character or shares the same attribute:\nWhen Trigger's CRIT Rate exceeds 40%, each 1% CRIT Rate above this threshold increases her Daze dealt by <color=#FFFFFF>Aftershocks</color> by 1.5%, up to a maximum increase of 75%."
         }
     },
-    "SkillDesriptions": {
+    "SkillDescriptions": {
         "0": {
             "136100001": {
                 "Title": "Basic Attack: Cold-Bore Shot",

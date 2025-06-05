@@ -53,7 +53,7 @@
             "Description": "隊伍中包含與自身屬性或陣營相同的角色時觸發：\n珂蕾妲發動<color=#FFFFFF>[強化特殊技]</color>引發爆炸命中敵人時，對目標施加減益效果。當目標陷入失衡狀態後，全隊<color=#FFFFFF>[連攜技]</color>對其造成的傷害提升35%，最多疊加2層，失衡狀態結束時該效果重置。"
         }
     },
-    "SkillDesriptions": {
+    "SkillDescriptions": {
         "0": {
             "110100001": {
                 "Title": "普通攻擊：砸扁，粉碎",

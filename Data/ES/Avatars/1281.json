@@ -53,7 +53,7 @@
             "Description": "Si en el equipo hay miembros del mismo Atributo o la misma afiliación que ella:\nCuando Piper cuente con 20 cargas o más de <color=#FFFFFF>fuerza motriz</color>, aumenta el daño infligido por todos los miembros del equipo en un 18 %."
         }
     },
-    "SkillDesriptions": {
+    "SkillDescriptions": {
         "0": {
             "128100001": {
                 "Title": "Ataque normal: Calentando motores",

@@ -53,7 +53,7 @@
             "Description": "チームに自身と同じ属性または同じ陣営のメンバーがいる時に発動：\n<color=#FFFFFF>『爆発状態』</color>で、会心を4回出すごとに、次の攻撃が<color=#2EB6FF>「感電」</color>状態の敵に命中すると、本来の45%分の<color=#2EB6FF>「感電」</color>ダメージをさらに1回追加で与える、0.5秒に1回のみ発動可能。"
         }
     },
-    "SkillDesriptions": {
+    "SkillDescriptions": {
         "0": {
             "111100001": {
                 "Title": "通常攻撃：熱血準備体操",

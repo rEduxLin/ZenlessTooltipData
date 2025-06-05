@@ -53,7 +53,7 @@
             "Description": "Berlaku jika terdapat Agen di dalam tim yang memiliki Atribut yang sama atau berasal dari faksi yang sama:\nSaat ledakan dari <color=#FFFFFF>EX Special Attack</color> Koleda mengenai musuh, memberikan efek debuff kepada target. DMG <color=#FFFFFF>Chain Attack</color> yang diakibatkan oleh semua anggota tim terhadap musuh yang terkena status Stun akan meningkat 35%. Efek ini dapat ditumpuk hingga 2 lapis. Efek akan berakhir saat status Stun berakhir."
         }
     },
-    "SkillDesriptions": {
+    "SkillDescriptions": {
         "0": {
             "110100001": {
                 "Title": "Basic Attack: Smash 'n' Bash",
