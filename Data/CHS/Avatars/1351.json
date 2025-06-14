@@ -50,7 +50,7 @@
         },
         "MathSkill": {
             "Title": "额外能力：业务搭档",
-            "Description": "队伍中存在<color=#FFFFFF>[强攻]</color>角色或与自身阵营相同的角色时触发：\n波可娜发动<color=#FFFFFF>[特殊技：噬爪·噩梦袭影]</color>、<color=#FFFFFF>[强化特殊技]</color>、<color=#FFFFFF>[支援突击]</color>、<color=#FFFFFF>[连携技]</color>、<color=#FFFFFF>[终结技]</color>命中敌人时，将对敌人施加<color=#FFFFFF>[困迹]</color>效果，持续15秒；被施加<color=#FFFFFF>[困迹]</color>效果后，所有单位发动<color=#FFFFFF>[追加攻击]</color>对目标造成的伤害提升30%。"
+            "Description": "队伍中存在<color=#FFFFFF>[强攻]</color>或<color=#FFFFFF>[命破]</color>角色或自身阵营相同的角色时触发：\n波可娜发动<color=#FFFFFF>[特殊技：噬爪·噩梦袭影]</color>、<color=#FFFFFF>[强化特殊技：噬爪·瞬步]</color>、<color=#FFFFFF>[支援突击：单独计价]</color>、<color=#FFFFFF>[连携技：嗨，想不到吧]</color>、<color=#FFFFFF>[终结技：噢，游戏时间]</color>命中敌人时，将对敌人施加<color=#FFFFFF>[困迹]</color>效果，持续15秒；被施加<color=#FFFFFF>[困迹]</color>效果后，所有单位发动<color=#FFFFFF>[追加攻击]</color>对目标造成的伤害提升30%。"
         }
     },
     "SkillDescriptions": {
@@ -109,7 +109,7 @@
             },
             "135100004": {
                 "Title": "特殊技：噬爪·噩梦袭影",
-                "Description": "波可娜进入<color=#FFFFFF>[猎步]</color>状态后，队伍中其他操作中的角色，发动<color=#FFFFFF>[特殊技]</color>或<color=#FFFFFF>[强化特殊技]</color>重击命中敌人时触发：\n围绕目标敌人，快速来回穿刺，造成<color=#F0D12B>物理伤害</color>；\n招式发动后，队伍中其他操作中的角色，发动任意攻击命中敌人时，波可娜会重复发动攻击，最多额外触发5次，且最后一次攻击会被替换为更加强力的终结一击；\n招式发动期间拥有无敌效果；\n<color=#FFFFFF>[特殊技：噬爪·噩梦袭影]</color>为<color=#FFFFFF>[追加攻击]</color>。"
+                "Description": "波可娜进入<color=#FFFFFF>[猎步]</color>状态后，队伍中其他操作中的角色的<color=#FFFFFF>[特殊技]</color>或<color=#FFFFFF>[强化特殊技]</color>重击命中敌人时触发：\n围绕目标敌人，快速来回穿刺，造成<color=#F0D12B>物理伤害</color>；\n招式发动后，队伍中其他操作中的角色，发动任意攻击命中敌人时，波可娜会重复发动攻击，最多额外触发5次，且最后一次攻击会被替换为更加强力的终结一击；\n招式发动期间拥有无敌效果；\n<color=#FFFFFF>[特殊技：噬爪·噩梦袭影]</color>为<color=#FFFFFF>[追加攻击]</color>。"
             },
             "135100005": {
                 "Title": "强化特殊技：噬爪·瞬步",

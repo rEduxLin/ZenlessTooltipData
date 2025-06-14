@@ -6,7 +6,7 @@
     "Talents": {
         "1": {
             "Title": "Chasse avienne",
-            "Description": "Lorsque Nekomata touche un ennemi en l'attaquant par derrière, elle ignore 16 % de la <color=#F0D12B>RÉS physique</color> de sa cible. Si l'ennemi est étourdi, toutes les attaques de Nekomata sont considérées comme des attaques par derrière.",
+            "Description": "Lorsque Nekomata touche un ennemi en l'attaquant par derrière, elle ignore 16 % de la <color=#F0D12B>RÉS physique</color> de sa cible. Si l'ennemi est étourdi, toutes les attaques de Nekomata contre la cible sont considérées comme des attaques par derrière.",
             "Lore": "Bien que Nekomata puisse manquer de force en raison de sa petite taille, elle dispose de suffisamment de perspicacité et d'agilité pour repérer les points faibles de ses ennemis et s'en servir à son avantage."
         },
         "2": {

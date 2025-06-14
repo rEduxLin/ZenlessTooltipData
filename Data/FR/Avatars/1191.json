@@ -119,237 +119,237 @@
             }
         },
         "1": {
-            "119100004": {
+            "119100005": {
                 "Title": "Attaque spéciale : Dérive",
                 "Description": "Appuyez sur <IconMap:Icon_Special> pour activer :\nLance un coup de nageoire frontal rapide, qui inflige des <color=#98EFF0>DGT de glace</color>.\nLe niveau de la RÉS à l'interruption est augmenté pendant l'utilisation de cette compétence."
             },
-            "119100005": {
+            "119100006": {
                 "Title": "Attaque spéciale EX : Balayage caudal",
                 "Description": "Avec suffisamment d'énergie, appuyez sur <IconMap:Icon_SpecialReady> pour activer :\nAssène un puissant coup de nageoire qui inflige d'importants <color=#98EFF0>DGT de glace</color>.\nLorsqu'elle touche un ennemi, Ellen obtient 1 <color=#FFFFFF>charge de Surgélation</color>.\nLe personnage est invulnérable pendant l'utilisation de cette compétence.\nAprès cette compétence, vous pouvez enchaîner directement avec le 3e coup de l'<color=#FFFFFF>attaque normale</color>."
             },
-            "119100006": {
+            "119100007": {
                 "Title": "Attaque spéciale EX : Raz de squales",
                 "Description": "Après avoir lancé <color=#FFFFFF>Attaque spéciale EX : Balayage caudal</color>, appuyez sur <IconMap:Icon_SpecialReady> lorsque Ellen a suffisamment d'énergie pour activer :\nAssène une série d'entailles frontales puissantes, qui infligent d'importants <color=#98EFF0>DGT de glace</color>.\nLorsqu'elle touche un ennemi, Ellen obtient 1 <color=#FFFFFF>charge de Surgélation</color>.\nLe personnage est invulnérable pendant l'utilisation de cette compétence.\nAprès cette compétence, vous pouvez enchaîner directement avec le 3e coup de l'<color=#FFFFFF>attaque normale</color>."
             },
-            "119110015": {
+            "119110027": {
                 "Title": "Attaque spéciale : Dérive"
             },
-            "119110016": {
+            "119110028": {
                 "Description": "Multiplicateur de DGT",
                 "Param": "{Skill:1191010, Prop:1001}"
             },
-            "119110017": {
+            "119110029": {
                 "Description": "Multiplicateur de confusion",
                 "Param": "{Skill:1191010, Prop:1002}"
             },
-            "119110018": {
+            "119110030": {
                 "Title": "Attaque spéciale EX : Balayage caudal"
             },
-            "119110019": {
+            "119110031": {
                 "Description": "Multiplicateur de DGT",
                 "Param": "{Skill:1191011, Prop:1001}"
             },
-            "119110020": {
+            "119110032": {
                 "Description": "Multiplicateur de confusion",
                 "Param": "{Skill:1191011, Prop:1002}"
             },
-            "119110021": {
+            "119110033": {
                 "Description": "Coût en énergie",
                 "Param": "40 pts"
             },
-            "119110022": {
+            "119110034": {
                 "Title": "Attaque spéciale EX : Raz de squales"
             },
-            "119110023": {
+            "119110035": {
                 "Description": "Multiplicateur de DGT",
                 "Param": "{Skill:1191012, Prop:1001}"
             },
-            "119110024": {
+            "119110036": {
                 "Description": "Multiplicateur de confusion",
                 "Param": "{Skill:1191012, Prop:1002}"
             },
-            "119110025": {
+            "119110037": {
                 "Description": "Coût en énergie",
                 "Param": "40 pts"
             }
         },
         "2": {
-            "119100007": {
+            "119100008": {
                 "Title": "Esquive : Vortex",
                 "Description": "Appuyez sur <IconMap:Icon_Evade> pour activer :\nEsquive rapide.\nLe personnage est invulnérable pendant l'utilisation de cette compétence.\nLorsque vous déclenchez une <color=#FFFFFF>esquive parfaite</color>, Ellen obtient l'effet <color=#FFFFFF>Charge rapide</color>, ce qui réduit le temps de charge d'<color=#FFFFFF>Attaque de bond : Embuscade arctique</color> pendant 5 secondes ou jusqu'à son activation."
             },
-            "119100008": {
+            "119100009": {
                 "Title": "Bond : Traque",
                 "Description": "Maintenez <IconMap:Icon_Evade> enfoncé ou appuyez deux fois sur <IconMap:Icon_Evade> pour activer :\nEntrez dans l'état <color=#FFFFFF>Traque</color> qui permet de bondir rapidement.\nEn état <color=#FFFFFF>Traque</color>, bougez le {LAYOUT_XBOXCONTROLLER#stick}{LAYOUT_FALLBACK#joystick} pour contrôler la direction d'Ellen, et relâchez le {LAYOUT_XBOXCONTROLLER#stick}{LAYOUT_FALLBACK#joystick} pour l'arrêter.\nEllen est invulnérable pendant une courte durée après l'activation."
             },
-            "119100009": {
+            "119100010": {
                 "Title": "Attaque de bond : Embuscade arctique",
                 "Description": "Lorsque l'état <color=#FFFFFF>Traque</color> est actif, appuyez sur <IconMap:Icon_Normal> pour activer :\nAssène une entaille tournoyante aux ennemis avant d'ouvrir ses cisailles et de lancer une attaque rapide qui inflige des <color=#98EFF0>DGT de glace</color>.\nLorsque l'attaque rapide touche un ennemi, Ellen obtient 1 <color=#FFFFFF>charge de Surgélation</color>.\n\nLorsque l'état <color=#FFFFFF>Traque</color> est actif, maintenez <IconMap:Icon_Normal> enfoncé pour activer :\nAssène une entaille tournoyante avant d'ouvrir ses cisailles et de lancer une attaque chargée qui inflige d'importants <color=#98EFF0>DGT de glace</color>.\nLorsque l'attaque chargée touche un ennemi, Ellen obtient 3 <color=#FFFFFF>charges de Surgélation</color>. Si la cible est <color=#98EFF0>gelée</color>, l'attaque déclenche <color=#98EFF0>Brise-glace</color>.\nLe niveau de RÉS à l'interruption est augmenté pendant la charge de l'attaque, et les DGT subis sont réduits de 40 %.\nEllen est invulnérable pendant un bref instant lors de l'utilisation de la compétence."
             },
-            "119100010": {
+            "119100012": {
                 "Title": "Surgélation",
                 "Description": "Lorsque Ellen possède des <color=#FFFFFF>charges de Surgélation</color>, l'effet <color=#FFFFFF>Surgélation</color> s'active. Une fois <color=#FFFFFF>Surgélation</color> activée, les <color=#FFFFFF>attaques normales</color> et les <color=#FFFFFF>attaques de bond</color> consomment des <color=#FFFFFF>charges de Surgélation</color> pour infliger d'importants <color=#98EFF0>DGT de glace</color>. Ellen peut posséder jusqu'à 6 <color=#FFFFFF>charges de Surgélation</color>."
             },
-            "119100011": {
+            "119100013": {
                 "Title": "Attaque de bond : Vague monstrueuse",
                 "Description": "Appuyez sur <IconMap:Icon_Normal> pendant une esquive pour activer :\nFonce et entaille les ennemis en face, infligeant des <color=#F0D12B>DGT physiques</color>."
             },
-            "119100012": {
+            "119100014": {
                 "Title": "Attaque de bond : Vague de froid",
                 "Description": "Lorsque l'état <color=#FFFFFF>Surgélation</color> est actif, appuyez sur <IconMap:Icon_Normal> lors d'une esquive pour activer :\nFonce et entaille les ennemis en face, infligeant des <color=#98EFF0>DGT de glace</color>.\nConsomme 1 <color=#FFFFFF>charge de Surgélation</color>."
             },
-            "119100013": {
+            "119100015": {
                 "Title": "Contre d'esquive : Récif",
                 "Description": "Appuyez sur <IconMap:Icon_Normal> pendant une <color=#FFFFFF>esquive parfaite</color> pour activer :\nEllen se déplace rapidement à travers les ennemis avec ses cisailles ouvertes pour effectuer une attaque tranchante, qui inflige des <color=#98EFF0>DGT de glace</color>.\nLe personnage est invulnérable pendant l'utilisation de cette compétence."
             },
-            "119110026": {
+            "119110038": {
                 "Title": "Attaque de bond : Embuscade arctique"
             },
-            "119110027": {
+            "119110039": {
                 "Description": "Multiplicateur de DGT d'entaille tournante",
                 "Param": "{Skill:1191007, Prop:1001}"
             },
-            "119110028": {
+            "119110040": {
                 "Description": "Multiplicateur de DGT d'attaque de cisailles rapides",
                 "Param": "{Skill:1191008, Prop:1001}"
             },
-            "119110029": {
+            "119110041": {
                 "Description": "Multiplicateur de DGT du coup de cisailles chargé",
                 "Param": "{Skill:1191009, Prop:1001}"
             },
-            "119110030": {
+            "119110042": {
                 "Description": "Multiplicateur de confusion d'entaille tournante",
                 "Param": "{Skill:1191007, Prop:1002}"
             },
-            "119110031": {
+            "119110043": {
                 "Description": "Multiplicateur de confusion d'attaque de cisailles rapides",
                 "Param": "{Skill:1191008, Prop:1002}"
             },
-            "119110032": {
+            "119110044": {
                 "Description": "Multiplicateur de confusion du coup de cisailles chargé",
                 "Param": "{Skill:1191009, Prop:1002}"
             },
-            "119110033": {
+            "119110045": {
                 "Description": "Charge de surgélation obtenue par l'attaque de cisailles rapides",
                 "Param": "1 pt"
             },
-            "119110034": {
+            "119110046": {
                 "Description": "Charge de Surgélation obtenue par le coup de cisailles chargé",
                 "Param": "3 pts"
             },
-            "119110035": {
+            "119110047": {
                 "Title": "Attaque de bond : Vague monstrueuse"
             },
-            "119110036": {
+            "119110048": {
                 "Description": "Multiplicateur de DGT",
                 "Param": "{Skill:1191013, Prop:1001}"
             },
-            "119110037": {
+            "119110049": {
                 "Description": "Multiplicateur de confusion",
                 "Param": "{Skill:1191013, Prop:1002}"
             },
-            "119110038": {
+            "119110050": {
                 "Title": "Attaque de bond : Vague de froid"
             },
-            "119110039": {
+            "119110051": {
                 "Description": "Multiplicateur de DGT",
                 "Param": "{Skill:1191014, Prop:1001}"
             },
-            "119110040": {
+            "119110052": {
                 "Description": "Multiplicateur de confusion",
                 "Param": "{Skill:1191014, Prop:1002}"
             },
-            "119110041": {
+            "119110053": {
                 "Title": "Contre d'esquive : Récif"
             },
-            "119110042": {
+            "119110054": {
                 "Description": "Multiplicateur de DGT",
                 "Param": "{Skill:1191015, Prop:1001}"
             },
-            "119110043": {
+            "119110055": {
                 "Description": "Multiplicateur de confusion",
                 "Param": "{Skill:1191015, Prop:1002}"
             }
         },
         "3": {
-            "119100014": {
+            "119100016": {
                 "Title": "Enchaînement : Avalanche",
                 "Description": "Lors du déclenchement d'un <color=#FFFFFF>enchaînement</color>, sélectionnez le personnage pour activer :\nChute d'en haut et déclenche une tempête de glace, qui inflige d'importants <color=#98EFF0>DGT de glace</color>.\nLe personnage est invulnérable pendant l'utilisation de cette compétence."
             },
-            "119100015": {
+            "119100017": {
                 "Title": "Ultime : Hiver éternel",
                 "Description": "Lorsque le niveau de décibels est au <color=#FFFFFF>Maximum</color>, appuyez sur <IconMap:Icon_UltimateReady> pour activer :\nChute d'en haut et déclenche une tempête de glace avant de lancer un puissant coup de cisailles, qui inflige d'importants <color=#98EFF0>DGT de glace</color>.\nLe personnage est invulnérable pendant l'utilisation de cette compétence."
             },
-            "119110044": {
+            "119110056": {
                 "Title": "Enchaînement : Avalanche"
             },
-            "119110045": {
+            "119110057": {
                 "Description": "Multiplicateur de DGT",
                 "Param": "{Skill:1191016, Prop:1001}"
             },
-            "119110046": {
+            "119110058": {
                 "Description": "Multiplicateur de confusion",
                 "Param": "{Skill:1191016, Prop:1002}"
             },
-            "119110047": {
+            "119110059": {
                 "Title": "Ultime : Hiver éternel"
             },
-            "119110048": {
+            "119110060": {
                 "Description": "Multiplicateur de DGT",
                 "Param": "{Skill:1191017, Prop:1001}"
             },
-            "119110049": {
+            "119110061": {
                 "Description": "Multiplicateur de confusion",
                 "Param": "{Skill:1191017, Prop:1002}"
             }
         },
         "6": {
-            "119100017": {
+            "119100020": {
                 "Title": "Soutien rapide : Sentinelle requin",
                 "Description": "Lorsque le personnage contrôlé est projeté, appuyez sur <IconMap:Icon_Switch> pour activer :\nCourt à travers les ennemis avec ses cisailles ouvertes et inflige des <color=#98EFF0>DGT de glace</color>.\nLe personnage est invulnérable pendant l'utilisation de la compétence.\nLorsque le personnage sur le terrain est projeté, bougez le {LAYOUT_XBOXCONTROLLER#stick}{LAYOUT_FALLBACK#joystick} et appuyez sur <IconMap:Icon_Switch> pour activer :\nEllen entre dans l'état <color=#FFFFFF>Traque</color>, qui lui permet de bondir rapidement.\nLorsque l'état <color=#FFFFFF>Traque</color> est actif, bougez le {LAYOUT_XBOXCONTROLLER#stick}{LAYOUT_FALLBACK#joystick} pour changer de direction et relâchez-le pour vous arrêter.\nLe personnage est invulnérable pendant un bref instant après avoir lancé la compétence.\nEn déclenchant un <color=#FFFFFF>soutien rapide</color>, Ellen obtient l'effet <color=#FFFFFF>Charge rapide</color>, qui lui permet de réduire le temps de charge de <color=#FFFFFF>Attaque de bond : Embuscade arctique</color> pendant 5 secondes ou jusqu'à activation."
             },
-            "119100018": {
+            "119100021": {
                 "Title": "Soutien défensif : Face à la mer",
                 "Description": "Lorsque le personnage sur le terrain est sur le point d'être attaqué, appuyez sur <IconMap:Icon_Switch> pour activer :\nPare l'attaque de l'ennemi et provoque une confusion importante.\nLe personnage est invulnérable pendant l'utilisation de cette compétence."
             },
-            "119100019": {
+            "119100022": {
                 "Title": "Soutien de suivi : Requin croiseur",
                 "Description": "Appuyez sur <IconMap:Icon_Normal> après un <color=#FFFFFF>soutien défensif</color> pour activer :\nFonce et entaille les ennemis en face pour infliger des <color=#98EFF0>DGT de glace</color>.\nMartelez ou maintenez <IconMap:Icon_Normal> enfoncé pendant l'attaque pour prolonger la durée de la compétence.\nLe personnage est invulnérable pendant l'utilisation de cette compétence."
             },
-            "119110050": {
+            "119110062": {
                 "Title": "Soutien rapide : Sentinelle requin"
             },
-            "119110051": {
+            "119110063": {
                 "Description": "Multiplicateur de DGT",
                 "Param": "{Skill:1191018, Prop:1001}"
             },
-            "119110052": {
+            "119110064": {
                 "Description": "Multiplicateur de confusion",
                 "Param": "{Skill:1191018, Prop:1002}"
             },
-            "119110053": {
+            "119110065": {
                 "Title": "Soutien défensif : Face à la mer"
             },
-            "119110054": {
+            "119110066": {
                 "Description": "Multiplicateur de confusion de défense légère",
                 "Param": "{Skill:1191019, Prop:1002}"
             },
-            "119110055": {
+            "119110067": {
                 "Description": "Multiplicateur de confusion de défense lourde",
                 "Param": "{Skill:1191020, Prop:1002}"
             },
-            "119110056": {
+            "119110068": {
                 "Description": "Multiplicateur de confusion de défense en chaîne",
                 "Param": "{Skill:1191021, Prop:1002}"
             },
-            "119110057": {
+            "119110069": {
                 "Title": "Soutien de suivi : Requin croiseur"
             },
-            "119110058": {
+            "119110070": {
                 "Description": "Multiplicateur de DGT",
                 "Param": "{Skill:1191022, Prop:1001}"
             },
-            "119110059": {
+            "119110071": {
                 "Description": "Multiplicateur de confusion",
                 "Param": "{Skill:1191022, Prop:1002}"
             }
@@ -511,6 +511,30 @@
             "DamageGrowth": 250,
             "DazeValue": 0,
             "DazeGrowth": 0
+        },
+        "1191027": {
+            "DamageValue": 6040,
+            "DamageGrowth": 550,
+            "DazeValue": 2580,
+            "DazeGrowth": 120
+        },
+        "1191028": {
+            "DamageValue": 1300,
+            "DamageGrowth": 120,
+            "DazeValue": 560,
+            "DazeGrowth": 30
+        },
+        "1191029": {
+            "DamageValue": 23020,
+            "DamageGrowth": 2100,
+            "DazeValue": 6700,
+            "DazeGrowth": 310
+        },
+        "1191030": {
+            "DamageValue": 14680,
+            "DamageGrowth": 1340,
+            "DazeValue": 8420,
+            "DazeGrowth": 390
         }
     }
 }

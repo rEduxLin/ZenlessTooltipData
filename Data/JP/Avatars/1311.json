@@ -6,12 +6,12 @@
     "Talents": {
         "1": {
             "Title": "十二平均律",
-            "Description": "アストラの攻撃が敵に命中した時、ターゲットの全属性ダメージ耐性が6%ダウンする、最大3重まで重ね掛け可能、継続時間30秒、重複して発動すると継続時間が更新される。\nフィールド入場時、アストラは即座にデシベル値を1000Pt獲得する。\n<color=#FFFFFF>『終結スキル』</color>発動時、メンバー全員が<color=#FFFFFF>「守護の音」</color>効果をそれぞれ1重獲得する、継続時間60秒。敵の攻撃を受けると、<color=#FFFFFF>「守護の音」</color>を消費して無敵効果を得る、継続時間1秒。",
+            "Description": "アストラの攻撃が敵に命中した時、ターゲットの全属性ダメージ耐性-6%、最大3重まで重ね掛け可能、継続時間30秒、重複して発動すると継続時間が更新される。フィールド入場時、アストラは即座にデシベル値を1000Pt獲得する。<color=#FFFFFF>『終結スキル』</color>発動時、メンバー全員が<color=#FFFFFF>「守護の音」</color>効果をそれぞれ1重獲得する、継続時間60秒。敵の攻撃を受けると、<color=#FFFFFF>「守護の音」</color>を消費して無敵効果を得る、継続時間1秒。",
             "Lore": "「先生～『じゅうにへいきんりつ』ってなあに？」\n「十二平均律というのは、音律のひとつです。\nおともだちのみんなと同じように、音符さんたちも列に並ぶんですよ」\n「じゃあきっと私たちと同じで、列にならぶのがきらいなのね！」\n――かつてアストラを担当した音楽の先生が、6歳の彼女を振り返って。"
         },
         "2": {
             "Title": "欲張りの芸術",
-            "Description": "<color=#FFFFFF>『コアパッシブ：アンダンテ・カンタービレ』</color>による攻撃力アップ効果が追加で19%アップし、アップ効果の上限がさらに400Pt引き上げられる。\n<color=#FFFFFF>「アイドリック・カデンツァ」</color>状態中、他のメンバーが<color=#FFFFFF>『クイック支援』</color>、<color=#FFFFFF>『連携スキル』</color>、<color=#FFFFFF>『パリィ支援』</color>または<color=#FFFFFF>『回避支援』</color>で出場した時、アストラは追加で<color=#FFFFFF>「ビブラート」</color>を1発、<color=#FFFFFF>「トーンクラスター」</color>を3発放って攻撃する、3秒に1回のみ発動可能。",
+            "Description": "<color=#FFFFFF>『コアパッシブ：アンダンテ・カンタービレ』</color>による攻撃力アップ効果が追加で+19%、アップ効果の上限がさらに400Pt引き上げられる。\n<color=#FFFFFF>「アイドリック・カデンツァ」</color>状態中、他のメンバーが<color=#FFFFFF>『クイック支援』</color>、<color=#FFFFFF>『連携スキル』</color>、<color=#FFFFFF>『パリィ支援』</color>または<color=#FFFFFF>『回避支援』</color>で出場した時、アストラは追加で<color=#FFFFFF>「ビブラート」</color>を1発、<color=#FFFFFF>「トーンクラスター」</color>を3発放って攻撃する、3秒に1回のみ発動可能。",
             "Lore": "「この世で一番キラキラしてるもの、それはもちろん愛よ！」\n小鳥がキラキラしたものを集めて巣を作るように、芸術家は誰しも\n「世界中の愛を集めたい」という欲張りな心を持っている。\nすべての愛を集めれば、最も心動かす旋律が生まれるのだから。"
         },
         "3": {
@@ -21,7 +21,7 @@
         },
         "4": {
             "Title": "『貴方の首筋』",
-            "Description": "<color=#FFFFFF>『連携スキル』</color>または<color=#FFFFFF>『終結スキル』</color>を発動した後の15秒間：\n・アストラは<color=#FFFFFF>「コード」</color>を所持していなくても<color=#FFFFFF>『クイック支援』</color>を発動できる。\n・操作しているエージェントの攻撃が敵に命中した時、<color=#FFFFFF>『クイック支援』</color>を発動できる間隔が1秒になる。\n\nアストラが<color=#FFFFFF>「アイドリック・カデンツァ」</color>状態にある時、<color=#FFFFFF>『クイック支援』</color>で入場した他のメンバーは自身の特性に基づいて、それぞれ異なるバフ効果を獲得する。チーム内において3秒に1回のみ発動可能。\n・<color=#FFFFFF>[強攻]</color>：次の<color=#FFFFFF>『クイック支援』</color>の重撃が敵に命中した時、アストラの攻撃力300%分の追加ダメージを与える。\n・<color=#FFFFFF>[異常]</color>：次の<color=#FFFFFF>『クイック支援』</color>による状態異常蓄積値が50%アップする。\n・<color=#FFFFFF>[撃破]</color>：次の<color=#FFFFFF>『クイック支援』</color>によるブレイク値が50%アップする。",
+            "Description": "<color=#FFFFFF>『連携スキル』</color>または<color=#FFFFFF>『終結スキル』</color>を発動した後の15秒間：\n・アストラは<color=#FFFFFF>「コード」</color>を所持していなくても<color=#FFFFFF>『クイック支援』</color>を発動できる。\n・操作しているエージェントの攻撃が敵に命中した時、<color=#FFFFFF>『クイック支援』</color>を発動できる間隔が1秒になる。\n\nアストラが<color=#FFFFFF>「アイドリック・カデンツァ」</color>状態にある時、<color=#FFFFFF>『クイック支援』</color>で入場した他のメンバーは自身の特性に基づいて、それぞれ異なるバフ効果を獲得する。チーム内において3秒に1回のみ発動可能。\n・<color=#FFFFFF>[強攻]</color>：次の<color=#FFFFFF>『クイック支援』</color>の重撃が敵に命中した時、アストラの攻撃力300%分の追加ダメージを与える。\n・<color=#FFFFFF>[異常]</color>：次の<color=#FFFFFF>『クイック支援』</color>による状態異常蓄積値+50%。\n・<color=#FFFFFF>[撃破]</color>：次の<color=#FFFFFF>『クイック支援』</color>によるブレイク値+50%。",
             "Lore": "鍵盤の真上で止まった手\nどれを弾いてあげるべきかしら\n悲しみの短調？\nそれとも恋しい想い？\n音符の間に貴方の姿を探す\nまぶたの裏に\n貴方の首筋が浮かぶ"
         },
         "5": {
@@ -31,7 +31,7 @@
         },
         "6": {
             "Title": "私たちが世界",
-            "Description": "<color=#FFFFFF>「アイドリック・カデンツァ」</color>状態で放たれた<color=#FFFFFF>「ビブラート」</color>と<color=#FFFFFF>「トーンクラスター」</color>、および追加で放たれた<color=#FFFFFF>「ビブラート」</color>と<color=#FFFFFF>「トーンクラスター」</color>のダメージ倍率が本来の200%になり、会心率が80%アップする。\n<color=#FFFFFF>『精密支援』</color>発動時、アストラは自動でチャージ完了後の<color=#FFFFFF>『通常攻撃：カプリチオ』</color>3段目を追加で発動し、この攻撃の会心率が80%アップする、10秒に1回のみ発動可能。",
+            "Description": "<color=#FFFFFF>「アイドリック・カデンツァ」</color>状態で放たれた<color=#FFFFFF>「ビブラート」</color>と<color=#FFFFFF>「トーンクラスター」</color>、および追加で放たれた<color=#FFFFFF>「ビブラート」</color>と<color=#FFFFFF>「トーンクラスター」</color>のダメージ倍率が本来の200%になり、会心率+80%。\n<color=#FFFFFF>『精密支援』</color>発動時、アストラは自動でチャージ完了後の<color=#FFFFFF>『通常攻撃：カプリチオ』</color>3段目を追加で発動し、この攻撃の会心率+80%、10秒に1回のみ発動可能。",
             "Lore": "世界の混乱は、心の隙間から生まれるものだ。\n全ての心を反響で満たせば、この世の苦難や悲哀、沈黙は消えるだろうか？\n全てを歌声で繋ぐことができたら、傷は癒え、痛みはとめどない\nメロディーとなって静寂に取って代われるだろうか？\nそのとき、世界はもはや孤島ではなくなる。\n「この歌を世界に捧げるわ！」"
         }
     },
@@ -39,18 +39,18 @@
         "UniqueSkill": {
             "Title": "コアパッシブ：アンダンテ・カンタービレ",
             "DescriptionByLevel": {
-                "1": "<color=#FFFFFF>「アイドリック・カデンツァ」</color>状態中、他のメンバーが<color=#FFFFFF>『クイック支援』</color>、<color=#FFFFFF>『連携スキル』</color>、<color=#FFFFFF>『パリィ支援』</color>または<color=#FFFFFF>『回避支援』</color>で出場し、さらにアストラがエネルギーを消費して追加で<color=#FFFFFF>「ビブラート」</color>を放って攻撃した時、アストラ自身と出場メンバーの攻撃力がアップする、アップ量はアストラの開幕攻撃力<color=#2BAD00>22%</color>分に相当する、最大1200Ptアップできる。継続時間20秒、重複して発動すると継続時間が延長される、最大30秒継続可能。",
-                "2": "<color=#FFFFFF>「アイドリック・カデンツァ」</color>状態中、他のメンバーが<color=#FFFFFF>『クイック支援』</color>、<color=#FFFFFF>『連携スキル』</color>、<color=#FFFFFF>『パリィ支援』</color>または<color=#FFFFFF>『回避支援』</color>で出場し、さらにアストラがエネルギーを消費して追加で<color=#FFFFFF>「ビブラート」</color>を放って攻撃した時、アストラ自身と出場メンバーの攻撃力がアップする、アップ量はアストラの開幕攻撃力<color=#2BAD00>24%</color>分に相当する、最大1200Ptアップできる。継続時間20秒、重複して発動すると継続時間が延長される、最大30秒継続可能。",
-                "3": "<color=#FFFFFF>「アイドリック・カデンツァ」</color>状態中、他のメンバーが<color=#FFFFFF>『クイック支援』</color>、<color=#FFFFFF>『連携スキル』</color>、<color=#FFFFFF>『パリィ支援』</color>または<color=#FFFFFF>『回避支援』</color>で出場し、さらにアストラがエネルギーを消費して追加で<color=#FFFFFF>「ビブラート」</color>を放って攻撃した時、アストラ自身と出場メンバーの攻撃力がアップする、アップ量はアストラの開幕攻撃力<color=#2BAD00>26%</color>分に相当する、最大1200Ptアップできる。継続時間20秒、重複して発動すると継続時間が延長される、最大30秒継続可能。",
-                "4": "<color=#FFFFFF>「アイドリック・カデンツァ」</color>状態中、他のメンバーが<color=#FFFFFF>『クイック支援』</color>、<color=#FFFFFF>『連携スキル』</color>、<color=#FFFFFF>『パリィ支援』</color>または<color=#FFFFFF>『回避支援』</color>で出場し、さらにアストラがエネルギーを消費して追加で<color=#FFFFFF>「ビブラート」</color>を放って攻撃した時、アストラ自身と出場メンバーの攻撃力がアップする、アップ量はアストラの開幕攻撃力<color=#2BAD00>28%</color>分に相当する、最大1200Ptアップできる。継続時間20秒、重複して発動すると継続時間が延長される、最大30秒継続可能。",
-                "5": "<color=#FFFFFF>「アイドリック・カデンツァ」</color>状態中、他のメンバーが<color=#FFFFFF>『クイック支援』</color>、<color=#FFFFFF>『連携スキル』</color>、<color=#FFFFFF>『パリィ支援』</color>または<color=#FFFFFF>『回避支援』</color>で出場し、さらにアストラがエネルギーを消費して追加で<color=#FFFFFF>「ビブラート」</color>を放って攻撃した時、アストラ自身と出場メンバーの攻撃力がアップする、アップ量はアストラの開幕攻撃力<color=#2BAD00>30%</color>分に相当する、最大1200Ptアップできる。継続時間20秒、重複して発動すると継続時間が延長される、最大30秒継続可能。",
-                "6": "<color=#FFFFFF>「アイドリック・カデンツァ」</color>状態中、他のメンバーが<color=#FFFFFF>『クイック支援』</color>、<color=#FFFFFF>『連携スキル』</color>、<color=#FFFFFF>『パリィ支援』</color>または<color=#FFFFFF>『回避支援』</color>で出場し、さらにアストラがエネルギーを消費して追加で<color=#FFFFFF>「ビブラート」</color>を放って攻撃した時、アストラ自身と出場メンバーの攻撃力がアップする、アップ量はアストラの開幕攻撃力<color=#2BAD00>32%</color>分に相当する、最大1200Ptアップできる。継続時間20秒、重複して発動すると継続時間が延長される、最大30秒継続可能。",
-                "7": "<color=#FFFFFF>「アイドリック・カデンツァ」</color>状態中、他のメンバーが<color=#FFFFFF>『クイック支援』</color>、<color=#FFFFFF>『連携スキル』</color>、<color=#FFFFFF>『パリィ支援』</color>または<color=#FFFFFF>『回避支援』</color>で出場し、さらにアストラがエネルギーを消費して追加で<color=#FFFFFF>「ビブラート」</color>を放って攻撃した時、アストラ自身と出場メンバーの攻撃力がアップする、アップ量はアストラの開幕攻撃力<color=#2BAD00>35%</color>分に相当する、最大1200Ptアップできる。継続時間20秒、重複して発動すると継続時間が延長される、最大30秒継続可能。"
+                "1": "<color=#FFFFFF>「アイドリック・カデンツァ」</color>状態中、他のメンバーが<color=#FFFFFF>『クイック支援』</color>、<color=#FFFFFF>『連携スキル』</color>、<color=#FFFFFF>『パリィ支援』</color>または<color=#FFFFFF>『回避支援』</color>で出場し、さらにアストラがエネルギーを消費して追加で<color=#FFFFFF>「ビブラート」</color>を放って攻撃した時、アストラ自身と出場メンバーの攻撃力がアップする、アップ量はアストラの開幕攻撃力<color=#2BAD00>22%</color>分に相当する、最大+1200Pt。継続時間20秒、重複して発動すると継続時間が延長される、最大30秒継続可能。",
+                "2": "<color=#FFFFFF>「アイドリック・カデンツァ」</color>状態中、他のメンバーが<color=#FFFFFF>『クイック支援』</color>、<color=#FFFFFF>『連携スキル』</color>、<color=#FFFFFF>『パリィ支援』</color>または<color=#FFFFFF>『回避支援』</color>で出場し、さらにアストラがエネルギーを消費して追加で<color=#FFFFFF>「ビブラート」</color>を放って攻撃した時、アストラ自身と出場メンバーの攻撃力がアップする、アップ量はアストラの開幕攻撃力<color=#2BAD00>24%</color>分に相当する、最大+1200Pt。継続時間20秒、重複して発動すると継続時間が延長される、最大30秒継続可能。",
+                "3": "<color=#FFFFFF>「アイドリック・カデンツァ」</color>状態中、他のメンバーが<color=#FFFFFF>『クイック支援』</color>、<color=#FFFFFF>『連携スキル』</color>、<color=#FFFFFF>『パリィ支援』</color>または<color=#FFFFFF>『回避支援』</color>で出場し、さらにアストラがエネルギーを消費して追加で<color=#FFFFFF>「ビブラート」</color>を放って攻撃した時、アストラ自身と出場メンバーの攻撃力がアップする、アップ量はアストラの開幕攻撃力<color=#2BAD00>26%</color>分に相当する、最大+1200Pt。継続時間20秒、重複して発動すると継続時間が延長される、最大30秒継続可能。",
+                "4": "<color=#FFFFFF>「アイドリック・カデンツァ」</color>状態中、他のメンバーが<color=#FFFFFF>『クイック支援』</color>、<color=#FFFFFF>『連携スキル』</color>、<color=#FFFFFF>『パリィ支援』</color>または<color=#FFFFFF>『回避支援』</color>で出場し、さらにアストラがエネルギーを消費して追加で<color=#FFFFFF>「ビブラート」</color>を放って攻撃した時、アストラ自身と出場メンバーの攻撃力がアップする、アップ量はアストラの開幕攻撃力<color=#2BAD00>28%</color>分に相当する、最大+1200Pt。継続時間20秒、重複して発動すると継続時間が延長される、最大30秒継続可能。",
+                "5": "<color=#FFFFFF>「アイドリック・カデンツァ」</color>状態中、他のメンバーが<color=#FFFFFF>『クイック支援』</color>、<color=#FFFFFF>『連携スキル』</color>、<color=#FFFFFF>『パリィ支援』</color>または<color=#FFFFFF>『回避支援』</color>で出場し、さらにアストラがエネルギーを消費して追加で<color=#FFFFFF>「ビブラート」</color>を放って攻撃した時、アストラ自身と出場メンバーの攻撃力がアップする、アップ量はアストラの開幕攻撃力<color=#2BAD00>30%</color>分に相当する、最大+1200Pt。継続時間20秒、重複して発動すると継続時間が延長される、最大30秒継続可能。",
+                "6": "<color=#FFFFFF>「アイドリック・カデンツァ」</color>状態中、他のメンバーが<color=#FFFFFF>『クイック支援』</color>、<color=#FFFFFF>『連携スキル』</color>、<color=#FFFFFF>『パリィ支援』</color>または<color=#FFFFFF>『回避支援』</color>で出場し、さらにアストラがエネルギーを消費して追加で<color=#FFFFFF>「ビブラート」</color>を放って攻撃した時、アストラ自身と出場メンバーの攻撃力がアップする、アップ量はアストラの開幕攻撃力<color=#2BAD00>32%</color>分に相当する、最大+1200Pt。継続時間20秒、重複して発動すると継続時間が延長される、最大30秒継続可能。",
+                "7": "<color=#FFFFFF>「アイドリック・カデンツァ」</color>状態中、他のメンバーが<color=#FFFFFF>『クイック支援』</color>、<color=#FFFFFF>『連携スキル』</color>、<color=#FFFFFF>『パリィ支援』</color>または<color=#FFFFFF>『回避支援』</color>で出場し、さらにアストラがエネルギーを消費して追加で<color=#FFFFFF>「ビブラート」</color>を放って攻撃した時、アストラ自身と出場メンバーの攻撃力がアップする、アップ量はアストラの開幕攻撃力<color=#2BAD00>35%</color>分に相当する、最大+1200Pt。継続時間20秒、重複して発動すると継続時間が延長される、最大30秒継続可能。"
             }
         },
         "MathSkill": {
             "Title": "追加能力：ムーンリット・フレンジー",
-            "Description": "チームに<color=#FFFFFF>[強攻]</color>または<color=#FFFFFF>[異常]</color>のメンバーがいる時に発動：\nエネルギーを消費して<color=#FFFFFF>『精密支援』</color>または<color=#FFFFFF>『通常攻撃：フィナーレ』</color>を発動した時、アストラは追加で<color=#FFFFFF>「ビブラート」</color>を1発、<color=#FFFFFF>「トーンクラスター」</color>を3発放って攻撃する。"
+            "Description": "チームに<color=#FFFFFF>[強攻]</color>、<color=#FFFFFF>[異常]</color>または<color=#FFFFFF>[命破]</color>のメンバーがいる時に発動：\nエネルギーを消費して<color=#FFFFFF>『精密支援』</color>または<color=#FFFFFF>『通常攻撃：フィナーレ』</color>を発動した時、アストラは追加で<color=#FFFFFF>「ビブラート」</color>を1発、<color=#FFFFFF>「トーンクラスター」</color>を3発放って攻撃する。"
         }
     },
     "SkillDescriptions": {
@@ -179,7 +179,7 @@
             },
             "131100006": {
                 "Title": "アイドリック・カデンツァ",
-                "Description": "アストラが<color=#FFFFFF>「アイドリック・カデンツァ」</color>状態に入った後、チーム全体の与ダメージが<color=#2BAD00>{CAL:0.08+AvatarSkillLevel(1)*0.01,100,2}%</color>、チーム全体の会心ダメージが<color=#2BAD00>{CAL:0.07+AvatarSkillLevel(1)*0.015,100,2}%</color>アップする。\n<color=#FFFFFF>「アイドリック・カデンツァ」</color>状態にある時、アストラは移動できなくなる。その間、 <IconMap:Icon_Normal> を押して<color=#FFFFFF>『通常攻撃：インタールード』</color>を発動することは可能。また <IconMap:Icon_Evade> を押すと回避でき、<color=#FFFFFF>『極限回避』</color>を発動した後に <IconMap:Icon_Normal> を押すと<color=#FFFFFF>『通常攻撃：コーラス』</color>を発動できる。\n状態継続中、アストラの中断耐性レベルがアップし、被ダメージが40%ダウンする。アストラは他のメンバーに切り替わった後もフィールド上に留まり、無敵効果を得る。再びアストラに切り替えた時、<color=#FFFFFF>『特殊スキル：風鈴といつかの約束』</color>が自動で発動される。\n状態継続中、 <IconMap:Icon_Normal> を長押しして<color=#FFFFFF>『通常攻撃：フィナーレ』</color>を発動、あるいは <IconMap:Icon_Evade> を長押しすることで、<color=#FFFFFF>「アイドリック・カデンツァ」</color>状態を終えることが可能。"
+                "Description": "アストラが<color=#FFFFFF>「アイドリック・カデンツァ」</color>状態に入った後、メンバー全員の与ダメージ+<color=#2BAD00>{CAL:0.08+AvatarSkillLevel(1)*0.01,100,2}%</color>、メンバー全員の会心ダメージ+<color=#2BAD00>{CAL:0.07+AvatarSkillLevel(1)*0.015,100,2}%</color>。\n<color=#FFFFFF>「アイドリック・カデンツァ」</color>状態にある時、アストラは移動できなくなる。その間、 <IconMap:Icon_Normal> を押して<color=#FFFFFF>『通常攻撃：インタールード』</color>を発動することは可能。また <IconMap:Icon_Evade> を押すと回避でき、<color=#FFFFFF>『極限回避』</color>を発動した後に <IconMap:Icon_Normal> を押すと<color=#FFFFFF>『通常攻撃：コーラス』</color>を発動できる。\n状態継続中、アストラの中断耐性レベルがアップし、被ダメージ-40%。アストラは他のメンバーに切り替わった後もフィールド上に留まり、無敵効果を得る。再びアストラに切り替えた時、<color=#FFFFFF>『特殊スキル：風鈴といつかの約束』</color>が自動で発動される。\n状態継続中、 <IconMap:Icon_Normal> を長押しして<color=#FFFFFF>『通常攻撃：フィナーレ』</color>を発動、あるいは <IconMap:Icon_Evade> を長押しすることで、<color=#FFFFFF>「アイドリック・カデンツァ」</color>状態を終えることが可能。"
             },
             "131100007": {
                 "Title": "コード",
@@ -189,11 +189,11 @@
                 "Title": "特殊スキル：風鈴といつかの約束"
             },
             "131100044": {
-                "Description": "チーム全体のダメージアップ",
+                "Description": "メンバー全員のダメージアップ",
                 "Param": "{CAL:0.08+AvatarSkillLevel(1)*0.01,100,2}%"
             },
             "131100045": {
-                "Description": "チーム全体の会心ダメージアップ",
+                "Description": "メンバー全員の会心ダメージアップ",
                 "Param": "{CAL:0.07+AvatarSkillLevel(1)*0.015,100,2}%"
             },
             "131100046": {
@@ -271,7 +271,7 @@
             },
             "131100012": {
                 "Title": "終結スキル：幻想のソナタ",
-                "Description": "デシベルレートが<color=#FFFFFF>『Maximum』</color>に達した時に <IconMap:Icon_UltimateReady> を押して発動：\n歌声でエネルギー波を引き起こし、<color=#FE437E>エーテル属性ダメージ</color>を大量に与え、チーム全体のHPを<color=#2BAD00>{CAL:-50+AvatarSkillLevel(3)*250,1,2}</color>Pt回復する。\nスキル発動中、無敵効果を得る。\nスキルが敵に命中すると、<color=#FFFFFF>『クイック支援』</color>が発動可能になる。\nスキル発動後、アストラは<color=#FFFFFF>「アイドリック・カデンツァ」</color>状態に入る。\nスキル発動後、次の2回の<color=#FFFFFF>『クイック支援』</color>が<color=#FFFFFF>『連携スキル』</color>に変わる。この回数が尽きる前に、エージェントの<color=#FFFFFF>『連携スキル』</color>または<color=#FFFFFF>『終結スキル』</color>が敵に命中すると、<color=#FFFFFF>『クイック支援』</color>が発動可能になる。"
+                "Description": "デシベルレートが<color=#FFFFFF>『Maximum』</color>に達した時に <IconMap:Icon_UltimateReady> を押して発動：\n歌声でエネルギー波を引き起こし、<color=#FE437E>エーテル属性ダメージ</color>を大量に与え、メンバー全員のHPを<color=#2BAD00>{CAL:-50+AvatarSkillLevel(3)*250,1,2}</color>Pt回復する。\nスキル発動中、無敵効果を得る。\nスキルが敵に命中すると、<color=#FFFFFF>『クイック支援』</color>が発動可能になる。\nスキル発動後、アストラは<color=#FFFFFF>「アイドリック・カデンツァ」</color>状態に入る。\nスキル発動後、次の2回の<color=#FFFFFF>『クイック支援』</color>が<color=#FFFFFF>『連携スキル』</color>に変わる。この回数が尽きる前に、メンバー全員の<color=#FFFFFF>『連携スキル』</color>または<color=#FFFFFF>『終結スキル』</color>が敵に命中すると、<color=#FFFFFF>『クイック支援』</color>が発動可能になる。"
             },
             "131100060": {
                 "Title": "連携スキル：ほろ酔いコンツェルト"

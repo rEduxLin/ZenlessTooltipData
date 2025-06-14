@@ -50,7 +50,7 @@
         },
         "MathSkill": {
             "Title": "Zusatzfähigkeit: Geschäftspartnerin",
-            "Description": "Wenn sich in der Truppe eine <color=#FFFFFF>Attacke</color>-Figur befindet oder eine andere Figur derselben Fraktion angehört:\nBeim Treffen von Gegnern mit <color=#FFFFFF>„Spezialangriff: Zerfleischende Klaue – Albtraumschatten“</color>, <color=#FFFFFF>verstärktem Spezialangriff</color>, <color=#FFFFFF>sukzessiver Hilfe</color>, <color=#FFFFFF>Kettenangriff</color> oder <color=#FFFFFF>Ultimate</color> wird ihnen der Effekt <color=#FFFFFF>„Fesselfalle“</color> verliehen, hält 15 s. Der <color=#FFFFFF>Nachschock</color>-SCH aller Truppenmitglieder gegen von <color=#FFFFFF>„Fesselfalle“</color> betroffene Ziele erhöht sich um 30 %."
+            "Description": "Wenn sich in der Truppe eine <color=#FFFFFF>Attacke</color>- oder <color=#FFFFFF>Spaltung</color>-Figur befindet oder eine andere Figur derselben Fraktion angehört:\nBeim Treffen von Gegnern mit <color=#FFFFFF>Spezialangriff: Zerfleischende Klaue – Albtraumschatten</color>, <color=#FFFFFF>Verstärkter Spezialangriff: Zerfleischende Klaue – Blitzschritt</color>, <color=#FFFFFF>Sukzessive Hilfe: Unabhängige Preisgestaltung</color>, <color=#FFFFFF>Kettenangriff: Das kam unerwartet, was?</color> oder <color=#FFFFFF>Ultimate: Ist es Zeit zum Spielen?</color> wird ihnen der Effekt <color=#FFFFFF>„Fesselfalle“</color> verliehen, hält 15 s. Der <color=#FFFFFF>Nachschock</color>-SCH aller Einheiten gegen von <color=#FFFFFF>„Fesselfalle“</color> betroffene Ziele erhöht sich um 30 %."
         }
     },
     "SkillDescriptions": {
@@ -109,7 +109,7 @@
             },
             "135100004": {
                 "Title": "Spezialangriff: Zerfleischende Klaue – Albtraumschatten",
-                "Description": "Wenn Pulchra sich im Zustand <color=#FFFFFF>„Jagdtrieb“</color> befindet und eine andere gesteuerte Figur einen Gegner mit dem heftigen Schlag eines <color=#FFFFFF>Spezialangriffs</color> oder <color=#FFFFFF>verstärkten Spezialangriffs</color> trifft:\nBewegt sich vor und zurück und führt dabei Hiebe um den gezielten Gegner herum aus, die <color=#F0D12B>phys. SCH</color> verursachen.\nWenn nach Auslösen der Fähigkeit eine andere gesteuerte Figur einen Gegner trifft, wiederholt Pulchra den Angriff bis zu 5-mal, wobei der letzte Angriff nun ein kraftvollerer Gnadenstoß ist.\nDie Figur ist beim Anwenden dieser Fähigkeit unverwundbar.\n<color=#FFFFFF>„Spezialangriff: Zerfleischende Klaue – Albtraumschatten“</color> wird als <color=#FFFFFF>Nachschock</color> gewertet."
+                "Description": "Wenn Pulchra sich im Zustand <color=#FFFFFF>„Jagdtrieb“</color> befindet und eine andere gesteuerte Figur einen Gegner mit dem heftigen Schlag eines <color=#FFFFFF>Spezialangriffs</color> oder <color=#FFFFFF>verstärkten Spezialangriffs</color> trifft:\nBewegt sich vor und zurück und führt dabei Hiebe um den gezielten Gegner herum aus, die <color=#F0D12B>phys. SCH</color> verursachen.\nWenn nach Anwenden der Fähigkeit eine andere gesteuerte Figur einen Gegner trifft, wiederholt Pulchra den Angriff bis zu 5-mal, wobei der letzte Angriff nun ein kraftvollerer Gnadenstoß ist.\nDie Figur ist beim Anwenden dieser Fähigkeit unverwundbar.\n<color=#FFFFFF>Spezialangriff: Zerfleischende Klaue – Albtraumschatten</color> gilt als <color=#FFFFFF>Nachschock</color>."
             },
             "135100005": {
                 "Title": "Verstärkter Spezialangriff: Zerfleischende Klaue – Blitzschritt",

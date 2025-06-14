@@ -11,7 +11,7 @@
         },
         "2": {
             "Title": "\"Ether Vision\"",
-            "Description": "Saat melancarkan <color=#FFFFFF>Aftershock</color>, Trigger akan mendapatkan 1 lapis <color=#FFFFFF>Hunter's Gaze</color>. Saat melancarkan serangan terakhir dalam <color=#FFFFFF>posisi membidik</color>, Trigger akan mendapatkan 2 lapis <color=#FFFFFF>Hunter's Gaze</color>. Setiap 1 lapis <color=#FFFFFF>Hunter's Gaze</color> yang dimiliki, CRIT DMG semua anggota tim akan meningkat 6%. Maks. dapat ditumpuk hingga 4 lapis dan berlangsung selama 10 detik. Memicu ulang akan memperbarui durasi.",
+            "Description": "Saat melancarkan <color=#FFFFFF>Aftershock</color>, Trigger akan mendapatkan 1 lapis <color=#FFFFFF>Hunter's Gaze</color>. Saat melancarkan serangan terakhir dalam <color=#FFFFFF>posisi membidik</color>, Trigger akan mendapatkan 2 lapis <color=#FFFFFF>Hunter's Gaze</color>. Setiap 1 lapis <color=#FFFFFF>Hunter's Gaze</color> yang dimiliki, CRIT DMG semua Agen dalam tim akan meningkat 6%. Maks. dapat ditumpuk hingga 4 lapis dan berlangsung selama 10 detik. Memicu ulang akan memperbarui durasi.",
             "Lore": "Saat berada di dalam Hollow, semua fluktuasi Ether di sekitarnya akan membantunya mengamati lingkungan.\n\"Dulu aku selalu merasa ini adalah sepasang mata yang penuh penderitaan dan terkutuk.\"\n\"Tapi sekarang... mata ini adalah tiket untuk mencapai targetku, dan juga bukti bahwa aku tidak pernah melupakan masa lalu.\""
         },
         "3": {
@@ -457,6 +457,12 @@
             "DamageValue": 20000,
             "DamageGrowth": 0,
             "DazeValue": 12000,
+            "DazeGrowth": 0
+        },
+        "1361024": {
+            "DamageValue": 0,
+            "DamageGrowth": 0,
+            "DazeValue": 0,
             "DazeGrowth": 0
         }
     }

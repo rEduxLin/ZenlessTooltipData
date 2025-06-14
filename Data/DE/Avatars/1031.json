@@ -31,7 +31,7 @@
         },
         "6": {
             "Title": "Korrosions-Energiefeld",
-            "Description": "Erhöht, wenn das Energiefeld einem Ziel SCH zufügt, die KRIT-Rate aller Truppenmitglieder gegen dieses Ziel um 1,5 %, max. 10-fach stapelbar, hält 12 s. Die Dauer jeder Stapelung wird einzeln berechnet.",
+            "Description": "Erhöht, wenn das Energiefeld einem Ziel SCH zufügt, die KRIT-Rate aller Einheiten gegen dieses Ziel um 1,5 %, max. 10-fach stapelbar, hält 12 s. Die Dauer jeder Stapelung wird einzeln berechnet.",
             "Lore": "Der Wechsel zu qualitativ hochwertigerer Munition mit größerer Feuerkraft und mehr komprimierter ätherischer Materie führt zu größerem Schaden, längerer Nutzungsdauer ... und höheren Kosten."
         }
     },
@@ -50,7 +50,7 @@
         },
         "MathSkill": {
             "Title": "Zusatzfähigkeit: Hase mit vielen Höhlen",
-            "Description": "Wenn eine andere Figur in der Truppe dasselbe Attribut hat oder eine andere Figur derselben Fraktion angehört:\nErhöht, wenn Nicole mit ihrer <color=#FFFFFF>passiven Kernfähigkeit: Mechanische Mappe</color> einen Maluseffekt auf Gegner auslöst, den von allen Truppenmitgliedern verursachten <color=#FE437E>Äther-SCH</color> am Ziel zusätzlich um 25 %, hält 3,5 s."
+            "Description": "Wenn eine andere Figur in der Truppe dasselbe Attribut hat oder eine andere Figur derselben Fraktion angehört:\nErhöht, wenn Nicole mit ihrer <color=#FFFFFF>passiven Kernfähigkeit: Mechanische Mappe</color> einen Maluseffekt auf Gegner auslöst, den durch alle Einheiten verursachten <color=#FE437E>Äther-SCH</color> am Ziel zusätzlich um 25 %, hält 3,5 s."
         }
     },
     "SkillDescriptions": {

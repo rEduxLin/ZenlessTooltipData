@@ -11,7 +11,7 @@
         },
         "2": {
             "Title": "高温凝縮",
-            "Description": "「11号」が<color=#FFFFFF>『火力鎮圧』</color>を発動した時、<color=#FFFFFF>『通常攻撃』</color>、<color=#FFFFFF>『ダッシュ攻撃』</color>、<color=#FFFFFF>『回避反撃』</color>の与ダメージが3%アップする、最大12重まで重ね掛け可能、継続時間15秒。継続時間は1重ごとに独立してカウントされる。",
+            "Description": "「11号」が<color=#FFFFFF>『火力鎮圧』</color>を発動した時、<color=#FFFFFF>『通常攻撃』</color>、<color=#FFFFFF>『ダッシュ攻撃』</color>、<color=#FFFFFF>『回避反撃』</color>の与ダメージ+3%、最大12重まで重ね掛け可能、継続時間15秒。継続時間は1重ごとに独立してカウントされる。",
             "Lore": "「彼女は一見、氷のように冷たくてお堅く見えるが…」\n「その実、炎のように熱い心を内に秘めているんだ」\n——オブシディアン大隊の匿名の軍人より"
         },
         "3": {
@@ -21,7 +21,7 @@
         },
         "4": {
             "Title": "強まる火勢",
-            "Description": "<color=#FFFFFF>『通常攻撃』</color>の1、2、3段目あるいは<color=#FFFFFF>『ダッシュ攻撃』</color>を行った時、<color=#FFFFFF>『火力鎮圧』</color>が発動した場合、スキル発動中に中断耐性レベルがアップし、被ダメージが18%ダウンする。\n<color=#FFFFFF>『通常攻撃』</color>4段目を行った時、<color=#FFFFFF>『火力鎮圧』</color>が発動した場合、スキル発動中に無敵効果を得る。",
+            "Description": "<color=#FFFFFF>『通常攻撃』</color>の1、2、3段目あるいは<color=#FFFFFF>『ダッシュ攻撃』</color>を行った時、<color=#FFFFFF>『火力鎮圧』</color>が発動した場合、スキル発動中に中断耐性レベルがアップし、被ダメージ-18%。\n<color=#FFFFFF>『通常攻撃』</color>4段目を行った時、<color=#FFFFFF>『火力鎮圧』</color>が発動した場合、スキル発動中に無敵効果を得る。",
             "Lore": "彼女は炎に憧れた。\n手の付けられないような猛火さえ、彼女の力となる。"
         },
         "5": {
@@ -39,18 +39,18 @@
         "UniqueSkill": {
             "Title": "コアパッシブ：熱波",
             "DescriptionByLevel": {
-                "1": "「11号」が<color=#FFFFFF>『通常攻撃』</color>または<color=#FFFFFF>『ダッシュ攻撃』</color>を行った時に<color=#FFFFFF>『火力鎮圧』</color>を発動した場合、スキルの与ダメージが<color=#2BAD00>35%</color>アップする。",
-                "2": "「11号」が<color=#FFFFFF>『通常攻撃』</color>または<color=#FFFFFF>『ダッシュ攻撃』</color>を行った時に<color=#FFFFFF>『火力鎮圧』</color>を発動した場合、スキルの与ダメージが<color=#2BAD00>40.8%</color>アップする。",
-                "3": "「11号」が<color=#FFFFFF>『通常攻撃』</color>または<color=#FFFFFF>『ダッシュ攻撃』</color>を行った時に<color=#FFFFFF>『火力鎮圧』</color>を発動した場合、スキルの与ダメージが<color=#2BAD00>46.6%</color>アップする。",
-                "4": "「11号」が<color=#FFFFFF>『通常攻撃』</color>または<color=#FFFFFF>『ダッシュ攻撃』</color>を行った時に<color=#FFFFFF>『火力鎮圧』</color>を発動した場合、スキルの与ダメージが<color=#2BAD00>52.5%</color>アップする。",
-                "5": "「11号」が<color=#FFFFFF>『通常攻撃』</color>または<color=#FFFFFF>『ダッシュ攻撃』</color>を行った時に<color=#FFFFFF>『火力鎮圧』</color>を発動した場合、スキルの与ダメージが<color=#2BAD00>58.3%</color>アップする。",
-                "6": "「11号」が<color=#FFFFFF>『通常攻撃』</color>または<color=#FFFFFF>『ダッシュ攻撃』</color>を行った時に<color=#FFFFFF>『火力鎮圧』</color>を発動した場合、スキルの与ダメージが<color=#2BAD00>64.1%</color>アップする。",
-                "7": "「11号」が<color=#FFFFFF>『通常攻撃』</color>または<color=#FFFFFF>『ダッシュ攻撃』</color>を行った時に<color=#FFFFFF>『火力鎮圧』</color>を発動した場合、スキルの与ダメージが<color=#2BAD00>70%</color>アップする。"
+                "1": "「11号」が<color=#FFFFFF>『通常攻撃』</color>または<color=#FFFFFF>『ダッシュ攻撃』</color>を行った時に<color=#FFFFFF>『火力鎮圧』</color>を発動した場合、スキルの与ダメージ+<color=#2BAD00>35%</color>。",
+                "2": "「11号」が<color=#FFFFFF>『通常攻撃』</color>または<color=#FFFFFF>『ダッシュ攻撃』</color>を行った時に<color=#FFFFFF>『火力鎮圧』</color>を発動した場合、スキルの与ダメージ+<color=#2BAD00>40.8%</color>。",
+                "3": "「11号」が<color=#FFFFFF>『通常攻撃』</color>または<color=#FFFFFF>『ダッシュ攻撃』</color>を行った時に<color=#FFFFFF>『火力鎮圧』</color>を発動した場合、スキルの与ダメージ+<color=#2BAD00>46.6%</color>。",
+                "4": "「11号」が<color=#FFFFFF>『通常攻撃』</color>または<color=#FFFFFF>『ダッシュ攻撃』</color>を行った時に<color=#FFFFFF>『火力鎮圧』</color>を発動した場合、スキルの与ダメージ+<color=#2BAD00>52.5%</color>。",
+                "5": "「11号」が<color=#FFFFFF>『通常攻撃』</color>または<color=#FFFFFF>『ダッシュ攻撃』</color>を行った時に<color=#FFFFFF>『火力鎮圧』</color>を発動した場合、スキルの与ダメージ+<color=#2BAD00>58.3%</color>。",
+                "6": "「11号」が<color=#FFFFFF>『通常攻撃』</color>または<color=#FFFFFF>『ダッシュ攻撃』</color>を行った時に<color=#FFFFFF>『火力鎮圧』</color>を発動した場合、スキルの与ダメージ+<color=#2BAD00>64.1%</color>。",
+                "7": "「11号」が<color=#FFFFFF>『通常攻撃』</color>または<color=#FFFFFF>『ダッシュ攻撃』</color>を行った時に<color=#FFFFFF>『火力鎮圧』</color>を発動した場合、スキルの与ダメージ+<color=#2BAD00>70%</color>。"
             }
         },
         "MathSkill": {
             "Title": "追加能力：燎原",
-            "Description": "チームに自身と同じ属性または同じ陣営のメンバーがいる時に発動：\n「11号」の与える<color=#FF5521>炎属性ダメージ</color>が10%アップする。ブレイク状態になった敵を攻撃する時、このアップ効果がさらに22.5%アップする。"
+            "Description": "チームに自身と同じ属性または同じ陣営のメンバーがいる時に発動：\n「11号」の与える<color=#FF5521>炎属性ダメージ</color>+10%。ブレイク状態になった敵を攻撃する時、このアップ効果がさらに+22.5%。"
         }
     },
     "SkillDescriptions": {

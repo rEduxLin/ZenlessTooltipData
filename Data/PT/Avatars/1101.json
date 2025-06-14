@@ -21,7 +21,7 @@
         },
         "4": {
             "Title": "Calor Remanescente",
-            "Description": "Koleda ganha um acúmulo de Carga (máx. de 2 acúmulos) ao consumir <color=#FFFFFF>Calor Crescente</color> para usar seu <color=#FFFFFF>Ataque Básico</color> aprimorado. Ao acertar um inimigo com <color=#FFFFFF>Ataque em Cadeia</color> ou <color=#FFFFFF>Supremo</color>, Koleda consome todas as Cargas para aumentar o dano causado em 18% por acúmulo.",
+            "Description": "Koleda ganha um acúmulo de Carga (máx. de 2 acúmulos) ao consumir <color=#FFFFFF>Calor Crescente</color> para usar seu <color=#FFFFFF>Ataque Básico</color> aprimorado. Ao acertar um inimigo com <color=#FFFFFF>Ataque em Cadeia: Desastre Natural</color> ou <color=#FFFFFF>Supremo: Tremor do Martelo</color>, Koleda consome todas as Cargas para aumentar o dano causado em 18% por acúmulo.",
             "Lore": "Koleda pode sentir as chamas da guerra quando suas marteladas aumentam a temperatura do ambiente.\nAgora ela é ainda mais inflamável e explosiva que o próprio Éter."
         },
         "5": {
@@ -50,7 +50,7 @@
         },
         "MathSkill": {
             "Title": "Habilidade Extra: Gerenciamento da Belobog",
-            "Description": "Quando outro personagem na sua equipe compartilha do mesmo atributo ou facção:\nQuando a explosão do <color=#FFFFFF>Ataque Especial Reforçado</color> de Koleda atinge um inimigo, o alvo sofre 35% mais dano de <color=#FFFFFF>Ataques em Cadeia</color> quando Atordoado. O efeito acumula até 2 vezes e termina quando o inimigo se recupera do Atordoamento."
+            "Description": "Quando outro personagem na sua equipe compartilha do mesmo atributo ou facção, ou é um personagem <color=#FFFFFF>Destruidor</color>: \nQuando a explosão do <color=#FFFFFF>Ataque Especial Reforçado</color> de Koleda atinge um inimigo, o alvo sofre 35% mais dano de <color=#FFFFFF>Ataques em Cadeia</color> quando Atordoado. O efeito acumula até 2 vezes e termina quando o inimigo se recupera do Atordoamento."
         }
     },
     "SkillDescriptions": {

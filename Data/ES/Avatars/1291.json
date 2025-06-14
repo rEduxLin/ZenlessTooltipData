@@ -57,11 +57,11 @@
         "0": {
             "129100001": {
                 "Title": "Ataque normal: Cuarteto del abismo",
-                "Description": "Pulsa <IconMap:Icon_Normal> para usarlo.\nEjecuta cuatro ataques hacia delante que infligen <color=#F0D12B>daño físico</color> y <color=#98EFF0>daño glacial</color>.\nEl cuarto ataque es un disparo. Al mantener pulsado <IconMap:Icon_Normal> durante la ejecución del disparo, se puede acumular fuerza para ejecutar un disparo cargado.\nDurante su ejecución, aumenta el nivel de resistencia a interrupción. El daño recibido se reduce en un 40 %."
+                "Description": "Pulsa <IconMap:Icon_Normal> para usarlo.\nEjecuta hasta cuatro ataques hacia delante que infligen <color=#F0D12B>daño físico</color> y <color=#98EFF0>daño glacial</color>.\nEl cuarto ataque es un disparo. Al mantener pulsado <IconMap:Icon_Normal> durante la ejecución del disparo, se puede acumular fuerza para ejecutar un disparo cargado.\nDurante su ejecución, el nivel de resistencia a interrupción aumenta. El daño recibido se reduce en un 40 %."
             },
             "129100002": {
                 "Title": "Ataque normal: Concierto del abismo",
-                "Description": "Después de ejecutar el cuarto ataque del <color=#FFFFFF>ataque normal: Cuarteto del abismo</color>, al ejecutar el disparo del <color=#FFFFFF>contraataque: Sombra fantasmal - Corte</color> o el disparo del <color=#FFFFFF>apoyo rápido: Elegía</color>, pulsa o mantén pulsado <IconMap:Icon_Normal> para usarlo.\nLanza su guadaña hacia delante para ejecutar un corte seguido de un disparo, lo que inflige <color=#98EFF0>daño glacial</color>.\nMantén pulsado <IconMap:Icon_Normal> durante el disparo para acumular fuerza y ejecutar un disparo cargado.\nDurante su ejecución, aumenta el nivel de resistencia a interrupción. El daño recibido se reduce en un 40 %."
+                "Description": "Después de ejecutar el cuarto ataque del <color=#FFFFFF>ataque normal: Cuarteto del abismo</color>, al ejecutar el disparo del <color=#FFFFFF>contraataque: Sombra fantasmal - Corte</color> o el disparo del <color=#FFFFFF>apoyo rápido: Elegía</color>, pulsa o mantén pulsado <IconMap:Icon_Normal> para usarlo.\nLanza su guadaña hacia delante para ejecutar un corte seguido de un disparo, lo que inflige <color=#98EFF0>daño glacial</color>.\nMantén pulsado <IconMap:Icon_Normal> durante el disparo para acumular fuerza y ejecutar un disparo cargado.\nDurante su ejecución, el nivel de resistencia a interrupción aumenta. El daño recibido se reduce en un 40 %."
             },
             "129100014": {
                 "Title": "Ataque normal: Cuarteto del abismo"

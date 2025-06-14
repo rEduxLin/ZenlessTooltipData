@@ -11,7 +11,7 @@
         },
         "2": {
             "Title": "Capitaine des troupes porcines",
-            "Description": "Lorsque Lucy lance un <color=#FFFFFF>enchaînement</color> ou un <color=#FFFFFF>ultime</color>, tous les membres de l'escouade, les Bangbous et les porcelets gardiens obtiennent l'effet <color=#FFFFFF>Du nerf !</color> pendant 10 s.",
+            "Description": "Lorsque Lucy lance un <color=#FFFFFF>enchaînement</color> ou un <color=#FFFFFF>ultime</color>, tous les personnages de l'escouade, les Bangbous et les porcelets gardiens obtiennent l'effet <color=#FFFFFF>Du nerf !</color> pendant 10 s.",
             "Lore": "« Il ne fait aucun doute que capitaine Lucy est la meilleure cheffe des thiriens porcins de Calydon de tous les temps ! »\nConclusion écrite par Boisie dans le <i>Rapport annuel des Fils de Calydon</i>."
         },
         "3": {
@@ -31,7 +31,7 @@
         },
         "6": {
             "Title": "Crocs ardents féroces",
-            "Description": "Lorsqu'un autre membre de l'escouade avec l'effet <color=#FFFFFF>Du nerf !</color> frappe un ennemi avec une <color=#FFFFFF>attaque spéciale EX</color>, un porcelet gardien tombe du ciel et provoque une explosion qui inflige des <color=#FF5521>DGT de feu</color> équivalents à 300 % de l'ATQ du porcelet gardien. Cette explosion prolonge également de 5 s la durée de l'effet <color=#FFFFFF>Du nerf !</color> pour tous les membres de l'escouade. La durée peut être prolongée jusqu'à 3 fois, la durée maximale étant de 30 s. Réactiver l'effet <color=#FFFFFF>Du nerf !</color> réinitialise le compte de cumuls. Après l'explosion, le porcelet gardien lance <color=#FFFFFF>Porcelets gardiens : Swing tornade !</color>.",
+            "Description": "Lorsqu'un autre personnage de l'escouade avec l'effet <color=#FFFFFF>Du nerf !</color> frappe un ennemi avec une <color=#FFFFFF>attaque spéciale EX</color>, un porcelet gardien tombe du ciel et provoque une explosion qui inflige des <color=#FF5521>DGT de feu</color> équivalents à 300 % de l'ATQ du porcelet gardien. Cette explosion prolonge également de 5 s la durée de l'effet <color=#FFFFFF>Du nerf !</color> pour tous les personnages de l'escouade, les Bangbous et les porcelets gardiens. La durée peut être prolongée jusqu'à 3 fois, la durée maximale étant de 30 s. Réactiver l'effet <color=#FFFFFF>Du nerf !</color> réinitialise le compte de cumuls. Après l'explosion, le porcelet gardien lance <color=#FFFFFF>Porcelets gardiens : Swing tornade !</color>.",
             "Lore": "Les petits thiriens porcins connus sous le nom de Garde de la Crinière vermeille sont toujours en première ligne !\nPourtant, au moment où ils sont propulsés par la batte, difficile à dire s'ils sont pris de désespoir, ou s'ils acceptent entièrement leur sort.\nBraves petits porcelets, guidez-nous jusqu'à la victoire !"
         }
     },
@@ -50,7 +50,7 @@
         },
         "MathSkill": {
             "Title": "Capacité supplémentaire : Batteur aux aguets !",
-            "Description": "Lorsqu'un autre personnage de votre escouade est du même attribut ou de la même faction que Lucy :\nLes porcelets gardiens héritent du taux CRIT et des DGT CRIT de Lucy."
+            "Description": "Lorsqu'un autre personnage de votre escouade est du même attribut, de la même faction que Lucy, ou de la spécialisation <color=#FFFFFF>Rupture</color> :\nLes porcelets gardiens héritent du taux CRIT et des DGT CRIT de Lucy."
         }
     },
     "SkillDescriptions": {
@@ -160,7 +160,7 @@
             },
             "115100006": {
                 "Title": "Du nerf !",
-                "Description": "Après une <color=#FFFFFF>attaque spéciale EX</color>, et qu'un porcelet gardien déclenche une explosion, il confère l'effet <color=#FFFFFF>Du nerf !</color> à tous les personnages alliés, aux Bangbous et aux porcelets gardiens. Lorsque l'effet <color=#FFFFFF>Du nerf !</color> est actif, l'ATQ des unités alliées augmente d'un montant équivalent à <color=#2BAD00>{CAL:13+AvatarSkillLevel(1)*0.8,1,2} %</color> de l'ATQ initiale de Lucy + <color=#2BAD00>{CAL:40+AvatarSkillLevel(1)*4,1,2}</color>, jusqu'à un maximum de 600. L'effet <color=#FFFFFF>Du nerf !</color> dure 10 s lorsque Lucy frappe une <color=#FFFFFF>balle droite</color> et 15 s lorsque Lucy frappe une <color=#FFFFFF>chandelle</color>. Les activations répétées réinitialisent la durée de l'effet."
+                "Description": "Après une <color=#FFFFFF>attaque spéciale EX</color>, et qu'un porcelet gardien déclenche une explosion, il confère l'effet <color=#FFFFFF>Du nerf !</color> à tous les personnages de l'escouade, aux Bangbous et aux porcelets gardiens. Lorsque l'effet <color=#FFFFFF>Du nerf !</color> est actif, l'ATQ des unités alliées augmente d'un montant équivalent à <color=#2BAD00>{CAL:13+AvatarSkillLevel(1)*0.8,1,2} %</color> de l'ATQ initiale de Lucy + <color=#2BAD00>{CAL:40+AvatarSkillLevel(1)*4,1,2}</color>, jusqu'à un maximum de 600. L'effet <color=#FFFFFF>Du nerf !</color> dure 10 s lorsque Lucy frappe une <color=#FFFFFF>balle droite</color> et 15 s lorsque Lucy frappe une <color=#FFFFFF>chandelle</color>. Les activations répétées réinitialisent la durée de l'effet."
             },
             "115110022": {
                 "Title": "Du nerf !"

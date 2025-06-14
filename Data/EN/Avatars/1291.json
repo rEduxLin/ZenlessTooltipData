@@ -57,11 +57,11 @@
         "0": {
             "129100001": {
                 "Title": "Basic Attack: Dark Abyss Quartet",
-                "Description": "Press <IconMap:Icon_Normal> to activate:\nPerform up to four attacks forward, dealing <color=#F0D12B>Physical DMG</color> and <color=#98EFF0>Ice DMG</color>.\nThe fourth attack is a shot. During this attack, hold <IconMap:Icon_Normal> to charge and perform a charged shot.\nAnti-Interrupt level is increased during the fourth attack, and received damage reduced by 40%."
+                "Description": "Press <IconMap:Icon_Normal> to activate:\nPerform up to four attacks forward, dealing <color=#F0D12B>Physical DMG</color> and <color=#98EFF0>Ice DMG</color>.\nThe fourth attack is a shot. During this attack, hold <IconMap:Icon_Normal> to charge and perform a charged shot.\nAnti-Interrupt level is increased during the fourth attack, and DMG received is reduced by 40%."
             },
             "129100002": {
                 "Title": "Basic Attack: Dark Abyss Concerto",
-                "Description": "After the 4th hit of <color=#FFFFFF>Basic Attack: Dark Abyss Quartet</color>, the shot of <color=#FFFFFF>Dodge Counter: Phantasm - Slash</color>, or the shot of <color=#FFFFFF>Quick Assist: Elegy</color>, press or hold <IconMap:Icon_Normal> to activate:\nThrow the scythe forward to perform a slash, followed by a shot, dealing <color=#98EFF0>Ice DMG</color>.\nDuring the shot, hold <IconMap:Icon_Normal> to charge and perform a charged shot.\nAnti-Interrupt level is increased while using this skill, and received damage reduced by 40%."
+                "Description": "After the 4th hit of <color=#FFFFFF>Basic Attack: Dark Abyss Quartet</color>, the shot of <color=#FFFFFF>Dodge Counter: Phantasm - Slash</color>, or the shot of <color=#FFFFFF>Quick Assist: Elegy</color>, press or hold <IconMap:Icon_Normal> to activate:\nThrow the scythe forward to perform a slash, followed by a shot, dealing <color=#98EFF0>Ice DMG</color>.\nDuring the shot, hold <IconMap:Icon_Normal> to charge and perform a charged shot.\nDuring this skill, Anti-Interrupt level is increased, and DMG received is reduced by 40%."
             },
             "129100014": {
                 "Title": "Basic Attack: Dark Abyss Quartet"
@@ -189,7 +189,7 @@
             },
             "129100007": {
                 "Title": "Dodge Counter: Phantasm - Slash",
-                "Description": "Press <IconMap:Icon_Normal> during a <color=#FFFFFF>Perfect Dodge</color> to activate:\nPerforms a series of attacks on enemies in front, dealing <color=#98EFF0>Ice DMG</color>.\nDuring the skill, hold <IconMap:Icon_Normal> to launch a shot. During the shot, hold <IconMap:Icon_Normal> to charge and perform a charged shot.\nThe shot is considered a Basic Attack, with its DMG treated as Basic Attack DMG.\nAfter the skill is used, it can be directly followed up with the 4th hit of <color=#FFFFFF>Basic Attack: Dark Abyss Quartet</color>.\nDuring the skill's ranged phase, Anti-Interrupt Level is increased, and received damage is reduced by 40%.\nInvulnerable during the slashes and ranged retreat of the skill."
+                "Description": "Press <IconMap:Icon_Normal> during a <color=#FFFFFF>Perfect Dodge</color> to activate:\nPerforms a series of attacks on enemies in front, dealing <color=#98EFF0>Ice DMG</color>.\nDuring the skill, hold <IconMap:Icon_Normal> to launch a shot. During the shot, hold <IconMap:Icon_Normal> to charge and perform a charged shot.\nThe shot is considered a Basic Attack, with its DMG treated as Basic Attack DMG.\nAfter the skill is used, it can be directly followed up with the 4th hit of <color=#FFFFFF>Basic Attack: Dark Abyss Quartet</color>.\nDuring the skill's ranged phase, Anti-Interrupt level is increased, and DMG received is reduced by 40%.\nInvulnerable during the slashes and ranged retreat of the skill."
             },
             "129100044": {
                 "Title": "Dash Attack: Phantasm - Shatter"
@@ -265,7 +265,7 @@
         "6": {
             "129100011": {
                 "Title": "Quick Assist: Elegy",
-                "Description": "When the active character is launched, press <IconMap:Icon_Switch> to activate:\nPerforms a series of attacks on enemies in front, dealing <color=#98EFF0>Ice DMG</color>.\nDuring the skill, hold <IconMap:Icon_Normal> to launch a shot. During the shot, hold <IconMap:Icon_Normal> to charge and perform a charged shot.\nThe shot is considered a Basic Attack, with its DMG treated as Basic Attack DMG.\nAfter the skill is used, it can be directly followed up with the 4th hit of <color=#FFFFFF>Basic Attack: Dark Abyss Quartet</color>.\nDuring the skill's ranged phase, Anti-Interrupt Level is increased, and received damage is reduced by 40%.\nInvulnerable during the slashes and ranged retreat of the skill."
+                "Description": "When the active character is launched, press <IconMap:Icon_Switch> to activate:\nPerforms a series of attacks on enemies in front, dealing <color=#98EFF0>Ice DMG</color>.\nDuring the skill, hold <IconMap:Icon_Normal> to launch a shot. During the shot, hold <IconMap:Icon_Normal> to charge and perform a charged shot.\nThe shot is considered a Basic Attack, with its DMG treated as Basic Attack DMG.\nAfter the skill is used, it can be directly followed up with the 4th hit of <color=#FFFFFF>Basic Attack: Dark Abyss Quartet</color>.\nDuring the skill's ranged phase, Anti-Interrupt Level is increased, and DMG received is reduced by 40%.\nInvulnerable during the slashes and ranged retreat of the skill."
             },
             "129100012": {
                 "Title": "Defensive Assist: The End Has Not Come",

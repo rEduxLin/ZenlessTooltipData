@@ -6,7 +6,7 @@
     "Talents": {
         "1": {
             "Title": "Cámara de recarga",
-            "Description": "Al golpear a un enemigo con el cuarto golpe del <color=#FFFFFF>ataque normal</color>, todos los miembros del equipo recuperan 0.25 ptos. de energía.\nTodos los miembros del equipo pueden recuperar hasta 2 ptos. de energía por activación.",
+            "Description": "Al golpear a un enemigo con el cuarto golpe del <color=#FFFFFF>ataque normal</color>, todos los personajes del equipo recuperan 0.25 ptos. de energía.\nTodos los personajes del equipo pueden recuperar hasta 2 ptos. de energía por activación.",
             "Lore": "La eficiencia es la vida de la ingeniería, y en la cámara de su pistola está el pulso de la misma."
         },
         "2": {
@@ -21,7 +21,7 @@
         },
         "4": {
             "Title": "Condensador electrónico de detonación",
-            "Description": "Al usar una <color=#FFFFFF>técnica especial EX</color>, Grace obtiene 6 cargas energizantes (pueden acumularse hasta 6 cargas). Al golpear a un enemigo con un <color=#FFFFFF>ataque normal</color> o un <color=#FFFFFF>ataque rápido</color>, consume 1 carga energizante y aumenta su Tasa de Energía en un 20 %.",
+            "Description": "Al usar una <color=#FFFFFF>técnica especial EX</color>, Grace obtiene 6 cargas energizantes (pueden acumularse hasta 6 cargas). Al golpear a un enemigo con un <color=#FFFFFF>ataque normal: Barreno de alta presión</color> o un <color=#FFFFFF>ataque rápido: Auditoría sorpresa</color>, consume 1 carga energizante y aumenta su Tasa de Energía en un 20 %.",
             "Lore": "Antón sospechaba que ese componente al que Grace se refería como «módulo de reciclaje de pulso eléctrico» era en realidad un hámster etéreo corriendo sin cesar día y noche para producir electricidad.\n«¿Puedes ponerle uno a mi <i>bro</i>?»"
         },
         "5": {
@@ -39,7 +39,7 @@
         "UniqueSkill": {
             "Title": "Técnica pasiva: Percutor prepropulsado",
             "DescriptionByLevel": {
-                "1": "Cuando Grace golpea a un enemigo con un <color=#FFFFFF>ataque normal</color> o un <color=#FFFFFF>ataque rápido</color> e inflige <color=#F0D12B>daño físico</color>, obtiene una carga de <color=#FFFFFF>calambre</color> (pueden acumularse hasta 8 cargas). Cuando llega al límite de cargas de <color=#FFFFFF>calambre</color>, al ejecutar una <color=#FFFFFF>técnica especial</color> o una <color=#FFFFFF>técnica especial EX</color>, consumirá todas las cargas de <color=#FFFFFF>calambre</color> y aumentará la acumulación de <color=#2EB6FF>anomalía eléctrica</color> en un <color=#2BAD00>65 %</color>.",
+                "1": "Cuando Grace golpea a un enemigo con un <color=#FFFFFF>ataque normal</color> o un <color=#FFFFFF>ataque rápido</color> e inflige <color=#F0D12B>daño físico</color>, obtiene 1 carga de <color=#FFFFFF>calambre</color> (pueden acumularse hasta 8 cargas). Cuando llega al límite de cargas de <color=#FFFFFF>calambre</color>, al ejecutar una <color=#FFFFFF>técnica especial</color> o una <color=#FFFFFF>técnica especial EX</color>, consumirá todas las cargas de <color=#FFFFFF>calambre</color> y aumentará la acumulación de <color=#2EB6FF>anomalía eléctrica</color> en un <color=#2BAD00>65 %</color>.",
                 "2": "Cuando Grace golpea a un enemigo con un <color=#FFFFFF>ataque normal</color> o un <color=#FFFFFF>ataque rápido</color> e inflige <color=#F0D12B>daño físico</color>, obtiene 1 carga de <color=#FFFFFF>calambre</color> (pueden acumularse hasta 8 cargas). Cuando llega al límite de cargas de <color=#FFFFFF>calambre</color>, al ejecutar una <color=#FFFFFF>técnica especial</color> o una <color=#FFFFFF>técnica especial EX</color>, consumirá todas las cargas de <color=#FFFFFF>calambre</color> y aumentará la acumulación de <color=#2EB6FF>anomalía eléctrica</color> en un <color=#2BAD00>75.8 %</color>.",
                 "3": "Cuando Grace golpea a un enemigo con un <color=#FFFFFF>ataque normal</color> o un <color=#FFFFFF>ataque rápido</color> e inflige <color=#F0D12B>daño físico</color>, obtiene 1 carga de <color=#FFFFFF>calambre</color> (pueden acumularse hasta 8 cargas). Cuando llega al límite de cargas de <color=#FFFFFF>calambre</color>, al ejecutar una <color=#FFFFFF>técnica especial</color> o una <color=#FFFFFF>técnica especial EX</color>, consumirá todas las cargas de <color=#FFFFFF>calambre</color> y aumentará la acumulación de <color=#2EB6FF>anomalía eléctrica</color> en un <color=#2BAD00>86.6 %</color>.",
                 "4": "Cuando Grace golpea a un enemigo con un <color=#FFFFFF>ataque normal</color> o un <color=#FFFFFF>ataque rápido</color> e inflige <color=#F0D12B>daño físico</color>, obtiene 1 carga de <color=#FFFFFF>calambre</color> (pueden acumularse hasta 8 cargas). Cuando llega al límite de cargas de <color=#FFFFFF>calambre</color>, al ejecutar una <color=#FFFFFF>técnica especial</color> o una <color=#FFFFFF>técnica especial EX</color>, consumirá todas las cargas de <color=#FFFFFF>calambre</color> y aumentará la acumulación de <color=#2EB6FF>anomalía eléctrica</color> en un <color=#2BAD00>97.5 %</color>.",
@@ -50,7 +50,7 @@
         },
         "MathSkill": {
             "Title": "Técnica adicional: Departamento de apoyo técnico",
-            "Description": "Si en el equipo hay miembros del mismo Atributo o la misma afiliación que ella:\nCuando Grace golpea a un enemigo al ejecutar una <color=#FFFFFF>técnica especial EX</color>, la próxima vez que el enemigo se vea afectado por <color=#2EB6FF>electrochoque</color>, el daño del efecto de <color=#2EB6FF>electrochoque</color> aumenta en un 18 %. Pueden acumularse hasta 2 cargas y activarse una vez en cada enemigo. Se reinicia al terminar el efecto de <color=#2EB6FF>electrochoque</color>."
+            "Description": "Si en el equipo hay miembros del mismo Atributo o la misma afiliación, cuando Grace golpea a un enemigo con una <color=#FFFFFF>técnica especial EX</color>, la próxima vez que el enemigo se vea afectado por <color=#2EB6FF>electrochoque</color>, el daño del efecto de <color=#2EB6FF>electrochoque</color> aumenta en un 18 %. Pueden acumularse hasta 2 cargas y activarse una vez en cada enemigo. Se reinicia al terminar el efecto de <color=#2EB6FF>electrochoque</color>."
         }
     },
     "SkillDescriptions": {

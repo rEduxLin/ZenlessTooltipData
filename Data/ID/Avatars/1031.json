@@ -31,7 +31,7 @@
         },
         "6": {
             "Title": "Corrupting Energy Field",
-            "Description": "Saat Energy Field mengakibatkan DMG terhadap musuh, CRIT Rate semua anggota tim kepada target ini meningkat 1,5% (maks. 10 lapis) selama 12 detik. Durasi setiap lapis akan dihitung secara terpisah.",
+            "Description": "Saat Energy Field mengakibatkan DMG terhadap musuh, CRIT Rate semua unit kepada target ini meningkat 1,5% (maks. 10 lapis) selama 12 detik. Durasi setiap lapis akan dihitung secara terpisah.",
             "Lore": "Senjatanya dilengkapi dengan amunisi yang lebih canggih dan juga bahan peledak dengan konsentrasi Ether yang telah ditingkatkan, sehingga Nicole dapat mengakibatkan DMG yang lebih besar untuk lebih lama... dan juga dengan harga yang lebih mahal."
         }
     },
@@ -50,7 +50,7 @@
         },
         "MathSkill": {
             "Title": "Additional Ability: Hare of Many Burrows",
-            "Description": "Berlaku jika terdapat Agen di dalam tim yang memiliki Atribut yang sama atau berasal dari faksi yang sama:\nSaat <color=#FFFFFF>Core Passive: Mechanical Case</color> Nicole mengakibatkan debuff terhadap target, <color=#FE437E>Ether DMG</color> yang diakibatkan oleh semua anggota tim terhadap musuh tersebut akan meningkat 25% selama 3,5 detik."
+            "Description": "Berlaku jika terdapat Agen di dalam tim yang memiliki Atribut yang sama atau berasal dari faksi yang sama:\nSaat <color=#FFFFFF>Core Passive: Mechanical Case</color> Nicole mengakibatkan debuff terhadap target, <color=#FE437E>Ether DMG</color> yang diakibatkan oleh semua unit terhadap musuh tersebut akan meningkat 25% selama 3,5 detik."
         }
     },
     "SkillDescriptions": {

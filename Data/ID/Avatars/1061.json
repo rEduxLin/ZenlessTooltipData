@@ -50,7 +50,7 @@
         },
         "MathSkill": {
             "Title": "Additional Ability: Cleanup Assistance",
-            "Description": "Berlaku jika terdapat Agen di dalam tim yang memiliki Atribut yang sama atau berasal dari faksi yang sama:\nDMG yang diakibatkan Corin terhadap musuh yang berada dalam status Stun meningkat 35%."
+            "Description": "Berlaku jika terdapat Agen yang memiliki Atribut yang sama atau berasal dari faksi yang sama di dalam tim:\nDMG yang diakibatkan Corin terhadap musuh yang berada dalam status Stun meningkat 35%."
         }
     },
     "SkillDescriptions": {
@@ -485,6 +485,18 @@
             "DamageGrowth": 3300,
             "DazeValue": 10990,
             "DazeGrowth": 500
+        },
+        "1061032": {
+            "DamageValue": 14040,
+            "DamageGrowth": 0,
+            "DazeValue": 10800,
+            "DazeGrowth": 0
+        },
+        "1061033": {
+            "DamageValue": 0,
+            "DamageGrowth": 0,
+            "DazeValue": 0,
+            "DazeGrowth": 0
         }
     }
 }

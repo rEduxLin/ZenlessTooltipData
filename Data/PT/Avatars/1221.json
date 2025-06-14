@@ -468,6 +468,18 @@
             "DamageGrowth": 2060,
             "DazeValue": 5730,
             "DazeGrowth": 270
+        },
+        "1221026": {
+            "DamageValue": 37780,
+            "DamageGrowth": 3440,
+            "DazeValue": 10960,
+            "DazeGrowth": 500
+        },
+        "1221027": {
+            "DamageValue": 144000,
+            "DamageGrowth": 0,
+            "DazeValue": 0,
+            "DazeGrowth": 0
         }
     }
 }

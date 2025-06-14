@@ -31,7 +31,7 @@
         },
         "6": {
             "Title": "Champ énergétique de corruption",
-            "Description": "Lorsque le champ énergétique de Nicole inflige des DGT à un ennemi, le taux CRIT de tous les membres de l'escouade augmente de 1,5 % contre cet ennemi pendant 12 s. Cumulable jusqu'à un maximum de 10 fois. La durée de chaque cumul est calculée séparément.",
+            "Description": "Lorsque le champ énergétique de Nicole inflige des DGT à un ennemi, le taux CRIT de toutes les unités augmente de 1,5 % contre cet ennemi pendant 12 s. Cumulable jusqu'à un maximum de 10 fois. La durée de chaque cumul est calculée séparément.",
             "Lore": "Le passage à des munitions de meilleure qualité, dotées d'une meilleure puissance de feu et d'une plus grande quantité de matière éthérique comprimée, se traduit par des dégâts plus importants, une durée d'utilisation plus longue... et des coûts plus élevés."
         }
     },
@@ -50,7 +50,7 @@
         },
         "MathSkill": {
             "Title": "Capacité supplémentaire : Lièvre aux nombreux terriers",
-            "Description": "Lorsqu'un autre personnage de votre escouade est du même attribut ou de la même faction que Nicole :\nLorsque <color=#FFFFFF>Passif principal : Malette mécanique</color> de Nicole inflige un malus à un ennemi, les <color=#FE437E>DGT éthériques</color> infligés à la cible par tous les membres de l'escouade augmentent de 25 % pendant 3,5 s."
+            "Description": "Lorsqu'un autre personnage de votre escouade est du même attribut ou de la même faction que Nicole :\nLorsque <color=#FFFFFF>Passif principal : Malette mécanique</color> de Nicole inflige un malus à un ennemi, les <color=#FE437E>DGT éthériques</color> infligés à la cible par toutes les unités augmentent de 25 % pendant 3,5 s."
         }
     },
     "SkillDescriptions": {

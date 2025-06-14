@@ -50,7 +50,7 @@
         },
         "MathSkill": {
             "Title": "Additional Ability: Business Partner",
-            "Description": "When another character in your squad is an <color=#FFFFFF>Attack</color> character or shares the same Faction:\nWhen Pulchra hits enemies with <color=#FFFFFF>Special Attack: Rending Claw - Nightmare Shadow</color>, an <color=#FFFFFF>EX Special Attack</color>, <color=#FFFFFF>Assist Follow-Up</color>, <color=#FFFFFF>Chain Attack</color>, or <color=#FFFFFF>Ultimate</color>, it applies the <color=#FFFFFF>Binding Trap</color> effect for 15s. After applying <color=#FFFFFF>Binding Trap</color>, all units' <color=#FFFFFF>Aftershock</color> DMG against the target is increased by 30%."
+            "Description": "When another character in your squad is an <color=#FFFFFF>Attack</color> or <color=#FFFFFF>Rupture</color> character or shares the same Faction:\nWhen Pulchra hits enemies with <color=#FFFFFF>Special Attack: Rending Claw - Nightmare Shadow</color>, <color=#FFFFFF>EX Special Attack: Rending Claw - Flashstep</color>, <color=#FFFFFF>Assist Follow-Up: Independent Pricing</color>, <color=#FFFFFF>Chain Attack: Hey, Didn't Expect That, Right?</color>, or <color=#FFFFFF>Ultimate: Oh, Time to Play?</color>, it applies the <color=#FFFFFF>Binding Trap</color> effect for 15s. After applying <color=#FFFFFF>Binding Trap</color>, all units' <color=#FFFFFF>Aftershock</color> DMG against the target is increased by 30%."
         }
     },
     "SkillDescriptions": {
@@ -109,7 +109,7 @@
             },
             "135100004": {
                 "Title": "Special Attack: Rending Claw - Nightmare Shadow",
-                "Description": "While Pulchra is in the <color=#FFFFFF>Hunter's Gait</color> state, and when another active character in the squad hits an enemy with a heavy attack from a <color=#FFFFFF>Special Attack</color> or <color=#FFFFFF>EX Special Attack</color>:\nDash back-and-forth piercing enemies surrounding the target, dealing <color=#F0D12B>Physical DMG</color>.\nAfter using this skill, if another active character in the squad hits an enemy, Pulchra will repeat the attack up to 5 additional times, with the final attack being a more powerful Finishing Move.\nCharacter is invulnerable while using this skill.\n<color=#FFFFFF>Special Attack: Rending Claw - Nightmare Shadow</color> is an <color=#FFFFFF>Aftershock</color> attack."
+                "Description": "While Pulchra is in the <color=#FFFFFF>Hunter's Gait</color> state, and when another active character in the squad hits an enemy with a heavy attack from a <color=#FFFFFF>Special Attack</color> or <color=#FFFFFF>EX Special Attack</color>:\nDash back-and-forth piercing enemies centered on the target, dealing <color=#F0D12B>Physical DMG</color>.\nAfter using this skill, if another active character in the squad hits an enemy, Pulchra will repeat the attack up to 5 additional times, with the final attack being a more powerful Finishing Move.\nCharacter is invulnerable while using this skill.\n<color=#FFFFFF>Special Attack: Rending Claw - Nightmare Shadow</color> is an <color=#FFFFFF>Aftershock</color> attack."
             },
             "135100005": {
                 "Title": "EX Special Attack: Rending Claw - Flashstep",

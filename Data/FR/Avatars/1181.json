@@ -6,7 +6,7 @@
     "Talents": {
         "1": {
             "Title": "Chambre de recharge",
-            "Description": "À chaque fois que le 4e coup de l'<color=#FFFFFF>attaque normale</color> de Grace touche un ennemi, tous les membres de l'escouade récupèrent 0,25 pt d'énergie.\nEn une utilisation, cet effet peut octroyer un maximum de 2 pts d'énergie à tous les membres de l'escouade.",
+            "Description": "À chaque fois que le 4e coup de l'<color=#FFFFFF>attaque normale</color> de Grace touche un ennemi, tous les personnages de l'escouade récupèrent 0,25 pt d'énergie.\nEn une utilisation, cet effet peut octroyer un maximum de 2 pts d'énergie à tous les membres de l'escouade.",
             "Lore": "L'efficacité est essentielle dans l'ingénierie, et c'est dans la chambre de l'arme de Grace que bat le cœur de cette dernière."
         },
         "2": {
@@ -21,7 +21,7 @@
         },
         "4": {
             "Title": "Condensateur d'explosion",
-            "Description": "Lorsqu'elle lance son <color=#FFFFFF>attaque spéciale EX</color>, Grace gagne 6 cumuls de charge (la limite est de 6 cumuls). Lorsque son <color=#FFFFFF>attaque normale</color> ou <color=#FFFFFF>attaque de bond</color> touche un ennemi, elle consomme 1 cumul de charge pour augmenter le taux de production d'énergie de la compétence en cours de 20 %.",
+            "Description": "Lorsqu'elle lance son <color=#FFFFFF>attaque spéciale EX</color>, Grace gagne 6 cumuls de charge (la limite est de 6 cumuls). Lorsque <color=#FFFFFF>Attaque normale : Pic de pression</color> ou <color=#FFFFFF>Attaque de bond : Inspection surprise</color> touche un ennemi, elle consomme 1 cumul de charge pour augmenter le taux de production d'énergie de la compétence en cours de 20 %.",
             "Lore": "Anton était persuadé qu'à l'intérieur du composant que Grace appelait le « Module de recyclage à électropulsions », il devait y avoir un hamster éthérique qui courait sans relâche pour produire de l'énergie 24 heures sur 24.\n« Tu pourrais en mettre un sur mon frérot ? »"
         },
         "5": {
@@ -50,7 +50,7 @@
         },
         "MathSkill": {
             "Title": "Capacité supplémentaire : Assistance technique",
-            "Description": "Lorsqu'un autre agent de votre escouade est du même attribut ou de la même faction de Grace :\nLorsqu'un ennemi est touché par une <color=#FFFFFF>attaque spéciale EX</color> de Grace, les DGT du prochain effet <color=#2EB6FF>Électrocution</color> infligés à la cible augmentent de 18 %. Cet effet est cumulable 2 fois et peut être déclenché par chaque ennemi une fois par utilisation. L'effet se réinitialise lorsque l'état <color=#2EB6FF>Électrocution</color> prend fin."
+            "Description": "Lorsqu'un autre personnage de votre escouade est du même attribut ou de la même faction de Grace :\nLorsqu'un ennemi est touché par une <color=#FFFFFF>attaque spéciale EX</color> de Grace, les DGT du prochain effet <color=#2EB6FF>Électrocution</color> infligés à la cible augmentent de 18 %. Cet effet est cumulable 2 fois et peut être déclenché par chaque ennemi une fois par utilisation. L'effet se réinitialise lorsque l'état <color=#2EB6FF>Électrocution</color> prend fin."
         }
     },
     "SkillDescriptions": {

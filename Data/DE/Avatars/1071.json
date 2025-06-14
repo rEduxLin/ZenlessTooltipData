@@ -31,7 +31,7 @@
         },
         "6": {
             "Title": "Wille der Oberherrin",
-            "Description": "<color=#FFFFFF>Verstärkter Spezialangriff: Überwältigender Schildhieb</color> und <color=#FFFFFF>sukzessive Hilfe</color> lösen garantiert KT aus. Der durch diese Fähigkeiten verursachte SCH wird um 50 % erhöht und es werden zusätzlich 50 % SCH beim Hauptziel verursacht. Verwendet Caesar <color=#FFFFFF>verstärkter Spezialangriff: Überwältigender Schildhieb</color> oder <color=#FFFFFF>sukzessive Hilfe</color>, erhöht sich ihre KRIT-Rate um 30 % und ihr KRIT-SCH um 60 %, hält 15 s.",
+            "Description": "<color=#FFFFFF>Verstärkter Spezialangriff: Überwältigender Schildhieb</color> und <color=#FFFFFF>Sukzessive Hilfe: Unterstützende Klinge</color> lösen garantiert KT aus. Der durch diese Fähigkeiten verursachte SCH wird um 50 % erhöht und beim Hauptziel wird der verursachte SCH zusätzlich um 50 % erhöht. Verwendet Caesar <color=#FFFFFF>Verstärkter Spezialangriff: Überwältigender Schildhieb</color> oder <color=#FFFFFF>Sukzessive Hilfe: Unterstützende Klinge</color>, erhöht sich ihre KRIT-Rate um 30 % und ihr KRIT-SCH um 60 %, hält 15 s.",
             "Lore": "„Früher habe ich immer nur direkt nach vorn geblickt und dachte, ich sei stark genug, um es mit allem aufzunehmen.“\n„Aber eine gute Oberherrin braucht mehr als nur rohe Kraft.“\n„Ich muss meine Freunde, die hinter mir stehen, beschützen. Sie sind der Grund, warum ich immer weitermachen kann.“"
         }
     },
@@ -50,7 +50,7 @@
         },
         "MathSkill": {
             "Title": "Zusatzfähigkeit: Kampfgeist",
-            "Description": "Wenn sich in der Truppe eine andere Figur befindet, die <color=#FFFFFF>Defensivhilfe</color> auslösen kann oder eine andere Figur derselben Fraktion angehört:\nWenn Caesar <color=#FFFFFF>perfekte Parade</color>, <color=#FFFFFF>Gegenschlag</color>, <color=#FFFFFF>Defensivhilfe</color> oder <color=#FFFFFF>Basisangriff: Sackgasse!</color> auslöst, erhalten alle Gegner in einer Reichweite von 7 m einen Maluseffekt und erleiden 25 % mehr SCH durch alle Truppenmitglieder, hält 30 s."
+            "Description": "Wenn sich in der Truppe eine andere Figur befindet, die <color=#FFFFFF>Defensivhilfe</color> auslösen kann oder eine andere Figur derselben Fraktion angehört:\nWenn Caesar <color=#FFFFFF>Perfekte Parade</color>, <color=#FFFFFF>Gegenschlag</color>, <color=#FFFFFF>Defensivhilfe</color> oder <color=#FFFFFF>Basisangriff: Sackgasse!</color> auslöst, erhalten alle Gegner in einer Reichweite von 7 m einen Maluseffekt und erleiden 25 % mehr SCH durch alle Truppenfiguren, hält 30 s."
         }
     },
     "SkillDescriptions": {

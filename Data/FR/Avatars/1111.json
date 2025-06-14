@@ -21,7 +21,7 @@
         },
         "4": {
             "Title": "Est-ce que vous êtes chauds ?!",
-            "Description": "Lorsque Anton lance son <color=#FFFFFF>enchaînement</color> ou son <color=#FFFFFF>ultime</color>, le taux CRIT de tous les membres de l'escouade augmente de 10 % pendant 12 s.",
+            "Description": "Lorsque Anton lance son <color=#FFFFFF>enchaînement</color> ou son <color=#FFFFFF>ultime</color>, le taux CRIT de tous les personnages de l'escouade augmente de 10 % pendant 12 s.",
             "Lore": "« Remémorez-vous les sensations de vos entraînements et suivez-moi ! »\nQuand Anton travaille sérieusement, tout le monde s'améliore.\nAprès tout, vous devrez vous entraîner en solo demain si vous ne tenez pas la cadence."
         },
         "5": {

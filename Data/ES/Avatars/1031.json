@@ -31,7 +31,7 @@
         },
         "6": {
             "Title": "Campo de energía corruptivo",
-            "Description": "Al infligir daño a un enemigo por medio del campo de energía, la Probabilidad de Crítico de todos los miembros del equipo contra dicho objetivo aumenta en un 1.5 % durante 12 s. Pueden acumularse hasta 10 cargas. La duración de cada carga es independiente.",
+            "Description": "Al infligir daño a un enemigo por medio del campo de energía, la Probabilidad de Crítico de todas las unidades contra dicho objetivo aumenta en un 1.5 % durante 12 s. Pueden acumularse hasta 10 cargas. La duración de cada carga es independiente.",
             "Lore": "Mejores municiones, más potencia y más materia etérea comprimida se traducen en más daño, mayor duración y... mayores costos..."
         }
     },
@@ -50,7 +50,7 @@
         },
         "MathSkill": {
             "Title": "Técnica adicional: Madriguera de liebres",
-            "Description": "Si en el equipo hay miembros del mismo Atributo o la misma afiliación que ella:\nCuando Nicole provoca un efecto negativo por medio de <color=#FFFFFF>técnica pasiva: Maletín mecánico</color> sobre el objetivo, aumenta adicionalmente el <color=#FE437E>daño etéreo</color> infligido por todos los miembros del equipo en un 25 % durante 3.5 s."
+            "Description": "Si en el equipo hay miembros del mismo Atributo o la misma afiliación, cuando Nicole provoca un efecto negativo por medio de <color=#FFFFFF>técnica pasiva: Maletín mecánico</color> sobre el objetivo, aumenta adicionalmente el <color=#FE437E>daño etéreo</color> infligido por todas las unidades en un 25 % durante 3.5 s."
         }
     },
     "SkillDescriptions": {

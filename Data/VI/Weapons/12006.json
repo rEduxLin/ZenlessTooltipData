@@ -17,23 +17,23 @@
     "Talents": {
         "1": {
             "Title": "Cường Âm",
-            "Description": "Khi phát động <color=#FFFFFF>Liên Kích</color> hoặc <color=#FFFFFF>Tuyệt Kỹ</color>, tấn công của toàn đội tăng <color=#2BAD00>8%</color>, duy trì 10s, trong 20s tối đa kích hoạt một lần, không thể cộng dồn hiệu quả bị động cùng tên."
+            "Description": "Khi phát động <color=#FFFFFF>Liên Kích</color> hoặc <color=#FFFFFF>Tuyệt Kỹ</color>, tấn công của nhân vật toàn đội tăng <color=#2BAD00>8%</color>, duy trì 10s, trong 20s tối đa kích hoạt một lần, không thể cộng dồn hiệu quả bị động cùng tên."
         },
         "2": {
             "Title": "Cường Âm",
-            "Description": "Khi phát động <color=#FFFFFF>Liên Kích</color> hoặc <color=#FFFFFF>Tuyệt Kỹ</color>, tấn công của toàn đội tăng <color=#2BAD00>9%</color>, duy trì 10s, trong 20s tối đa kích hoạt một lần, không thể cộng dồn hiệu quả bị động cùng tên."
+            "Description": "Khi phát động <color=#FFFFFF>Liên Kích</color> hoặc <color=#FFFFFF>Tuyệt Kỹ</color>, tấn công của nhân vật toàn đội tăng <color=#2BAD00>9%</color>, duy trì 10s, trong 20s tối đa kích hoạt một lần, không thể cộng dồn hiệu quả bị động cùng tên."
         },
         "3": {
             "Title": "Cường Âm",
-            "Description": "Khi phát động <color=#FFFFFF>Liên Kích</color> hoặc <color=#FFFFFF>Tuyệt Kỹ</color>, tấn công của toàn đội tăng <color=#2BAD00>10%</color>, duy trì 10s, trong 20s tối đa kích hoạt một lần, không thể cộng dồn hiệu quả bị động cùng tên."
+            "Description": "Khi phát động <color=#FFFFFF>Liên Kích</color> hoặc <color=#FFFFFF>Tuyệt Kỹ</color>, tấn công của nhân vật toàn đội tăng <color=#2BAD00>10%</color>, duy trì 10s, trong 20s tối đa kích hoạt một lần, không thể cộng dồn hiệu quả bị động cùng tên."
         },
         "4": {
             "Title": "Cường Âm",
-            "Description": "Khi phát động <color=#FFFFFF>Liên Kích</color> hoặc <color=#FFFFFF>Tuyệt Kỹ</color>, tấn công của toàn đội tăng <color=#2BAD00>11%</color>, duy trì 10s, trong 20s tối đa kích hoạt một lần, không thể cộng dồn hiệu quả bị động cùng tên."
+            "Description": "Khi phát động <color=#FFFFFF>Liên Kích</color> hoặc <color=#FFFFFF>Tuyệt Kỹ</color>, tấn công của nhân vật toàn đội tăng <color=#2BAD00>11%</color>, duy trì 10s, trong 20s tối đa kích hoạt một lần, không thể cộng dồn hiệu quả bị động cùng tên."
         },
         "5": {
             "Title": "Cường Âm",
-            "Description": "Khi phát động <color=#FFFFFF>Liên Kích</color> hoặc <color=#FFFFFF>Tuyệt Kỹ</color>, tấn công của toàn đội tăng <color=#2BAD00>12%</color>, duy trì 10s, trong 20s tối đa kích hoạt một lần, không thể cộng dồn hiệu quả bị động cùng tên."
+            "Description": "Khi phát động <color=#FFFFFF>Liên Kích</color> hoặc <color=#FFFFFF>Tuyệt Kỹ</color>, tấn công của nhân vật toàn đội tăng <color=#2BAD00>12%</color>, duy trì 10s, trong 20s tối đa kích hoạt một lần, không thể cộng dồn hiệu quả bị động cùng tên."
         }
     }
 }

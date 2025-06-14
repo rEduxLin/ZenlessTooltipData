@@ -6,7 +6,7 @@
     "Talents": {
         "1": {
             "Title": "보름달 대비",
-            "Description": "<color=#FFFFFF>[강화 특수 스킬]</color>이 적에게 명중 시 스킬로 주는 그로기 수치가 12% 증가한다. 8초 동안 최대 1회 발동한다. <color=#FFFFFF>[강화 특수 스킬]</color> 중에 차지 완료 시 해당 버프 효과가 추가로 10% 증가한다.",
+            "Description": "<color=#FFFFFF>[강화 특수 스킬: 광폭한 사냥 시간]</color>이 적에게 명중 시 스킬로 주는 그로기 수치가 12% 증가한다. 8초 동안 최대 1회 발동한다. <color=#FFFFFF>[강화 특수 스킬: 광폭한 사냥 시간]</color> 중에 차지 완료 시 해당 버프 효과가 추가로 10% 증가한다.",
             "Lore": "기록에 따르면 늑대인간은 달이 뜨는 밤에 공격성이 더욱 증가한다고 한다.\n「달을 똑바로 쳐다보지 마세요」"
         },
         "2": {
@@ -39,13 +39,13 @@
         "UniqueSkill": {
             "Title": "핵심 패시브: 금속 늑대 다리",
             "DescriptionByLevel": {
-                "1": "리카온이 <color=#FFFFFF>[일반 공격]</color> 중 차지 완료 시 스킬로 주는 그로기 수치가 <color=#2BAD00>40%</color> 증가한다.\n<color=#FFFFFF>[강화 특수 스킬]</color> 혹은 <color=#FFFFFF>[지원 돌격]</color>이 적에게 명중 시 타깃의 <color=#98EFF0>얼음 속성 피해 저항</color>이 25% 감소한다. 지속 시간: 30초",
-                "2": "리카온이 <color=#FFFFFF>[일반 공격]</color> 중 차지 완료 시 스킬로 주는 그로기 수치가 <color=#2BAD00>46.6%</color> 증가한다.\n<color=#FFFFFF>[강화 특수 스킬]</color> 혹은 <color=#FFFFFF>[지원 돌격]</color>이 적에게 명중 시 타깃의 <color=#98EFF0>얼음 속성 피해 저항</color>이 25% 감소한다. 지속 시간: 30초",
-                "3": "리카온이 <color=#FFFFFF>[일반 공격]</color> 중 차지 완료 시 스킬로 주는 그로기 수치가 <color=#2BAD00>53.3%</color> 증가한다.\n<color=#FFFFFF>[강화 특수 스킬]</color> 혹은 <color=#FFFFFF>[지원 돌격]</color>이 적에게 명중 시 타깃의 <color=#98EFF0>얼음 속성 피해 저항</color>이 25% 감소한다. 지속 시간: 30초",
-                "4": "리카온이 <color=#FFFFFF>[일반 공격]</color> 중 차지 완료 시 스킬로 주는 그로기 수치가 <color=#2BAD00>60%</color> 증가한다.\n<color=#FFFFFF>[강화 특수 스킬]</color> 혹은 <color=#FFFFFF>[지원 돌격]</color>이 적에게 명중 시 타깃의 <color=#98EFF0>얼음 속성 피해 저항</color>이 25% 감소한다. 지속 시간: 30초",
-                "5": "리카온이 <color=#FFFFFF>[일반 공격]</color> 중 차지 완료 시 스킬로 주는 그로기 수치가 <color=#2BAD00>66.6%</color> 증가한다.\n<color=#FFFFFF>[강화 특수 스킬]</color> 혹은 <color=#FFFFFF>[지원 돌격]</color>이 적에게 명중 시 타깃의 <color=#98EFF0>얼음 속성 피해 저항</color>이 25% 감소한다. 지속 시간: 30초",
-                "6": "리카온이 <color=#FFFFFF>[일반 공격]</color> 중 차지 완료 시 스킬로 주는 그로기 수치가 <color=#2BAD00>73.3%</color> 증가한다.\n<color=#FFFFFF>[강화 특수 스킬]</color> 혹은 <color=#FFFFFF>[지원 돌격]</color>이 적에게 명중 시 타깃의 <color=#98EFF0>얼음 속성 피해 저항</color>이 25% 감소한다. 지속 시간: 30초",
-                "7": "리카온이 <color=#FFFFFF>[일반 공격]</color> 중 차지 완료 시 스킬로 주는 그로기 수치가 <color=#2BAD00>80%</color> 증가한다.\n<color=#FFFFFF>[강화 특수 스킬]</color> 혹은 <color=#FFFFFF>[지원 돌격]</color>이 적에게 명중 시 타깃의 <color=#98EFF0>얼음 속성 피해 저항</color>이 25% 감소한다. 지속 시간: 30초"
+                "1": "리카온이 <color=#FFFFFF>[일반 공격]</color> 중 차지 완료 시 스킬로 주는 그로기 수치가 <color=#2BAD00>40%</color> 증가한다.\n<color=#FFFFFF>[강화 특수 스킬: 광폭한 사냥 시간]</color> 혹은 <color=#FFFFFF>[지원 돌격: 복수의 반격]</color>이 적에게 명중 시 타깃의 <color=#98EFF0>얼음 속성 피해 저항</color>이 25% 감소한다. 지속 시간: 30초",
+                "2": "리카온이 <color=#FFFFFF>[일반 공격]</color> 중 차지 완료 시 스킬로 주는 그로기 수치가 <color=#2BAD00>46.6%</color> 증가한다.\n<color=#FFFFFF>[강화 특수 스킬: 광폭한 사냥 시간]</color> 혹은 <color=#FFFFFF>[지원 돌격: 복수의 반격]</color>이 적에게 명중 시 타깃의 <color=#98EFF0>얼음 속성 피해 저항</color>이 25% 감소한다. 지속 시간: 30초",
+                "3": "리카온이 <color=#FFFFFF>[일반 공격]</color> 중 차지 완료 시 스킬로 주는 그로기 수치가 <color=#2BAD00>53.3%</color> 증가한다.\n<color=#FFFFFF>[강화 특수 스킬: 광폭한 사냥 시간]</color> 혹은 <color=#FFFFFF>[지원 돌격: 복수의 반격]</color>이 적에게 명중 시 타깃의 <color=#98EFF0>얼음 속성 피해 저항</color>이 25% 감소한다. 지속 시간: 30초",
+                "4": "리카온이 <color=#FFFFFF>[일반 공격]</color> 중 차지 완료 시 스킬로 주는 그로기 수치가 <color=#2BAD00>60%</color> 증가한다.\n<color=#FFFFFF>[강화 특수 스킬: 광폭한 사냥 시간]</color> 혹은 <color=#FFFFFF>[지원 돌격: 복수의 반격]</color>이 적에게 명중 시 타깃의 <color=#98EFF0>얼음 속성 피해 저항</color>이 25% 감소한다. 지속 시간: 30초",
+                "5": "리카온이 <color=#FFFFFF>[일반 공격]</color> 중 차지 완료 시 스킬로 주는 그로기 수치가 <color=#2BAD00>66.6%</color> 증가한다.\n<color=#FFFFFF>[강화 특수 스킬: 광폭한 사냥 시간]</color> 혹은 <color=#FFFFFF>[지원 돌격: 복수의 반격]</color>이 적에게 명중 시 타깃의 <color=#98EFF0>얼음 속성 피해 저항</color>이 25% 감소한다. 지속 시간: 30초",
+                "6": "리카온이 <color=#FFFFFF>[일반 공격]</color> 중 차지 완료 시 스킬로 주는 그로기 수치가 <color=#2BAD00>73.3%</color> 증가한다.\n<color=#FFFFFF>[강화 특수 스킬: 광폭한 사냥 시간]</color> 혹은 <color=#FFFFFF>[지원 돌격: 복수의 반격]</color>이 적에게 명중 시 타깃의 <color=#98EFF0>얼음 속성 피해 저항</color>이 25% 감소한다. 지속 시간: 30초",
+                "7": "리카온이 <color=#FFFFFF>[일반 공격]</color> 중 차지 완료 시 스킬로 주는 그로기 수치가 <color=#2BAD00>80%</color> 증가한다.\n<color=#FFFFFF>[강화 특수 스킬: 광폭한 사냥 시간]</color> 혹은 <color=#FFFFFF>[지원 돌격: 복수의 반격]</color>이 적에게 명중 시 타깃의 <color=#98EFF0>얼음 속성 피해 저항</color>이 25% 감소한다. 지속 시간: 30초"
             }
         },
         "MathSkill": {

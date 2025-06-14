@@ -6,7 +6,7 @@
     "Talents": {
         "1": {
             "Title": "Gamme tempérée",
-            "Description": "Lorsque les attaques d'Astra Yao touchent un ennemi, la RÉS à tous les attributs de la cible est réduite de 6 % pendant 30 s, cumulable 3 fois. Les déclenchements répétés réinitialisent la durée. En entrant sur le terrain, Astra Yao gagne immédiatement 1 000 décibels. Lorsqu'elle lance son <color=#FFFFFF>ultime</color>, tous les membres de l'escouade gagnent 1 cumul de <color=#FFFFFF>Chant de protection</color> pendant 60 s. Lorsqu'un personnage est attaqué par un ennemi, il consomme <color=#FFFFFF>Chant de protection</color> et devient invulnérable pendant 1 s.",
+            "Description": "Lorsque les attaques d'Astra Yao touchent un ennemi, la RÉS à tous les attributs de la cible est réduite de 6 % pendant 30 s, cumulable 3 fois. Les déclenchements répétés réinitialisent la durée. En entrant sur le terrain, Astra Yao gagne immédiatement 1 000 décibels. Lorsqu'elle lance son <color=#FFFFFF>ultime</color>, tous les personnages de l'escouade gagnent 1 cumul de <color=#FFFFFF>Chant de protection</color> pendant 60 s. Lorsqu'un personnage est attaqué par un ennemi, il consomme <color=#FFFFFF>Chant de protection</color> et devient invulnérable pendant 1 s.",
             "Lore": "« Qu'est-ce que c'est la gamme tempérée ?\n— La gamme tempérée est un système d'accordage qui divise les notes en douze demi-tons égaux. C'est comme quand on dit aux enfants de se ranger en rang, c'est pour mettre de l'ordre dans les notes.\n— Mais parfois, on dirait que les notes sont comme les enfants : elles détestent l'ordre ! »\n— La professeure de musique d'Astra Yao, qui se souvient de l'époque où elle avait six ans."
         },
         "2": {
@@ -50,7 +50,7 @@
         },
         "MathSkill": {
             "Title": "Capacité supplémentaire : Frénésie du clair de lune",
-            "Description": "Lorsqu'un autre personnage de votre escouade est de la spécialisation <color=#FFFFFF>Attaque</color> ou <color=#FFFFFF>Anomalie</color> :\nLorsque vous consommez de l'énergie pour lancer un <color=#FFFFFF>soutien précis</color> ou <color=#FFFFFF>Attaque normale : Conclusion</color>, Astra Yao enchaîne également avec 1 attaque <color=#FFFFFF>Trémolo</color> et 3 attaques <color=#FFFFFF>Grappes sonores</color>."
+            "Description": "Lorsqu'un autre personnage de votre escouade est de la spécialisation <color=#FFFFFF>Attaque</color>, <color=#FFFFFF>Anomalie</color> ou <color=#FFFFFF>Rupture</color> :\nLorsque vous consommez de l'énergie pour lancer un <color=#FFFFFF>soutien précis</color> ou <color=#FFFFFF>Attaque normale : Conclusion</color>, Astra Yao enchaîne également avec 1 attaque <color=#FFFFFF>Trémolo</color> et 3 attaques <color=#FFFFFF>Grappes sonores</color>."
         }
     },
     "SkillDescriptions": {
@@ -179,7 +179,7 @@
             },
             "131100006": {
                 "Title": "Tempo idyllique",
-                "Description": "Après être entrée dans l'état <color=#FFFFFF>Tempo idyllique</color>, Astra Yao augmente les DGT de tous les membres de l'escouade de <color=#2BAD00>{CAL:0.08+AvatarSkillLevel(1)*0.01,100,2} %</color>, et leurs DGT CRIT de <color=#2BAD00>{CAL:0.07+AvatarSkillLevel(1)*0.015,100,2} %</color>.\nDans l'état <color=#FFFFFF>Tempo idyllique</color>, Astra Yao ne peut pas bouger, mais vous pouvez appuyer sur <IconMap:Icon_Normal> pour lancer <color=#FFFFFF>Attaque normale : Interlude</color> et sur <IconMap:Icon_Evade> pour lancer une esquive. Après une <color=#FFFFFF>esquive parfaite</color>, appuyez sur <IconMap:Icon_Normal> pour lancer <color=#FFFFFF>Attaque normale : Refrain</color>.\nDans cet état, le niveau de RÉS à l'interruption d'Astra Yao augmente, et les DGT qu'elle subit sont réduits de 40 %. Lorsque vous changez de personnage, Astra Yao reste sur le terrain et devient invulnérable. Lorsque vous changez à nouveau de personnage et qu'Astra Yao prend le relai, elle lance directement <color=#FFFFFF>Attaque spéciale : Carillons et promesses</color>.\nDans cet état, maintenez <IconMap:Icon_Normal> enfoncé pour lancer <color=#FFFFFF>Attaque normale : Conclusion</color> et quitter l'état <color=#FFFFFF>Tempo idyllique</color>, ou maintenez <IconMap:Icon_Evade> enfoncé afin de quitter l'état <color=#FFFFFF>Tempo idyllique</color> directement."
+                "Description": "Après être entrée dans l'état <color=#FFFFFF>Tempo idyllique</color>, Astra Yao augmente les DGT de tous les personnages de l'escouade de <color=#2BAD00>{CAL:0.08+AvatarSkillLevel(1)*0.01,100,2} %</color>, et leurs DGT CRIT de <color=#2BAD00>{CAL:0.07+AvatarSkillLevel(1)*0.015,100,2} %</color>.\nDans l'état <color=#FFFFFF>Tempo idyllique</color>, Astra Yao ne peut pas bouger, mais vous pouvez appuyer sur <IconMap:Icon_Normal> pour lancer <color=#FFFFFF>Attaque normale : Interlude</color> et sur <IconMap:Icon_Evade> pour lancer une esquive. Après une <color=#FFFFFF>esquive parfaite</color>, appuyez sur <IconMap:Icon_Normal> pour lancer <color=#FFFFFF>Attaque normale : Refrain</color>.\nDans cet état, le niveau de RÉS à l'interruption d'Astra Yao augmente, et les DGT qu'elle subit sont réduits de 40 %. Lorsque vous changez de personnage, Astra Yao reste sur le terrain et devient invulnérable. Lorsque vous changez à nouveau de personnage et qu'Astra Yao prend le relai, elle lance directement <color=#FFFFFF>Attaque spéciale : Carillons et promesses</color>.\nDans cet état, maintenez <IconMap:Icon_Normal> enfoncé pour lancer <color=#FFFFFF>Attaque normale : Conclusion</color> et quitter l'état <color=#FFFFFF>Tempo idyllique</color>, ou maintenez <IconMap:Icon_Evade> enfoncé afin de quitter l'état <color=#FFFFFF>Tempo idyllique</color> directement."
             },
             "131100007": {
                 "Title": "Accord",
@@ -189,11 +189,11 @@
                 "Title": "Attaque spéciale : Carillons et promesses"
             },
             "131100044": {
-                "Description": "Augmentation des DGT de l'escouade",
+                "Description": "Augmentation des DGT de tous les personnages de l'escouade",
                 "Param": "{CAL:0.08+AvatarSkillLevel(1)*0.01,100,2} %"
             },
             "131100045": {
-                "Description": "Augmentation des DGT CRIT de l'escouade",
+                "Description": "Augmentation des DGT CRIT de tous les personnages de l'escouade",
                 "Param": "{CAL:0.07+AvatarSkillLevel(1)*0.015,100,2} %"
             },
             "131100046": {
@@ -271,7 +271,7 @@
             },
             "131100012": {
                 "Title": "Ultime : Sonate fantastique",
-                "Description": "Lorsque le niveau de décibels est au <color=#FFFFFF>Maximum</color>, appuyez sur <IconMap:Icon_UltimateReady> pour activer :\nCanalise l'énergie par le chant pour déclencher une onde de choc qui inflige d'importants <color=#FE437E>DGT éthériques</color>, et restaure <color=#2BAD00>{CAL:-50+AvatarSkillLevel(3)*250,1,2}</color> PV à tous les membres de l'escouade.\nLe personnage est invulnérable pendant l'utilisation de cette compétence.\nUn <color=#FFFFFF>soutien rapide</color> se déclenche automatiquement lorsque cette compétence touche un ennemi.\nAprès cette compétence, Astra Yao entre dans l'état <color=#FFFFFF>Tempo idyllique</color>.\nAprès l'utilisation de la compétence, les deux prochains <color=#FFFFFF>soutiens rapides</color> seront remplacés par des <color=#FFFFFF>enchaînements</color>.\nAvant que le nombre de remplacements soit épuisé et lorsque n'importe membre de l'escouade touche un ennemi avec un <color=#FFFFFF>enchaînement</color> ou un <color=#FFFFFF>ultime</color>, un <color=#FFFFFF>soutien rapide</color> se déclenche."
+                "Description": "Lorsque le niveau de décibels est au <color=#FFFFFF>Maximum</color>, appuyez sur <IconMap:Icon_UltimateReady> pour activer :\nCanalise l'énergie par le chant pour déclencher une onde de choc qui inflige d'importants <color=#FE437E>DGT éthériques</color>, et restaure <color=#2BAD00>{CAL:-50+AvatarSkillLevel(3)*250,1,2}</color> PV à tous les personnages de l'escouade.\nLe personnage est invulnérable pendant l'utilisation de cette compétence.\nUn <color=#FFFFFF>soutien rapide</color> se déclenche automatiquement lorsque cette compétence touche un ennemi.\nAprès cette compétence, Astra Yao entre dans l'état <color=#FFFFFF>Tempo idyllique</color>.\nAprès l'utilisation de la compétence, les deux prochains <color=#FFFFFF>soutiens rapides</color> seront remplacés par des <color=#FFFFFF>enchaînements</color>.\nAvant que le nombre de remplacements soit épuisé et lorsque n'importe personnage de l'escouade touche un ennemi avec un <color=#FFFFFF>enchaînement</color> ou un <color=#FFFFFF>ultime</color>, un <color=#FFFFFF>soutien rapide</color> se déclenche."
             },
             "131100060": {
                 "Title": "Enchaînement : Concerto enivrant"

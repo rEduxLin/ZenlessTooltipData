@@ -21,7 +21,7 @@
         },
         "4": {
             "Title": "Endloser Raureif",
-            "Description": "Erhält selbst, wenn ein Truppenmitglied einen Gegner in den Zustand <color=#98EFF0>Gefroren</color> oder Benommenheit versetzt, 6 Pkt. <color=#FFFFFF>Blitzeis-Ladung</color> und den Effekt <color=#FFFFFF>Schnellladung</color>. Stellt dabei 4 Pkt. Energie wieder her, 10 s Abklingzeit.",
+            "Description": "Erhält selbst, wenn eine Truppenfigur einen Gegner in den Zustand <color=#98EFF0>Gefroren</color> oder Benommenheit versetzt, 6 Pkt. <color=#FFFFFF>Blitzeis-Ladung</color> und den Effekt <color=#FFFFFF>Schnellladung</color>. Stellt dabei 4 Pkt. Energie wieder her, 10 s Abklingzeit.",
             "Lore": "Ein durchdringender Hauch von extremer Kälte.\nSelbst die furchterregendsten Kreaturen werden von Ellen lernen, wie grausam, aber zugleich schön die Kälte sein kann.\nAber, zweifellos sind die endlosen Schichten der Dienstmädchen während der Ferien noch grausamer ..."
         },
         "5": {
@@ -119,237 +119,237 @@
             }
         },
         "1": {
-            "119100004": {
+            "119100005": {
                 "Title": "Spezialangriff: Drift",
                 "Description": "Drücke <IconMap:Icon_Special> zum Anwenden:\nFührt schnell einen Flossenschlag nach vorn aus und verursacht dabei <color=#98EFF0>Eis-SCH</color>.\nBeim Anwenden dieser Fähigkeit erhöht sich die Stufe des Unterbrechungs-WDS."
             },
-            "119100005": {
+            "119100006": {
                 "Title": "Verstärkter Spezialangriff: Flossenschlag",
                 "Description": "Drücke bei ausreichender Energie <IconMap:Icon_SpecialReady> zum Anwenden:\nFührt einen kraftvollen Flossenschlag nach vorn aus und verursacht dabei hohen <color=#98EFF0>Eis-SCH</color>.\nErhält beim Treffen von Gegnern 1 Pkt. <color=#FFFFFF>Blitzeis-Ladung</color>.\nDie Figur ist beim Anwenden dieser Fähigkeit unverwundbar.\nNach Anwenden der Fähigkeit kann der 3. Angriff des <color=#FFFFFF>Basisangriffs</color> direkt eingesetzt werden."
             },
-            "119100006": {
+            "119100007": {
                 "Title": "Verstärkter Spezialangriff: Hainami",
                 "Description": "Nachdem ein <color=#FFFFFF>verstärkter Spezialangriff: Flossenschlag</color> angewendet wurde, drücke bei ausreichender Energie <IconMap:Icon_SpecialReady> zum Anwenden:\nFührt kraftvolle kontinuierliche Hiebe nach vorn aus und verursacht dabei hohen <color=#98EFF0>Eis-SCH</color>.\nErhält beim Treffen von Gegnern 1 Pkt. <color=#FFFFFF>Blitzeis-Ladung</color>.\nDie Figur ist beim Anwenden dieser Fähigkeit unverwundbar.\nNach Anwenden der Fähigkeit kann der 3. Angriff des <color=#FFFFFF>Basisangriffs</color> direkt eingesetzt werden."
             },
-            "119110015": {
+            "119110027": {
                 "Title": "Spezialangriff: Drift"
             },
-            "119110016": {
+            "119110028": {
                 "Description": "SCH-Multiplikator",
                 "Param": "{Skill:1191010, Prop:1001}"
             },
-            "119110017": {
+            "119110029": {
                 "Description": "Benommenheit-Multiplikator",
                 "Param": "{Skill:1191010, Prop:1002}"
             },
-            "119110018": {
+            "119110030": {
                 "Title": "Verstärkter Spezialangriff: Flossenschlag"
             },
-            "119110019": {
+            "119110031": {
                 "Description": "SCH-Multiplikator",
                 "Param": "{Skill:1191011, Prop:1001}"
             },
-            "119110020": {
+            "119110032": {
                 "Description": "Benommenheit-Multiplikator",
                 "Param": "{Skill:1191011, Prop:1002}"
             },
-            "119110021": {
+            "119110033": {
                 "Description": "Energiekosten",
                 "Param": "40 Pkt."
             },
-            "119110022": {
+            "119110034": {
                 "Title": "Verstärkter Spezialangriff: Hainami"
             },
-            "119110023": {
+            "119110035": {
                 "Description": "SCH-Multiplikator",
                 "Param": "{Skill:1191012, Prop:1001}"
             },
-            "119110024": {
+            "119110036": {
                 "Description": "Benommenheit-Multiplikator",
                 "Param": "{Skill:1191012, Prop:1002}"
             },
-            "119110025": {
+            "119110037": {
                 "Description": "Energiekosten",
                 "Param": "40 Pkt."
             }
         },
         "2": {
-            "119100007": {
+            "119100008": {
                 "Title": "Ausweichen: Strudel",
                 "Description": "Drücke <IconMap:Icon_Evade> zum Anwenden:\nEin blitzschnelles Sprintausweichen.\nDie Figur ist beim Anwenden dieser Fähigkeit unverwundbar.\nErhält beim Auslösen eines <color=#FFFFFF>perfekten Ausweichens</color> den Effekt <color=#FFFFFF>Schnellladung</color> und verringert die Aufladezeit des nächsten <color=#FFFFFF>Sprintangriffs: Arktischer Überfall</color>, hält max. 5 s oder ist max. 1-mal auslösbar."
             },
-            "119100008": {
+            "119100009": {
                 "Title": "Sprint: Treibjagd",
                 "Description": "Halte <IconMap:Icon_Evade> gedrückt oder drücke es doppelt zum Anwenden:\nBetritt den Zustand <color=#FFFFFF>„Surfen“</color>, der schnelles Sprinten ermöglicht.\nVerwende im Zustand <color=#FFFFFF>„Surfen“</color> den {LAYOUT_CONSOLECONTROLLER#Stick}{LAYOUT_FALLBACK#Joystick}, um die Richtung zu steuern. Lasse den {LAYOUT_CONSOLECONTROLLER#Stick}{LAYOUT_FALLBACK#Joystick} los, um die Bewegung zu beenden.\nDie Figur ist in dem kurzen Moment vom Anwenden dieser Fähigkeit unverwundbar."
             },
-            "119100009": {
+            "119100010": {
                 "Title": "Sprintangriff: Arktischer Überfall",
                 "Description": "Drücke im Zustand <color=#FFFFFF>Surfen</color> <IconMap:Icon_Normal> zum Anwenden:\nFührt Wirbelhiebe gegen Gegner aus, wendet daraufhin mit geöffneten Scheren blitzschnelle Schnittangriffe an und verursacht dabei <color=#98EFF0>Eis-SCH</color>.\nErhält beim Treffen mit dem blitzschnellen Schnittangriff 1 Pkt. <color=#FFFFFF>Blitzeis-Ladung</color>.\n\nHalte im Zustand <color=#FFFFFF>Surfen</color> <IconMap:Icon_Normal> gedrückt zum Anwenden:\nFührt Wirbelhiebe gegen Gegner aus, wendet daraufhin mit geöffneten Scheren aufgeladene Schnittangriffe an und verursacht dabei hohen <color=#98EFF0>Eis-SCH</color>.\nErhält beim Treffen mit dem aufgeladenen Schnittangriff 3 Pkt. <color=#FFFFFF>Blitzeis-Ladung</color>. Löst, wenn sich der Gegner im Zustand <color=#98EFF0>Gefroren</color> befindet, den Effekt <color=#98EFF0>Eisbrecher</color> aus.\nBeim Aufladen dieser Fähigkeit erhöht sich die Stufe des Unterbrechungs-WDS und der erlittene SCH verringert sich um 40 %.\nDie Figur ist beim Anwenden dieser Fähigkeit unverwundbar."
             },
-            "119100010": {
+            "119100012": {
                 "Title": "Blitzeis",
                 "Description": "Aktiviert, wenn Ellen <color=#FFFFFF>Blitzeis-Ladungen</color> besitzt, den <color=#FFFFFF>Blitzeis</color>-Effekt.\nVerbraucht, sobald <color=#FFFFFF>Blitzeis</color> aktiv ist, durch <color=#FFFFFF>Basisangriffe</color> oder <color=#FFFFFF>Sprintangriffe</color> die <color=#FFFFFF>Blitzeis-Ladungen</color> und verursacht dabei hohen <color=#98EFF0>Eis-SCH</color>.\nEllen kann max. 6 <color=#FFFFFF>Blitzeis-Ladungen</color> haben."
             },
-            "119100011": {
+            "119100013": {
                 "Title": "Sprintangriff: Monströse Welle",
                 "Description": "Drücke beim Ausweichen <IconMap:Icon_Normal> zum Anwenden:\nFührt Vorstoßhiebe nach vorn aus und verursacht dabei <color=#F0D12B>phys. SCH</color>."
             },
-            "119100012": {
+            "119100014": {
                 "Title": "Sprintangriff: Kältewelle",
                 "Description": "Drücke nach Aktivieren des Effekts <color=#FFFFFF>Blitzeis</color> beim Ausweichen <IconMap:Icon_Normal> zum Anwenden:\nFührt Vorstoßhiebe nach vorn aus und verursacht dabei <color=#98EFF0>Eis-SCH</color>.\nVerbraucht dabei 1 Pkt. <color=#FFFFFF>Blitzeis-Ladung</color>."
             },
-            "119100013": {
+            "119100015": {
                 "Title": "Ausweichkonter: Riff",
                 "Description": "Drücke nach Auslösen eines <color=#FFFFFF>perfekten Ausweichens</color> <IconMap:Icon_Normal> zum Anwenden:\nBewegt sich mit geöffneten Scheren blitzschnell durch die Gegner hindurch, führt Schnittangriffe aus und verursacht dabei <color=#98EFF0>Eis-SCH</color>.\nDie Figur ist beim Anwenden dieser Fähigkeit unverwundbar."
             },
-            "119110026": {
+            "119110038": {
                 "Title": "Sprintangriff: Arktischer Überfall"
             },
-            "119110027": {
+            "119110039": {
                 "Description": "SCH-Multiplikator für Wirbelhiebe",
                 "Param": "{Skill:1191007, Prop:1001}"
             },
-            "119110028": {
+            "119110040": {
                 "Description": "SCH-Multiplikator des schnellen Schnittangriffs",
                 "Param": "{Skill:1191008, Prop:1001}"
             },
-            "119110029": {
+            "119110041": {
                 "Description": "SCH-Multiplikator des aufgeladenen Schnittangriffs",
                 "Param": "{Skill:1191009, Prop:1001}"
             },
-            "119110030": {
+            "119110042": {
                 "Description": "Benommenheit-Multiplikator für Wirbelhiebe",
                 "Param": "{Skill:1191007, Prop:1002}"
             },
-            "119110031": {
+            "119110043": {
                 "Description": "Benommenheit-Multiplikator des schnellen Schnittangriffs",
                 "Param": "{Skill:1191008, Prop:1002}"
             },
-            "119110032": {
+            "119110044": {
                 "Description": "Benommenheit-Multiplikator des aufgeladenen Schnittangriffs",
                 "Param": "{Skill:1191009, Prop:1002}"
             },
-            "119110033": {
+            "119110045": {
                 "Description": "Blitzeis-Ladung für schnellen Schnittangriff",
                 "Param": "1 Pkt."
             },
-            "119110034": {
+            "119110046": {
                 "Description": "Blitzeis-Ladung für aufgeladenen Schnittangriff",
                 "Param": "3 Pkt."
             },
-            "119110035": {
+            "119110047": {
                 "Title": "Sprintangriff: Monströse Welle"
             },
-            "119110036": {
+            "119110048": {
                 "Description": "SCH-Multiplikator",
                 "Param": "{Skill:1191013, Prop:1001}"
             },
-            "119110037": {
+            "119110049": {
                 "Description": "Benommenheit-Multiplikator",
                 "Param": "{Skill:1191013, Prop:1002}"
             },
-            "119110038": {
+            "119110050": {
                 "Title": "Sprintangriff: Kältewelle"
             },
-            "119110039": {
+            "119110051": {
                 "Description": "SCH-Multiplikator",
                 "Param": "{Skill:1191014, Prop:1001}"
             },
-            "119110040": {
+            "119110052": {
                 "Description": "Benommenheit-Multiplikator",
                 "Param": "{Skill:1191014, Prop:1002}"
             },
-            "119110041": {
+            "119110053": {
                 "Title": "Ausweichkonter: Riff"
             },
-            "119110042": {
+            "119110054": {
                 "Description": "SCH-Multiplikator",
                 "Param": "{Skill:1191015, Prop:1001}"
             },
-            "119110043": {
+            "119110055": {
                 "Description": "Benommenheit-Multiplikator",
                 "Param": "{Skill:1191015, Prop:1002}"
             }
         },
         "3": {
-            "119100014": {
+            "119100016": {
                 "Title": "Kettenangriff: Lawine",
                 "Description": "Wähle beim Auslösen eines <color=#FFFFFF>Kettenangriffs</color> die entsprechende Figur zum Anwenden:\nStürzt sich aus der Luft herab, erzeugt einen eisigen Sturm, verursacht dabei hohen <color=#98EFF0>Eis-SCH</color>.\nDie Figur ist beim Anwenden dieser Fähigkeit unverwundbar."
             },
-            "119100015": {
+            "119100017": {
                 "Title": "Ultimate: Endloser Winter",
                 "Description": "Drücke beim Erreichen der Dezibelstufe <color=#FFFFFF>Maximum</color> <IconMap:Icon_UltimateReady> zum Anwenden:\nStürzt sich aus der Luft herab und erzeugt einen eisigen Sturm, gefolgt von einem kraftvollen Schnittangriff mit der Schere, der hohen <color=#98EFF0>Eis-SCH</color> verursacht.\nDie Figur ist beim Anwenden dieser Fähigkeit unverwundbar."
             },
-            "119110044": {
+            "119110056": {
                 "Title": "Kettenangriff: Lawine"
             },
-            "119110045": {
+            "119110057": {
                 "Description": "SCH-Multiplikator",
                 "Param": "{Skill:1191016, Prop:1001}"
             },
-            "119110046": {
+            "119110058": {
                 "Description": "Benommenheit-Multiplikator",
                 "Param": "{Skill:1191016, Prop:1002}"
             },
-            "119110047": {
+            "119110059": {
                 "Title": "Ultimate: Endloser Winter"
             },
-            "119110048": {
+            "119110060": {
                 "Description": "SCH-Multiplikator",
                 "Param": "{Skill:1191017, Prop:1001}"
             },
-            "119110049": {
+            "119110061": {
                 "Description": "Benommenheit-Multiplikator",
                 "Param": "{Skill:1191017, Prop:1002}"
             }
         },
         "6": {
-            "119100017": {
-                "Title": "schnelle Hilfe: Wächterhai",
+            "119100020": {
+                "Title": "Schnelle Hilfe: Wächterhai",
                 "Description": "Drücke, wenn die gesteuerte Figur weggeschleudert wird, <IconMap:Icon_Switch> zum Anwenden:\nBewegt sich mit geöffneten Scheren blitzschnell durch die Gegner hindurch, führt Schnittangriffe aus und verursacht dabei <color=#98EFF0>Eis-SCH</color>.\nDie Figur ist beim Anwenden dieser Fähigkeit unverwundbar.\nBewege, wenn die gesteuerte Figur weggeschleudert wird, den {LAYOUT_CONSOLECONTROLLER#Stick}{LAYOUT_FALLBACK#Joystick} und drücke <IconMap:Icon_Switch> zum Anwenden:\nBetritt den Zustand <color=#FFFFFF>„Surfen“</color>, der schnelles Sprinten ermöglicht.\nVerwende im Zustand <color=#FFFFFF>„Surfen“</color> den {LAYOUT_CONSOLECONTROLLER#Stick}{LAYOUT_FALLBACK#Joystick}, um die Richtung zu steuern. Lasse den {LAYOUT_CONSOLECONTROLLER#Stick}{LAYOUT_FALLBACK#Joystick} los, um die Bewegung zu beenden.\nDie Figur ist in dem kurzen Moment vom Anwenden dieser Fähigkeit unverwundbar.\nErhält beim Anwenden einer <color=#FFFFFF>schnellen Hilfe</color> den Effekt <color=#FFFFFF>Schnellladung</color> und verringert die Aufladezeit des nächsten <color=#FFFFFF>Sprintangriffs: Arktischer Überfall</color>, hält max. 5 s oder ist max. 1-mal auslösbar."
             },
-            "119100018": {
+            "119100021": {
                 "Title": "Defensivhilfe: Wucht der Wellen",
                 "Description": "Drücke, wenn die Figur auf dem Feld gleich angegriffen wird, <IconMap:Icon_Switch> zum Anwenden:\nWehrt gegnerische Angriffe ab und verursacht eine große Menge Benommenheit.\nDie Figur ist beim Anwenden dieser Fähigkeit unverwundbar."
             },
-            "119100019": {
+            "119100022": {
                 "Title": "Sukzessive Hilfe: Kreuzerhai",
                 "Description": "Drücke nach einer <color=#FFFFFF>Defensivhilfe</color> <IconMap:Icon_Normal> zum Anwenden:\nFührt einen Vorstoßhieb gegen Gegner vor sich aus und verursacht dabei <color=#98EFF0>Eis-SCH</color>.\nDrück beim Anwenden dieser Fähigkeit <IconMap:Icon_Normal> mehrfach oder halte es gedrückt, um die Dauer der Fähigkeit zu verlängern.\nDie Figur ist beim Anwenden dieser Fähigkeit unverwundbar."
             },
-            "119110050": {
-                "Title": "schnelle Hilfe: Wächterhai"
+            "119110062": {
+                "Title": "Schnelle Hilfe: Wächterhai"
             },
-            "119110051": {
+            "119110063": {
                 "Description": "SCH-Multiplikator",
                 "Param": "{Skill:1191018, Prop:1001}"
             },
-            "119110052": {
+            "119110064": {
                 "Description": "Benommenheit-Multiplikator",
                 "Param": "{Skill:1191018, Prop:1002}"
             },
-            "119110053": {
+            "119110065": {
                 "Title": "Defensivhilfe: Wucht der Wellen"
             },
-            "119110054": {
+            "119110066": {
                 "Description": "Benommenheit-Multiplikator für leichte Defensive",
                 "Param": "{Skill:1191019, Prop:1002}"
             },
-            "119110055": {
+            "119110067": {
                 "Description": "Benommenheit-Multiplikator für schwere Defensive",
                 "Param": "{Skill:1191020, Prop:1002}"
             },
-            "119110056": {
+            "119110068": {
                 "Description": "Benommenheit-Multiplikator für Kettendefensive",
                 "Param": "{Skill:1191021, Prop:1002}"
             },
-            "119110057": {
+            "119110069": {
                 "Title": "Sukzessive Hilfe: Kreuzerhai"
             },
-            "119110058": {
+            "119110070": {
                 "Description": "SCH-Multiplikator",
                 "Param": "{Skill:1191022, Prop:1001}"
             },
-            "119110059": {
+            "119110071": {
                 "Description": "Benommenheit-Multiplikator",
                 "Param": "{Skill:1191022, Prop:1002}"
             }
@@ -511,6 +511,30 @@
             "DamageGrowth": 250,
             "DazeValue": 0,
             "DazeGrowth": 0
+        },
+        "1191027": {
+            "DamageValue": 6040,
+            "DamageGrowth": 550,
+            "DazeValue": 2580,
+            "DazeGrowth": 120
+        },
+        "1191028": {
+            "DamageValue": 1300,
+            "DamageGrowth": 120,
+            "DazeValue": 560,
+            "DazeGrowth": 30
+        },
+        "1191029": {
+            "DamageValue": 23020,
+            "DamageGrowth": 2100,
+            "DazeValue": 6700,
+            "DazeGrowth": 310
+        },
+        "1191030": {
+            "DamageValue": 14680,
+            "DamageGrowth": 1340,
+            "DazeValue": 8420,
+            "DazeGrowth": 390
         }
     }
 }

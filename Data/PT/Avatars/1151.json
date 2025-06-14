@@ -11,7 +11,7 @@
         },
         "2": {
             "Title": "Capitã Javali",
-            "Description": "Quando Lucy usa um <color=#FFFFFF>Ataque em Cadeia</color> ou <color=#FFFFFF>Supremo</color>, o estado <color=#FFFFFF>Força!</color> é aplicado a todos os aliados, Bangboos e Javalis por 10 segundos.",
+            "Description": "Quando Lucy usa um <color=#FFFFFF>Ataque em Cadeia</color> ou <color=#FFFFFF>Supremo</color>, o estado <color=#FFFFFF>Força!</color> é aplicado a todos os membros da equipe, Bangboos e Javalis por 10 segundos.",
             "Lore": "\"Sem dúvida, a Capitã Lucy é a maior líder dos javalis tirenos dos Filhos de Calydon!\"\nConclusão do \"Relatório de Trabalho Anual dos Filhos de Calydon\", escrito por DePau."
         },
         "3": {
@@ -31,7 +31,7 @@
         },
         "6": {
             "Title": "Presas Flamejantes",
-            "Description": "Quando um aliado atinge um inimigo com um <color=#FFFFFF>Ataque Especial Reforçado</color> durante o estado <color=#FFFFFF>Força!</color>, um Javali Guardião cairá do céu e provocará uma explosão, causando <color=#FF5521>Dano de Fogo</color> equivalente a 300% do ATQ dos Javalis Guardiões. Isso aumentará 5s da duração do estado <color=#FFFFFF>Força!</color> de todos os membros da equipe. A duração pode ser aumentada até 3 vezes, com uma duração máxima de 30s. Os acúmulos de duração do estado <color=#FFFFFF>Força!</color> são reiniciados a cada ativação. Após aterrissar e explodir, os Javalis Guardiões executarão <color=#FFFFFF>\"Javalis Guardiões: Tacada Giratória!\"</color>.",
+            "Description": "Quando um aliado atinge um inimigo com um <color=#FFFFFF>Ataque Especial Reforçado</color> durante o estado <color=#FFFFFF>Força!</color>, um Javali Guardião cairá do céu e provocará uma explosão, causando <color=#FF5521>Dano de Fogo</color> equivalente a 300% do ATQ dos Javalis Guardiões. Isso aumentará 5s da duração do estado <color=#FFFFFF>Força!</color> de todos os membros da equipe, Bangboo e dos próprios Javalis Guardiões. A duração pode ser aumentada até 3 vezes, com uma duração máxima de 30s. Os acúmulos de duração do estado <color=#FFFFFF>Força!</color> são reiniciados a cada ativação. Após aterrissar e explodir, os Javalis Guardiões executarão <color=#FFFFFF>Javalis Guardiões: Tacada Giratória!</color>.",
             "Lore": "Os javalis tirenos conhecidos como \"Guarda da Juba Carmesim\" sempre estão na linha de frente!\nSó é difícil saber com certeza se no momento em que são arremessados pelo taco, eles estão morrendo de medo ou já aceitaram seu destino.\nBravos javalis, liderando o ataque!"
         }
     },
@@ -50,7 +50,7 @@
         },
         "MathSkill": {
             "Title": "Habilidade Extra: Bastão em Mãos!",
-            "Description": "Quando há personagens na equipe do mesmo atributo ou facção que Lucy:\nOs Javalis Guardiões podem herdar a Taxa CRIT e o Dano CRIT de Lucy."
+            "Description": "Quando há personagens na equipe do mesmo atributo, mesma facção que Lucy ou  do tipo <color=#FFFFFF>Destruidor</color>:\nOs Javalis Guardiões podem herdar a Taxa CRIT e o Dano CRIT de Lucy."
         }
     },
     "SkillDescriptions": {
@@ -160,7 +160,7 @@
             },
             "115100006": {
                 "Title": "Boa sorte!",
-                "Description": "Após lançar seu <color=#FFFFFF>Ataque Especial Reforçado</color> e os Javalis Guardiões causarem uma explosão, o estado <color=#FFFFFF>Força!</color> será aplicado a todos os aliados, Bangboos e Javalis Guardiões. No estado <color=#FFFFFF>Força!</color>, o ATQ de todos os aliados aumenta <color=#2BAD00>{CAL:13+AvatarSkillLevel(1)*0.8,1,2}%</color> do ATQ inicial de Lucy + <color=#2BAD00>{CAL:40+AvatarSkillLevel(1)*4,1,2}</color>, até o máximo de 600. O estado <color=#FFFFFF>Força!</color> dura 10s ao acertar uma <color=#FFFFFF>Bola Reta</color> e 15s ao acertar uma <color=#FFFFFF>Bola Alta</color>. A duração do estado <color=#FFFFFF>Força!</color> é redefinida após cada ativação."
+                "Description": "Após lançar seu <color=#FFFFFF>Ataque Especial Reforçado</color> e os Javalis Guardiões causarem uma explosão, o estado <color=#FFFFFF>Força!</color> será aplicado a todos os membros da equipe, Bangboos e Javalis Guardiões. No estado <color=#FFFFFF>Força!</color>, o ATQ de todos os aliados aumenta <color=#2BAD00>{CAL:13+AvatarSkillLevel(1)*0.8,1,2}%</color> do ATQ inicial de Lucy + <color=#2BAD00>{CAL:40+AvatarSkillLevel(1)*4,1,2}</color>, até o máximo de 600. O estado <color=#FFFFFF>Força!</color> dura 10s ao acertar uma <color=#FFFFFF>Bola Reta</color> e 15s ao acertar uma <color=#FFFFFF>Bola Alta</color>. A duração do estado <color=#FFFFFF>Força!</color> é redefinida após cada ativação."
             },
             "115110022": {
                 "Title": "Boa sorte!"

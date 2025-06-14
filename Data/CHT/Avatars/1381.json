@@ -11,7 +11,7 @@
         },
         "2": {
             "Title": "冗餘協議",
-            "Description": "零號·安比的暴擊率提升12%。發動<color=#FFFFFF>[終結技]</color>時，零號·安比會獲得6層<color=#FFFFFF>[電鳴]</color>（上限6層）。擁有<color=#FFFFFF>[電鳴]</color>後，零號·安比發動<color=#FFFFFF>[特殊技：蒼光]</color>命中擁有<color=#FFFFFF>[白雷]</color>的敵人時，將改為消耗1層<color=#FFFFFF>[電鳴]</color>作為代替，同一招式命中多名敵人時最多消耗1層<color=#FFFFFF>[電鳴]</color>，消耗<color=#FFFFFF>[電鳴]</color>時仍會觸發<color=#FFFFFF>[白雷]</color>的額外傷害。",
+            "Description": "零號·安比的暴擊率提升12%。發動<color=#FFFFFF>[終結技]</color>時，零號·安比會獲得6層<color=#FFFFFF>[電鳴]</color>（上限6層）。擁有<color=#FFFFFF>[電鳴]</color>後，零號·安比<color=#FFFFFF>[特殊技：蒼光]</color>命中擁有<color=#FFFFFF>[白雷]</color>的敵人時，將改為消耗1層<color=#FFFFFF>[電鳴]</color>作為代替，同一招式命中多名敵人時最多消耗1層<color=#FFFFFF>[電鳴]</color>，消耗<color=#FFFFFF>[電鳴]</color>時仍會觸發<color=#FFFFFF>[白雷]</color>的額外傷害。",
             "Lore": "「怎麼了？你看起來很累。」\n「我……沒事。」\n「如果需要幫忙，隨時開口。」"
         },
         "3": {
@@ -50,7 +50,7 @@
         },
         "MathSkill": {
             "Title": "額外能力：電極化",
-            "Description": "隊伍中包含<color=#FFFFFF>[擊破]</color>或<color=#FFFFFF>[支援]</color>角色時觸發：\n零號·安比的暴擊率提升10%。目前操作中的角色為零號·安比時，全隊<color=#FFFFFF>[追加攻擊]</color>對擁有<color=#FFFFFF>[銀星]</color>標記的敵人造成的傷害提升25%。"
+            "Description": "隊伍中包含<color=#FFFFFF>[擊破]</color>或<color=#FFFFFF>[支援]</color>角色時觸發：\n零號·安比的暴擊率提升10%。目前操作中的角色為零號·安比時，全隊角色<color=#FFFFFF>[追加攻擊]</color>對擁有<color=#FFFFFF>[銀星]</color>標記的敵人造成的傷害提升25%。"
         }
     },
     "SkillDescriptions": {

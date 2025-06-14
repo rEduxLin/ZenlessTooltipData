@@ -6,7 +6,7 @@
     "Talents": {
         "1": {
             "Title": "滿月蓄勢",
-            "Description": "<color=#FFFFFF>[強化特殊技]</color>命中敵人時，招式造成的失衡值提升12%，8秒內最多觸發一次。在<color=#FFFFFF>[強化特殊技]</color>中完成蓄力時，該增益效果額外提升10%。",
+            "Description": "<color=#FFFFFF>[強化特殊技：狂獵時刻]</color>命中敵人時，招式造成的失衡值提升12%，8秒內最多觸發一次。在<color=#FFFFFF>[強化特殊技：狂獵時刻]</color>中完成蓄力時，該增益效果額外提升10%。",
             "Lore": "據記載，當狼人身處月夜的時候，其攻擊性將有顯著提升。\n「不要直視月亮。」"
         },
         "2": {
@@ -39,13 +39,13 @@
         "UniqueSkill": {
             "Title": "核心被動：金屬狼足",
             "DescriptionByLevel": {
-                "1": "萊卡恩在<color=#FFFFFF>[普通攻擊]</color>中完成蓄力時，招式造成的失衡值提升<color=#2BAD00>40%</color>。\n<color=#FFFFFF>[強化特殊技]</color>或<color=#FFFFFF>[支援突擊]</color>命中敵人時，目標的<color=#98EFF0>冰屬性傷害抗性</color>降低25%，持續30秒。",
-                "2": "萊卡恩在<color=#FFFFFF>[普通攻擊]</color>中完成蓄力時，招式造成的失衡值提升<color=#2BAD00>46.6%</color>。\n<color=#FFFFFF>[強化特殊技]</color>或<color=#FFFFFF>[支援突擊]</color>命中敵人時，目標的<color=#98EFF0>冰屬性傷害抗性</color>降低25%，持續30秒。",
-                "3": "萊卡恩在<color=#FFFFFF>[普通攻擊]</color>中完成蓄力時，招式造成的失衡值提升<color=#2BAD00>53.3%</color>。\n<color=#FFFFFF>[強化特殊技]</color>或<color=#FFFFFF>[支援突擊]</color>命中敵人時，目標的<color=#98EFF0>冰屬性傷害抗性</color>降低25%，持續30秒。",
-                "4": "萊卡恩在<color=#FFFFFF>[普通攻擊]</color>中完成蓄力時，招式造成的失衡值提升<color=#2BAD00>60%</color>。\n<color=#FFFFFF>[強化特殊技]</color>或<color=#FFFFFF>[支援突擊]</color>命中敵人時，目標的<color=#98EFF0>冰屬性傷害抗性</color>降低25%，持續30秒。",
-                "5": "萊卡恩在<color=#FFFFFF>[普通攻擊]</color>中完成蓄力時，招式造成的失衡值提升<color=#2BAD00>66.6%</color>。\n<color=#FFFFFF>[強化特殊技]</color>或<color=#FFFFFF>[支援突擊]</color>命中敵人時，目標的<color=#98EFF0>冰屬性傷害抗性</color>降低25%，持續30秒。",
-                "6": "萊卡恩在<color=#FFFFFF>[普通攻擊]</color>中完成蓄力時，招式造成的失衡值提升<color=#2BAD00>73.3%</color>。\n<color=#FFFFFF>[強化特殊技]</color>或<color=#FFFFFF>[支援突擊]</color>命中敵人時，目標的<color=#98EFF0>冰屬性傷害抗性</color>降低25%，持續30秒。",
-                "7": "萊卡恩在<color=#FFFFFF>[普通攻擊]</color>中完成蓄力時，招式造成的失衡值提升<color=#2BAD00>80%</color>。\n<color=#FFFFFF>[強化特殊技]</color>或<color=#FFFFFF>[支援突擊]</color>命中敵人時，目標的<color=#98EFF0>冰屬性傷害抗性</color>降低25%，持續30秒。"
+                "1": "萊卡恩在<color=#FFFFFF>[普通攻擊]</color>中完成蓄力時，招式造成的失衡值提升<color=#2BAD00>40%</color>。\n<color=#FFFFFF>[強化特殊技：狂獵時刻]</color>或<color=#FFFFFF>[支援突擊：復仇反撲]</color>命中敵人時，目標的<color=#98EFF0>冰屬性傷害抗性</color>降低25%，持續30秒。",
+                "2": "萊卡恩在<color=#FFFFFF>[普通攻擊]</color>中完成蓄力時，招式造成的失衡值提升<color=#2BAD00>46.6%</color>。\n<color=#FFFFFF>[強化特殊技：狂獵時刻]</color>或<color=#FFFFFF>[支援突擊：復仇反撲]</color>命中敵人時，目標的<color=#98EFF0>冰屬性傷害抗性</color>降低25%，持續30秒。",
+                "3": "萊卡恩在<color=#FFFFFF>[普通攻擊]</color>中完成蓄力時，招式造成的失衡值提升<color=#2BAD00>53.3%</color>。\n<color=#FFFFFF>[強化特殊技：狂獵時刻]</color>或<color=#FFFFFF>[支援突擊：復仇反撲]</color>命中敵人時，目標的<color=#98EFF0>冰屬性傷害抗性</color>降低25%，持續30秒。",
+                "4": "萊卡恩在<color=#FFFFFF>[普通攻擊]</color>中完成蓄力時，招式造成的失衡值提升<color=#2BAD00>60%</color>。\n<color=#FFFFFF>[強化特殊技：狂獵時刻]</color>或<color=#FFFFFF>[支援突擊：復仇反撲]</color>命中敵人時，目標的<color=#98EFF0>冰屬性傷害抗性</color>降低25%，持續30秒。",
+                "5": "萊卡恩在<color=#FFFFFF>[普通攻擊]</color>中完成蓄力時，招式造成的失衡值提升<color=#2BAD00>66.6%</color>。\n<color=#FFFFFF>[強化特殊技：狂獵時刻]</color>或<color=#FFFFFF>[支援突擊：復仇反撲]</color>命中敵人時，目標的<color=#98EFF0>冰屬性傷害抗性</color>降低25%，持續30秒。",
+                "6": "萊卡恩在<color=#FFFFFF>[普通攻擊]</color>中完成蓄力時，招式造成的失衡值提升<color=#2BAD00>73.3%</color>。\n<color=#FFFFFF>[強化特殊技：狂獵時刻]</color>或<color=#FFFFFF>[支援突擊：復仇反撲]</color>命中敵人時，目標的<color=#98EFF0>冰屬性傷害抗性</color>降低25%，持續30秒。",
+                "7": "萊卡恩在<color=#FFFFFF>[普通攻擊]</color>中完成蓄力時，招式造成的失衡值提升<color=#2BAD00>80%</color>。\n<color=#FFFFFF>[強化特殊技：狂獵時刻]</color>或<color=#FFFFFF>[支援突擊：復仇反撲]</color>命中敵人時，目標的<color=#98EFF0>冰屬性傷害抗性</color>降低25%，持續30秒。"
             }
         },
         "MathSkill": {

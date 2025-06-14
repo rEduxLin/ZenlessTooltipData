@@ -11,7 +11,7 @@
         },
         "2": {
             "Title": "Đại Đội Trưởng Heo Con",
-            "Description": "Khi Lucy phát động <color=#FFFFFF>Liên Kích</color> hoặc <color=#FFFFFF>Tuyệt Kỹ</color>, sẽ tạo trạng thái <color=#FFFFFF>Cố Lên!</color> cho tất cả nhân vật, Bangboo, Heo Con Cận Vệ của phe ta, duy trì 10s.",
+            "Description": "Khi Lucy phát động <color=#FFFFFF>Liên Kích</color> hoặc <color=#FFFFFF>Tuyệt Kỹ</color>, sẽ gán trạng thái <color=#FFFFFF>Cố Lên!</color> cho nhân vật, Bangboo và Heo Con Cận Vệ trong toàn đội, duy trì 10s.",
             "Lore": "\"Không có gì phải nghi ngờ, Lucy chính là nhà lãnh đạo Người Heo Rừng giỏi nhất của Calydon!\"\nĐây là câu kết luận của Woody trong \"Báo Cáo Công Việc Hàng Năm Tại \"Những Đứa Con Của Calydon\"\""
         },
         "3": {
@@ -31,7 +31,7 @@
         },
         "6": {
             "Title": "Nanh Nhọn Rực Lửa",
-            "Description": "Khi đồng đội đang trong trạng thái <color=#FFFFFF>Cố Lên!</color> phát động <color=#FFFFFF>Siêu Chiến Kỹ</color> đánh trúng kẻ địch, một Heo Con Cận Vệ sẽ rơi từ trên không xuống đất và kích nổ, gây ra <color=#FF5521>DMG Hỏa</color> bằng với 300% tấn công của Heo Con Cận Vệ, đồng thời tăng 5s thời gian duy trì trạng thái <color=#FFFFFF>Cố Lên!</color> của toàn đội, thời gian duy trì tối đa tăng 3 lần, giới hạn 30s, khi nhận lại trạng thái <color=#FFFFFF>Cố Lên!</color> sẽ tạo mới số lần có thể tăng. Sau khi Heo Con Cận Vệ rơi xuống đất và kích nổ, sẽ phát động một lần <color=#FFFFFF>Heo Con Cận Vệ: Cú Đánh Xoay Vòng!</color>",
+            "Description": "Khi đồng đội đang trong trạng thái <color=#FFFFFF>Cố Lên!</color> phát động <color=#FFFFFF>Siêu Chiến Kỹ</color> đánh trúng kẻ địch, một Heo Con Cận Vệ sẽ rơi từ trên không xuống đất và kích nổ, gây ra <color=#FF5521>DMG Hỏa</color> bằng với 300% tấn công của Heo Con Cận Vệ, đồng thời tăng 5s thời gian duy trì trạng thái <color=#FFFFFF>Cố Lên!</color> của nhân vật, Bangboo và Heo Con Cận Vệ trong toàn đội, thời gian duy trì tối đa tăng 3 lần, giới hạn 30s, khi nhận lại trạng thái <color=#FFFFFF>Cố Lên!</color> sẽ tạo mới số lần có thể tăng. Sau khi Heo Con Cận Vệ rơi xuống đất và kích nổ, sẽ phát động một lần <color=#FFFFFF>Heo Con Cận Vệ: Cú Đánh Xoay Vòng!</color>",
             "Lore": "Những bé Người Heo của \"Đội Cận Vệ Bờm Đỏ\" luôn tiên phong dẫn đầu ở hàng tiền tuyến trong những trận chiến!\nTuy cũng khó biết được rằng vào khoảnh khắc bay vụt ra từ đầu gậy bóng chày, thì chúng cảm thấy cam tâm tình nguyện hay là ưu tư phiền muộn nữa.\nHeo con mạnh mẽ, dũng cảm đi đầu!"
         }
     },
@@ -50,7 +50,7 @@
         },
         "MathSkill": {
             "Title": "Năng Lực Thêm: Batter Up!",
-            "Description": "Khi trong đội có nhân vật cùng phe hoặc thuộc tính giống bản thân sẽ kích hoạt:\nHeo Con Cận Vệ có thể kế thừa Tỷ Lệ Bạo Kích và DMG Bạo Kích của Lucy."
+            "Description": "Khi trong đội có nhân vật cùng phe hoặc thuộc tính giống bản thân hoặc nhân vật <color=#FFFFFF>Mệnh Phá</color> sẽ kích hoạt:\nHeo Con Cận Vệ có thể kế thừa Tỷ Lệ Bạo Kích và DMG Bạo Kích của Lucy."
         }
     },
     "SkillDescriptions": {
@@ -160,7 +160,7 @@
             },
             "115100006": {
                 "Title": "Cố Lên!",
-                "Description": "Sau khi phát động <color=#FFFFFF>Siêu Chiến Kỹ</color>, khi Heo Con Cận Vệ gây nổ, sẽ gán trạng thái <color=#FFFFFF>Cố Lên!</color> cho tất cả nhân vật, Bangboo và Heo Con Cận Vệ của phe ta. Trong trạng thái <color=#FFFFFF>Cố Lên!</color>, sẽ tăng tấn công của đơn vị phe ta, chỉ số tăng tương đương với <color=#2BAD00>{CAL:13+AvatarSkillLevel(1)*0.8,1,2}%</color> tấn công ban đầu của Lucy + <color=#2BAD00>{CAL:40+AvatarSkillLevel(1)*4,1,2}</color> điểm, tối đa không vượt quá 600 điểm. Khi thực hiện đòn đánh <color=#FFFFFF>Bóng Ngang</color>, trạng thái <color=#FFFFFF>Cố Lên!</color> duy trì 10s. Khi thực hiện đòn đánh <color=#FFFFFF>Bóng Cao</color>, trạng thái <color=#FFFFFF>Cố Lên!</color> duy trì 15s, khi kích hoạt trùng lặp sẽ tạo mới thời gian duy trì."
+                "Description": "Sau khi phát động <color=#FFFFFF>Siêu Chiến Kỹ</color>, khi Heo Con Cận Vệ gây nổ, sẽ gán trạng thái <color=#FFFFFF>Cố Lên!</color> cho nhân vật, Bangboo, Heo Con Cận Vệ trong toàn đội. Trong trạng thái <color=#FFFFFF>Cố Lên!</color>, sẽ tăng tấn công của đơn vị phe ta, chỉ số tăng tương đương với <color=#2BAD00>{CAL:13+AvatarSkillLevel(1)*0.8,1,2}%</color> tấn công ban đầu của Lucy + <color=#2BAD00>{CAL:40+AvatarSkillLevel(1)*4,1,2}</color> điểm, tối đa không vượt quá 600 điểm. Khi thực hiện đòn đánh <color=#FFFFFF>Bóng Ngang</color>, trạng thái <color=#FFFFFF>Cố Lên!</color> duy trì 10s. Khi thực hiện đòn đánh <color=#FFFFFF>Bóng Cao</color>, trạng thái <color=#FFFFFF>Cố Lên!</color> duy trì 15s, khi kích hoạt trùng lặp sẽ tạo mới thời gian duy trì."
             },
             "115110022": {
                 "Title": "Cố Lên!"

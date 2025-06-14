@@ -6,12 +6,12 @@
     "Talents": {
         "1": {
             "Title": "無敗のチャンピオン",
-            "Description": "<color=#FFFFFF>『コアパッシブ：アクセレラント』</color>によって付与できるデバフ効果のうち：<color=#FFFFFF>「壊滅」</color>効果によりブレイク継続時間が5秒延長されるようになる。<color=#98EFF0>氷属性ダメージ耐性</color>および<color=#FF5521>炎属性ダメージ耐性</color>が追加で10%ダウンする。開幕ジャブまたはストレートラッシュ中に<color=#FFFFFF>「士気」</color>が尽き、強力なとどめの一撃が自動で発動された時、その与ダメージが30%アップする。",
+            "Description": "<color=#FFFFFF>『コアパッシブ：アクセレラント』</color>によって付与できるデバフ効果のうち：<color=#FFFFFF>「壊滅」</color>効果によりブレイク継続時間が5秒延長されるようになる。<color=#98EFF0>氷属性ダメージ耐性</color>および<color=#FF5521>炎属性ダメージ耐性</color>が追加で-10%。開幕ジャブまたはストレートラッシュ中に<color=#FFFFFF>「士気」</color>が尽き、強力なとどめの一撃が自動で発動された時、その与ダメージ+30%。",
             "Lore": "無敗のチャンピオンにとって、勝つことが重要であることは説くまでもない。\nライバルチームの「最強」を下すことで、大将にとっての脅威を排除し、\nチーム全体の士気を最高潮まで高める…彼にとっては、勝利だけが称賛されるに値する。\n「チャンピオンは決して倒れない」"
         },
         "2": {
             "Title": "赤いマフラー",
-            "Description": "<color=#FFFFFF>『コアパッシブ：アクセレラント』</color>によって敵に<color=#FFFFFF>「壊滅」</color>効果を付与した時、ターゲットのブレイク弱体倍率が25%アップする。<color=#FFFFFF>『追加能力：燃える闘志』</color>で獲得できる<color=#FFFFFF>「高揚」</color>による、<color=#98EFF0>氷属性ダメージ</color>および<color=#FF5521>炎属性ダメージ</color>のバフ効果が本来の120%になる。",
+            "Description": "<color=#FFFFFF>『コアパッシブ：アクセレラント』</color>によって敵に<color=#FFFFFF>「壊滅」</color>効果を付与した時、ターゲットのブレイク弱体倍率+25%。<color=#FFFFFF>『追加能力：燃える闘志』</color>で獲得できる<color=#FFFFFF>「高揚」</color>による、<color=#98EFF0>氷属性ダメージ</color>および<color=#FF5521>炎属性ダメージ</color>のバフ効果が本来の120%になる。",
             "Lore": "カリュドーンの子の「赤いマフラー」は、郊外においてちょっとした有名人だ。\n彼の強烈なパンチは勿論、その独特な言い回しもまた印象に残るからだろう。\n「ヒマになるのは歓迎だが…あんたら、俺抜きでやれるか？」"
         },
         "3": {
@@ -21,7 +21,7 @@
         },
         "4": {
             "Title": "グラサン",
-            "Description": "ライトが控えにいる時、出場中のメンバーのエネルギー自動回復効率が10%アップする。ライトが<color=#FFFFFF>「士気奮発」</color>状態に突入した時、控えのメンバーのエネルギーを4Pt回復する、18秒に1回のみ発動可能。",
+            "Description": "ライトが控えにいる時、出場中のメンバーのエネルギー自動回復効率+10%。ライトが<color=#FFFFFF>「士気奮発」</color>状態に突入した時、控えのメンバーのエネルギーを4Pt回復する、18秒に1回のみ発動可能。",
             "Lore": "「どうしてグラサンを引っかけてるのかって？血が苦手だからさ。多分な」"
         },
         "5": {
@@ -31,7 +31,7 @@
         },
         "6": {
             "Title": "生き残り",
-            "Description": "ライトの<color=#FFFFFF>「士気」</color>の回復効率が本来の200%になる。ライトの<color=#FFFFFF>『通常攻撃』</color>、<color=#FFFFFF>『回避反撃』</color>、<color=#FFFFFF>『特殊スキル』</color>、<color=#FFFFFF>『強化特殊スキル』</color>、<color=#FFFFFF>『クイック支援』</color>、<color=#FFFFFF>『支援突撃』</color>、<color=#FFFFFF>『連携スキル』</color>、<color=#FFFFFF>『終結スキル』</color>の重撃が敵に命中した時、<color=#FFFFFF>「インパクトファイア」</color>効果が発動し、攻撃力250%分の<color=#FF5521>炎属性ダメージ</color>を与える、同じ敵に対して8秒に1回のみ発動可能。ライトの衝撃力が170Ptを上回る場合、1Pt上回るごとに<color=#FFFFFF>「インパクトファイア」</color>のダメージ倍率が追加で5%アップする、最大500%アップできる。開幕ジャブまたはストレートラッシュ中に<color=#FFFFFF>「士気」</color>が尽き、強力なとどめの一撃が自動で発動された時、クールタイムを無視して追加で<color=#FFFFFF>「インパクトファイア」</color>効果を1回発動できる。",
+            "Description": "ライトの<color=#FFFFFF>「士気」</color>の回復効率が本来の200%になる。ライトの<color=#FFFFFF>『通常攻撃』</color>、<color=#FFFFFF>『回避反撃』</color>、<color=#FFFFFF>『特殊スキル』</color>、<color=#FFFFFF>『強化特殊スキル』</color>、<color=#FFFFFF>『クイック支援』</color>、<color=#FFFFFF>『支援突撃』</color>、<color=#FFFFFF>『連携スキル』</color>、<color=#FFFFFF>『終結スキル』</color>の重撃が敵に命中した時、<color=#FFFFFF>「インパクトファイア」</color>効果が発動し、攻撃力250%分の<color=#FF5521>炎属性ダメージ</color>を与える、同じ敵に対して8秒に1回のみ発動可能。ライトの衝撃力が170Ptを上回る場合、1Pt上回るごとに<color=#FFFFFF>「インパクトファイア」</color>のダメージ倍率が追加で+5%、最大+500%。開幕ジャブまたはストレートラッシュ中に<color=#FFFFFF>「士気」</color>が尽き、強力なとどめの一撃が自動で発動された時、クールタイムを無視して追加で<color=#FFFFFF>「インパクトファイア」</color>効果を1回発動できる。",
             "Lore": "もう一度やり直すことができるのなら、彼はきっと\n「唯一の生き残り」となる選択を決して選ばないだろう…\n惜しいかな、運命を選ぶことなどできはしない。"
         }
     },
@@ -50,14 +50,14 @@
         },
         "MathSkill": {
             "Title": "追加能力：燃える闘志",
-            "Description": "チームに<color=#FFFFFF>[強攻]</color>のメンバーまたは自身と同じ陣営のメンバーがいる時に発動：\n<color=#FFFFFF>「士気奮発」</color>状態にある時、ライトの<color=#FFFFFF>『通常攻撃』</color>5段目が敵に命中すると、チーム全体が<color=#FFFFFF>「高揚」</color>を1重獲得する、最大20重まで重ね掛け可能、継続時間30秒。重複して発動すると継続時間が更新される。<color=#FFFFFF>「高揚」</color>1重につき、エージェントの与える<color=#98EFF0>氷属性ダメージ</color>と<color=#FF5521>炎属性ダメージ</color>が1.25%アップする。\n<color=#FFFFFF>「高揚」</color>を獲得した時、ライトの衝撃力が170Ptを上回る場合、10Pt上回るごとに<color=#FFFFFF>「高揚」</color>1重ごとのバフ効果が追加で0.25%アップする。任意のメンバーが<color=#FFFFFF>『連携スキル』</color>を発動した時、チーム全体の<color=#FFFFFF>「高揚」</color>の継続時間が更新される。<color=#FFFFFF>「高揚」</color>によってアップできるエージェントの<color=#98EFF0>氷属性与ダメージ</color>と<color=#FF5521>炎属性与ダメージ</color>は最大75%まで。"
+            "Description": "チームに<color=#FFFFFF>[強攻]</color>のメンバーまたは自身と同じ陣営のメンバーがいる時に発動：\n<color=#FFFFFF>「士気奮発」</color>状態にある時、ライトの<color=#FFFFFF>『通常攻撃』</color>5段目が敵に命中すると、メンバー全員が<color=#FFFFFF>「高揚」</color>を1重獲得する、最大20重まで重ね掛け可能、継続時間30秒。重複して発動すると継続時間が更新される。<color=#FFFFFF>「高揚」</color>1重につき、エージェントの与える<color=#98EFF0>氷属性ダメージ</color>と<color=#FF5521>炎属性ダメージ</color>+1.25%。\n<color=#FFFFFF>「高揚」</color>を獲得した時、ライトの衝撃力が170Ptを上回る場合、10Pt上回るごとに<color=#FFFFFF>「高揚」</color>1重ごとのバフ効果が追加で+0.25%。任意のメンバーが<color=#FFFFFF>『連携スキル』</color>を発動した時、メンバー全員の<color=#FFFFFF>「高揚」</color>の継続時間が更新される。<color=#FFFFFF>「高揚」</color>によってアップできるエージェントの<color=#98EFF0>氷属性与ダメージ</color>と<color=#FF5521>炎属性与ダメージ</color>は最大75%まで。"
         }
     },
     "SkillDescriptions": {
         "0": {
             "116100001": {
                 "Title": "通常攻撃：L式グラウリング・フィスト",
-                "Description": "<IconMap:Icon_Normal> を短押しまたは長押しして発動：\n前方に最大5段の打撃を放ち、<color=#F0D12B>物理属性ダメージ</color>と<color=#FF5521>炎属性ダメージ</color>を与える。\n<color=#FFFFFF>『通常攻撃』</color>3段目の発動中に{LAYOUT_CONSOLECONTROLLER#スティック}{LAYOUT_FALLBACK#スティック}を入力しながら <IconMap:Icon_Normal> を連打または長押しすると、体術の連続追撃を持続的に発動できる。\n{LAYOUT_CONSOLECONTROLLER#スティック}{LAYOUT_FALLBACK#スティック}を離すと、そのまま<color=#FFFFFF>『通常攻撃』</color>4段目に繋げることが可能。\n<color=#FFFFFF>『通常攻撃』</color>5段目の開幕ジャブ中に{LAYOUT_CONSOLECONTROLLER#スティック}{LAYOUT_FALLBACK#スティック}を入力しながら <IconMap:Icon_Normal> を連打または長押しすると、開幕ジャブと<color=#FFFFFF>『通常攻撃』</color>4段目を繰り返し発動することが可能。{LAYOUT_CONSOLECONTROLLER#スティック}{LAYOUT_FALLBACK#スティック}を離すと、そのままストレートラッシュに繋げることが可能。\n<IconMap:Icon_Normal> の連打または長押しを続けると、ストレートラッシュの継続時間が延長される。\n<IconMap:Icon_Normal> の連打または長押しをやめた後、あるいはストレートラッシュが継続時間の上限に達した後、前方にとどめの一撃を放つ。とどめの一撃発動中、無敵効果を得る。\n<color=#FFFFFF>『通常攻撃』</color>5段目発動中、ライトの被ダメージが40%ダウンする。\n<color=#FFFFFF>「士気奮発」</color>状態にある時、<color=#FFFFFF>『通常攻撃』</color>5段目発動中に中断耐性レベルがアップし、被ダメージダウン効果が80%になる。"
+                "Description": "<IconMap:Icon_Normal> を短押しまたは長押しして発動：\n前方に最大5段の打撃を放ち、<color=#F0D12B>物理属性ダメージ</color>と<color=#FF5521>炎属性ダメージ</color>を与える。\n<color=#FFFFFF>『通常攻撃』</color>3段目の発動中に{LAYOUT_CONSOLECONTROLLER#スティック}{LAYOUT_FALLBACK#スティック}を入力しながら <IconMap:Icon_Normal> を連打または長押しすると、体術の連続追撃を持続的に発動できる。\n{LAYOUT_CONSOLECONTROLLER#スティック}{LAYOUT_FALLBACK#スティック}を離すと、そのまま<color=#FFFFFF>『通常攻撃』</color>4段目に繋げることが可能。\n<color=#FFFFFF>『通常攻撃』</color>5段目の開幕ジャブ中に{LAYOUT_CONSOLECONTROLLER#スティック}{LAYOUT_FALLBACK#スティック}を入力しながら <IconMap:Icon_Normal> を連打または長押しすると、開幕ジャブと<color=#FFFFFF>『通常攻撃』</color>4段目を繰り返し発動することが可能。{LAYOUT_CONSOLECONTROLLER#スティック}{LAYOUT_FALLBACK#スティック}を離すと、そのままストレートラッシュに繋げることが可能。\n<IconMap:Icon_Normal> の連打または長押しを続けると、ストレートラッシュの継続時間が延長される。\n<IconMap:Icon_Normal> の連打または長押しをやめた後、あるいはストレートラッシュが継続時間の上限に達した後、前方にとどめの一撃を放つ。とどめの一撃発動中、無敵効果を得る。\n<color=#FFFFFF>『通常攻撃』</color>5段目発動中、ライトの被ダメージ-40%。\n<color=#FFFFFF>「士気奮発」</color>状態にある時、<color=#FFFFFF>『通常攻撃』</color>5段目発動中に中断耐性レベルがアップし、被ダメージダウン効果が80%になる。"
             },
             "116110001": {
                 "Title": "通常攻撃：L式グラウリング・フィスト"

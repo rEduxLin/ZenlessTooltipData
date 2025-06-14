@@ -31,7 +31,7 @@
         },
         "6": {
             "Title": "Đêm Mưa Bão Kinh Hồn",
-            "Description": "Khi <color=#FFFFFF>Siêu Chiến Kỹ</color>, <color=#FFFFFF>Liên Kích</color> hoặc <color=#FFFFFF>Tuyệt Kỹ</color> đánh trúng kẻ địch, <color=#2EB6FF>DMG Điện</color> do toàn đội gây ra tăng 15%, duy trì 8s.",
+            "Description": "Khi <color=#FFFFFF>Siêu Chiến Kỹ</color>, <color=#FFFFFF>Liên Kích</color> hoặc <color=#FFFFFF>Tuyệt Kỹ</color> đánh trúng kẻ địch, <color=#2EB6FF>DMG Điện</color> do nhân vật toàn đội gây ra tăng 15%, duy trì 8s.",
             "Lore": "Lâu đài cổ trong đêm mưa, tiếng sấm vang dội. Hành lang thăm thẳm, bóng dáng ghê rợn.\nTia lửa điện quá tải, bộ phim kinh dị bắt đầu."
         }
     },
@@ -50,7 +50,7 @@
         },
         "MathSkill": {
             "Title": "Năng Lực Thêm: Vũ Hội Hoàn Hảo",
-            "Description": "Khi trong đội có nhân vật cùng phe hoặc thuộc tính giống bản thân sẽ kích hoạt:\nKhi nhân vật bất kỳ trong đội thi triển hiệu quả <color=#2EB6FF>Sốc Điện</color> lên kẻ địch, thời gian duy trì hiệu quả này tăng 3s. Khi trong trận có kẻ địch ở trạng thái <color=#2EB6FF>Sốc Điện</color>, <color=#2EB6FF>DMG Điện</color> do toàn đội gây ra tăng 10%."
+            "Description": "Khi trong đội có nhân vật cùng phe hoặc thuộc tính giống bản thân sẽ kích hoạt:\nKhi nhân vật bất kỳ trong đội thi triển hiệu quả <color=#2EB6FF>Sốc Điện</color> lên kẻ địch, thời gian duy trì hiệu quả này tăng 3s. Khi trong trận có kẻ địch ở trạng thái <color=#2EB6FF>Sốc Điện</color>, <color=#2EB6FF>DMG Điện</color> do nhân vật toàn đội gây ra tăng 10%."
         }
     },
     "SkillDescriptions": {

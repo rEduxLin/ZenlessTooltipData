@@ -11,7 +11,7 @@
         },
         "2": {
             "Title": "이중화 프로토콜",
-            "Description": "0호·엔비의 치명타 확률이 12% 증가한다. <color=#FFFFFF>[궁극기]</color> 시전 시, 0호·엔비가 <color=#FFFFFF>[뇌명]</color>을 6스택 획득한다. (최대치: 6스택)\n<color=#FFFFFF>[뇌명]</color>을 보유한 상태에서 0호·엔비가 시전한 <color=#FFFFFF>[특수 스킬: 푸른빛]</color>이 <color=#FFFFFF>[백뢰]</color>를 보유한 적에게 명중 시, <color=#FFFFFF>[뇌명]</color>을 1스택 소모하는 것으로 대체되며, 동일한 공격이 여러 명의 적에게 명중 시 최대 1스택의 <color=#FFFFFF>[뇌명]</color>을 소모한다. <color=#FFFFFF>[뇌명]</color> 소모 시에도 <color=#FFFFFF>[백뢰]</color>의 추가 피해를 발동한다.",
+            "Description": "0호·엔비의 치명타 확률이 12% 증가한다. <color=#FFFFFF>[궁극기]</color> 시전 시, 0호·엔비가 <color=#FFFFFF>[뇌명]</color>을 6스택 획득한다. (최대치: 6스택)\n<color=#FFFFFF>[뇌명]</color>을 보유한 상태에서 0호·엔비의 <color=#FFFFFF>[특수 스킬: 푸른빛]</color>이 <color=#FFFFFF>[백뢰]</color>를 보유한 적에게 명중 시, <color=#FFFFFF>[뇌명]</color>을 1스택 소모하는 것으로 대체되며, 동일한 공격이 여러 명의 적에게 명중 시 최대 1스택의 <color=#FFFFFF>[뇌명]</color>을 소모한다. <color=#FFFFFF>[뇌명]</color> 소모 시에도 <color=#FFFFFF>[백뢰]</color>의 추가 피해를 발동한다.",
             "Lore": "「왜 그래? 엄청 피곤해 보이네」\n「전… 괜찮아요」\n「도움이 필요하면 언제든지 말만 해」"
         },
         "3": {
@@ -50,7 +50,7 @@
         },
         "MathSkill": {
             "Title": "추가 능력: 유전분극",
-            "Description": "파티에 <color=#FFFFFF>[격파]</color> 혹은 <color=#FFFFFF>[지원]</color> 캐릭터 존재 시 발동:\n0호·엔비의 치명타 확률이 10% 증가한다. 현재 조작 중인 캐릭터가 0호·엔비일 시, 모든 파티원의 <color=#FFFFFF>[여진 공격]</color>이 <color=#FFFFFF>[은빛 별]</color> 표식을 보유한 적에게 주는 피해가 25% 증가한다."
+            "Description": "파티에 <color=#FFFFFF>[격파]</color> 혹은 <color=#FFFFFF>[지원]</color> 캐릭터 존재 시 발동:\n0호·엔비의 치명타 확률이 10% 증가한다. 현재 조작 중인 캐릭터가 0호·엔비일 시, 파티 내 모든 캐릭터의 <color=#FFFFFF>[여진 공격]</color>이 <color=#FFFFFF>[은빛 별]</color> 표식을 보유한 적에게 주는 피해가 25% 증가한다."
         }
     },
     "SkillDescriptions": {

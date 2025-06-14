@@ -11,7 +11,7 @@
         },
         "2": {
             "Title": "飛んで火に舞う",
-            "Description": "イヴリンの攻撃力が15%アップする。\n<color=#FFFFFF>『通常攻撃：絞式・I型』</color>または<color=#FFFFFF>『通常攻撃：絞式・II型』</color>を発動した時、消費した<color=#FFFFFF>「燎火」</color>が返還される、25秒に1回のみ発動可能。\n<color=#FFFFFF>「燎索ポイント」</color>を消費して<color=#FFFFFF>『連携スキル：輝夜の糸・絆』</color>を発動した時、スキルの中断レベルがアップする。",
+            "Description": "イヴリンの攻撃力+15%。\n<color=#FFFFFF>『通常攻撃：絞式・I型』</color>または<color=#FFFFFF>『通常攻撃：絞式・II型』</color>を発動した時、消費した<color=#FFFFFF>「燎火」</color>が返還される、25秒に1回のみ発動可能。\n<color=#FFFFFF>「燎索ポイント」</color>を消費して<color=#FFFFFF>『連携スキル：輝夜の糸・絆』</color>を発動した時、スキルの中断レベルがアップする。",
             "Lore": "「あんな輝きがあることを、私は知らなかった。\n触れてはならないと思っていたが…その輝きはあらゆる壁を壊し\n私の心に直接触れた――そのとき思い出したんだ、\n暗闇の外にも、追い求めるに値するものがあるのだと」\n初めてアストラと出会ったときを回想するイヴリンの声は\nいつになく優しげだった。"
         },
         "3": {
@@ -21,7 +21,7 @@
         },
         "4": {
             "Title": "運命の音",
-            "Description": "<color=#FFFFFF>『連携スキル』</color>または<color=#FFFFFF>『終結スキル』</color>発動時、イヴリンは即座に自身のHP上限10%分のシールドを生成する。\nこのシールドがある時、イヴリンの会心ダメージが40%アップする。",
+            "Description": "<color=#FFFFFF>『連携スキル』</color>または<color=#FFFFFF>『終結スキル』</color>発動時、イヴリンは即座に自身のHP上限10%分のシールドを生成する。\nこのシールドがある時、イヴリンの会心ダメージ+40%。",
             "Lore": "「あのねイヴ、私…誰かに会って、\n『あっ、この人は私の人生で大切な人になる…』ってとき\n胸の中で『ドクン』って音がするの！」\nイヴリンはため息をつき、時間がないんだぞ、と催促し\nそれを聞いたアストラはファスナーを閉め、慌てて部屋を出る。\n一人メイク室に残されたイヴリンは、小さい声で反芻した。\n「…ドクン」"
         },
         "5": {
@@ -39,18 +39,18 @@
         "UniqueSkill": {
             "Title": "コアパッシブ：絡まる糸",
             "DescriptionByLevel": {
-                "1": "<color=#FFFFFF>「纏わりつく牽制」</color>状態に突入した時、イヴリンの会心率が<color=#2BAD00>12.5%</color>アップする。<color=#FFFFFF>「纏わりつく牽制」</color>状態が終了しても、バフ効果は10秒間継続する。\n<color=#FFFFFF>「纏わりつく牽制」</color>状態継続中に他のメンバーに切り替えた時、イヴリンは自動で<color=#FFFFFF>『特殊スキル：縛裂式・I型』</color>を発動する。",
-                "2": "<color=#FFFFFF>「纏わりつく牽制」</color>状態に突入した時、イヴリンの会心率が<color=#2BAD00>14.6%</color>アップする。<color=#FFFFFF>「纏わりつく牽制」</color>状態が終了しても、バフ効果は10秒間継続する。\n<color=#FFFFFF>「纏わりつく牽制」</color>状態継続中に他のメンバーに切り替えた時、イヴリンは自動で<color=#FFFFFF>『特殊スキル：縛裂式・I型』</color>を発動する。",
-                "3": "<color=#FFFFFF>「纏わりつく牽制」</color>状態に突入した時、イヴリンの会心率が<color=#2BAD00>16.7%</color>アップする。<color=#FFFFFF>「纏わりつく牽制」</color>状態が終了しても、バフ効果は10秒間継続する。\n<color=#FFFFFF>「纏わりつく牽制」</color>状態継続中に他のメンバーに切り替えた時、イヴリンは自動で<color=#FFFFFF>『特殊スキル：縛裂式・I型』</color>を発動する。",
-                "4": "<color=#FFFFFF>「纏わりつく牽制」</color>状態に突入した時、イヴリンの会心率が<color=#2BAD00>18.8%</color>アップする。<color=#FFFFFF>「纏わりつく牽制」</color>状態が終了しても、バフ効果は10秒間継続する。\n<color=#FFFFFF>「纏わりつく牽制」</color>状態継続中に他のメンバーに切り替えた時、イヴリンは自動で<color=#FFFFFF>『特殊スキル：縛裂式・I型』</color>を発動する。",
-                "5": "<color=#FFFFFF>「纏わりつく牽制」</color>状態に突入した時、イヴリンの会心率が<color=#2BAD00>20.8%</color>アップする。<color=#FFFFFF>「纏わりつく牽制」</color>状態が終了しても、バフ効果は10秒間継続する。\n<color=#FFFFFF>「纏わりつく牽制」</color>状態継続中に他のメンバーに切り替えた時、イヴリンは自動で<color=#FFFFFF>『特殊スキル：縛裂式・I型』</color>を発動する。",
-                "6": "<color=#FFFFFF>「纏わりつく牽制」</color>状態に突入した時、イヴリンの会心率が<color=#2BAD00>23%</color>アップする。<color=#FFFFFF>「纏わりつく牽制」</color>状態が終了しても、バフ効果は10秒間継続する。\n<color=#FFFFFF>「纏わりつく牽制」</color>状態継続中に他のメンバーに切り替えた時、イヴリンは自動で<color=#FFFFFF>『特殊スキル：縛裂式・I型』</color>を発動する。",
-                "7": "<color=#FFFFFF>「纏わりつく牽制」</color>状態に突入した時、イヴリンの会心率が<color=#2BAD00>25%</color>アップする。<color=#FFFFFF>「纏わりつく牽制」</color>状態が終了しても、バフ効果は10秒間継続する。\n<color=#FFFFFF>「纏わりつく牽制」</color>状態継続中に他のメンバーに切り替えた時、イヴリンは自動で<color=#FFFFFF>『特殊スキル：縛裂式・I型』</color>を発動する。"
+                "1": "<color=#FFFFFF>「纏わりつく牽制」</color>状態に突入した時、イヴリンの会心率+<color=#2BAD00>12.5%</color>。<color=#FFFFFF>「纏わりつく牽制」</color>状態が終了しても、バフ効果は10秒間継続する。\n<color=#FFFFFF>「纏わりつく牽制」</color>状態継続中に他のメンバーに切り替えた時、イヴリンは自動で<color=#FFFFFF>『特殊スキル：縛裂式・I型』</color>を発動する。",
+                "2": "<color=#FFFFFF>「纏わりつく牽制」</color>状態に突入した時、イヴリンの会心率+<color=#2BAD00>14.6%</color>。<color=#FFFFFF>「纏わりつく牽制」</color>状態が終了しても、バフ効果は10秒間継続する。\n<color=#FFFFFF>「纏わりつく牽制」</color>状態継続中に他のメンバーに切り替えた時、イヴリンは自動で<color=#FFFFFF>『特殊スキル：縛裂式・I型』</color>を発動する。",
+                "3": "<color=#FFFFFF>「纏わりつく牽制」</color>状態に突入した時、イヴリンの会心率+<color=#2BAD00>16.7%</color>。<color=#FFFFFF>「纏わりつく牽制」</color>状態が終了しても、バフ効果は10秒間継続する。\n<color=#FFFFFF>「纏わりつく牽制」</color>状態継続中に他のメンバーに切り替えた時、イヴリンは自動で<color=#FFFFFF>『特殊スキル：縛裂式・I型』</color>を発動する。",
+                "4": "<color=#FFFFFF>「纏わりつく牽制」</color>状態に突入した時、イヴリンの会心率+<color=#2BAD00>18.8%</color>。<color=#FFFFFF>「纏わりつく牽制」</color>状態が終了しても、バフ効果は10秒間継続する。\n<color=#FFFFFF>「纏わりつく牽制」</color>状態継続中に他のメンバーに切り替えた時、イヴリンは自動で<color=#FFFFFF>『特殊スキル：縛裂式・I型』</color>を発動する。",
+                "5": "<color=#FFFFFF>「纏わりつく牽制」</color>状態に突入した時、イヴリンの会心率+<color=#2BAD00>20.8%</color>。<color=#FFFFFF>「纏わりつく牽制」</color>状態が終了しても、バフ効果は10秒間継続する。\n<color=#FFFFFF>「纏わりつく牽制」</color>状態継続中に他のメンバーに切り替えた時、イヴリンは自動で<color=#FFFFFF>『特殊スキル：縛裂式・I型』</color>を発動する。",
+                "6": "<color=#FFFFFF>「纏わりつく牽制」</color>状態に突入した時、イヴリンの会心率+<color=#2BAD00>23%</color>。<color=#FFFFFF>「纏わりつく牽制」</color>状態が終了しても、バフ効果は10秒間継続する。\n<color=#FFFFFF>「纏わりつく牽制」</color>状態継続中に他のメンバーに切り替えた時、イヴリンは自動で<color=#FFFFFF>『特殊スキル：縛裂式・I型』</color>を発動する。",
+                "7": "<color=#FFFFFF>「纏わりつく牽制」</color>状態に突入した時、イヴリンの会心率+<color=#2BAD00>25%</color>。<color=#FFFFFF>「纏わりつく牽制」</color>状態が終了しても、バフ効果は10秒間継続する。\n<color=#FFFFFF>「纏わりつく牽制」</color>状態継続中に他のメンバーに切り替えた時、イヴリンは自動で<color=#FFFFFF>『特殊スキル：縛裂式・I型』</color>を発動する。"
             }
         },
         "MathSkill": {
             "Title": "追加能力：急襲支点",
-            "Description": "チームに<color=#FFFFFF>[撃破]</color>または<color=#FFFFFF>[支援]</color>のメンバーがいる時に発動：\nイヴリンの<color=#FFFFFF>『連携スキル』</color>および<color=#FFFFFF>『終結スキル』</color>の与ダメージが30%アップする。\nイヴリンの会心率が80%以上の時、<color=#FFFFFF>『連携スキル』</color>および<color=#FFFFFF>『終結スキル』</color>のダメージ倍率が本来の125%になる。"
+            "Description": "チームに<color=#FFFFFF>[撃破]</color>または<color=#FFFFFF>[支援]</color>のメンバーがいる時に発動：\nイヴリンの<color=#FFFFFF>『連携スキル』</color>および<color=#FFFFFF>『終結スキル』</color>の与ダメージ+30%。\nイヴリンの会心率が80%以上の時、<color=#FFFFFF>『連携スキル：輝夜の糸・絆』</color>、<color=#FFFFFF>『終結スキル：輝夜の糸・弦音』</color>および<color=#FFFFFF>『終結スキル：輝夜の糸・弦影』</color>のダメージ倍率が本来の125%になる。"
         }
     },
     "SkillDescriptions": {
@@ -65,11 +65,11 @@
             },
             "132100003": {
                 "Title": "通常攻撃：絞式・I型",
-                "Description": "<color=#FFFFFF>「燎火」</color>が50%以上溜まっている状態で <IconMap:Icon_Normal> または <IconMap:Icon_Special> を長押しして発動：\n<color=#FFFFFF>「燎火」</color>を50%消費し、<color=#FFFFFF>『輝夜の糸・弦』</color>で斬撃を行い、<color=#FF5521>炎属性ダメージ</color>を与える。\nスキル発動中、中断耐性レベルがアップし、被ダメージが40%ダウンする。\nスキル発動後、<color=#FFFFFF>「燎索ポイント」</color>が1Pt溜まる。"
+                "Description": "<color=#FFFFFF>「燎火」</color>が50%以上溜まっている状態で <IconMap:Icon_Normal> または <IconMap:Icon_Special> を長押しして発動：\n<color=#FFFFFF>「燎火」</color>を50%消費し、<color=#FFFFFF>『輝夜の糸・弦』</color>で斬撃を行い、<color=#FF5521>炎属性ダメージ</color>を与える。\nスキル発動中、中断耐性レベルがアップし、被ダメージ-40%。\nスキル発動後、<color=#FFFFFF>「燎索ポイント」</color>が1Pt溜まる。"
             },
             "132100004": {
                 "Title": "通常攻撃：絞式・II型",
-                "Description": "<color=#FFFFFF>「燎火」</color>が50%以上溜まっている状態で、<color=#FFFFFF>『通常攻撃：絞式・I型』</color>発動後、引き続き <IconMap:Icon_Normal> または <IconMap:Icon_Special> を長押しして発動：\n<color=#FFFFFF>「燎火」</color>を50%消費し、<color=#FFFFFF>『輝夜の糸・弦』</color>で追撃を行い、<color=#FF5521>炎属性ダメージ</color>を与える。\nスキル発動中、中断耐性レベルがアップし、被ダメージが40%ダウンする。\nスキル発動後、<color=#FFFFFF>「燎索ポイント」</color>が1Pt溜まる。"
+                "Description": "<color=#FFFFFF>「燎火」</color>が50%以上溜まっている状態で、<color=#FFFFFF>『通常攻撃：絞式・I型』</color>発動後、引き続き <IconMap:Icon_Normal> または <IconMap:Icon_Special> を長押しして発動：\n<color=#FFFFFF>「燎火」</color>を50%消費し、<color=#FFFFFF>『輝夜の糸・弦』</color>で追撃を行い、<color=#FF5521>炎属性ダメージ</color>を与える。\nスキル発動中、中断耐性レベルがアップし、被ダメージ-40%。\nスキル発動後、<color=#FFFFFF>「燎索ポイント」</color>が1Pt溜まる。"
             },
             "132110001": {
                 "Title": "通常攻撃：シャープ・ストリング"

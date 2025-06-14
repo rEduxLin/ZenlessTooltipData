@@ -31,7 +31,7 @@
         },
         "6": {
             "Title": "Overlord's Will",
-            "Description": "<color=#FFFFFF>EX Special Attack: Overpowered Shield Bash</color> dan <color=#FFFFFF>Assist Follow-Up</color> pasti akan memicu CRIT, dan DMG yang diakibatkan Skill akan meningkat 50% (DMG yang diakibatkan terhadap target utama mendapat peningkatan tambahan sebesar 50%). Saat melancarkan <color=#FFFFFF>EX Special Attack: Overpowered Shield Bash</color> atau <color=#FFFFFF>Assist Follow-Up</color>, CRIT Rate Caesar meningkat 30% dan CRIT DMG meningkat 60% selama 15 detik.",
+            "Description": "<color=#FFFFFF>EX Special Attack: Overpowered Shield Bash</color> dan <color=#FFFFFF>Assist Follow-Up: Aiding Blade</color> pasti akan memicu CRIT. DMG yang diakibatkan Skill akan meningkat 50% (DMG yang diakibatkan terhadap target utama mendapat peningkatan tambahan sebesar 50%). Saat melancarkan <color=#FFFFFF>EX Special Attack: Overpowered Shield Bash</color> atau <color=#FFFFFF>Assist Follow-Up: Aiding Blade</color>, CRIT Rate Caesar meningkat 30% dan CRIT DMG meningkat 60% selama 15 detik.",
             "Lore": "\"Aku dari dulu selalu fokus ke apa yang di depan, kirain... asalkan aku cukup kuat, yang lain beres.\"\n\"Tapi jadi pemimpin hebat itu enggak cuma butuh kekuatan.\"\n\"Aku juga harus lindungi rekan-rekan di belakangku, karena mereka adalah alasan aku tetap maju.\""
         }
     },
@@ -50,7 +50,7 @@
         },
         "MathSkill": {
             "Title": "Additional Ability: Battle Spirit",
-            "Description": "Berlaku jika terdapat Agen lain yang dapat melancarkan <color=#FFFFFF>Defensive Assist</color> atau Agen yang berasal dari faksi yang sama di dalam tim:\nSaat Caesar memicu <color=#FFFFFF>Perfect Block</color>, <color=#FFFFFF>Retaliation</color>, <color=#FFFFFF>Defensive Assist</color>, atau melancarkan <color=#FFFFFF>Basic Attack: Dead End</color>, dia akan memberikan efek debuff terhadap musuh yang berada dalam radius 7m darinya, meningkatkan DMG yang diakibatkan semua anggota tim terhadap musuh tersebut sebesar 25% selama 30 detik."
+            "Description": "Berlaku jika terdapat Agen lain yang dapat melancarkan <color=#FFFFFF>Defensive Assist</color> atau Agen yang berasal dari faksi yang sama di dalam tim:\nSaat Caesar memicu <color=#FFFFFF>Perfect Block</color>, <color=#FFFFFF>Retaliation</color>, <color=#FFFFFF>Defensive Assist</color>, atau melancarkan <color=#FFFFFF>Basic Attack: Dead End</color>, dia akan memberikan efek debuff terhadap musuh yang berada dalam radius 7m darinya, meningkatkan DMG yang diakibatkan semua Agen dalam tim terhadap musuh tersebut sebesar 25% selama 30 detik."
         }
     },
     "SkillDescriptions": {

@@ -21,7 +21,7 @@
         },
         "4": {
             "Title": "Tùy Cơ Ứng Biến",
-            "Description": "Khi nhân vật bất kỳ trong đội kích hoạt hiệu quả <color=#F0D12B>Cường Kích</color> hoặc <color=#FFFFFF>Hỗn Loạn</color>, sát thương Thuộc Tính Dị Thường do toàn đội gây ra tăng 18%, duy trì 15s.",
+            "Description": "Khi nhân vật bất kỳ trong đội kích hoạt hiệu quả <color=#F0D12B>Cường Kích</color> hoặc <color=#FFFFFF>Hỗn Loạn</color>, sát thương Thuộc Tính Dị Thường do nhân vật toàn đội gây ra tăng 18%, duy trì 15s.",
             "Lore": "\"Là thợ săn hay con mồi, điều này phụ thuộc vào góc nhìn mà bạn chọn. Nhưng, tôi thì thích một cách phán đoán đơn giản hơn.\"\n\"Người thua cuộc, chính là con mồi.\""
         },
         "5": {
@@ -517,6 +517,18 @@
             "DamageGrowth": 12550,
             "DazeValue": 57530,
             "DazeGrowth": 2620
+        },
+        "1261028": {
+            "DamageValue": 6000,
+            "DamageGrowth": 0,
+            "DazeValue": 0,
+            "DazeGrowth": 0
+        },
+        "1261029": {
+            "DamageValue": 60000,
+            "DamageGrowth": 0,
+            "DazeValue": 0,
+            "DazeGrowth": 0
         }
     }
 }

@@ -11,7 +11,7 @@
         },
         "2": {
             "Title": "Capitana porcina",
-            "Description": "Cuando Lucy ejecuta una <color=#FFFFFF>técnica en cadena</color> o una <color=#FFFFFF>técnica definitiva</color>, todos los agentes, bangbús y puercos armados aliados adquieren el efecto de <color=#FFFFFF>¡Ánimo!</color> durante 10 s.",
+            "Description": "Cuando Lucy ejecuta una <color=#FFFFFF>técnica en cadena</color> o una <color=#FFFFFF>técnica definitiva</color>, todos los personajes del equipo, bangbús y puercos armados aliados adquieren el efecto de <color=#FFFFFF>¡Ánimo!</color> durante 10 s.",
             "Lore": "«Sin duda, ¡la capitana Lucy es la mejor líder de los semihumanos suidos de los Hijos de Calidón!»\nConclusión del «Informe de trabajo anual de los Hijos de Calidón», escrito por Leño."
         },
         "3": {
@@ -31,7 +31,7 @@
         },
         "6": {
             "Title": "Colmillos llameantes",
-            "Description": "Cuando un aliado golpea a un enemigo con una <color=#FFFFFF>técnica especial EX</color> al encontrarse bajo el estado de <color=#FFFFFF>¡Ánimo!</color>, un puerco armado caerá del cielo y provocará una explosión que inflige <color=#FF5521>daño ígneo</color> equivalente al 300 % del Ataque del puerco armado y extiende la duración del estado de <color=#FFFFFF>¡Ánimo!</color> de todos los miembros del equipo en 5 s. Puede extenderse hasta 3 veces y hasta 30 s. Al obtener de nuevo el efecto de <color=#FFFFFF>¡Ánimo!</color>, se reinicia el número de veces que puede extenderse su duración. Después de provocar la explosión, el puerco armado ejecuta <color=#FFFFFF>Puercos armados: ¡Bateo giratorio!</color>.",
+            "Description": "Cuando un aliado golpea a un enemigo con una <color=#FFFFFF>técnica especial EX</color> al encontrarse bajo el estado de <color=#FFFFFF>¡Ánimo!</color>, un puerco armado caerá del cielo y provocará una explosión que inflige <color=#FF5521>daño ígneo</color> equivalente al 300 % del Ataque del puerco armado y extiende la duración del estado de <color=#FFFFFF>¡Ánimo!</color> de todos los personajes del equipo, bangbús y puercos armados en 5 s. Puede extenderse hasta 3 veces y hasta 30 s. Al obtener de nuevo el efecto de <color=#FFFFFF>¡Ánimo!</color>, se reinicia el número de veces que puede extenderse su duración. Después de provocar la explosión, el puerco armado ejecuta <color=#FFFFFF>Puercos armados: ¡Bateo giratorio!</color>.",
             "Lore": "¡Los semihumanos suidos denominados «puercos melenarroja» siempre están en la primera línea de combate!\nAunque, el momento en el que son mandados a volar de un batazo, no se sabe si lo que sienten es arrepentimiento inmediato o total entrega.\n¡Vamos, cerdito, tú puedes!"
         }
     },
@@ -50,7 +50,7 @@
         },
         "MathSkill": {
             "Title": "Técnica adicional: ¡Bate en mano!",
-            "Description": "Si en el equipo hay miembros del mismo Atributo o la misma afiliación que ella:\nLos puercos armados adquieren la Probabilidad de Crítico y el Daño Crítico de Lucy."
+            "Description": "Si en el equipo hay miembros del mismo atributo, la misma afiliación que ella o <color=#FFFFFF>disruptivos</color>:\nLos puercos armados adquieren la Probabilidad de Crítico y el Daño Crítico de Lucy."
         }
     },
     "SkillDescriptions": {
@@ -160,7 +160,7 @@
             },
             "115100006": {
                 "Title": "¡Ánimo!",
-                "Description": "Después de ejecutar una <color=#FFFFFF>técnica especial EX</color> y que un puerco armado provoque una explosión, todos los agentes, bangbús y puercos armados obtendrán el efecto de <color=#FFFFFF>¡Ánimo!</color>. Al encontrarse bajo el efecto de <color=#FFFFFF>¡Ánimo!</color>, aumenta el Ataque de las unidades aliadas en una cantidad equivalente al <color=#2BAD00>{CAL:13+AvatarSkillLevel(1)*0.8,1,2} %</color> del Ataque inicial de Lucy + <color=#2BAD00>{CAL:40+AvatarSkillLevel(1)*4,1,2}</color> ptos. Esta bonificación no puede exceder los 600 ptos. Al ejecutar una <color=#FFFFFF>bola recta</color>, el efecto de <color=#FFFFFF>¡Ánimo!</color> se extiende durante 10 s. Al ejecutar una <color=#FFFFFF>bola alta</color>, el efecto se extiende durante 15 s. La duración se reinicia con cada activación."
+                "Description": "Después de ejecutar una <color=#FFFFFF>técnica especial EX</color> y que un puerco armado provoque una explosión, todos los personajes del equipo, bangbús y puercos armados obtendrán el efecto de <color=#FFFFFF>¡Ánimo!</color>. Al encontrarse bajo el efecto de <color=#FFFFFF>¡Ánimo!</color>, el Ataque de todas las unidades aliadas aumenta en una cantidad equivalente al <color=#2BAD00>{CAL:13+AvatarSkillLevel(1)*0.8,1,2} %</color> del Ataque inicial de Lucy + <color=#2BAD00>{CAL:40+AvatarSkillLevel(1)*4,1,2}</color> ptos. Esta bonificación no puede exceder los 600 ptos. Al ejecutar una <color=#FFFFFF>bola recta</color>, el efecto de <color=#FFFFFF>¡Ánimo!</color> se extiende durante 10 s. Al ejecutar una <color=#FFFFFF>bola alta</color>, el efecto se extiende durante 15 s. La duración se reinicia con cada activación."
             },
             "115110022": {
                 "Title": "¡Ánimo!"

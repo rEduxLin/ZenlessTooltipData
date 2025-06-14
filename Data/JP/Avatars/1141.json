@@ -6,7 +6,7 @@
     "Talents": {
         "1": {
             "Title": "満月に備えよ",
-            "Description": "<color=#FFFFFF>『強化特殊スキル』</color>が敵に命中すると、スキルの与えるブレイク値が12%アップする、8秒に1回のみ発動可能。チャージした<color=#FFFFFF>『強化特殊スキル』</color>の場合、この効果が追加で10%アップする。",
+            "Description": "<color=#FFFFFF>『強化特殊スキル：人狼の刻』</color>が敵に命中すると、スキルの与えるブレイク値+12%、8秒に1回のみ発動可能。チャージした<color=#FFFFFF>『強化特殊スキル：人狼の刻』</color>の場合、この効果が追加で+10%。",
             "Lore": "記録によると、狼男の攻撃性は満月の夜に著しく高まる。\n「月を、直視してはならない」"
         },
         "2": {
@@ -31,7 +31,7 @@
         },
         "6": {
             "Title": "冷酷な猟人",
-            "Description": "チャージ攻撃が敵に命中した時、ライカンがターゲットに与えるダメージが10%アップする、最大5重まで重ね掛け可能、継続時間12秒。1回の攻撃で1重のみ重ね掛け可能。重複して発動すると継続時間が更新される。",
+            "Description": "チャージ攻撃が敵に命中した時、ライカンがターゲットに与えるダメージ+10%、最大5重まで重ね掛け可能、継続時間12秒。1回の攻撃で1重のみ重ね掛け可能。重複して発動すると継続時間が更新される。",
             "Lore": "「申し訳ありませんが、手心を加えるようなことは致しません」\n「何しろここは、ホロウ——弱者を慮る場所では、ございませんので」"
         }
     },
@@ -39,18 +39,18 @@
         "UniqueSkill": {
             "Title": "コアパッシブ：フルメタル・レッグ",
             "DescriptionByLevel": {
-                "1": "ライカンのチャージした<color=#FFFFFF>『通常攻撃』</color>の与えるブレイク値が<color=#2BAD00>40%</color>アップする。\n<color=#FFFFFF>『強化特殊スキル』</color>または<color=#FFFFFF>『支援突撃』</color>が敵に命中すると、ターゲットの<color=#98EFF0>氷属性ダメージ耐性</color>が25%ダウンする、継続時間30秒。",
-                "2": "ライカンのチャージした<color=#FFFFFF>『通常攻撃』</color>の与えるブレイク値が<color=#2BAD00>46.6%</color>アップする。\n<color=#FFFFFF>『強化特殊スキル』</color>または<color=#FFFFFF>『支援突撃』</color>が敵に命中すると、ターゲットの<color=#98EFF0>氷属性ダメージ耐性</color>が25%ダウンする、継続時間30秒。",
-                "3": "ライカンのチャージした<color=#FFFFFF>『通常攻撃』</color>の与えるブレイク値が<color=#2BAD00>53.3%</color>アップする。\n<color=#FFFFFF>『強化特殊スキル』</color>または<color=#FFFFFF>『支援突撃』</color>が敵に命中すると、ターゲットの<color=#98EFF0>氷属性ダメージ耐性</color>が25%ダウンする、継続時間30秒。",
-                "4": "ライカンのチャージした<color=#FFFFFF>『通常攻撃』</color>の与えるブレイク値が<color=#2BAD00>60%</color>アップする。\n<color=#FFFFFF>『強化特殊スキル』</color>または<color=#FFFFFF>『支援突撃』</color>が敵に命中すると、ターゲットの<color=#98EFF0>氷属性ダメージ耐性</color>が25%ダウンする、継続時間30秒。",
-                "5": "ライカンのチャージした<color=#FFFFFF>『通常攻撃』</color>の与えるブレイク値が<color=#2BAD00>66.6%</color>アップする。\n<color=#FFFFFF>『強化特殊スキル』</color>または<color=#FFFFFF>『支援突撃』</color>が敵に命中すると、ターゲットの<color=#98EFF0>氷属性ダメージ耐性</color>が25%ダウンする、継続時間30秒。",
-                "6": "ライカンのチャージした<color=#FFFFFF>『通常攻撃』</color>の与えるブレイク値が<color=#2BAD00>73.3%</color>アップする。\n<color=#FFFFFF>『強化特殊スキル』</color>または<color=#FFFFFF>『支援突撃』</color>が敵に命中すると、ターゲットの<color=#98EFF0>氷属性ダメージ耐性</color>が25%ダウンする、継続時間30秒。",
-                "7": "ライカンのチャージした<color=#FFFFFF>『通常攻撃』</color>の与えるブレイク値が<color=#2BAD00>80%</color>アップする。\n<color=#FFFFFF>『強化特殊スキル』</color>または<color=#FFFFFF>『支援突撃』</color>が敵に命中すると、ターゲットの<color=#98EFF0>氷属性ダメージ耐性</color>が25%ダウンする、継続時間30秒。"
+                "1": "ライカンのチャージした<color=#FFFFFF>『通常攻撃』</color>の与えるブレイク値+<color=#2BAD00>40%</color>。\n<color=#FFFFFF>『強化特殊スキル：人狼の刻』</color>または<color=#FFFFFF>『支援突撃：復讐の反攻』</color>が敵に命中すると、ターゲットの<color=#98EFF0>氷属性ダメージ耐性</color>-25%、継続時間30秒。",
+                "2": "ライカンのチャージした<color=#FFFFFF>『通常攻撃』</color>の与えるブレイク値+<color=#2BAD00>46.6%</color>。\n<color=#FFFFFF>『強化特殊スキル：人狼の刻』</color>または<color=#FFFFFF>『支援突撃：復讐の反攻』</color>が敵に命中すると、ターゲットの<color=#98EFF0>氷属性ダメージ耐性</color>-25%、継続時間30秒。",
+                "3": "ライカンのチャージした<color=#FFFFFF>『通常攻撃』</color>の与えるブレイク値+<color=#2BAD00>53.3%</color>。\n<color=#FFFFFF>『強化特殊スキル：人狼の刻』</color>または<color=#FFFFFF>『支援突撃：復讐の反攻』</color>が敵に命中すると、ターゲットの<color=#98EFF0>氷属性ダメージ耐性</color>-25%、継続時間30秒。",
+                "4": "ライカンのチャージした<color=#FFFFFF>『通常攻撃』</color>の与えるブレイク値+<color=#2BAD00>60%</color>。\n<color=#FFFFFF>『強化特殊スキル：人狼の刻』</color>または<color=#FFFFFF>『支援突撃：復讐の反攻』</color>が敵に命中すると、ターゲットの<color=#98EFF0>氷属性ダメージ耐性</color>-25%、継続時間30秒。",
+                "5": "ライカンのチャージした<color=#FFFFFF>『通常攻撃』</color>の与えるブレイク値+<color=#2BAD00>66.6%</color>。\n<color=#FFFFFF>『強化特殊スキル：人狼の刻』</color>または<color=#FFFFFF>『支援突撃：復讐の反攻』</color>が敵に命中すると、ターゲットの<color=#98EFF0>氷属性ダメージ耐性</color>-25%、継続時間30秒。",
+                "6": "ライカンのチャージした<color=#FFFFFF>『通常攻撃』</color>の与えるブレイク値+<color=#2BAD00>73.3%</color>。\n<color=#FFFFFF>『強化特殊スキル：人狼の刻』</color>または<color=#FFFFFF>『支援突撃：復讐の反攻』</color>が敵に命中すると、ターゲットの<color=#98EFF0>氷属性ダメージ耐性</color>-25%、継続時間30秒。",
+                "7": "ライカンのチャージした<color=#FFFFFF>『通常攻撃』</color>の与えるブレイク値+<color=#2BAD00>80%</color>。\n<color=#FFFFFF>『強化特殊スキル：人狼の刻』</color>または<color=#FFFFFF>『支援突撃：復讐の反攻』</color>が敵に命中すると、ターゲットの<color=#98EFF0>氷属性ダメージ耐性</color>-25%、継続時間30秒。"
             }
         },
         "MathSkill": {
             "Title": "追加能力：優雅なる狩人",
-            "Description": "チームに自身と同じ属性または同じ陣営のメンバーがいる時に発動：\nライカンの攻撃がブレイク状態の敵に命中した時、ターゲットのブレイク弱体倍率が35%アップする。"
+            "Description": "チームに自身と同じ属性または同じ陣営のメンバーがいる時に発動：\nライカンの攻撃がブレイク状態の敵に命中した時、ターゲットのブレイク弱体倍率+35%。"
         }
     },
     "SkillDescriptions": {

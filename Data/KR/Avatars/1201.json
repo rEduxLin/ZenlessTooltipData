@@ -39,13 +39,13 @@
         "UniqueSkill": {
             "Title": "핵심 패시브: 여명",
             "DescriptionByLevel": {
-                "1": "<color=#FFFFFF>[대시 공격: 비상하는 활시위·베기]</color>의 치명타 확률이 <color=#2BAD00>10.6%</color> 증가하고, 하루마사가 시전한 <color=#FFFFFF>[대시 공격: 비상하는 활시위·베기]</color>가 적에게 명중해 치명타 발동 시, <color=#FFFFFF>[예기]</color>를 1스택 획득한다. 동일한 공격 한 번에 최대 3스택 획득할 수 있다. <color=#FFFFFF>[예기]</color> 최대 중첩: 6스택, 지속 시간: 5초, 중복 발동 시 지속 시간이 갱신된다. <color=#FFFFFF>[예기]</color> 스택마다 <color=#FFFFFF>[대시 공격: 비상하는 활시위·베기]</color>로 주는 치명타 피해가 <color=#2BAD00>6%</color> 증가한다.",
-                "2": "<color=#FFFFFF>[대시 공격: 비상하는 활시위·베기]</color>의 치명타 확률이 <color=#2BAD00>13%</color> 증가하고, 하루마사가 시전한 <color=#FFFFFF>[대시 공격: 비상하는 활시위·베기]</color>가 적에게 명중해 치명타 발동 시, <color=#FFFFFF>[예기]</color>를 1스택 획득한다. 동일한 공격 한 번에 최대 3스택 획득할 수 있다. <color=#FFFFFF>[예기]</color> 최대 중첩: 6스택, 지속 시간: 5초, 중복 발동 시 지속 시간이 갱신된다. <color=#FFFFFF>[예기]</color> 스택마다 <color=#FFFFFF>[대시 공격: 비상하는 활시위·베기]</color>로 주는 치명타 피해가 <color=#2BAD00>7%</color> 증가한다.",
-                "3": "<color=#FFFFFF>[대시 공격: 비상하는 활시위·베기]</color>의 치명타 확률이 <color=#2BAD00>15.4%</color> 증가하고, 하루마사가 시전한 <color=#FFFFFF>[대시 공격: 비상하는 활시위·베기]</color>가 적에게 명중해 치명타 발동 시, <color=#FFFFFF>[예기]</color>를 1스택 획득한다. 동일한 공격 한 번에 최대 3스택 획득할 수 있다. <color=#FFFFFF>[예기]</color> 최대 중첩: 6스택, 지속 시간: 5초, 중복 발동 시 지속 시간이 갱신된다. <color=#FFFFFF>[예기]</color> 스택마다 <color=#FFFFFF>[대시 공격: 비상하는 활시위·베기]</color>로 주는 치명타 피해가 <color=#2BAD00>8%</color> 증가한다.",
-                "4": "<color=#FFFFFF>[대시 공격: 비상하는 활시위·베기]</color>의 치명타 확률이 <color=#2BAD00>17.8%</color> 증가하고, 하루마사가 시전한 <color=#FFFFFF>[대시 공격: 비상하는 활시위·베기]</color>가 적에게 명중해 치명타 발동 시, <color=#FFFFFF>[예기]</color>를 1스택 획득한다. 동일한 공격 한 번에 최대 3스택 획득할 수 있다. <color=#FFFFFF>[예기]</color> 최대 중첩: 6스택, 지속 시간: 5초, 중복 발동 시 지속 시간이 갱신된다. <color=#FFFFFF>[예기]</color> 스택마다 <color=#FFFFFF>[대시 공격: 비상하는 활시위·베기]</color>로 주는 치명타 피해가 <color=#2BAD00>9%</color> 증가한다.",
-                "5": "<color=#FFFFFF>[대시 공격: 비상하는 활시위·베기]</color>의 치명타 확률이 <color=#2BAD00>20.2%</color> 증가하고, 하루마사가 시전한 <color=#FFFFFF>[대시 공격: 비상하는 활시위·베기]</color>가 적에게 명중해 치명타 발동 시, <color=#FFFFFF>[예기]</color>를 1스택 획득한다. 동일한 공격 한 번에 최대 3스택 획득할 수 있다. <color=#FFFFFF>[예기]</color> 최대 중첩: 6스택, 지속 시간: 5초, 중복 발동 시 지속 시간이 갱신된다. <color=#FFFFFF>[예기]</color> 스택마다 <color=#FFFFFF>[대시 공격: 비상하는 활시위·베기]</color>로 주는 치명타 피해가 <color=#2BAD00>10%</color> 증가한다.",
-                "6": "<color=#FFFFFF>[대시 공격: 비상하는 활시위·베기]</color>의 치명타 확률이 <color=#2BAD00>22.6%</color> 증가하고, 하루마사가 시전한 <color=#FFFFFF>[대시 공격: 비상하는 활시위·베기]</color>가 적에게 명중해 치명타 발동 시, <color=#FFFFFF>[예기]</color>를 1스택 획득한다. 동일한 공격 한 번에 최대 3스택 획득할 수 있다. <color=#FFFFFF>[예기]</color> 최대 중첩: 6스택, 지속 시간: 5초, 중복 발동 시 지속 시간이 갱신된다. <color=#FFFFFF>[예기]</color> 스택마다 <color=#FFFFFF>[대시 공격: 비상하는 활시위·베기]</color>로 주는 치명타 피해가 <color=#2BAD00>11%</color> 증가한다.",
-                "7": "<color=#FFFFFF>[대시 공격: 비상하는 활시위·베기]</color>의 치명타 확률이 <color=#2BAD00>25%</color> 증가하고, 하루마사가 시전한 <color=#FFFFFF>[대시 공격: 비상하는 활시위·베기]</color>가 적에게 명중해 치명타 발동 시, <color=#FFFFFF>[예기]</color>를 1스택 획득한다. 동일한 공격 한 번에 최대 3스택 획득할 수 있다. <color=#FFFFFF>[예기]</color> 최대 중첩: 6스택, 지속 시간: 5초, 중복 발동 시 지속 시간이 갱신된다. <color=#FFFFFF>[예기]</color> 스택마다 <color=#FFFFFF>[대시 공격: 비상하는 활시위·베기]</color>로 주는 치명타 피해가 <color=#2BAD00>12%</color> 증가한다."
+                "1": "<color=#FFFFFF>[대시 공격: 비상하는 활시위·베기]</color>의 치명타 확률이 <color=#2BAD00>10.6%</color> 증가하고, 하루마사의 <color=#FFFFFF>[대시 공격: 비상하는 활시위·베기]</color>가 적에게 명중해 치명타 발동 시, <color=#FFFFFF>[예기]</color>를 1스택 획득한다. 동일한 공격 한 번에 최대 3스택 획득할 수 있다. <color=#FFFFFF>[예기]</color> 최대 중첩: 6스택, 지속 시간: 5초, 중복 발동 시 지속 시간이 갱신된다. <color=#FFFFFF>[예기]</color> 스택마다 <color=#FFFFFF>[대시 공격: 비상하는 활시위·베기]</color>로 주는 치명타 피해가 <color=#2BAD00>6%</color> 증가한다.",
+                "2": "<color=#FFFFFF>[대시 공격: 비상하는 활시위·베기]</color>의 치명타 확률이 <color=#2BAD00>13%</color> 증가하고, 하루마사의 <color=#FFFFFF>[대시 공격: 비상하는 활시위·베기]</color>가 적에게 명중해 치명타 발동 시, <color=#FFFFFF>[예기]</color>를 1스택 획득한다. 동일한 공격 한 번에 최대 3스택 획득할 수 있다. <color=#FFFFFF>[예기]</color> 최대 중첩: 6스택, 지속 시간: 5초, 중복 발동 시 지속 시간이 갱신된다. <color=#FFFFFF>[예기]</color> 스택마다 <color=#FFFFFF>[대시 공격: 비상하는 활시위·베기]</color>로 주는 치명타 피해가 <color=#2BAD00>7%</color> 증가한다.",
+                "3": "<color=#FFFFFF>[대시 공격: 비상하는 활시위·베기]</color>의 치명타 확률이 <color=#2BAD00>15.4%</color> 증가하고, 하루마사의 <color=#FFFFFF>[대시 공격: 비상하는 활시위·베기]</color>가 적에게 명중해 치명타 발동 시, <color=#FFFFFF>[예기]</color>를 1스택 획득한다. 동일한 공격 한 번에 최대 3스택 획득할 수 있다. <color=#FFFFFF>[예기]</color> 최대 중첩: 6스택, 지속 시간: 5초, 중복 발동 시 지속 시간이 갱신된다. <color=#FFFFFF>[예기]</color> 스택마다 <color=#FFFFFF>[대시 공격: 비상하는 활시위·베기]</color>로 주는 치명타 피해가 <color=#2BAD00>8%</color> 증가한다.",
+                "4": "<color=#FFFFFF>[대시 공격: 비상하는 활시위·베기]</color>의 치명타 확률이 <color=#2BAD00>17.8%</color> 증가하고, 하루마사의 <color=#FFFFFF>[대시 공격: 비상하는 활시위·베기]</color>가 적에게 명중해 치명타 발동 시, <color=#FFFFFF>[예기]</color>를 1스택 획득한다. 동일한 공격 한 번에 최대 3스택 획득할 수 있다. <color=#FFFFFF>[예기]</color> 최대 중첩: 6스택, 지속 시간: 5초, 중복 발동 시 지속 시간이 갱신된다. <color=#FFFFFF>[예기]</color> 스택마다 <color=#FFFFFF>[대시 공격: 비상하는 활시위·베기]</color>로 주는 치명타 피해가 <color=#2BAD00>9%</color> 증가한다.",
+                "5": "<color=#FFFFFF>[대시 공격: 비상하는 활시위·베기]</color>의 치명타 확률이 <color=#2BAD00>20.2%</color> 증가하고, 하루마사의 <color=#FFFFFF>[대시 공격: 비상하는 활시위·베기]</color>가 적에게 명중해 치명타 발동 시, <color=#FFFFFF>[예기]</color>를 1스택 획득한다. 동일한 공격 한 번에 최대 3스택 획득할 수 있다. <color=#FFFFFF>[예기]</color> 최대 중첩: 6스택, 지속 시간: 5초, 중복 발동 시 지속 시간이 갱신된다. <color=#FFFFFF>[예기]</color> 스택마다 <color=#FFFFFF>[대시 공격: 비상하는 활시위·베기]</color>로 주는 치명타 피해가 <color=#2BAD00>10%</color> 증가한다.",
+                "6": "<color=#FFFFFF>[대시 공격: 비상하는 활시위·베기]</color>의 치명타 확률이 <color=#2BAD00>22.6%</color> 증가하고, 하루마사의 <color=#FFFFFF>[대시 공격: 비상하는 활시위·베기]</color>가 적에게 명중해 치명타 발동 시, <color=#FFFFFF>[예기]</color>를 1스택 획득한다. 동일한 공격 한 번에 최대 3스택 획득할 수 있다. <color=#FFFFFF>[예기]</color> 최대 중첩: 6스택, 지속 시간: 5초, 중복 발동 시 지속 시간이 갱신된다. <color=#FFFFFF>[예기]</color> 스택마다 <color=#FFFFFF>[대시 공격: 비상하는 활시위·베기]</color>로 주는 치명타 피해가 <color=#2BAD00>11%</color> 증가한다.",
+                "7": "<color=#FFFFFF>[대시 공격: 비상하는 활시위·베기]</color>의 치명타 확률이 <color=#2BAD00>25%</color> 증가하고, 하루마사의 <color=#FFFFFF>[대시 공격: 비상하는 활시위·베기]</color>가 적에게 명중해 치명타 발동 시, <color=#FFFFFF>[예기]</color>를 1스택 획득한다. 동일한 공격 한 번에 최대 3스택 획득할 수 있다. <color=#FFFFFF>[예기]</color> 최대 중첩: 6스택, 지속 시간: 5초, 중복 발동 시 지속 시간이 갱신된다. <color=#FFFFFF>[예기]</color> 스택마다 <color=#FFFFFF>[대시 공격: 비상하는 활시위·베기]</color>로 주는 치명타 피해가 <color=#2BAD00>12%</color> 증가한다."
             }
         },
         "MathSkill": {
@@ -467,6 +467,12 @@
             "DamageGrowth": 1730,
             "DazeValue": 4950,
             "DazeGrowth": 230
+        },
+        "1201023": {
+            "DamageValue": 0,
+            "DamageGrowth": 0,
+            "DazeValue": 0,
+            "DazeGrowth": 0
         }
     }
 }

@@ -17,11 +17,11 @@
         "3": {
             "Title": "《另一個，同一個》",
             "Description": "<color=#FFFFFF>[普通攻擊]</color>、<color=#FFFFFF>[閃避]</color>、<color=#FFFFFF>[支援技]</color>、<color=#FFFFFF>[特殊技]</color>、<color=#FFFFFF>[連攜技]</color>技能等級+2",
-            "Lore": "「我們用黃昏丈量彼此的陰影，發現完全重疊。」\n在你不知道的無數個黃昏裡，她曾與你看著同一個太陽西沉，將一片海煮沸至瑰麗暖色。\n在無數分差的路徑中，她堅定地選擇了走到你身邊的方向。\n而今天，她終於與你影子相疊。\n而今天，夕陽依舊。"
+            "Lore": "「我們用黃昏丈量彼此的陰影，發現完全重疊。」\n在你不知道的無數個黃昏裡，她曾與你看著同一個太陽西沉，將一片海煮沸至瑰麗暖色。\n在無數分岔的路徑中，她堅定地選擇了走到你身邊的方向。\n而今天，她終於與你影子相疊。\n而今天，夕陽依舊。"
         },
         "4": {
             "Title": "《葦間風》",
-            "Description": "<color=#FFFFFF>[普通攻擊：裙裾浮游·懸落]</color>和<color=#FFFFFF>[普通攻擊：落羽生花]</color>命中時必定暴擊，並使薇薇安的攻擊力提升12%，持續12秒，重複觸發時重置持續時間。進入戰場時，薇薇安立即獲得5點<color=#FFFFFF>[護羽]</color>。",
+            "Description": "<color=#FFFFFF>[普通攻擊：裙裾浮游·懸落]</color>和<color=#FFFFFF>[普通攻擊：落羽生花]</color>命中時必定暴擊，並使薇薇安的攻擊力提升12%，持續12秒，重複觸發時重置持續時間；進入戰場時，薇薇安立即獲得5點<color=#FFFFFF>[護羽]</color>。",
             "Lore": "「將我的真心，如月光鋪滿你腳下的路。」\n在追趕你的路上，她已自成穹頂。\n她沒有如此博愛，擁有的也並不算多。\n但為你，只為你，她可傾瀉月光，覆蓋黑暗，修補裂痕。\n你是她唯一的慷慨，是她最大的勇氣。"
         },
         "5": {
@@ -31,8 +31,8 @@
         },
         "6": {
             "Title": "《薇薇安》",
-            "Description": "薇薇安造成的<color=#FE437E>以太傷害</color>提升40%。<color=#FFFFFF>[普通攻擊：淑女禮儀·舞步]</color>突進期間觸發極限閃避、發動<color=#FFFFFF>[強化特殊技：堇花悼亡]</color>時，均額外回復1點<color=#FFFFFF>[飛羽]</color>。發動<color=#FFFFFF>[普通攻擊：裙裾浮游·懸落]</color>時會消耗全部<color=#FFFFFF>[護羽]</color>，下落攻擊的範圍大幅增加，並在命中時觸發一次特殊的<color=#FFFFFF>[異放]</color>，額外消耗的<color=#FFFFFF>[護羽]</color>會提高此次<color=#FFFFFF>[異放]</color>結算的額外異常傷害的比例，最多消耗5點<color=#FFFFFF>[護羽]</color>，使傷害比例提高至原本的5倍。",
-            "Lore": "「薇薇安是一首隻送給你的情詩。」\n「我們擁有世界上所有的時間。」\n「所以，請允許我把餘生寫成你的註腳。」"
+            "Description": "薇薇安造成的<color=#FE437E>以太傷害</color>提升40%。\n<color=#FFFFFF>[普通攻擊：淑女禮儀·舞步]</color>突進期間觸發極限閃避、發動<color=#FFFFFF>[強化特殊技：堇花悼亡]</color>時，均額外回復1點<color=#FFFFFF>[飛羽]</color>。發動<color=#FFFFFF>[普通攻擊：裙裾浮游·懸落]</color>時會消耗全部<color=#FFFFFF>[護羽]</color>，下落攻擊的範圍大幅增加，並在命中時觸發一次特殊的<color=#FFFFFF>[異放]</color>，額外消耗的<color=#FFFFFF>[護羽]</color>會提高此次<color=#FFFFFF>[異放]</color>結算的額外異常傷害的比例，最多消耗5點<color=#FFFFFF>[護羽]</color>，使傷害比例提高至原本的5倍。",
+            "Lore": "「薇薇安是一首只送給你的情詩。」\n「我們擁有世界上所有的時間。」\n「所以，請允許我把餘生寫成你的註腳。」"
         }
     },
     "CoreSkill": {
@@ -50,7 +50,7 @@
         },
         "MathSkill": {
             "Title": "額外能力：預言之淚",
-            "Description": "隊伍中包含其他<color=#FFFFFF>[異常]</color>角色或與自身屬性相同的角色時觸發：\n隊伍中其他角色對敵人施加屬性異常效果時，薇薇安會消耗1點<color=#FFFFFF>[護羽]</color>並對目標發動一次<color=#FFFFFF>[普通攻擊：落羽生花]</color>，0.5秒內至多觸發一次。\n全隊造成的<color=#FE437E>[侵蝕]</color>傷害和<color=#FE437E>[侵蝕]</color>狀態被結算的<color=#FFFFFF>[紊亂]</color>傷害提升<color=#2BAD00>12%</color>。"
+            "Description": "隊伍中包含其他<color=#FFFFFF>[異常]</color>角色或與自身屬性相同的角色時觸發：\n隊伍中其他角色對敵人施加屬性異常效果時，薇薇安會消耗1點<color=#FFFFFF>[護羽]</color>並對目標發動一次<color=#FFFFFF>[普通攻擊：落羽生花]</color>，0.5秒內至多觸發一次。\n全隊角色造成的<color=#FE437E>[侵蝕]</color>傷害和<color=#FE437E>[侵蝕]</color>狀態被結算的<color=#FFFFFF>[紊亂]</color>傷害提升<color=#2BAD00>12%</color>。"
         }
     },
     "SkillDescriptions": {

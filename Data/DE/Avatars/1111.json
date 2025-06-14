@@ -6,7 +6,7 @@
     "Talents": {
         "1": {
             "Title": "Aufwärmübung",
-            "Description": "Stellt Anton beim Treffen von Gegnern mit dem <color=#FFFFFF>Bohrangriff</color> zusätzlich Energie wieder her. Während einer einzelnen Verwendung dieser Fähigkeit kann max. 5Pkt. Energie für Anton wiederhergestellt werden.",
+            "Description": "Stellt beim Treffen von Gegnern mit dem <color=#FFFFFF>Bohrangriff</color> zusätzlich Energie wieder her. Während einer einzelnen Verwendung dieser Fähigkeit kann max. 5 Pkt. Energie für Anton wiederhergestellt werden.",
             "Lore": "„Bist du schon wach? Zeit zum Drehen, Bruder!“\n„Versuch, mitzuhalten. Es ist Zeit für unseren Dehnübungen!“"
         },
         "2": {
@@ -21,7 +21,7 @@
         },
         "4": {
             "Title": "Wir brennen zusammen!",
-            "Description": "Erhöht beim Anwenden des <color=#FFFFFF>Kettenangriffs</color> oder <color=#FFFFFF>Ultimates</color> durch Anton die KRIT-Rate aller Truppenmitglieder 10 s lang um 12 %.",
+            "Description": "Erhöht beim Anwenden des <color=#FFFFFF>Kettenangriffs</color> oder <color=#FFFFFF>Ultimates</color> die KRIT-Rate aller Truppenfiguren um 10 %, hält 12 s.",
             "Lore": "„Stell dir vor, wie sich das Training gewöhnlich anfühlt, und kommen wir gemeinsam ins Schwitzen!“\nWenn Anton ernst wird, werden alle beweglicher. Wenn du nicht mit ihm mithalten kannst, musst du schließlich morgen allein zusätzlich trainieren."
         },
         "5": {

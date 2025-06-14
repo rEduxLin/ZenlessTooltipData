@@ -119,237 +119,237 @@
             }
         },
         "1": {
-            "119100004": {
+            "119100005": {
                 "Title": "Técnica especial: Coletazo",
                 "Description": "{LAYOUT_MOBILE#Pulsa}{LAYOUT_CONTROLLER#Presiona}{LAYOUT_KEYBOARD#Pulsa}{LAYOUT_CONSOLECONTROLLER#Presiona}{LAYOUT_FALLBACK#Presiona} <IconMap:Icon_Special> para usarla.\nDa un coletazo hacia delante que inflige <color=#98EFF0>daño glacial</color>.\nDurante su ejecución, aumenta el nivel de resistencia a interrupción."
             },
-            "119100005": {
+            "119100006": {
                 "Title": "Técnica especial EX: Barrido",
                 "Description": "Al contar con energía suficiente, {LAYOUT_MOBILE#pulsa}{LAYOUT_CONTROLLER#presiona}{LAYOUT_KEYBOARD#pulsa}{LAYOUT_CONSOLECONTROLLER#presiona}{LAYOUT_FALLBACK#presiona} <IconMap:Icon_SpecialReady> para usarla.\nDa un poderoso coletazo hacia delante que inflige una gran cantidad de <color=#98EFF0>daño glacial</color>.\nAl golpear a un enemigo, obtiene 1 carga de <color=#FFFFFF>congelación instantánea</color>.\nDurante su ejecución, la agente se vuelve invulnerable.\nTras su ejecución, puede enlazarla con el tercer golpe de su <color=#FFFFFF>ataque normal</color>."
             },
-            "119100006": {
+            "119100007": {
                 "Title": "Técnica especial EX: Tiburonado",
                 "Description": "Al contar con energía suficiente, {LAYOUT_MOBILE#pulsa}{LAYOUT_CONTROLLER#presiona}{LAYOUT_KEYBOARD#pulsa}{LAYOUT_CONSOLECONTROLLER#presiona}{LAYOUT_FALLBACK#presiona} <IconMap:Icon_SpecialReady> después de ejecutar <color=#FFFFFF>técnica especial EX: Barrido</color> para usarla.\nEjecuta poderosos cortes continuos hacia delante que infligen una gran cantidad de <color=#98EFF0>daño glacial</color>.\nAl golpear a un enemigo, obtiene 1 carga de <color=#FFFFFF>congelación instantánea</color>.\nDurante su ejecución, la agente se vuelve invulnerable.\nTras su ejecución, puede enlazarla con el tercer golpe de su <color=#FFFFFF>ataque normal</color>."
             },
-            "119110015": {
+            "119110027": {
                 "Title": "Técnica especial: Coletazo"
             },
-            "119110016": {
+            "119110028": {
                 "Description": "Multiplicador de daño",
                 "Param": "{Skill:1191010, Prop:1001}"
             },
-            "119110017": {
+            "119110029": {
                 "Description": "Multiplicador de Aturdimiento",
                 "Param": "{Skill:1191010, Prop:1002}"
             },
-            "119110018": {
+            "119110030": {
                 "Title": "Técnica especial EX: Barrido"
             },
-            "119110019": {
+            "119110031": {
                 "Description": "Multiplicador de daño",
                 "Param": "{Skill:1191011, Prop:1001}"
             },
-            "119110020": {
+            "119110032": {
                 "Description": "Multiplicador de Aturdimiento",
                 "Param": "{Skill:1191011, Prop:1002}"
             },
-            "119110021": {
+            "119110033": {
                 "Description": "Consumo de energía",
                 "Param": "40 ptos."
             },
-            "119110022": {
+            "119110034": {
                 "Title": "Técnica especial EX: Tiburonado"
             },
-            "119110023": {
+            "119110035": {
                 "Description": "Multiplicador de daño",
                 "Param": "{Skill:1191012, Prop:1001}"
             },
-            "119110024": {
+            "119110036": {
                 "Description": "Multiplicador de Aturdimiento",
                 "Param": "{Skill:1191012, Prop:1002}"
             },
-            "119110025": {
+            "119110037": {
                 "Description": "Consumo de energía",
                 "Param": "40 ptos."
             }
         },
         "2": {
-            "119100007": {
+            "119100008": {
                 "Title": "Evasión: Vorágine",
                 "Description": "{LAYOUT_MOBILE#Pulsa}{LAYOUT_CONTROLLER#Presiona}{LAYOUT_KEYBOARD#Pulsa}{LAYOUT_CONSOLECONTROLLER#Presiona}{LAYOUT_FALLBACK#Presiona} <IconMap:Icon_Evade> para usarla.\nEjecuta un rápido esprint evasivo.\nDurante su ejecución, la agente se vuelve invulnerable.\nAl ejecutar una <color=#FFFFFF>evasión perfecta</color>, Ellen obtiene el efecto de <color=#FFFFFF>carga rápida</color>, el cual reduce el tiempo de carga de <color=#FFFFFF>ataque rápido: Asalto ártico</color>. Puede durar hasta 5 s o hasta ejecutarlo 1 vez."
             },
-            "119100008": {
+            "119100009": {
                 "Title": "Ataque rápido: Al acecho",
                 "Description": "Mantén pulsado o pulsa dos veces <IconMap:Icon_Evade> para usarlo.\nEntra en el estado de <color=#FFFFFF>acecho</color>, lo que permite ejecutar ataques a gran velocidad.\nAl encontrarse en el estado de <color=#FFFFFF>acecho</color>, {LAYOUT_MOBILE#desliza}{LAYOUT_CONTROLLER#mueve}{LAYOUT_KEYBOARD#desliza}{LAYOUT_CONSOLECONTROLLER#mueve}{LAYOUT_FALLBACK#mueve} el joystick para controlar la dirección, y suéltalo para que se detenga.\nDespués de su ejecución, la agente se vuelve invulnerable por un instante."
             },
-            "119100009": {
+            "119100010": {
                 "Title": "Ataque rápido: Asalto ártico",
                 "Description": "Al encontrarse en el estado de <color=#FFFFFF>acecho</color>, {LAYOUT_MOBILE#pulsa}{LAYOUT_CONTROLLER#presiona}{LAYOUT_KEYBOARD#pulsa}{LAYOUT_CONSOLECONTROLLER#presiona}{LAYOUT_FALLBACK#presiona} <IconMap:Icon_Normal> para usarlo.\nEjecuta un corte ciclónico seguido de un tijeretazo rápido, los cuales infligen <color=#98EFF0>daño glacial</color>.\nAl golpear al enemigo con un tijeretazo rápido, obtiene 1 carga de <color=#FFFFFF>congelación instantánea</color>.\nAl encontrarse en el estado de <color=#FFFFFF>acecho</color>, mantén {LAYOUT_MOBILE#pulsado}{LAYOUT_CONTROLLER#presionado}{LAYOUT_KEYBOARD#pulsado}{LAYOUT_CONSOLECONTROLLER#presionado}{LAYOUT_FALLBACK#presionado} <IconMap:Icon_Normal> para ejecutar un poderoso corte ciclónico seguido de un tijeretazo rápido que infligen una gran cantidad de <color=#98EFF0>daño glacial</color>.\nAl golpear al enemigo con un tijeretazo cargado, obtiene 3 cargas de <color=#FFFFFF>congelación instantánea</color>.\nSi el enemigo está afectado por <color=#98EFF0>congelación</color>, provocará <color=#98EFF0>ruptura de hielo</color>.\nAl cargar esta técnica, aumenta el nivel de resistencia a interrupción y el daño recibido se reduce en un 40 %.\nDurante su ejecución, la agente se vuelve invulnerable."
             },
-            "119100010": {
+            "119100012": {
                 "Title": "Congelación instantánea",
                 "Description": "Mientras tengas cargas de <color=#FFFFFF>congelación instantánea</color>, se activará el efecto de <color=#FFFFFF>congelación instantánea</color>.\nMientras esté activo dicho efecto, el <color=#FFFFFF>ataque normal</color> y <color=#FFFFFF>ataque rápido</color> consumirán cargas de <color=#FFFFFF>congelación instantánea</color>, infligiendo una gran cantidad de <color=#98EFF0>daño glacial</color>.\nEllen puede acumular hasta 6 cargas de <color=#FFFFFF>congelación instantánea</color>."
             },
-            "119100011": {
+            "119100013": {
                 "Title": "Ataque rápido: Oleaje embravecido",
                 "Description": "{LAYOUT_MOBILE#Pulsa}{LAYOUT_CONTROLLER#Presiona}{LAYOUT_KEYBOARD#Pulsa}{LAYOUT_CONSOLECONTROLLER#Presiona}{LAYOUT_FALLBACK#Presiona} <IconMap:Icon_Normal> durante una evasión para usarlo.\nEjecuta un corte con impulso hacia delante que inflige <color=#F0D12B>daño físico</color>."
             },
-            "119100012": {
+            "119100014": {
                 "Title": "Ataque rápido: Onda gélida",
                 "Description": "Al activar el efecto de <color=#FFFFFF>congelación instantánea</color>, {LAYOUT_MOBILE#pulsa}{LAYOUT_CONTROLLER#presiona}{LAYOUT_KEYBOARD#pulsa}{LAYOUT_CONSOLECONTROLLER#presiona}{LAYOUT_FALLBACK#presiona} <IconMap:Icon_Normal> durante la evasión para atacar.\nEjecuta un corte con impulso hacia delante que inflige <color=#98EFF0>daño glacial</color>.\nConsume 1 carga de <color=#FFFFFF>congelación instantánea</color>."
             },
-            "119100013": {
+            "119100015": {
                 "Title": "Contraataque: Arrecife submarino",
                 "Description": "{LAYOUT_MOBILE#Pulsa}{LAYOUT_CONTROLLER#Presiona}{LAYOUT_KEYBOARD#Pulsa}{LAYOUT_CONSOLECONTROLLER#Presiona}{LAYOUT_FALLBACK#Presiona} <IconMap:Icon_Normal> después de una <color=#FFFFFF>evasión perfecta</color> para usarlo.\nPasa rápidamente a través de los enemigos mientras abre sus tijeras para dar un tijeretazo, infligiendo <color=#98EFF0>daño glacial</color>.\nDurante su ejecución, la agente se vuelve invulnerable."
             },
-            "119110026": {
+            "119110038": {
                 "Title": "Ataque rápido: Asalto ártico"
             },
-            "119110027": {
+            "119110039": {
                 "Description": "Multiplicador de daño de corte ciclónico",
                 "Param": "{Skill:1191007, Prop:1001}"
             },
-            "119110028": {
+            "119110040": {
                 "Description": "Multiplicador de daño de tijeretazo rápido",
                 "Param": "{Skill:1191008, Prop:1001}"
             },
-            "119110029": {
+            "119110041": {
                 "Description": "Multiplicador de daño de tijeretazo cargado",
                 "Param": "{Skill:1191009, Prop:1001}"
             },
-            "119110030": {
+            "119110042": {
                 "Description": "Multiplicador de Aturdimiento de corte ciclónico",
                 "Param": "{Skill:1191007, Prop:1002}"
             },
-            "119110031": {
+            "119110043": {
                 "Description": "Multiplicador de Aturdimiento de tijeretazo rápido",
                 "Param": "{Skill:1191008, Prop:1002}"
             },
-            "119110032": {
+            "119110044": {
                 "Description": "Multiplicador de Aturdimiento de tijeretazo poderoso",
                 "Param": "{Skill:1191009, Prop:1002}"
             },
-            "119110033": {
+            "119110045": {
                 "Description": "Obtiene carga de congelación instantánea con su tijeretazo rápido",
                 "Param": "1 pto."
             },
-            "119110034": {
+            "119110046": {
                 "Description": "Obtiene cargas de congelación instantánea con su tijeretazo cargado.",
                 "Param": "3 ptos."
             },
-            "119110035": {
+            "119110047": {
                 "Title": "Ataque rápido: Oleaje embravecido"
             },
-            "119110036": {
+            "119110048": {
                 "Description": "Multiplicador de daño",
                 "Param": "{Skill:1191013, Prop:1001}"
             },
-            "119110037": {
+            "119110049": {
                 "Description": "Multiplicador de Aturdimiento",
                 "Param": "{Skill:1191013, Prop:1002}"
             },
-            "119110038": {
+            "119110050": {
                 "Title": "Ataque rápido: Onda gélida"
             },
-            "119110039": {
+            "119110051": {
                 "Description": "Multiplicador de daño",
                 "Param": "{Skill:1191014, Prop:1001}"
             },
-            "119110040": {
+            "119110052": {
                 "Description": "Multiplicador de Aturdimiento",
                 "Param": "{Skill:1191014, Prop:1002}"
             },
-            "119110041": {
+            "119110053": {
                 "Title": "Contraataque: Arrecife submarino"
             },
-            "119110042": {
+            "119110054": {
                 "Description": "Multiplicador de daño",
                 "Param": "{Skill:1191015, Prop:1001}"
             },
-            "119110043": {
+            "119110055": {
                 "Description": "Multiplicador de Aturdimiento",
                 "Param": "{Skill:1191015, Prop:1002}"
             }
         },
         "3": {
-            "119100014": {
+            "119100016": {
                 "Title": "Técnica en cadena: Avalancha",
                 "Description": "Elige el avatar de agente al ejecutar una <color=#FFFFFF>técnica en cadena</color> para usarla.\nColisiona desde el aire y crea una tormenta de hielo que inflige una gran cantidad de <color=#98EFF0>daño glacial</color>.\nDurante su ejecución, la agente se vuelve invulnerable."
             },
-            "119100015": {
+            "119100017": {
                 "Title": "Técnica definitiva: Festín del invierno eterno",
                 "Description": "Cuando los dB llegan a su nivel <color=#FFFFFF>máximo</color>, {LAYOUT_MOBILE#pulsa}{LAYOUT_CONTROLLER#presiona}{LAYOUT_KEYBOARD#pulsa}{LAYOUT_CONSOLECONTROLLER#presiona}{LAYOUT_FALLBACK#presiona} <IconMap:Icon_UltimateReady> para usarla.\nColisiona desde el aire y crea una tormenta de hielo para después ejecutar un poderoso tijeretazo, infligiendo una gran cantidad de <color=#98EFF0>daño glacial</color>.\nDurante su ejecución, la agente se vuelve invulnerable."
             },
-            "119110044": {
+            "119110056": {
                 "Title": "Técnica en cadena: Avalancha"
             },
-            "119110045": {
+            "119110057": {
                 "Description": "Multiplicador de daño",
                 "Param": "{Skill:1191016, Prop:1001}"
             },
-            "119110046": {
+            "119110058": {
                 "Description": "Multiplicador de Aturdimiento",
                 "Param": "{Skill:1191016, Prop:1002}"
             },
-            "119110047": {
+            "119110059": {
                 "Title": "Técnica definitiva: Festín del invierno eterno"
             },
-            "119110048": {
+            "119110060": {
                 "Description": "Multiplicador de daño",
                 "Param": "{Skill:1191017, Prop:1001}"
             },
-            "119110049": {
+            "119110061": {
                 "Description": "Multiplicador de Aturdimiento",
                 "Param": "{Skill:1191017, Prop:1002}"
             }
         },
         "6": {
-            "119100017": {
+            "119100020": {
                 "Title": "Apoyo rápido: Tiburón centinela",
                 "Description": "Pulsa <IconMap:Icon_Switch> para usarlo cuando el agente activo sea lanzado por los aires.\nPasa rápidamente a través de los enemigos mientras abre sus tijeras para dar un tijeretazo, infligiendo <color=#98EFF0>daño glacial</color>.\nDurante su ejecución, la agente se vuelve invulnerable.\nCuando el agente activo sea lanzado por los aires, mueve el joystick y pulsa <IconMap:Icon_Switch> para entrar en el estado de <color=#FFFFFF>acecho</color> y poder esprintar rápidamente. En el estado de <color=#FFFFFF>acecho</color>, mueve el joystick para controlar la dirección y suéltalo para detenerte.\nDurante su ejecución, la agente se vuelve invulnerable.\nAl ejecutar un <color=#FFFFFF>apoyo rápido</color>, Ellen obtiene el efecto de <color=#FFFFFF>carga rápida</color>, el cual reduce el tiempo de carga del <color=#FFFFFF>ataque rápido: Asalto ártico</color>. Puede durar hasta 5 s o hasta ejecutarlo 1 vez."
             },
-            "119100018": {
+            "119100021": {
                 "Title": "Apoyo defensivo: Impacto frontal",
                 "Description": "{LAYOUT_MOBILE#Pulsa}{LAYOUT_CONTROLLER#Presiona}{LAYOUT_KEYBOARD#Pulsa}{LAYOUT_FALLBACK#Presiona} <IconMap:Icon_Switch> para usarlo cuando el agente activo esté a punto de recibir un golpe.\nBloquea el ataque enemigo, provocando una gran cantidad de Aturdimiento.\nDurante su ejecución, la agente se vuelve invulnerable."
             },
-            "119100019": {
+            "119100022": {
                 "Title": "Ataque sucesivo: Tiburón fragata",
                 "Description": "{LAYOUT_MOBILE#Pulsa}{LAYOUT_CONTROLLER#Presiona}{LAYOUT_KEYBOARD#Pulsa}{LAYOUT_CONSOLECONTROLLER#Presiona}{LAYOUT_FALLBACK#Presiona} <IconMap:Icon_Normal> después de un <color=#FFFFFF>apoyo defensivo</color> para usarlo.\nEjecuta un corte con impulso que inflige <color=#98EFF0>daño glacial</color> a los enemigos frente a ella.\nAl ejecutar el ataque, pulsa repetidamente o mantén {LAYOUT_MOBILE#pulsado}{LAYOUT_CONTROLLER#presionado}{LAYOUT_KEYBOARD#pulsado}{LAYOUT_CONSOLECONTROLLER#presionado}{LAYOUT_FALLBACK#presionado} <IconMap:Icon_Normal> para extender su duración.\nDurante su ejecución, la agente se vuelve invulnerable."
             },
-            "119110050": {
+            "119110062": {
                 "Title": "Apoyo rápido: Tiburón centinela"
             },
-            "119110051": {
+            "119110063": {
                 "Description": "Multiplicador de daño",
                 "Param": "{Skill:1191018, Prop:1001}"
             },
-            "119110052": {
+            "119110064": {
                 "Description": "Multiplicador de Aturdimiento",
                 "Param": "{Skill:1191018, Prop:1002}"
             },
-            "119110053": {
+            "119110065": {
                 "Title": "Apoyo defensivo: Impacto frontal"
             },
-            "119110054": {
+            "119110066": {
                 "Description": "Multiplicador de Aturdimiento defensivo ligero",
                 "Param": "{Skill:1191019, Prop:1002}"
             },
-            "119110055": {
+            "119110067": {
                 "Description": "Multiplicador de Aturdimiento defensivo fuerte",
                 "Param": "{Skill:1191020, Prop:1002}"
             },
-            "119110056": {
+            "119110068": {
                 "Description": "Multiplicador de Aturdimiento defensivo continuo",
                 "Param": "{Skill:1191021, Prop:1002}"
             },
-            "119110057": {
+            "119110069": {
                 "Title": "Ataque sucesivo: Tiburón fragata"
             },
-            "119110058": {
+            "119110070": {
                 "Description": "Multiplicador de daño",
                 "Param": "{Skill:1191022, Prop:1001}"
             },
-            "119110059": {
+            "119110071": {
                 "Description": "Multiplicador de Aturdimiento",
                 "Param": "{Skill:1191022, Prop:1002}"
             }
@@ -511,6 +511,30 @@
             "DamageGrowth": 250,
             "DazeValue": 0,
             "DazeGrowth": 0
+        },
+        "1191027": {
+            "DamageValue": 6040,
+            "DamageGrowth": 550,
+            "DazeValue": 2580,
+            "DazeGrowth": 120
+        },
+        "1191028": {
+            "DamageValue": 1300,
+            "DamageGrowth": 120,
+            "DazeValue": 560,
+            "DazeGrowth": 30
+        },
+        "1191029": {
+            "DamageValue": 23020,
+            "DamageGrowth": 2100,
+            "DazeValue": 6700,
+            "DazeGrowth": 310
+        },
+        "1191030": {
+            "DamageValue": 14680,
+            "DamageGrowth": 1340,
+            "DazeValue": 8420,
+            "DazeGrowth": 390
         }
     }
 }

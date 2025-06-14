@@ -11,7 +11,7 @@
         },
         "2": {
             "Title": "小豬大隊長",
-            "Description": "露西發動<color=#FFFFFF>[連攜技]</color>或<color=#FFFFFF>[終結技]</color>時，將為所有友方角色、邦布和親衛隊小豬施加<color=#FFFFFF>[加油！]</color>狀態，持續10秒。",
+            "Description": "露西發動<color=#FFFFFF>[連攜技]</color>或<color=#FFFFFF>[終結技]</color>時，將為全隊角色、邦布和親衛隊小豬施加<color=#FFFFFF>[加油！]</color>狀態，持續10秒。",
             "Lore": "「毋庸置疑，露西隊長是卡呂冬野豬希人最棒的領導者！」\n這是阿木在「卡呂冬之子年度工作報告」中的結語。"
         },
         "3": {
@@ -31,7 +31,7 @@
         },
         "6": {
             "Title": "獠牙堪烈火",
-            "Description": "處於<color=#FFFFFF>[加油！]</color>狀態下的隊友發動<color=#FFFFFF>[強化特殊技]</color>命中敵人時，一隻親衛隊小豬會從空中落地引發爆炸，造成等同於親衛隊小豬300%攻擊力的<color=#FF5521>火屬性傷害</color>，並使全隊<color=#FFFFFF>[加油！]</color>狀態的持續時間提升5秒。持續時間最多提升3次，上限30秒，重新獲得<color=#FFFFFF>[加油！]</color>狀態時重置可提升次數。親衛隊小豬落地引發爆炸後，將會發動一次<color=#FFFFFF>[親衛隊小豬：迴旋揮擊！]</color>。",
+            "Description": "處於<color=#FFFFFF>[加油！]</color>狀態下的隊友<color=#FFFFFF>[強化特殊技]</color>命中敵人時，一隻親衛隊小豬會從空中落地引發爆炸，造成等同於親衛隊小豬300%攻擊力的<color=#FF5521>火屬性傷害</color>，並使全隊角色、邦布和親衛隊小豬的<color=#FFFFFF>[加油！]</color>狀態的持續時間提升5秒。持續時間最多提升3次，上限30秒，重新獲得<color=#FFFFFF>[加油！]</color>狀態時重置可提升次數。親衛隊小豬落地引發爆炸後，將會發動一次<color=#FFFFFF>[親衛隊小豬：迴旋揮擊！]</color>。",
             "Lore": "被稱為「赤鬣親衛隊」的小豬希人們總是衝鋒在戰鬥的最前線！\n雖然說不清從球棒起飛的那一剎那，心緒是萬念俱灰還是心甘情願。\n勇敢小豬，身先士卒！"
         }
     },
@@ -50,7 +50,7 @@
         },
         "MathSkill": {
             "Title": "額外能力：擊「球」準備！",
-            "Description": "隊伍中包含與自身屬性或陣營相同的角色時觸發：\n親衛隊小豬可以繼承露西的暴擊率和暴擊傷害。"
+            "Description": "隊伍中包含與自身屬性或陣營相同的角色或<color=#FFFFFF>[命破]</color>角色時觸發：\n親衛隊小豬可以繼承露西的暴擊率和暴擊傷害。"
         }
     },
     "SkillDescriptions": {
@@ -160,7 +160,7 @@
             },
             "115100006": {
                 "Title": "加油！",
-                "Description": "發動<color=#FFFFFF>[強化特殊技]</color>後，親衛隊小豬引發爆炸時，將為所有友方角色、邦布和親衛隊小豬施加<color=#FFFFFF>[加油！]</color>狀態。<color=#FFFFFF>[加油！]</color>狀態下，友方單位的攻擊力提升，提升數值等同於露西<color=#2BAD00>{CAL:13+AvatarSkillLevel(1)*0.8,1,2}%</color>初始攻擊力+<color=#2BAD00>{CAL:40+AvatarSkillLevel(1)*4,1,2}</color>點，最高不超過600點。擊出<color=#FFFFFF>[平飛球]</color>時，<color=#FFFFFF>[加油！]</color>狀態持續10秒，擊出<color=#FFFFFF>[高飛球]</color>時，<color=#FFFFFF>[加油！]</color>狀態持續15秒，重複觸發時重置持續時間。"
+                "Description": "發動<color=#FFFFFF>[強化特殊技]</color>後，親衛隊小豬引發爆炸時，將為全隊角色、邦布和親衛隊小豬施加<color=#FFFFFF>[加油！]</color>狀態。<color=#FFFFFF>[加油！]</color>狀態下，友方單位的攻擊力提升，提升數值等同於露西<color=#2BAD00>{CAL:13+AvatarSkillLevel(1)*0.8,1,2}%</color>初始攻擊力+<color=#2BAD00>{CAL:40+AvatarSkillLevel(1)*4,1,2}</color>點，最高不超過600點。擊出<color=#FFFFFF>[平飛球]</color>時，<color=#FFFFFF>[加油！]</color>狀態持續10秒，擊出<color=#FFFFFF>[高飛球]</color>時，<color=#FFFFFF>[加油！]</color>狀態持續15秒，重複觸發時重置持續時間。"
             },
             "115110022": {
                 "Title": "加油！"

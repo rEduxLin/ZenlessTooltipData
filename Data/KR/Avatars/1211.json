@@ -31,7 +31,7 @@
         },
         "6": {
             "Title": "뇌우가 내리는 밤의 공포",
-            "Description": "<color=#FFFFFF>[강화 특수 스킬]</color>, <color=#FFFFFF>[콤보 스킬]</color> 혹은 <color=#FFFFFF>[궁극기]</color>가 적에게 명중 시 모든 파티원이 주는 <color=#2EB6FF>전기 속성 피해</color>가 15% 증가한다. 지속 시간: 8초",
+            "Description": "<color=#FFFFFF>[강화 특수 스킬]</color>, <color=#FFFFFF>[콤보 스킬]</color> 혹은 <color=#FFFFFF>[궁극기]</color>가 적에게 명중 시 파티 내 모든 캐릭터가 주는 <color=#2EB6FF>전기 속성 피해</color>가 15% 증가한다. 지속 시간: 8초",
             "Lore": "비 내리는 밤, 오래된 성에 천둥소리가 울려 퍼진다.\n긴 복도 끝에 유령 같은 그림자가 있다.\n공포 회로가 과부하되며 공포 영화가 시작된다."
         }
     },
@@ -50,7 +50,7 @@
         },
         "MathSkill": {
             "Title": "추가 능력: 완벽한 무도회",
-            "Description": "파티에 자신과 속성 혹은 진영이 같은 캐릭터가 존재할 시 발동:\n파티 내 임의의 캐릭터가 적에게 <color=#2EB6FF>[감전]</color> 효과 부여 시 해당 효과의 지속 시간이 3초 증가한다. 전장에 <color=#2EB6FF>[감전]</color> 상태인 적이 있을 경우 모든 파티원이 주는 <color=#2EB6FF>전기 속성 피해</color>가 10% 증가한다."
+            "Description": "파티에 자신과 속성 혹은 진영이 같은 캐릭터가 존재할 시 발동:\n파티 내 임의의 캐릭터가 적에게 <color=#2EB6FF>[감전]</color> 효과 부여 시 해당 효과의 지속 시간이 3초 증가한다. 전장에 <color=#2EB6FF>[감전]</color> 상태인 적이 있을 경우, 파티 내 모든 캐릭터가 주는 <color=#2EB6FF>전기 속성 피해</color>가 10% 증가한다."
         }
     },
     "SkillDescriptions": {

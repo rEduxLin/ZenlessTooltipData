@@ -21,7 +21,7 @@
         },
         "4": {
             "Title": "¡A toda mecha!",
-            "Description": "Al ejecutar una <color=#FFFFFF>técnica en cadena</color> o una <color=#FFFFFF>técnica definitiva</color>, aumenta la Probabilidad de Crítico de todos los miembros del equipo en un 10 % durante 12 s.",
+            "Description": "Al ejecutar una <color=#FFFFFF>técnica en cadena</color> o una <color=#FFFFFF>técnica definitiva</color>, aumenta la Probabilidad de Crítico de todos los personajes del equipo en un 10 % durante 12 s.",
             "Lore": "«Piensa en la sensación de un entrenamiento normal, ¡y comienza a moverte!». Cuando Antón se pone serio, todos se mueven con mayor agilidad. Después de todo, si no puedes seguirle el ritmo, al siguiente día tendrás que entrenar a solas."
         },
         "5": {

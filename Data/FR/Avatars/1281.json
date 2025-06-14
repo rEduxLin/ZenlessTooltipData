@@ -50,7 +50,7 @@
         },
         "MathSkill": {
             "Title": "Capacité supplémentaire : Accélération synchronisée",
-            "Description": "Lorsqu'un autre personnage de votre escouade est du même attribut ou de la même faction que Piper :\nLorsque Piper possède au moins 20 cumuls de <color=#FFFFFF>Puissance moteur</color>, les DGT de tous les membres de l'escouade augmentent de 18 %."
+            "Description": "Lorsqu'un autre personnage de votre escouade est du même attribut ou de la même faction que Piper :\nLorsque Piper possède au moins 20 cumuls de <color=#FFFFFF>Puissance moteur</color>, les DGT de tous les personnages de l'escouade augmentent de 18 %."
         }
     },
     "SkillDescriptions": {

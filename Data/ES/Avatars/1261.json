@@ -21,7 +21,7 @@
         },
         "4": {
             "Title": "Adaptarse o morir",
-            "Description": "Cuando cualquier miembro del equipo provoca <color=#F0D12B>embestida</color> o <color=#FFFFFF>disfunción</color>, el daño infligido por Anomalía de Atributo de todos los miembros del equipo aumenta en un 18 % durante 15 s.",
+            "Description": "Cuando cualquier miembro del equipo provoca <color=#F0D12B>embestida</color> o <color=#FFFFFF>disfunción</color>, el daño infligido por Anomalía de Atributo de todos los personajes del equipo aumenta en un 18 % durante 15 s.",
             "Lore": "«Cazador o cazado. Suele depender de cómo lo mires. Aunque yo prefiero verlo de una manera más intuitiva: aquel que pierde es la presa.»"
         },
         "5": {
@@ -517,6 +517,18 @@
             "DamageGrowth": 12550,
             "DazeValue": 57530,
             "DazeGrowth": 2620
+        },
+        "1261028": {
+            "DamageValue": 6000,
+            "DamageGrowth": 0,
+            "DazeValue": 0,
+            "DazeGrowth": 0
+        },
+        "1261029": {
+            "DamageValue": 60000,
+            "DamageGrowth": 0,
+            "DazeValue": 0,
+            "DazeGrowth": 0
         }
     }
 }

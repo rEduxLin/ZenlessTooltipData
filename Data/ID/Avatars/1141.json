@@ -6,7 +6,7 @@
     "Talents": {
         "1": {
             "Title": "Full Moon Momentum",
-            "Description": "Saat <color=#FFFFFF>EX Special Attack</color> mengenai musuh, Daze yang diakibatkan skill ini meningkat 12%. Efek ini dapat dipicu sekali setiap 8 detik. Saat Lycaon menyelesaikan Charge untuk <color=#FFFFFF>EX Special Attack</color>, efek buff ini akan meningkat 10%.",
+            "Description": "Saat <color=#FFFFFF>EX Special Attack: Thrill of the Hunt</color> mengenai musuh, Daze yang diakibatkan skill ini meningkat 12%. Efek ini dapat dipicu sekali setiap 8 detik. Saat Lycaon menyelesaikan Charge untuk <color=#FFFFFF>EX Special Attack: Thrill of the Hunt</color>, efek buff ini akan meningkat 10%.",
             "Lore": "Konon, ketika manusia serigala berada di bawah cahaya bulan, kekuatannya akan berlipat ganda.\n\"Jangan tatap bulan secara langsung.\""
         },
         "2": {
@@ -39,18 +39,18 @@
         "UniqueSkill": {
             "Title": "Core Passive: Metallic Paws",
             "DescriptionByLevel": {
-                "1": "Jika Lycaon menyelesaikan Charge untuk <color=#FFFFFF>Basic Attack</color>, Daze yang diakibatkan Skill ini akan meningkat <color=#2BAD00>40%</color>.\nSaat <color=#FFFFFF>EX Special Attack</color> atau <color=#FFFFFF>Assist Follow-Up</color> mengenai musuh, <color=#98EFF0>ketahanan Ice DMG</color> target berkurang 25% selama 30 detik.",
-                "2": "Jika Lycaon menyelesaikan Charge untuk <color=#FFFFFF>Basic Attack</color>, Daze yang diakibatkan Skill ini akan meningkat <color=#2BAD00>46,6%</color>.\nSaat <color=#FFFFFF>EX Special Attack</color> atau <color=#FFFFFF>Assist Follow-Up</color> mengenai musuh, <color=#98EFF0>ketahanan Ice DMG</color> target berkurang 25% selama 30 detik.",
-                "3": "Jika Lycaon menyelesaikan Charge untuk <color=#FFFFFF>Basic Attack</color>, Daze yang diakibatkan Skill ini akan meningkat <color=#2BAD00>53,3%</color>.\nSaat <color=#FFFFFF>EX Special Attack</color> atau <color=#FFFFFF>Assist Follow-Up</color> mengenai musuh, <color=#98EFF0>ketahanan Ice DMG</color> target berkurang 25% selama 30 detik.",
-                "4": "Jika Lycaon menyelesaikan Charge untuk <color=#FFFFFF>Basic Attack</color>, Daze yang diakibatkan Skill ini akan meningkat <color=#2BAD00>60%</color>.\nSaat <color=#FFFFFF>EX Special Attack</color> atau <color=#FFFFFF>Assist Follow-Up</color> mengenai musuh, <color=#98EFF0>ketahanan Ice DMG</color> target berkurang 25% selama 30 detik.",
-                "5": "Jika Lycaon menyelesaikan Charge untuk <color=#FFFFFF>Basic Attack</color>, Daze yang diakibatkan Skill ini akan meningkat <color=#2BAD00>66,6%</color>.\nSaat <color=#FFFFFF>EX Special Attack</color> atau <color=#FFFFFF>Assist Follow-Up</color> mengenai musuh, <color=#98EFF0>ketahanan Ice DMG</color> target berkurang 25% selama 30 detik.",
-                "6": "Jika Lycaon menyelesaikan Charge untuk <color=#FFFFFF>Basic Attack</color>, Daze yang diakibatkan Skill ini akan meningkat <color=#2BAD00>73,3%</color>.\nSaat <color=#FFFFFF>EX Special Attack</color> atau <color=#FFFFFF>Assist Follow-Up</color> mengenai musuh, <color=#98EFF0>ketahanan Ice DMG</color> target berkurang 25% selama 30 detik.",
-                "7": "Jika Lycaon menyelesaikan Charge untuk <color=#FFFFFF>Basic Attack</color>, Daze yang diakibatkan Skill ini akan meningkat <color=#2BAD00>80%</color>.\nSaat <color=#FFFFFF>EX Special Attack</color> atau <color=#FFFFFF>Assist Follow-Up</color> mengenai musuh, <color=#98EFF0>ketahanan Ice DMG</color> target berkurang 25% selama 30 detik."
+                "1": "Jika Lycaon menyelesaikan Charge untuk <color=#FFFFFF>Basic Attack</color>, Daze yang diakibatkan Skill ini akan meningkat <color=#2BAD00>40%</color>.\nSaat <color=#FFFFFF>EX Special Attack: Thrill of the Hunt</color> atau <color=#FFFFFF>Assist Follow-Up: Vengeful Counterattack</color> mengenai musuh, <color=#98EFF0>ketahanan Ice DMG</color> target berkurang 25% selama 30 detik.",
+                "2": "Jika Lycaon menyelesaikan Charge untuk <color=#FFFFFF>Basic Attack</color>, Daze yang diakibatkan Skill ini akan meningkat <color=#2BAD00>46,6%</color>.\nSaat <color=#FFFFFF>EX Special Attack: Thrill of the Hunt</color> atau <color=#FFFFFF>Assist Follow-Up: Vengeful Counterattack</color> mengenai musuh, <color=#98EFF0>ketahanan Ice DMG</color> target berkurang 25% selama 30 detik.",
+                "3": "Jika Lycaon menyelesaikan Charge untuk <color=#FFFFFF>Basic Attack</color>, Daze yang diakibatkan Skill ini akan meningkat <color=#2BAD00>53,3%</color>.\nSaat <color=#FFFFFF>EX Special Attack: Thrill of the Hunt</color> atau <color=#FFFFFF>Assist Follow-Up: Vengeful Counterattack</color> mengenai musuh, <color=#98EFF0>ketahanan Ice DMG</color> target berkurang 25% selama 30 detik.",
+                "4": "Jika Lycaon menyelesaikan Charge untuk <color=#FFFFFF>Basic Attack</color>, Daze yang diakibatkan Skill ini akan meningkat <color=#2BAD00>60%</color>.\nSaat <color=#FFFFFF>EX Special Attack: Thrill of the Hunt</color> atau <color=#FFFFFF>Assist Follow-Up: Vengeful Counterattack</color> mengenai musuh, <color=#98EFF0>ketahanan Ice DMG</color> target berkurang 25% selama 30 detik.",
+                "5": "Jika Lycaon menyelesaikan Charge untuk <color=#FFFFFF>Basic Attack</color>, Daze yang diakibatkan Skill ini akan meningkat <color=#2BAD00>66,6%</color>.\nSaat <color=#FFFFFF>EX Special Attack: Thrill of the Hunt</color> atau <color=#FFFFFF>Assist Follow-Up: Vengeful Counterattack</color> mengenai musuh, <color=#98EFF0>ketahanan Ice DMG</color> target berkurang 25% selama 30 detik.",
+                "6": "Jika Lycaon menyelesaikan Charge untuk <color=#FFFFFF>Basic Attack</color>, Daze yang diakibatkan Skill ini akan meningkat <color=#2BAD00>73,3%</color>.\nSaat <color=#FFFFFF>EX Special Attack: Thrill of the Hunt</color> atau <color=#FFFFFF>Assist Follow-Up: Vengeful Counterattack</color> mengenai musuh, <color=#98EFF0>ketahanan Ice DMG</color> target berkurang 25% selama 30 detik.",
+                "7": "Jika Lycaon menyelesaikan Charge untuk <color=#FFFFFF>Basic Attack</color>, Daze yang diakibatkan Skill ini akan meningkat <color=#2BAD00>80%</color>.\nSaat <color=#FFFFFF>EX Special Attack: Thrill of the Hunt</color> atau <color=#FFFFFF>Assist Follow-Up: Vengeful Counterattack</color> mengenai musuh, <color=#98EFF0>ketahanan Ice DMG</color> target berkurang 25% selama 30 detik."
             }
         },
         "MathSkill": {
             "Title": "Additional Ability: Elegant Predator",
-            "Description": "Berlaku jika terdapat Agen di dalam tim yang memiliki Atribut yang sama atau berasal dari faksi yang sama:\nSaat serangan Lycaon mengenai musuh yang berada dalam status Stun, kelipatan Stun DMG musuh tersebut akan meningkat 35%."
+            "Description": "Berlaku jika terdapat Agen yang memiliki Atribut yang sama atau berasal dari faksi yang sama di dalam tim:\nSaat serangan Lycaon mengenai musuh yang berada dalam status Stun, kelipatan Stun DMG musuh tersebut akan meningkat 35%."
         }
     },
     "SkillDescriptions": {

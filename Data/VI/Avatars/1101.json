@@ -21,7 +21,7 @@
         },
         "4": {
             "Title": "Dư Nhiệt Lò Nung",
-            "Description": "Khi tiêu hao <color=#FFFFFF>Lò Nung Thiêu Đốt</color> phát động <color=#FFFFFF>Tấn Công Thường</color> cường hóa, Koleda sẽ nhận 1 tầng Nạp Năng Lượng (giới hạn 2 tầng). Khi <color=#FFFFFF>Liên Kích</color> hoặc <color=#FFFFFF>Tuyệt Kỹ</color> đánh trúng kẻ địch, sẽ tiêu hao tất cả tầng Nạp Năng Lượng, mỗi tầng sẽ tăng 18% sát thương do chiêu thức hiện tại gây ra.",
+            "Description": "Khi tiêu hao <color=#FFFFFF>Lò Nung Thiêu Đốt</color> phát động <color=#FFFFFF>Tấn Công Thường</color> cường hóa, Koleda sẽ nhận 1 tầng Nạp Năng Lượng (giới hạn 2 tầng). Khi <color=#FFFFFF>Liên Kích: Long Trời Lở Đất</color> hoặc <color=#FFFFFF>Tuyệt Kỹ: Búa Chấn Động</color> đánh trúng kẻ địch, sẽ tiêu hao tất cả tầng Nạp Năng Lượng, mỗi tầng sẽ tăng 18% sát thương do chiêu thức hiện tại gây ra.",
             "Lore": "Sau khi vung búa làm nóng nhiệt độ xung quanh, Koleda sẽ vào trạng thái tác chiến.\nGiờ đây, cô ấy càng dễ cháy dễ nổ hơn cả thuốc nổ Ether."
         },
         "5": {
@@ -50,7 +50,7 @@
         },
         "MathSkill": {
             "Title": "Năng Lực Thêm: Quản Lý Belobog",
-            "Description": "Khi trong đội có nhân vật cùng phe hoặc thuộc tính giống bản thân sẽ kích hoạt:\nKhi Koleda phát động <color=#FFFFFF>Siêu Chiến Kỹ</color> kích nổ trúng kẻ địch, sẽ gây hiệu ứng xấu cho chúng. Sát thương <color=#FFFFFF>Liên Kích</color> của toàn đội gây cho mục tiêu ở trạng thái Choáng sẽ tăng 35%, tối đa cộng dồn 2 tầng, khi kết thúc trạng thái Choáng sẽ tái lập hiệu quả."
+            "Description": "Khi trong đội có nhân vật cùng phe hoặc thuộc tính giống bản thân hoặc nhân vật <color=#FFFFFF>Mệnh Phá</color> sẽ kích hoạt:\nKhi Koleda phát động <color=#FFFFFF>Siêu Chiến Kỹ</color> kích nổ trúng kẻ địch, sẽ gán hiệu quả debuff cho mục tiêu. Sau khi mục tiêu rơi vào trạng thái Choáng, sát thương do <color=#FFFFFF>Liên Kích</color> gây cho mục tiêu sẽ tăng 35%, tối đa dồn 2 tầng, khi kết thúc trạng thái Choáng sẽ tái lập hiệu quả này."
         }
     },
     "SkillDescriptions": {

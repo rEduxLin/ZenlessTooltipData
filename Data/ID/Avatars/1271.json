@@ -50,7 +50,7 @@
         },
         "MathSkill": {
             "Title": "Additional Ability: High Spirit",
-            "Description": "Berlaku jika terdapat Agen di dalam tim yang memiliki Atribut yang sama atau berasal dari faksi yang sama:\nSaat serangan terakhir dari <color=#FFFFFF>Basic Attack: Lightning Strike - Electrified</color> atau <color=#FFFFFF>Chain Attack: Final Judgement</color> yang dilancarkan Seth mengenai musuh, ketahanan Anomaly Buildup musuh untuk semua Attribute berkurang 20% selama 20 detik."
+            "Description": "Berlaku jika terdapat Agen yang memiliki Atribut yang sama atau berasal dari faksi yang sama di dalam tim:\nSaat serangan terakhir dari <color=#FFFFFF>Basic Attack: Lightning Strike - Electrified</color> atau <color=#FFFFFF>Chain Attack: Final Judgement</color> yang dilancarkan Seth mengenai musuh, ketahanan Anomaly Buildup musuh untuk semua Attribute berkurang 20% selama 20 detik."
         }
     },
     "SkillDescriptions": {

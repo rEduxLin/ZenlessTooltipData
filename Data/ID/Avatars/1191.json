@@ -50,7 +50,7 @@
         },
         "MathSkill": {
             "Title": "Additional Ability: Rising Storm",
-            "Description": "Berlaku jika terdapat Agen di dalam tim yang memiliki Atribut yang sama atau berasal dari faksi yang sama:\nSaat Ellen mengakibatkan <color=#98EFF0>Ice DMG</color>, maka <color=#98EFF0>Ice DMG</color> yang diakibatkan selanjutnya akan meningkat 3% selama 10 detik, maks. 10 lapis. Memicu ulang akan memperbarui durasi."
+            "Description": "Berlaku jika terdapat Agen yang memiliki Atribut yang sama atau berasal dari faksi yang sama di dalam tim:\nSaat Ellen mengakibatkan <color=#98EFF0>Ice DMG</color>, maka <color=#98EFF0>Ice DMG</color> yang diakibatkan selanjutnya akan meningkat 3% selama 10 detik, maks. 10 lapis. Memicu ulang akan memperbarui durasi."
         }
     },
     "SkillDescriptions": {
@@ -119,237 +119,237 @@
             }
         },
         "1": {
-            "119100004": {
+            "119100005": {
                 "Title": "Special Attack: Drift",
                 "Description": "Tekan <IconMap:Icon_Special> untuk melancarkan Skill ini.\nMelancarkan serangan sapuan terhadap musuh di depan dan mengakibatkan <color=#98EFF0>Ice DMG</color>.\nLevel Anti-Interrupt akan meningkat selama melancarkan Skill ini."
             },
-            "119100005": {
+            "119100006": {
                 "Title": "EX Special Attack: Tail Swipe",
                 "Description": "Saat Energy Ellen sudah cukup, tekan <IconMap:Icon_SpecialReady> untuk melancarkan Skill ini.\nMelancarkan serangan sapuan yang kuat menggunakan ekornya ke arah depan dan mengakibatkan <color=#98EFF0>Ice DMG</color> dalam jumlah besar.\nSetelah mengenai musuh, Ellen akan memulihkan 1 <color=#FFFFFF>Flash Freeze Charge</color>.\nKarakter akan menjadi kebal selama melancarkan Skill ini.\nSetelah melancarkan Skill ini, Ellen dapat langsung melanjutkan serangannya dengan <color=#FFFFFF>Basic Attack</color> tahap ketiga."
             },
-            "119100006": {
+            "119100007": {
                 "Title": "EX Special Attack: Sharknami",
                 "Description": "Saat Energy Ellen sudah cukup, tekan <IconMap:Icon_SpecialReady> setelah melancarkan <color=#FFFFFF>EX Special Attack: Tail Swipe</color> untuk melancarkan Skill ini.\nMelancarkan serangan Slash beruntun yang kuat ke arah depan dan mengakibatkan <color=#98EFF0>Ice DMG</color> dalam jumlah besar.\nSetelah mengenai musuh, Ellen akan memulihkan 1 <color=#FFFFFF>Flash Freeze Charge</color>.\nKarakter akan menjadi kebal selama melancarkan Skill ini.\nSetelah melancarkan Skill ini, Ellen dapat langsung melanjutkan serangannya dengan <color=#FFFFFF>Basic Attack</color> tahap ketiga."
             },
-            "119110015": {
+            "119110027": {
                 "Title": "Special Attack: Drift"
             },
-            "119110016": {
+            "119110028": {
                 "Description": "Kelipatan DMG",
                 "Param": "{Skill:1191010, Prop:1001}"
             },
-            "119110017": {
+            "119110029": {
                 "Description": "Kelipatan Daze",
                 "Param": "{Skill:1191010, Prop:1002}"
             },
-            "119110018": {
+            "119110030": {
                 "Title": "EX Special Attack: Tail Swipe"
             },
-            "119110019": {
+            "119110031": {
                 "Description": "Kelipatan DMG",
                 "Param": "{Skill:1191011, Prop:1001}"
             },
-            "119110020": {
+            "119110032": {
                 "Description": "Kelipatan Daze",
                 "Param": "{Skill:1191011, Prop:1002}"
             },
-            "119110021": {
+            "119110033": {
                 "Description": "Konsumsi Energy",
                 "Param": "40 poin"
             },
-            "119110022": {
+            "119110034": {
                 "Title": "EX Special Attack: Sharknami"
             },
-            "119110023": {
+            "119110035": {
                 "Description": "Kelipatan DMG",
                 "Param": "{Skill:1191012, Prop:1001}"
             },
-            "119110024": {
+            "119110036": {
                 "Description": "Kelipatan Daze",
                 "Param": "{Skill:1191012, Prop:1002}"
             },
-            "119110025": {
+            "119110037": {
                 "Description": "Konsumsi Energy",
                 "Param": "40 poin"
             }
         },
         "2": {
-            "119100007": {
+            "119100008": {
                 "Title": "Dodge: Vortex",
                 "Description": "Tekan <IconMap:Icon_Evade> untuk melakukan Dodge.\nMelakukan Dodge dengan cepat.\nSaat <color=#FFFFFF>Perfect Dodge</color> terpicu, Ellen akan mendapatkan efek <color=#FFFFFF>Quick Charge</color> dan mengurangi waktu Charge yang diperlukan untuk melancarkan <color=#FFFFFF>Dash Attack: Arctic Ambush</color>. Efek ini akan berakhir setelah maks. 5 detik atau setelah dipicu sekali.\nKarakter akan menjadi kebal selama melancarkan Skill ini."
             },
-            "119100008": {
+            "119100009": {
                 "Title": "Dash: Roaming Hunt",
                 "Description": "Tahan atau tekan <IconMap:Icon_Evade> dua kali untuk melancarkan Skill ini.\nEllen akan memasuki status <color=#FFFFFF>Roaming</color>, dan membuatnya bisa bergerak dengan cepat.\n\nSaat dalam status <color=#FFFFFF>Roaming</color>, gerakkan {LAYOUT_CONSOLECONTROLLER#tuas}{LAYOUT_FALLBACK#<IconMap:Icon_JoyStick>} untuk mengontrol arah berlari Ellen, dan lepaskan {LAYOUT_CONSOLECONTROLLER#tuas}{LAYOUT_FALLBACK#<IconMap:Icon_JoyStick>} untuk berhenti.\nKarakter akan menjadi kebal untuk beberapa saat selama melancarkan Skill ini."
             },
-            "119100009": {
+            "119100010": {
                 "Title": "Dash Attack: Arctic Ambush",
                 "Description": "Saat dalam status <color=#FFFFFF>Roaming</color>, tekan <IconMap:Icon_Normal> untuk melancarkan Skill ini:\nMelancarkan Slash berputar ke depan, lalu menggunakan guntingnya untuk melancarkan serangan Swift Scissors yang akan mengakibatkan <color=#98EFF0>Ice DMG</color>.\nMemulihkan 1 <color=#FFFFFF>Flash Freeze Charge</color> saat serangan Swift Scissors mengenai musuh.\n\nSaat dalam status <color=#FFFFFF>Roaming</color>, tahan <IconMap:Icon_Normal> untuk melancarkan Skill ini:\nMelancarkan Slash berputar ke depan, lalu menggunakan guntingnya untuk melancarkan Charged Scissor Strike dan mengakibatkan <color=#98EFF0>Ice DMG </color>dalam jumlah besar.\nMemulihkan 3 poin <color=#FFFFFF>Flash Freeze Charge</color> saat serangan Charged Scissor Strike mengenai musuh. Jika musuh dalam status<color=#98EFF0> Freeze</color>, maka akan memicu efek <color=#98EFF0>Shatter</color>.\n\nSaat melakukan Charge, level Anti-Interrupt meningkat, dan DMG yang diterima berkurang 40%. Karakter akan menjadi kebal selama melancarkan Skill ini."
             },
-            "119100010": {
+            "119100012": {
                 "Title": "Flash Freeze",
                 "Description": "Saat memiliki <color=#FFFFFF>Flash Freeze Charge</color>, Ellen akan mengaktifkan efek <color=#FFFFFF>Flash Freeze</color>.\nSetelah efek <color=#FFFFFF>Flash Freeze</color> aktif, <color=#FFFFFF>Basic Attack</color> dan <color=#FFFFFF>Dash Attack</color> akan mengonsumsi <color=#FFFFFF>Flash Freeze Charge</color>, dan mengakibatkan <color=#98EFF0>Ice DMG</color> dalam jumlah besar.\nEllen dapat memiliki maks. 6 <color=#FFFFFF>Flash Freeze Charge</color>."
             },
-            "119100011": {
+            "119100013": {
                 "Title": "Dash Attack: Monstrous Wave",
                 "Description": "Tekan <IconMap:Icon_Normal> saat melakukan Dodge untuk melancarkan Skill ini.\nMelancarkan Slash dadakan ke depan dan mengakibatkan <color=#F0D12B>Physical DMG</color>."
             },
-            "119100012": {
+            "119100014": {
                 "Title": "Dash Attack: Cold Snap",
                 "Description": "Saat efek <color=#FFFFFF>Flash Freeze</color> sedang berlangsung, tekan <IconMap:Icon_Normal> saat melakukan Dodge untuk melancarkan Skill ini.\nMelancarkan Slash dadakan ke depan dan mengakibatkan <color=#98EFF0>Ice DMG</color>.\nMengonsumsi 1 poin <color=#FFFFFF>Flash Freeze Charge</color>."
             },
-            "119100013": {
+            "119100015": {
                 "Title": "Dodge Counter: Reef Rock",
                 "Description": "Tekan <IconMap:Icon_Normal> setelah melakukan <color=#FFFFFF>Perfect Dodge</color> untuk melancarkan Skill ini.\nMelewati musuh dengan cepat, lalu membuka gunting untuk melakukan serangan memotong dan mengakibatkan <color=#98EFF0>Ice DMG</color>.\nKarakter akan menjadi kebal selama melancarkan Skill ini."
             },
-            "119110026": {
+            "119110038": {
                 "Title": "Dash Attack: Arctic Ambush"
             },
-            "119110027": {
+            "119110039": {
                 "Description": "Kelipatan DMG - Slash Berputar",
                 "Param": "{Skill:1191007, Prop:1001}"
             },
-            "119110028": {
+            "119110040": {
                 "Description": "Kelipatan DMG - Swift Scissors",
                 "Param": "{Skill:1191008, Prop:1001}"
             },
-            "119110029": {
+            "119110041": {
                 "Description": "Kelipatan DMG - Charged Scissor Strike",
                 "Param": "{Skill:1191009, Prop:1001}"
             },
-            "119110030": {
+            "119110042": {
                 "Description": "Kelipatan Daze - Slash Berputar",
                 "Param": "{Skill:1191007, Prop:1002}"
             },
-            "119110031": {
+            "119110043": {
                 "Description": "Kelipatan Daze - Swift Scissors",
                 "Param": "{Skill:1191008, Prop:1002}"
             },
-            "119110032": {
+            "119110044": {
                 "Description": "Kelipatan Daze - Charged Scissor Strike",
                 "Param": "{Skill:1191009, Prop:1002}"
             },
-            "119110033": {
+            "119110045": {
                 "Description": "Pemulihan Flash Freeze Charge dari Swift Scissors",
                 "Param": "1 poin"
             },
-            "119110034": {
+            "119110046": {
                 "Description": "Pemulihan Flash Freeze Charge dari Charged Scissor Strike",
                 "Param": "3 poin"
             },
-            "119110035": {
+            "119110047": {
                 "Title": "Dash Attack: Monstrous Wave"
             },
-            "119110036": {
+            "119110048": {
                 "Description": "Kelipatan DMG",
                 "Param": "{Skill:1191013, Prop:1001}"
             },
-            "119110037": {
+            "119110049": {
                 "Description": "Kelipatan Daze",
                 "Param": "{Skill:1191013, Prop:1002}"
             },
-            "119110038": {
+            "119110050": {
                 "Title": "Dash Attack: Cold Snap"
             },
-            "119110039": {
+            "119110051": {
                 "Description": "Kelipatan DMG",
                 "Param": "{Skill:1191014, Prop:1001}"
             },
-            "119110040": {
+            "119110052": {
                 "Description": "Kelipatan Daze",
                 "Param": "{Skill:1191014, Prop:1002}"
             },
-            "119110041": {
+            "119110053": {
                 "Title": "Dodge Counter: Reef Rock"
             },
-            "119110042": {
+            "119110054": {
                 "Description": "Kelipatan DMG",
                 "Param": "{Skill:1191015, Prop:1001}"
             },
-            "119110043": {
+            "119110055": {
                 "Description": "Kelipatan Daze",
                 "Param": "{Skill:1191015, Prop:1002}"
             }
         },
         "3": {
-            "119100014": {
+            "119100016": {
                 "Title": "Chain Attack: Avalanche",
                 "Description": "Saat <color=#FFFFFF>Chain Attack</color> terpicu, pilih Ellen untuk melancarkan Skill ini.\nEllen akan menghantam dari atas ke bawah dan menciptakan badai es, mengakibatkan <color=#98EFF0>Ice DMG</color> yang besar.\nKarakter akan menjadi kebal selama melancarkan Skill ini."
             },
-            "119100015": {
+            "119100017": {
                 "Title": "Ultimate: Endless Winter",
                 "Description": "Saat Decibel Rating mencapai <color=#FFFFFF>Maximum</color>, tekan <IconMap:Icon_UltimateReady> untuk melancarkan Skill ini.\nEllen akan menghantam dari atas ke bawah dan menciptakan badai es, lalu menggunakan guntingnya untuk melancarkan serangan kuat dan mengakibatkan <color=#98EFF0>Ice DMG</color> dalam jumlah besar.\nKarakter akan menjadi kebal selama melancarkan Skill ini."
             },
-            "119110044": {
+            "119110056": {
                 "Title": "Chain Attack: Avalanche"
             },
-            "119110045": {
+            "119110057": {
                 "Description": "Kelipatan DMG",
                 "Param": "{Skill:1191016, Prop:1001}"
             },
-            "119110046": {
+            "119110058": {
                 "Description": "Kelipatan Daze",
                 "Param": "{Skill:1191016, Prop:1002}"
             },
-            "119110047": {
+            "119110059": {
                 "Title": "Ultimate: Endless Winter"
             },
-            "119110048": {
+            "119110060": {
                 "Description": "Kelipatan DMG",
                 "Param": "{Skill:1191017, Prop:1001}"
             },
-            "119110049": {
+            "119110061": {
                 "Description": "Kelipatan Daze",
                 "Param": "{Skill:1191017, Prop:1002}"
             }
         },
         "6": {
-            "119100017": {
+            "119100020": {
                 "Title": "Quick Assist: Shark Sentinel",
                 "Description": "Saat Agen yang Dikendalikan terhempas, tekan <IconMap:Icon_Switch> untuk melancarkan Skill ini.\nMelewati musuh dengan cepat, lalu membuka guntingnya untuk melakukan serangan memotong, mengakibatkan <color=#98EFF0>Ice DMG</color>.\nKarakter akan menjadi kebal selama melancarkan Skill ini.\n\nSaat Agen yang Dikendalikan terhempas, gerakkan {LAYOUT_CONSOLECONTROLLER#tuas}{LAYOUT_FALLBACK#<IconMap:Icon_JoyStick>} dan tekan <IconMap:Icon_Switch> untuk melancarkan Skill ini.\nMemasuki status <color=#FFFFFF>Roaming</color> yang akan membuat karakter bergerak dengan cepat.\nSaat dalam status <color=#FFFFFF>Roaming</color>, gerakkan {LAYOUT_CONSOLECONTROLLER#tuas}{LAYOUT_FALLBACK#<IconMap:Icon_JoyStick>} untuk mengontrol arah berlari, dan lepas {LAYOUT_CONSOLECONTROLLER#tuas}{LAYOUT_FALLBACK#<IconMap:Icon_JoyStick>} untuk berhenti berlari.\nKarakter akan menjadi kebal untuk beberapa saat selama melancarkan Skill ini.\n\nSaat melancarkan <color=#FFFFFF>Quick Assist</color>, Ellen akan mendapatkan efek <color=#FFFFFF>Quick Charge</color> yang dapat mengurangi waktu Charge yang diperlukan untuk melancarkan <color=#FFFFFF>Dash Attack: Arctic Ambush</color>. Efek ini akan berakhir setelah maks. 5 detik atau setelah dipicu sekali."
             },
-            "119100018": {
+            "119100021": {
                 "Title": "Defensive Assist: Wavefront Impact",
                 "Description": "Tepat sebelum Agen aktif diserang, tekan <IconMap:Icon_Switch> untuk melancarkan Skill ini.\nMenangkis serangan musuh dan menghasilkan Daze dalam jumlah besar.\nKarakter akan menjadi kebal selama melancarkan Skill ini."
             },
-            "119100019": {
+            "119100022": {
                 "Title": "Assist Follow-Up: Shark Cruiser",
                 "Description": "Setelah melancarkan <color=#FFFFFF>Defensive Assist</color>, tekan <IconMap:Icon_Normal> untuk melancarkan Skill ini.\nMelancarkan Slash dadakan terhadap musuh di depan untuk mengakibatkan <color=#98EFF0>Ice DMG</color>.\nSelama Skill berlangsung, tahan atau tekan <IconMap:Icon_Normal> berulang kali untuk memperpanjang durasi serangan.\nKarakter akan menjadi kebal selama melancarkan Skill ini."
             },
-            "119110050": {
+            "119110062": {
                 "Title": "Quick Assist: Shark Sentinel"
             },
-            "119110051": {
+            "119110063": {
                 "Description": "Kelipatan DMG",
                 "Param": "{Skill:1191018, Prop:1001}"
             },
-            "119110052": {
+            "119110064": {
                 "Description": "Kelipatan Daze",
                 "Param": "{Skill:1191018, Prop:1002}"
             },
-            "119110053": {
+            "119110065": {
                 "Title": "Defensive Assist: Wavefront Impact"
             },
-            "119110054": {
+            "119110066": {
                 "Description": "Kelipatan Daze - Light Defensive",
                 "Param": "{Skill:1191019, Prop:1002}"
             },
-            "119110055": {
+            "119110067": {
                 "Description": "Kelipatan Daze - Heavy Defensive",
                 "Param": "{Skill:1191020, Prop:1002}"
             },
-            "119110056": {
+            "119110068": {
                 "Description": "Kelipatan Daze - Chain Defensive",
                 "Param": "{Skill:1191021, Prop:1002}"
             },
-            "119110057": {
+            "119110069": {
                 "Title": "Assist Follow-Up: Shark Cruiser"
             },
-            "119110058": {
+            "119110070": {
                 "Description": "Kelipatan DMG",
                 "Param": "{Skill:1191022, Prop:1001}"
             },
-            "119110059": {
+            "119110071": {
                 "Description": "Kelipatan Daze",
                 "Param": "{Skill:1191022, Prop:1002}"
             }
@@ -511,6 +511,30 @@
             "DamageGrowth": 250,
             "DazeValue": 0,
             "DazeGrowth": 0
+        },
+        "1191027": {
+            "DamageValue": 6040,
+            "DamageGrowth": 550,
+            "DazeValue": 2580,
+            "DazeGrowth": 120
+        },
+        "1191028": {
+            "DamageValue": 1300,
+            "DamageGrowth": 120,
+            "DazeValue": 560,
+            "DazeGrowth": 30
+        },
+        "1191029": {
+            "DamageValue": 23020,
+            "DamageGrowth": 2100,
+            "DazeValue": 6700,
+            "DazeGrowth": 310
+        },
+        "1191030": {
+            "DamageValue": 14680,
+            "DamageGrowth": 1340,
+            "DazeValue": 8420,
+            "DazeGrowth": 390
         }
     }
 }

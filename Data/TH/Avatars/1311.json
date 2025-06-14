@@ -6,7 +6,7 @@
     "Talents": {
         "1": {
             "Title": "12-Tone Equal Temperament",
-            "Description": "เมื่อ Astra Yao โจมตีถูกศัตรู ความต้านทานความเสียหายธาตุทั้งหมดของเป้าหมายจะลดลง 6% โดยจะซ้อนทับได้มากสุด 3 ชั้น ต่อเนื่อง 30 วินาที และเมื่อเกิดซ้ำ จะรีเฟรชช่วงเวลาต่อเนื่อง;\nเมื่อเข้าสู่การต่อสู้ Astra Yao จะได้รับค่า Decibel 1,000 แต้ม โดยทันที;\nเมื่อใช้ <color=#FFFFFF>[สกิลอัลติเมท]</color> สมาชิกแต่ละคนในทีมจะได้รับเอฟเฟกต์ <color=#FFFFFF>[Song of Protection]</color> 1 ชั้น ต่อเนื่อง 60 วินาที โดยเมื่อถูกศัตรูโจมตี จะใช้ <color=#FFFFFF>[Song of Protection]</color> และได้รับเอฟเฟกต์ Invulnerable เป็นเวลา 1 วินาที",
+            "Description": "เมื่อ Astra Yao โจมตีถูกศัตรู ความต้านทานความเสียหายธาตุทั้งหมดของเป้าหมายจะลดลง 6% โดยจะซ้อนทับได้มากสุด 3 ชั้น ต่อเนื่อง 30 วินาที และเมื่อเกิดซ้ำ จะรีเฟรชช่วงเวลาต่อเนื่อง;\nเมื่อเข้าสู่การต่อสู้ Astra Yao จะได้รับค่า Decibel 1,000 แต้ม โดยทันที;\nเมื่อใช้ <color=#FFFFFF>[สกิลอัลติเมท]</color> ตัวละครทั้งทีมจะได้รับเอฟเฟกต์ <color=#FFFFFF>[Song of Protection]</color> คนละ 1 ชั้น ต่อเนื่อง 60 วินาที โดยเมื่อถูกศัตรูโจมตี จะใช้ <color=#FFFFFF>[Song of Protection]</color> และได้รับเอฟเฟกต์ Invulnerable เป็นเวลา 1 วินาที",
             "Lore": "\"ครูคะๆ อะไรคือระบบ 12 เสียงเท่ากันคะ?\"\n\"ระบบ 12 เสียงเท่ากันคือกฎรูปแบบนึงของดนตรี ก็เหมือนกับเด็กๆ ที่ต้องเข้าแถวเรียงกันนั่นแหละ เสียงก็ต้องเข้าแถวเรียงกันด้วย\"\n\"งั้นเสียงก็ต้องไม่ชอบเข้าแถว เหมือนกับเด็กๆ แน่เลย!\"\n—หลังจากที่ Astra โด่งดังแล้ว ครูสอนดนตรีของเธอ ก็ได้นึกย้อนกลับไปตอนที่เธออายุหกขวบ"
         },
         "2": {
@@ -50,7 +50,7 @@
         },
         "MathSkill": {
             "Title": "ความสามารถเพิ่มเติม: \"Moonlit Frenzy\"",
-            "Description": "เมื่อในทีมมีตัวละคร <color=#FFFFFF>[โจมตีรุนแรง]</color> หรือ <color=#FFFFFF>[ธาตุผิดปกติ]</color>:\nเมื่อใช้พลังงานเพื่อใช้ <color=#FFFFFF>[Precise Assist]</color> หรือ <color=#FFFFFF>[โจมตีปกติ: Finale]</color> Astra Yao จะทำการโจมตีเพิ่มเติมด้วย <color=#FFFFFF>[Tremolo]</color> 1 ครั้ง และ <color=#FFFFFF>[Tone Cluster]</color> 3 อัน"
+            "Description": "เมื่อในทีมมีตัวละคร <color=#FFFFFF>[โจมตีรุนแรง]</color>, <color=#FFFFFF>[ธาตุผิดปกติ]</color> หรือ <color=#FFFFFF>[ตัดสะบั้น]</color>:\nเมื่อใช้พลังงานเพื่อใช้ <color=#FFFFFF>[Precise Assist]</color> หรือ <color=#FFFFFF>[โจมตีปกติ: Finale]</color> Astra Yao จะทำการโจมตีเพิ่มเติมด้วย <color=#FFFFFF>[Tremolo]</color> 1 ครั้ง และ <color=#FFFFFF>[Tone Cluster]</color> 3 อัน"
         }
     },
     "SkillDescriptions": {
@@ -179,7 +179,7 @@
             },
             "131100006": {
                 "Title": "Idyllic Cadenza",
-                "Description": "หลังจากที่ Astra Yao เข้าสู่สถานะ <color=#FFFFFF>[Idyllic Cadenza]</color> ทั้งทีมจะสร้างความเสียหายเพิ่มขึ้น <color=#2BAD00>{CAL:0.08+AvatarSkillLevel(1)*0.01,100,2}%</color> และมี CRIT DMG เพิ่มขึ้น <color=#2BAD00>{CAL:0.07+AvatarSkillLevel(1)*0.015,100,2}%</color>;\nในสถานะ <color=#FFFFFF>[Idyllic Cadenza]</color> Astra Yao จะไม่สามารถเคลื่อนที่ได้ แต่จะสามารถกด <IconMap:Icon_Normal> เพื่อใช้ <color=#FFFFFF>[โจมตีปกติ: Interlude]</color> หรือกด <IconMap:Icon_Evade> เพื่อทำการหลบหลีก โดยหลังจากที่เกิด <color=#FFFFFF>[หลบหลีกสมบูรณ์]</color> เมื่อกด <IconMap:Icon_Normal> จะสามารถใช้ <color=#FFFFFF>[โจมตีปกติ: Chorus]</color> ได้;\nระหว่างช่วงเวลาของสถานะ Astra Yao จะมีเลเวล Anti-Interrupt เพิ่มขึ้น และได้รับความเสียหายลดลง 40% โดยหลังจากที่สลับไปใช้ตัวละครอื่น Astra Yao จะยังคงอยู่ในสนาม และได้รับเอฟเฟกต์ Invulnerable ซึ่งเมื่อสลับกลับมาใช้ Astra Yao จะทำการปล่อย <color=#FFFFFF>[สกิลพิเศษ: \"Windchimes & Oaths\"]</color> ต่อเนื่องโดยอัตโนมัติ;\nระหว่างช่วงเวลาของสถานะ จะสามารถกดค้าง <IconMap:Icon_Normal> เพื่อใช้ <color=#FFFFFF>[โจมตีปกติ: Finale]</color> แล้วออกจากสถานะ <color=#FFFFFF>[Idyllic Cadenza]</color> หรือกดค้าง <IconMap:Icon_Evade> เพื่อออกจากสถานะ <color=#FFFFFF>[Idyllic Cadenza]</color> ได้"
+                "Description": "หลังจากที่ Astra Yao เข้าสู่สถานะ <color=#FFFFFF>[Idyllic Cadenza]</color> ตัวละครทั้งทีมจะสร้างความเสียหายเพิ่มขึ้น <color=#2BAD00>{CAL:0.08+AvatarSkillLevel(1)*0.01,100,2}%</color> และตัวละครทั้งทีมจะมี CRIT DMG เพิ่มขึ้น <color=#2BAD00>{CAL:0.07+AvatarSkillLevel(1)*0.015,100,2}%</color>;\nในสถานะ <color=#FFFFFF>[Idyllic Cadenza]</color> Astra Yao จะไม่สามารถเคลื่อนที่ได้ แต่จะสามารถกด <IconMap:Icon_Normal> เพื่อใช้ <color=#FFFFFF>[โจมตีปกติ: Interlude]</color> หรือกด <IconMap:Icon_Evade> เพื่อทำการหลบหลีก โดยหลังจากที่เกิด <color=#FFFFFF>[หลบหลีกสมบูรณ์]</color> เมื่อกด <IconMap:Icon_Normal> จะสามารถใช้ <color=#FFFFFF>[โจมตีปกติ: Chorus]</color> ได้;\nระหว่างช่วงเวลาของสถานะ Astra Yao จะมีเลเวล Anti-Interrupt เพิ่มขึ้น และได้รับความเสียหายลดลง 40% โดยหลังจากที่สลับไปใช้ตัวละครอื่น Astra Yao จะยังคงอยู่ในสนาม และได้รับเอฟเฟกต์ Invulnerable ซึ่งเมื่อสลับกลับมาใช้ Astra Yao จะทำการปล่อย <color=#FFFFFF>[สกิลพิเศษ: \"Windchimes & Oaths\"]</color> ต่อเนื่องโดยอัตโนมัติ;\nระหว่างช่วงเวลาของสถานะ จะสามารถกดค้าง <IconMap:Icon_Normal> เพื่อใช้ <color=#FFFFFF>[โจมตีปกติ: Finale]</color> แล้วออกจากสถานะ <color=#FFFFFF>[Idyllic Cadenza]</color> หรือกดค้าง <IconMap:Icon_Evade> เพื่อออกจากสถานะ <color=#FFFFFF>[Idyllic Cadenza]</color> ได้"
             },
             "131100007": {
                 "Title": "Chord",
@@ -189,11 +189,11 @@
                 "Title": "สกิลพิเศษ: \"Windchimes & Oaths\""
             },
             "131100044": {
-                "Description": "ทั้งทีมมี DMG เพิ่มขึ้น",
+                "Description": "ตัวละครทั้งทีมมี DMG เพิ่มขึ้น",
                 "Param": "{CAL:0.08+AvatarSkillLevel(1)*0.01,100,2}%"
             },
             "131100045": {
-                "Description": "ทั้งทีมมี CRIT DMG เพิ่มขึ้น",
+                "Description": "ตัวละครทั้งทีมมี CRIT DMG เพิ่มขึ้น",
                 "Param": "{CAL:0.07+AvatarSkillLevel(1)*0.015,100,2}%"
             },
             "131100046": {
@@ -271,7 +271,7 @@
             },
             "131100012": {
                 "Title": "สกิลอัลติเมท: \"Fantasian Sonata\"",
-                "Description": "เมื่อ Decibel Rating ถึง <color=#FFFFFF>[Maximum]</color> กด <IconMap:Icon_UltimateReady> เพื่อ\nใช้เสียงเพลงควบคุมพลังงาน และทำให้เกิดการระเบิด เพื่อสร้าง<color=#FE437E>ความเสียหายอีเทอร์</color>ปริมาณมาก และฟื้นฟู HP <color=#2BAD00>{CAL:-50+AvatarSkillLevel(3)*250,1,2}</color> แต้มให้ทั้งทีม;\nขณะที่ใช้ท่านี้ จะมีเอฟเฟกต์ Invulnerable;\nเมื่อท่าถูกศัตรู จะทำให้เกิด <color=#FFFFFF>[ซัปพอร์ตอย่างรวดเร็ว]</color>;\nหลังจากใช้ท่า Astra Yao จะเข้าสู่สถานะ <color=#FFFFFF>[Idyllic Cadenza]</color>;\nหลังจากใช้ท่า การใช้ <color=#FFFFFF>[ซัปพอร์ตอย่างรวดเร็ว]</color> สองครั้งถัดไป จะถูกแทนที่ด้วย <color=#FFFFFF>[สกิลต่อเนื่อง]</color>;\nก่อนที่จะครบจำนวนครั้ง เมื่อทั้งทีมใช้ <color=#FFFFFF>[สกิลต่อเนื่อง]</color> หรือ <color=#FFFFFF>[สกิลอัลติเมท]</color> ถูกศัตรู จะทำให้เกิด <color=#FFFFFF>[ซัปพอร์ตอย่างรวดเร็ว]</color>"
+                "Description": "เมื่อ Decibel Rating ถึง <color=#FFFFFF>[Maximum]</color> กด <IconMap:Icon_UltimateReady> เพื่อ\nใช้เสียงเพลงควบคุมพลังงาน และทำให้เกิดการระเบิด เพื่อสร้าง<color=#FE437E>ความเสียหายอีเทอร์</color>ปริมาณมาก และฟื้นฟู HP <color=#2BAD00>{CAL:-50+AvatarSkillLevel(3)*250,1,2}</color> แต้มให้ตัวละครทั้งทีม;\nขณะที่ใช้ท่านี้ จะมีเอฟเฟกต์ Invulnerable;\nเมื่อท่าถูกศัตรู จะทำให้เกิด <color=#FFFFFF>[ซัปพอร์ตอย่างรวดเร็ว]</color>;\nหลังจากใช้ท่า Astra Yao จะเข้าสู่สถานะ <color=#FFFFFF>[Idyllic Cadenza]</color>;\nหลังจากใช้ท่า การใช้ <color=#FFFFFF>[ซัปพอร์ตอย่างรวดเร็ว]</color> สองครั้งถัดไป จะถูกแทนที่ด้วย <color=#FFFFFF>[สกิลต่อเนื่อง]</color>;\nก่อนที่จะครบจำนวนครั้ง เมื่อตัวละครทั้งทีมใช้ <color=#FFFFFF>[สกิลต่อเนื่อง]</color> หรือ <color=#FFFFFF>[สกิลอัลติเมท]</color> ถูกศัตรู จะทำให้เกิด <color=#FFFFFF>[ซัปพอร์ตอย่างรวดเร็ว]</color>"
             },
             "131100060": {
                 "Title": "สกิลต่อเนื่อง: \"Tipsy Concerto\""

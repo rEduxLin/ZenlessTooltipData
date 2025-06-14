@@ -21,7 +21,7 @@
         },
         "4": {
             "Title": "Vertrauenswürdige Fahrtechniken",
-            "Description": "Stellt Piper, wenn ein Truppenmitglied einem Gegner eine Attributanomalie zufügt, 20 Pkt. Energie wieder her, 30 s Abklingzeit.",
+            "Description": "Stellt Piper, wenn eine Truppenfigur einem Gegner eine Attributanomalie zufügt, 20 Pkt. Energie wieder her, 30 s Abklingzeit.",
             "Lore": "Auf Pipers Beifahrersitz ist es oft eine beängstigende Fahrt.\nSicher, sie erinnert dich immer daran, „Sitz lieber fest“, bevor sie den Motor anlässt, aber bevor das Wort „fest“ an dein Ohr gelangen kann, hat der LKW bereits einen langen Sprint hingelegt.\nAber keine Sorge, du kannst sicher sein, dass sie dich heil und gesund an dein Ziel bringen wird ... Deine psychische Gesundheit ist allerdings nichts, was sie in Betracht ziehen würde."
         },
         "5": {
@@ -50,7 +50,7 @@
         },
         "MathSkill": {
             "Title": "Zusatzfähigkeit: Synchron-Sprint",
-            "Description": "Wenn eine andere Figur in der Truppe dasselbe Attribut hat oder eine andere Figur derselben Fraktion angehört:\nErhöht, wenn Piper 20 oder mehr Stapelungen <color=#FFFFFF>Antrieb</color> hat, den SCH durch alle Truppenmitglieder um 18 %."
+            "Description": "Wenn eine andere Figur in der Truppe dasselbe Attribut hat oder eine andere Figur derselben Fraktion angehört:\nErhöht, wenn Piper 20 oder mehr Stapelungen <color=#FFFFFF>„Antrieb“</color> hat, den SCH durch alle Truppenfiguren um 18 %."
         }
     },
     "SkillDescriptions": {

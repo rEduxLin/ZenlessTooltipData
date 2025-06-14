@@ -31,7 +31,7 @@
         },
         "6": {
             "Title": "Frayeur d'une nuit d'orage",
-            "Description": "Lorsqu'une <color=#FFFFFF>attaque spéciale EX</color>, un <color=#FFFFFF>enchaînement</color> ou un <color=#FFFFFF>ultime</color> touche un ennemi, les <color=#2EB6FF>DGT électriques</color> de tous les membres de l'escouade augmentent de 15 % pendant 8 s.",
+            "Description": "Lorsqu'une <color=#FFFFFF>attaque spéciale EX</color>, un <color=#FFFFFF>enchaînement</color> ou un <color=#FFFFFF>ultime</color> touche un ennemi, les <color=#2EB6FF>DGT électriques</color> de tous les personnages de l'escouade augmentent de 15 % pendant 8 s.",
             "Lore": "Le tonnerre gronde dans le vieux château par une nuit pluvieuse. Les profondeurs des longs couloirs sont remplies d'ombres inquiétantes. \nCircuits de la peur surchargés, le tournage du film d'horreur peut commencer."
         }
     },
@@ -50,7 +50,7 @@
         },
         "MathSkill": {
             "Title": "Capacité supplémentaire : Banquet parfait",
-            "Description": "Lorsqu'un autre personnage de votre escouade est du même attribut ou de la même faction que Rina :\nProlonge l'effet <color=#2EB6FF>Électrocution</color> infligé par les personnages de l'escouade de 3 s. Lorsqu'il y a des ennemis <color=#2EB6FF>électrocutés</color> sur le champ de bataille, les <color=#2EB6FF>DGT électriques</color> de tous les membres de l'escouade augmentent de 10 %."
+            "Description": "Lorsqu'un autre personnage de votre escouade est du même attribut ou de la même faction que Rina :\nProlonge l'effet <color=#2EB6FF>Électrocution</color> infligé par les personnages de l'escouade de 3 s. Lorsqu'il y a des ennemis <color=#2EB6FF>électrocutés</color> sur le champ de bataille, les <color=#2EB6FF>DGT électriques</color> de tous les personnages de l'escouade augmentent de 10 %."
         }
     },
     "SkillDescriptions": {

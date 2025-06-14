@@ -458,6 +458,12 @@
             "DamageGrowth": 0,
             "DazeValue": 12000,
             "DazeGrowth": 0
+        },
+        "1361024": {
+            "DamageValue": 0,
+            "DamageGrowth": 0,
+            "DazeValue": 0,
+            "DazeGrowth": 0
         }
     }
 }

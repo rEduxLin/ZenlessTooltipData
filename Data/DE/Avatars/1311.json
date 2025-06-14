@@ -6,7 +6,7 @@
     "Talents": {
         "1": {
             "Title": "Gleichtemperierte Zwölfton-Stimmung",
-            "Description": "Beim Treffen von Gegnern mit Astra Yaos Angriffen verringert sich der WDS des Ziels für alle Attribute um 6 %, max. 3-fach stapelbar und hält 30 s. Beim wiederholten Auslösen wird die Dauer aktualisiert. Beim Betreten des Kampffelds erhält Astra Yao sofort 1.000 Pkt. Dezibel. Beim Anwenden ihres <color=#FFFFFF>Ultimates</color> erhalten alle Truppenmitglieder 1 Stapelung <color=#FFFFFF>Schutzlied</color>, hält 60 s. Beim Erleiden des gegnerischen Angriffs wird <color=#FFFFFF>Schutzlied</color> verbraucht, um 1 s lang unverwundbar zu werden.",
+            "Description": "Beim Treffen von Gegnern mit Astra Yaos Angriffen verringert sich der WDS des Ziels gegen alle Attribute um 6 %, max. 3-fach stapelbar und hält 30 s. Beim wiederholten Auslösen wird die Dauer aktualisiert. Beim Betreten des Kampffelds erhält Astra Yao sofort 1.000 Pkt. Dezibel. Beim Anwenden ihres <color=#FFFFFF>Ultimates</color> erhalten alle Truppenfiguren 1 Stapelung <color=#FFFFFF>Schutzlied</color>, hält 60 s. Beim Erleiden des gegnerischen Angriffs wird <color=#FFFFFF>Schutzlied</color> verbraucht, um 1 s lang unverwundbar zu werden.",
             "Lore": "„Was eine gleichtemperierte Zwölfton-Stimmung ist?“\n„Die gleichtemperierte Zwölfton-Stimmung ist ein Stimmungssystem in der Musik. Genau wie Kinder sich aufreihen müssen, müssen auch Töne in einer Reihenfolge stehen.“\n„Aber Töne wollen sich bestimmt nicht aufreihen. Genau wie Kinder!“\n– Astra Yaos Musiklehrerin erinnert sich an eine Zeit mit der sechsjährigen Astra"
         },
         "2": {
@@ -50,7 +50,7 @@
         },
         "MathSkill": {
             "Title": "Zusatzfähigkeit: Ekstase im Mondlicht",
-            "Description": "Wenn sich in der Truppe eine <color=#FFFFFF>Attacke</color>- oder <color=#FFFFFF>Anomalie</color>-Figur befindet:\nWenn Energie verbraucht wird, um eine <color=#FFFFFF>präzise Hilfe</color> oder <color=#FFFFFF>Basisangriff: Ausklang</color> auszulösen, führt Astra Yao zusätzlich einen Folgeangriff mit 1 <color=#FFFFFF>Tremolo</color> und 3 <color=#FFFFFF>Tontrauben</color> aus."
+            "Description": "Wenn sich in der Truppe eine <color=#FFFFFF>Attacke</color>-, <color=#FFFFFF>Anomalie</color>- oder <color=#FFFFFF>Spaltung</color>-Figur befindet:\nWenn Energie verbraucht wird, um eine <color=#FFFFFF>präzise Hilfe</color> oder <color=#FFFFFF>Basisangriff: Ausklang</color> auszulösen, führt Astra Yao zusätzlich einen Folgeangriff mit 1 <color=#FFFFFF>Tremolo</color> und 3 <color=#FFFFFF>Tontrauben</color> aus."
         }
     },
     "SkillDescriptions": {
@@ -179,7 +179,7 @@
             },
             "131100006": {
                 "Title": "Idyllische Kadenz",
-                "Description": "Erhöht, nachdem Astra Yao den Zustand <color=#FFFFFF>Idyllische Kadenz</color> betreten hat, den SCH durch alle Truppenmitglieder um <color=#2BAD00>{CAL:0.08+AvatarSkillLevel(1)*0.01,100,2} %</color> und den KRIT-SCH aller Truppenmitglieder um <color=#2BAD00>{CAL:0.07+AvatarSkillLevel(1)*0.015,100,2} %</color>.\nIm Zustand <color=#FFFFFF>Idyllische Kadenz</color> kann sich Astra Yao nicht bewegen, durch das Drücken von <IconMap:Icon_Normal> kann jedoch <color=#FFFFFF>Basisangriff: Intermezzo</color> ausgelöst werden und mit <IconMap:Icon_Evade> kann ausgewichen werden. Drücke nach Auslösen eines <color=#FFFFFF>perfekten Ausweichens</color> <IconMap:Icon_Normal>, um <color=#FFFFFF>Basisangriff: Refrain</color> auszuführen.\nIn diesem Zustand erhöht sich Astra Yaos Stufe des Unterbrechungs-WDS und ihr erlittener SCH wird um 40 % verringert. Wird eine andere Figur eingewechselt, bleibt Astra Yao auf dem Feld und wird unverwundbar. Wird sie wieder eingewechselt, führt sie automatisch <color=#FFFFFF>Spezialangriff: Windspiel und Eidschwur</color> aus.\nHalte während der Zustandsdauer <IconMap:Icon_Normal> gedrückt, um <color=#FFFFFF>Basisangriff: Ausklang</color> anzuwenden und den Zustand <color=#FFFFFF>Idyllische Kadenz</color> zu verlassen, oder halte <IconMap:Icon_Evade> gedrückt, um den Zustand zu verlassen."
+                "Description": "Erhöht, nachdem Astra Yao den Zustand <color=#FFFFFF>Idyllische Kadenz</color> betreten hat, den SCH durch alle Truppenfiguren um <color=#2BAD00>{CAL:0.08+AvatarSkillLevel(1)*0.01,100,2} %</color> und den KRIT-SCH aller Truppenfiguren um <color=#2BAD00>{CAL:0.07+AvatarSkillLevel(1)*0.015,100,2} %</color>.\nIm Zustand <color=#FFFFFF>Idyllische Kadenz</color> kann sich Astra Yao nicht bewegen, durch das Drücken von <IconMap:Icon_Normal> kann jedoch <color=#FFFFFF>Basisangriff: Intermezzo</color> ausgelöst werden und mit <IconMap:Icon_Evade> kann ausgewichen werden. Drücke nach Auslösen eines <color=#FFFFFF>perfekten Ausweichens</color> <IconMap:Icon_Normal>, um <color=#FFFFFF>Basisangriff: Refrain</color> auszuführen.\nWährend der Zustandsdauer erhöht sich Astra Yaos Stufe des Unterbrechungs-WDS und ihr erlittener SCH wird um 40 % verringert. Wird eine andere Figur eingewechselt, bleibt Astra Yao auf dem Feld und wird unverwundbar. Wird sie wieder eingewechselt, führt sie automatisch <color=#FFFFFF>Spezialangriff: Windspiel und Eidschwur</color> aus.\nHalte während der Zustandsdauer <IconMap:Icon_Normal> gedrückt, um <color=#FFFFFF>Basisangriff: Ausklang</color> anzuwenden und den Zustand <color=#FFFFFF>Idyllische Kadenz</color> zu verlassen, oder halte <IconMap:Icon_Evade> gedrückt, um den Zustand zu verlassen."
             },
             "131100007": {
                 "Title": "Akkord",
@@ -189,11 +189,11 @@
                 "Title": "Spezialangriff: Windspiel und Eidschwur"
             },
             "131100044": {
-                "Description": "Truppe-SCH-Erhöhung",
+                "Description": "Truppenfiguren-SCH-Erhöhung",
                 "Param": "{CAL:0.08+AvatarSkillLevel(1)*0.01,100,2} %"
             },
             "131100045": {
-                "Description": "Truppe-KRIT-SCH-Erhöhung",
+                "Description": "Truppenfiguren-KRIT-SCH-Erhöhung",
                 "Param": "{CAL:0.07+AvatarSkillLevel(1)*0.015,100,2} %"
             },
             "131100046": {
@@ -271,7 +271,7 @@
             },
             "131100012": {
                 "Title": "Ultimate: Fantasie-Sonate",
-                "Description": "Drücke beim Erreichen der Dezibelstufe <color=#FFFFFF>Maximum</color> <IconMap:Icon_UltimateReady> zum Anwenden:\nDirigiert Energie mithilfe von Gesang zu einer Explosion, die hohen <color=#FE437E>Äther-SCH</color> verursacht, und stellt allen Truppenmitgliedern <color=#2BAD00>{CAL:-50+AvatarSkillLevel(3)*250,1,2}</color> Pkt. LP wieder her.\nDie Figur ist beim Anwenden dieser Fähigkeit unverwundbar.\nBeim Treffen von Gegnern mit der Fähigkeit wird eine <color=#FFFFFF>schnelle Hilfe</color> ausgelöst.\nNach Anwenden der Fähigkeit betritt Astra Yao den Zustand <color=#FFFFFF>Idyllische Kadenz</color>.\nNach Anwenden der Fähigkeit werden die nächsten zwei <color=#FFFFFF>schnellen Hilfen</color> durch <color=#FFFFFF>Kettenangriffe</color> ersetzt.\nWenn vor dem Aufbrauchen der Möglichkeiten ein Truppenmitglied einen Gegner mit dem <color=#FFFFFF>Kettenangriff</color> oder <color=#FFFFFF>Ultimate</color> trifft, wird eine <color=#FFFFFF>schnelle Hilfe</color> ausgelöst."
+                "Description": "Drücke beim Erreichen der Dezibelstufe <color=#FFFFFF>Maximum</color> <IconMap:Icon_UltimateReady> zum Anwenden:\nDirigiert Energie mithilfe von Gesang zu einer Explosion, die hohen <color=#FE437E>Äther-SCH</color> verursacht, und stellt allen Truppenfiguren <color=#2BAD00>{CAL:-50+AvatarSkillLevel(3)*250,1,2}</color> Pkt. LP wieder her.\nDie Figur ist beim Anwenden dieser Fähigkeit unverwundbar.\nBeim Treffen von Gegnern mit der Fähigkeit wird eine <color=#FFFFFF>schnelle Hilfe</color> ausgelöst.\nNach Anwenden der Fähigkeit betritt Astra Yao den Zustand <color=#FFFFFF>Idyllische Kadenz</color>.\nNach Anwenden der Fähigkeit werden die nächsten zwei <color=#FFFFFF>schnellen Hilfen</color> durch <color=#FFFFFF>Kettenangriffe</color> ersetzt.\nWenn vor dem Aufbrauchen der Möglichkeiten eine Figur in der Truppe einen Gegner mit dem <color=#FFFFFF>Kettenangriff</color> oder <color=#FFFFFF>Ultimate</color> trifft, wird eine <color=#FFFFFF>schnelle Hilfe</color> ausgelöst."
             },
             "131100060": {
                 "Title": "Kettenangriff: Angeheitertes Concerto"

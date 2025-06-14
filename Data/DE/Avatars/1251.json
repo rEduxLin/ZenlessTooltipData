@@ -31,7 +31,7 @@
         },
         "6": {
             "Title": "Acht Meridiane",
-            "Description": "Die Unterbrechungsstufe des <color=#FFFFFF>Basisangriffs: Entzückende Mondscheinblüten</color> wird erheblich erhöht und dessen KRIT-SCH wird zusätzlich um 100 % erhöht. Wenn Qingyi einen Gegner mit dem <color=#FFFFFF>Basisangriff: Entzückende Mondscheinblüten</color> trifft, verringert sich der WDS des Ziels gegen allen Attribut-SCH um 20 %, hält 15 s.",
+            "Description": "Die Unterbrechungsstufe des <color=#FFFFFF>Basisangriffs: Entzückende Mondscheinblüten</color> wird erheblich erhöht und der KRIT-SCH wird zusätzlich um 100 % erhöht. Wenn Qingyi einen Gegner mit dem <color=#FFFFFF>Basisangriff: Entzückende Mondscheinblüten</color> trifft, verringert sich der WDS des Ziels gegen allen Attribut-SCH um 20 %, hält 15 s.",
             "Lore": "In den antiken Schriften der alten Zivilisation gibt es eine Theorie über das menschliche Kreislaufsystem. Dort steht geschrieben, dass jene, die diese Theorie meistern, einen Gegner im Kampf unverzüglich ausschalten können.\n„Sollte ich beim nächsten Mal die Akupunkte ausprobieren, die Juckreiz verursachen? Hm, wer soll das Versuchskaninchen sein ... {M#der Chef}{F#die Chefin} oder Zhu Yuan?“"
         }
     },

@@ -17,23 +17,23 @@
     "Talents": {
         "1": {
             "Title": "Dröhnender Ton",
-            "Description": "Erhöht beim Anwenden eines <color=#FFFFFF>Kettenangriffs</color> oder <color=#FFFFFF>Ultimates</color> den ANG aller Truppenmitglieder um <color=#2BAD00>8 %</color>, hält 10 s, 20 s Abklingzeit. Nicht stapelbar zwischen passiven Effekten mit demselben Namen."
+            "Description": "Erhöht beim Anwenden eines <color=#FFFFFF>Kettenangriffs</color> oder <color=#FFFFFF>Ultimates</color> den ANG aller Truppenfiguren um <color=#2BAD00>8 %</color>, hält 10 s, 20 s Abklingzeit. Nicht stapelbar zwischen passiven Effekten mit demselben Namen."
         },
         "2": {
             "Title": "Dröhnender Ton",
-            "Description": "Erhöht beim Anwenden eines <color=#FFFFFF>Kettenangriffs</color> oder <color=#FFFFFF>Ultimates</color> den ANG aller Truppenmitglieder um <color=#2BAD00>9 %</color>, hält 10 s, 20 s Abklingzeit. Nicht stapelbar zwischen passiven Effekten mit demselben Namen."
+            "Description": "Erhöht beim Anwenden eines <color=#FFFFFF>Kettenangriffs</color> oder <color=#FFFFFF>Ultimates</color> den ANG aller Truppenfiguren um <color=#2BAD00>9 %</color>, hält 10 s, 20 s Abklingzeit. Nicht stapelbar zwischen passiven Effekten mit demselben Namen."
         },
         "3": {
             "Title": "Dröhnender Ton",
-            "Description": "Erhöht beim Anwenden eines <color=#FFFFFF>Kettenangriffs</color> oder <color=#FFFFFF>Ultimates</color> den ANG aller Truppenmitglieder um <color=#2BAD00>10 %</color>, hält 10 s, 20 s Abklingzeit. Nicht stapelbar zwischen passiven Effekten mit demselben Namen."
+            "Description": "Erhöht beim Anwenden eines <color=#FFFFFF>Kettenangriffs</color> oder <color=#FFFFFF>Ultimates</color> den ANG aller Truppenfiguren um <color=#2BAD00>10 %</color>, hält 10 s, 20 s Abklingzeit. Nicht stapelbar zwischen passiven Effekten mit demselben Namen."
         },
         "4": {
             "Title": "Dröhnender Ton",
-            "Description": "Erhöht beim Anwenden eines <color=#FFFFFF>Kettenangriffs</color> oder <color=#FFFFFF>Ultimates</color> den ANG aller Truppenmitglieder um <color=#2BAD00>11 %</color>, hält 10 s, 20 s Abklingzeit. Nicht stapelbar zwischen passiven Effekten mit demselben Namen."
+            "Description": "Erhöht beim Anwenden eines <color=#FFFFFF>Kettenangriffs</color> oder <color=#FFFFFF>Ultimates</color> den ANG aller Truppenfiguren um <color=#2BAD00>11 %</color>, hält 10 s, 20 s Abklingzeit. Nicht stapelbar zwischen passiven Effekten mit demselben Namen."
         },
         "5": {
             "Title": "Dröhnender Ton",
-            "Description": "Erhöht beim Anwenden eines <color=#FFFFFF>Kettenangriffs</color> oder <color=#FFFFFF>Ultimates</color> den ANG aller Truppenmitglieder um <color=#2BAD00>12 %</color>, hält 10 s, 20 s Abklingzeit. Nicht stapelbar zwischen passiven Effekten mit demselben Namen."
+            "Description": "Erhöht beim Anwenden eines <color=#FFFFFF>Kettenangriffs</color> oder <color=#FFFFFF>Ultimates</color> den ANG aller Truppenfiguren um <color=#2BAD00>12 %</color>, hält 10 s, 20 s Abklingzeit. Nicht stapelbar zwischen passiven Effekten mit demselben Namen."
         }
     }
 }

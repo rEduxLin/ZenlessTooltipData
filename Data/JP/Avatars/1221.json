@@ -6,12 +6,12 @@
     "Talents": {
         "1": {
             "Title": "敵を知り、己を知る",
-            "Description": "任意のメンバーが敵を状態異常にした時、月城柳は<color=#FFFFFF>「洞察力」</color>を1重獲得する、継続時間15秒、最大3重まで重ね掛け可能、重複して発動すると継続時間が更新される。敵の攻撃を受けた時、月城柳は<color=#FFFFFF>「洞察力」</color>を1重消費して無敵効果を得る、継続時間1秒。<color=#FFFFFF>「洞察力」</color>を1重以上所持している時、月城柳の異常マスタリーが80Ptアップする。",
+            "Description": "任意のメンバーが敵を状態異常にした時、月城柳は<color=#FFFFFF>「洞察力」</color>を1重獲得する、継続時間15秒、最大3重まで重ね掛け可能、重複して発動すると継続時間が更新される。敵の攻撃を受けた時、月城柳は<color=#FFFFFF>「洞察力」</color>を1重消費して無敵効果を得る、継続時間1秒。<color=#FFFFFF>「洞察力」</color>を1重以上所持している時、月城柳の異常マスタリー+80Pt。",
             "Lore": "「敵の弱点を知ることは自身への保険であり、勝率向上のためでもあります」\n柳は眼鏡をクイっと上げる。\nどれほど勝算があろうと、彼女の声音はいつもどおり冷静なままだ。"
         },
         "2": {
             "Title": "卓越した適性",
-            "Description": "<color=#FFFFFF>『強化特殊スキル』</color>の高速突き刺しによる<color=#2EB6FF>電気属性の状態異常蓄積値</color>が20%アップする。高速突き刺しが敵に命中した時、「特殊攻撃」ボタンを長押しし続けると、追加でエネルギーを10Pt消費して再び突き刺し攻撃を放つ、エネルギーが尽きるか長押しをやめると、そのまま落下攻撃を発動する。落下攻撃が状態異常の敵に命中、かつ<color=#FFFFFF>「極性混沌」</color>効果が発動した時、ターゲットに対するダメージ倍率が本来の<color=#FFFFFF>「混沌」</color>効果の20%になる。突き刺し攻撃を追加で1回発動するたびに、該当ダメージ倍率が追加で15%アップする。ダメージ倍率追加アップ効果は最大2回まで発動可能。",
+            "Description": "<color=#FFFFFF>『強化特殊スキル』</color>の高速突き刺しによる<color=#2EB6FF>電気属性の状態異常蓄積値</color>+20%。高速突き刺しが敵に命中した時、「特殊攻撃」ボタンを長押しし続けると、追加でエネルギーを10Pt消費して再び突き刺し攻撃を放つ、エネルギーが尽きるか長押しをやめると、そのまま落下攻撃を発動する。落下攻撃が状態異常の敵に命中、かつ<color=#FFFFFF>「極性混沌」</color>効果が発動した時、ターゲットに対するダメージ倍率が本来の<color=#FFFFFF>「混沌」</color>効果の20%になる。突き刺し攻撃を追加で1回発動するたびに、該当ダメージ倍率が追加で+15%。ダメージ倍率追加アップ効果は最大2回まで発動可能。",
             "Lore": "「いかに尋常ならざる環境へ放り込まれようと、柳ならば対処できるだろう」\n「私は己を信じる以上に、柳を信じている」\n——「目に映る落ち葉をすべて断ち切る」修行に励む武芸者"
         },
         "3": {
@@ -21,7 +21,7 @@
         },
         "4": {
             "Title": "盤上の支配者",
-            "Description": "月城柳が敵に状態異常ダメージを与えた時、ターゲットに<color=#FFFFFF>「暴露」</color>効果を付与する、継続時間15秒。<color=#FFFFFF>「暴露」</color>効果を付与された敵が攻撃を受けた時、今回の攻撃の貫通率が16%アップする。",
+            "Description": "月城柳が敵に状態異常ダメージを与えた時、ターゲットに<color=#FFFFFF>「暴露」</color>効果を付与する、継続時間15秒。<color=#FFFFFF>「暴露」</color>効果を付与された敵が攻撃を受けた時、今回の攻撃の貫通率+16%。",
             "Lore": "いついかなる場合でも、月城柳はあらゆる情報を最速で把握し、最適な判断を下すことができる。"
         },
         "5": {
@@ -31,7 +31,7 @@
         },
         "6": {
             "Title": "人ならざる血",
-            "Description": "<color=#FFFFFF>『強化特殊スキル』</color>の突き刺し攻撃を発動した後、<color=#FFFFFF>「森羅万象」</color>状態の継続時間が30秒まで延長される。状態継続中、<color=#FFFFFF>『強化特殊スキル』</color>の与ダメージが20%アップする。<color=#FFFFFF>「卓越した適性」</color>による<color=#FFFFFF>「極性混沌」</color>ダメージ倍率追加アップ効果の最大発動可能回数が4回になる。最初の4回の突き刺し攻撃追加発動時に消費されるエネルギーが半減する。",
+            "Description": "<color=#FFFFFF>『強化特殊スキル』</color>の突き刺し攻撃を発動した後、<color=#FFFFFF>「森羅万象」</color>状態の継続時間が30秒まで延長される。状態継続中、<color=#FFFFFF>『強化特殊スキル』</color>の与ダメージ+20%。<color=#FFFFFF>「卓越した適性」</color>による<color=#FFFFFF>「極性混沌」</color>ダメージ倍率追加アップ効果の最大発動可能回数が4回になる。最初の4回の突き刺し攻撃追加発動時に消費されるエネルギーが半減する。",
             "Lore": "月城柳の体内には、彼女のものではない血が流れている。\nその血はかつて絶望に直面した彼女を救い、特別な力を授けた。\n「ですがご存知の通り…私のものではない以上、いつかは代償を払う時が来るでしょう」"
         }
     },
@@ -39,25 +39,25 @@
         "UniqueSkill": {
             "Title": "コアパッシブ：月蝕",
             "DescriptionByLevel": {
-                "1": "月城柳が<color=#FFFFFF>『強化特殊スキル』</color>を発動した後、任意のメンバーが敵に<color=#FFFFFF>「混沌」</color>効果を付与した時、<color=#FFFFFF>「混沌」</color>効果のダメージ倍率が<color=#2BAD00>125%</color>アップする、継続時間15秒。<color=#FFFFFF>『強化特殊スキル』</color>が敵に命中した時、月城柳がターゲットに与える<color=#2EB6FF>電気属性ダメージ</color>が<color=#2BAD00>10%</color>アップする、継続時間15秒。",
-                "2": "月城柳が<color=#FFFFFF>『強化特殊スキル』</color>を発動した後、任意のメンバーが敵に<color=#FFFFFF>「混沌」</color>効果を付与した時、<color=#FFFFFF>「混沌」</color>効果のダメージ倍率が<color=#2BAD00>145%</color>アップする、継続時間15秒。<color=#FFFFFF>『強化特殊スキル』</color>が敵に命中した時、月城柳がターゲットに与える<color=#2EB6FF>電気属性ダメージ</color>が<color=#2BAD00>11.6%</color>アップする、継続時間15秒。",
-                "3": "月城柳が<color=#FFFFFF>『強化特殊スキル』</color>を発動した後、任意のメンバーが敵に<color=#FFFFFF>「混沌」</color>効果を付与した時、<color=#FFFFFF>「混沌」</color>効果のダメージ倍率が<color=#2BAD00>166%</color>アップする、継続時間15秒。<color=#FFFFFF>『強化特殊スキル』</color>が敵に命中した時、月城柳がターゲットに与える<color=#2EB6FF>電気属性ダメージ</color>が<color=#2BAD00>13.3%</color>アップする、継続時間15秒。",
-                "4": "月城柳が<color=#FFFFFF>『強化特殊スキル』</color>を発動した後、任意のメンバーが敵に<color=#FFFFFF>「混沌」</color>効果を付与した時、<color=#FFFFFF>「混沌」</color>効果のダメージ倍率が<color=#2BAD00>188%</color>アップする、継続時間15秒。<color=#FFFFFF>『強化特殊スキル』</color>が敵に命中した時、月城柳がターゲットに与える<color=#2EB6FF>電気属性ダメージ</color>が<color=#2BAD00>15%</color>アップする、継続時間15秒。",
-                "5": "月城柳が<color=#FFFFFF>『強化特殊スキル』</color>を発動した後、任意のメンバーが敵に<color=#FFFFFF>「混沌」</color>効果を付与した時、<color=#FFFFFF>「混沌」</color>効果のダメージ倍率が<color=#2BAD00>208%</color>アップする、継続時間15秒。<color=#FFFFFF>『強化特殊スキル』</color>が敵に命中した時、月城柳がターゲットに与える<color=#2EB6FF>電気属性ダメージ</color>が<color=#2BAD00>16.6%</color>アップする、継続時間15秒。",
-                "6": "月城柳が<color=#FFFFFF>『強化特殊スキル』</color>を発動した後、任意のメンバーが敵に<color=#FFFFFF>「混沌」</color>効果を付与した時、<color=#FFFFFF>「混沌」</color>効果のダメージ倍率が<color=#2BAD00>230%</color>アップする、継続時間15秒。<color=#FFFFFF>『強化特殊スキル』</color>が敵に命中した時、月城柳がターゲットに与える<color=#2EB6FF>電気属性ダメージ</color>が<color=#2BAD00>18.3%</color>アップする、継続時間15秒。",
-                "7": "月城柳が<color=#FFFFFF>『強化特殊スキル』</color>を発動した後、任意のメンバーが敵に<color=#FFFFFF>「混沌」</color>効果を付与した時、<color=#FFFFFF>「混沌」</color>効果のダメージ倍率が<color=#2BAD00>250%</color>アップする、継続時間15秒。<color=#FFFFFF>『強化特殊スキル』</color>が敵に命中した時、月城柳がターゲットに与える<color=#2EB6FF>電気属性ダメージ</color>が<color=#2BAD00>20%</color>アップする、継続時間15秒。"
+                "1": "月城柳が<color=#FFFFFF>『強化特殊スキル』</color>を発動した後、任意のメンバーが敵に<color=#FFFFFF>「混沌」</color>効果を付与した時、<color=#FFFFFF>「混沌」</color>効果のダメージ倍率+<color=#2BAD00>125%</color>、継続時間15秒。<color=#FFFFFF>『強化特殊スキル』</color>が敵に命中した時、月城柳がターゲットに与える<color=#2EB6FF>電気属性ダメージ</color>+<color=#2BAD00>10%</color>、継続時間15秒。",
+                "2": "月城柳が<color=#FFFFFF>『強化特殊スキル』</color>を発動した後、任意のメンバーが敵に<color=#FFFFFF>「混沌」</color>効果を付与した時、<color=#FFFFFF>「混沌」</color>効果のダメージ倍率+<color=#2BAD00>145%</color>、継続時間15秒。<color=#FFFFFF>『強化特殊スキル』</color>が敵に命中した時、月城柳がターゲットに与える<color=#2EB6FF>電気属性ダメージ</color>+<color=#2BAD00>11.6%</color>、継続時間15秒。",
+                "3": "月城柳が<color=#FFFFFF>『強化特殊スキル』</color>を発動した後、任意のメンバーが敵に<color=#FFFFFF>「混沌」</color>効果を付与した時、<color=#FFFFFF>「混沌」</color>効果のダメージ倍率+<color=#2BAD00>166%</color>、継続時間15秒。<color=#FFFFFF>『強化特殊スキル』</color>が敵に命中した時、月城柳がターゲットに与える<color=#2EB6FF>電気属性ダメージ</color>+<color=#2BAD00>13.3%</color>、継続時間15秒。",
+                "4": "月城柳が<color=#FFFFFF>『強化特殊スキル』</color>を発動した後、任意のメンバーが敵に<color=#FFFFFF>「混沌」</color>効果を付与した時、<color=#FFFFFF>「混沌」</color>効果のダメージ倍率+<color=#2BAD00>188%</color>、継続時間15秒。<color=#FFFFFF>『強化特殊スキル』</color>が敵に命中した時、月城柳がターゲットに与える<color=#2EB6FF>電気属性ダメージ</color>+<color=#2BAD00>15%</color>、継続時間15秒。",
+                "5": "月城柳が<color=#FFFFFF>『強化特殊スキル』</color>を発動した後、任意のメンバーが敵に<color=#FFFFFF>「混沌」</color>効果を付与した時、<color=#FFFFFF>「混沌」</color>効果のダメージ倍率+<color=#2BAD00>208%</color>、継続時間15秒。<color=#FFFFFF>『強化特殊スキル』</color>が敵に命中した時、月城柳がターゲットに与える<color=#2EB6FF>電気属性ダメージ</color>+<color=#2BAD00>16.6%</color>、継続時間15秒。",
+                "6": "月城柳が<color=#FFFFFF>『強化特殊スキル』</color>を発動した後、任意のメンバーが敵に<color=#FFFFFF>「混沌」</color>効果を付与した時、<color=#FFFFFF>「混沌」</color>効果のダメージ倍率+<color=#2BAD00>230%</color>、継続時間15秒。<color=#FFFFFF>『強化特殊スキル』</color>が敵に命中した時、月城柳がターゲットに与える<color=#2EB6FF>電気属性ダメージ</color>+<color=#2BAD00>18.3%</color>、継続時間15秒。",
+                "7": "月城柳が<color=#FFFFFF>『強化特殊スキル』</color>を発動した後、任意のメンバーが敵に<color=#FFFFFF>「混沌」</color>効果を付与した時、<color=#FFFFFF>「混沌」</color>効果のダメージ倍率+<color=#2BAD00>250%</color>、継続時間15秒。<color=#FFFFFF>『強化特殊スキル』</color>が敵に命中した時、月城柳がターゲットに与える<color=#2EB6FF>電気属性ダメージ</color>+<color=#2BAD00>20%</color>、継続時間15秒。"
             }
         },
         "MathSkill": {
             "Title": "追加能力：月相",
-            "Description": "チームに他の<color=#FFFFFF>[異常]</color>メンバーまたは自身と同じ属性のメンバーがいる時に発動：\n構えを切り替えた後、月城柳の<color=#FFFFFF>『通常攻撃：月夜見神楽』</color>が敵に命中した時、今回の攻撃による<color=#2EB6FF>電気属性の状態異常蓄積値</color>が45%アップする、継続時間8秒。"
+            "Description": "チームに他の<color=#FFFFFF>[異常]</color>メンバーまたは自身と同じ属性のメンバーがいる時に発動：\n構えを切り替えた後、月城柳の<color=#FFFFFF>『通常攻撃：月夜見神楽』</color>が敵に命中した時、今回の攻撃による<color=#2EB6FF>電気属性の状態異常蓄積値</color>+45%、継続時間8秒。"
         }
     },
     "SkillDescriptions": {
         "0": {
             "122100001": {
                 "Title": "通常攻撃：月夜見神楽",
-                "Description": "月城柳は<color=#FFFFFF>「上弦」</color>と<color=#FFFFFF>「下弦」</color>、二種類の構えを持っている。\n <IconMap:Icon_Normal> を押して発動：\n現在の構えに応じて、前方に最大5段の斬撃を放ち、<color=#F0D12B>物理属性ダメージ</color>と<color=#2EB6FF>電気属性ダメージ</color>を与える。\n戦闘中、月城柳は現在の構えによって、それぞれ異なるバフ効果を得る：\n<color=#FFFFFF>「上弦」</color>の構えで得るバフ効果：自身の与える<color=#2EB6FF>電気属性ダメージ</color>が10%アップする。<color=#FFFFFF>『通常攻撃』</color>発動中、中断耐性レベルがアップする。\n<color=#FFFFFF>「下弦」</color>の構えで得るバフ効果：自身の貫通率が10%アップする。<color=#FFFFFF>『通常攻撃』</color>の中断レベルがアップする。\n月城柳の構えが切り替わってからの8秒間、直前の構えで得たバフ効果は継続する。"
+                "Description": "月城柳は<color=#FFFFFF>「上弦」</color>と<color=#FFFFFF>「下弦」</color>、二種類の構えを持っている。\n <IconMap:Icon_Normal> を押して発動：\n現在の構えに応じて、前方に最大5段の斬撃を放ち、<color=#F0D12B>物理属性ダメージ</color>と<color=#2EB6FF>電気属性ダメージ</color>を与える。\n戦闘中、月城柳は現在の構えによって、それぞれ異なるバフ効果を得る：\n<color=#FFFFFF>「上弦」</color>の構えで得るバフ効果：自身の与える<color=#2EB6FF>電気属性ダメージ</color>+10%。<color=#FFFFFF>『通常攻撃』</color>発動中、中断耐性レベルがアップする。\n<color=#FFFFFF>「下弦」</color>の構えで得るバフ効果：自身の貫通率+10%。<color=#FFFFFF>『通常攻撃』</color>の中断レベルがアップする。\n月城柳の構えが切り替わってからの8秒間、直前の構えで得たバフ効果は継続する。"
             },
             "122110001": {
                 "Title": "構え：上弦"
@@ -468,6 +468,18 @@
             "DamageGrowth": 2060,
             "DazeValue": 5730,
             "DazeGrowth": 270
+        },
+        "1221026": {
+            "DamageValue": 37780,
+            "DamageGrowth": 3440,
+            "DazeValue": 10960,
+            "DazeGrowth": 500
+        },
+        "1221027": {
+            "DamageValue": 144000,
+            "DamageGrowth": 0,
+            "DazeValue": 0,
+            "DazeGrowth": 0
         }
     }
 }

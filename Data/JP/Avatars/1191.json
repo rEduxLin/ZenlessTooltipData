@@ -6,12 +6,12 @@
     "Talents": {
         "1": {
             "Title": "寒冬の先触れ",
-            "Description": "<color=#FFFFFF>『ダッシュ攻撃：薄氷の急襲』</color>のクイック鋏撃を敵に命中させた時、獲得できる<color=#FFFFFF>「急凍パワー」</color>が3Ptに増える。<color=#FFFFFF>『ダッシュ攻撃：薄氷の急襲』</color>のチャージ鋏撃を敵に命中させた時、獲得できる<color=#FFFFFF>「急凍パワー」</color>が6Ptに増える。<color=#FFFFFF>「急凍パワー」</color>を1Pt消費するたびに、エレンの会心率が2%アップする、継続時間15秒、最大6重まで重ね掛け可能。継続時間は1重ごとに独立してカウントされる。",
+            "Description": "<color=#FFFFFF>『ダッシュ攻撃：薄氷の急襲』</color>のクイック鋏撃を敵に命中させた時、獲得できる<color=#FFFFFF>「急凍パワー」</color>が3Ptに増える。<color=#FFFFFF>『ダッシュ攻撃：薄氷の急襲』</color>のチャージ鋏撃を敵に命中させた時、獲得できる<color=#FFFFFF>「急凍パワー」</color>が6Ptに増える。<color=#FFFFFF>「急凍パワー」</color>を1Pt消費するたびに、エレンの会心率+2%、継続時間15秒、最大6重まで重ね掛け可能。継続時間は1重ごとに独立してカウントされる。",
             "Lore": "冷たい風は寒冬を知らせる予兆であり、エレンが長～い有給を取って冬眠する合図でもある。\n…ところで、本当にサメは冬眠が必要なのだろうか？"
         },
         "2": {
             "Title": "極海の捕食者",
-            "Description": "<color=#FFFFFF>『通常攻撃：急凍剪定法』</color>3段目発動後、そのまま<color=#FFFFFF>『強化特殊スキル：シャーク・トルネード』</color>に繋げることが可能。<color=#FFFFFF>『強化特殊スキル』</color>発動時、<color=#FFFFFF>「急凍パワー」</color>1Ptにつき、その攻撃の与える会心ダメージが20%アップする、最大60%アップできる。",
+            "Description": "<color=#FFFFFF>『通常攻撃：急凍剪定法』</color>3段目発動後、そのまま<color=#FFFFFF>『強化特殊スキル：シャーク・トルネード』</color>に繋げることが可能。<color=#FFFFFF>『強化特殊スキル』</color>発動時、<color=#FFFFFF>「急凍パワー」</color>1Ptにつき、その攻撃の与える会心ダメージ+20%、最大+60%。",
             "Lore": "たとえ鮮紅に染まっても、エレンの巨大なハサミが温もりを帯びることはない。\n骨の髄まで沁みるようなこの寒さは、鋳鉄の凶器、そして捕食される者の恐怖によってもたらされる。"
         },
         "3": {
@@ -31,7 +31,7 @@
         },
         "6": {
             "Title": "盛宴の時",
-            "Description": "<color=#FFFFFF>『強化特殊スキル』</color>、<color=#FFFFFF>『連携スキル』</color>を発動、または<color=#FFFFFF>「クイックチャージ」</color>を獲得した時、エレンの貫通率が20%アップする、継続時間6秒。それと同時に<color=#FFFFFF>「盛宴」</color>を1重獲得する、最大3重まで重ね掛け可能。<color=#FFFFFF>「盛宴」</color>を3重所持している状態で、<color=#FFFFFF>『ダッシュ攻撃：薄氷の急襲』</color>のチャージ鋏撃を敵に命中させた時、すべての<color=#FFFFFF>「盛宴」</color>を消費することで、その攻撃の与ダメージが250%アップする。",
+            "Description": "<color=#FFFFFF>『強化特殊スキル』</color>、<color=#FFFFFF>『連携スキル』</color>を発動、または<color=#FFFFFF>「クイックチャージ」</color>を獲得した時、エレンの貫通率+20%、継続時間6秒。それと同時に<color=#FFFFFF>「盛宴」</color>を1重獲得する、最大3重まで重ね掛け可能。<color=#FFFFFF>「盛宴」</color>を3重所持している状態で、<color=#FFFFFF>『ダッシュ攻撃：薄氷の急襲』</color>のチャージ鋏撃を敵に命中させた時、すべての<color=#FFFFFF>「盛宴」</color>を消費することで、その攻撃の与ダメージ+250%。",
             "Lore": "一つの傷、一滴の血。一度の狩り、一場の宴。紙一重の命、一瞬の悦。"
         }
     },
@@ -39,18 +39,18 @@
         "UniqueSkill": {
             "Title": "コアパッシブ：口がおジョーズ",
             "DescriptionByLevel": {
-                "1": "エレンが<color=#FFFFFF>『ダッシュ攻撃：薄氷の急襲』</color>を行ってチャージ鋏撃を放つ時、または<color=#FFFFFF>「急凍パワー」</color>を消費して<color=#FFFFFF>『通常攻撃：急凍剪定法』</color>を発動した時、スキルの会心ダメージが<color=#2BAD00>50%</color>アップする。",
-                "2": "エレンが<color=#FFFFFF>『ダッシュ攻撃：薄氷の急襲』</color>を行ってチャージ鋏撃を放つ時、または<color=#FFFFFF>「急凍パワー」</color>を消費して<color=#FFFFFF>『通常攻撃：急凍剪定法』</color>を発動した時、スキルの会心ダメージが<color=#2BAD00>58.3%</color>アップする。",
-                "3": "エレンが<color=#FFFFFF>『ダッシュ攻撃：薄氷の急襲』</color>を行ってチャージ鋏撃を放つ時、または<color=#FFFFFF>「急凍パワー」</color>を消費して<color=#FFFFFF>『通常攻撃：急凍剪定法』</color>を発動した時、スキルの会心ダメージが<color=#2BAD00>66.6%</color>アップする。",
-                "4": "エレンが<color=#FFFFFF>『ダッシュ攻撃：薄氷の急襲』</color>を行ってチャージ鋏撃を放つ時、または<color=#FFFFFF>「急凍パワー」</color>を消費して<color=#FFFFFF>『通常攻撃：急凍剪定法』</color>を発動した時、スキルの会心ダメージが<color=#2BAD00>75%</color>アップする。",
-                "5": "エレンが<color=#FFFFFF>『ダッシュ攻撃：薄氷の急襲』</color>を行ってチャージ鋏撃を放つ時、または<color=#FFFFFF>「急凍パワー」</color>を消費して<color=#FFFFFF>『通常攻撃：急凍剪定法』</color>を発動した時、スキルの会心ダメージが<color=#2BAD00>83.3%</color>アップする。",
-                "6": "エレンが<color=#FFFFFF>『ダッシュ攻撃：薄氷の急襲』</color>を行ってチャージ鋏撃を放つ時、または<color=#FFFFFF>「急凍パワー」</color>を消費して<color=#FFFFFF>『通常攻撃：急凍剪定法』</color>を発動した時、スキルの会心ダメージが<color=#2BAD00>91.6%</color>アップする。",
-                "7": "エレンが<color=#FFFFFF>『ダッシュ攻撃：薄氷の急襲』</color>を行ってチャージ鋏撃を放つ時、または<color=#FFFFFF>「急凍パワー」</color>を消費して<color=#FFFFFF>『通常攻撃：急凍剪定法』</color>を発動した時、スキルの会心ダメージが<color=#2BAD00>100%</color>アップする。"
+                "1": "エレンが<color=#FFFFFF>『ダッシュ攻撃：薄氷の急襲』</color>を行ってチャージ鋏撃を放つ時、または<color=#FFFFFF>「急凍パワー」</color>を消費して<color=#FFFFFF>『通常攻撃：急凍剪定法』</color>を発動した時、スキルの会心ダメージ+<color=#2BAD00>50%</color>。",
+                "2": "エレンが<color=#FFFFFF>『ダッシュ攻撃：薄氷の急襲』</color>を行ってチャージ鋏撃を放つ時、または<color=#FFFFFF>「急凍パワー」</color>を消費して<color=#FFFFFF>『通常攻撃：急凍剪定法』</color>を発動した時、スキルの会心ダメージ+<color=#2BAD00>58.3%</color>。",
+                "3": "エレンが<color=#FFFFFF>『ダッシュ攻撃：薄氷の急襲』</color>を行ってチャージ鋏撃を放つ時、または<color=#FFFFFF>「急凍パワー」</color>を消費して<color=#FFFFFF>『通常攻撃：急凍剪定法』</color>を発動した時、スキルの会心ダメージ+<color=#2BAD00>66.6%</color>。",
+                "4": "エレンが<color=#FFFFFF>『ダッシュ攻撃：薄氷の急襲』</color>を行ってチャージ鋏撃を放つ時、または<color=#FFFFFF>「急凍パワー」</color>を消費して<color=#FFFFFF>『通常攻撃：急凍剪定法』</color>を発動した時、スキルの会心ダメージ+<color=#2BAD00>75%</color>。",
+                "5": "エレンが<color=#FFFFFF>『ダッシュ攻撃：薄氷の急襲』</color>を行ってチャージ鋏撃を放つ時、または<color=#FFFFFF>「急凍パワー」</color>を消費して<color=#FFFFFF>『通常攻撃：急凍剪定法』</color>を発動した時、スキルの会心ダメージ+<color=#2BAD00>83.3%</color>。",
+                "6": "エレンが<color=#FFFFFF>『ダッシュ攻撃：薄氷の急襲』</color>を行ってチャージ鋏撃を放つ時、または<color=#FFFFFF>「急凍パワー」</color>を消費して<color=#FFFFFF>『通常攻撃：急凍剪定法』</color>を発動した時、スキルの会心ダメージ+<color=#2BAD00>91.6%</color>。",
+                "7": "エレンが<color=#FFFFFF>『ダッシュ攻撃：薄氷の急襲』</color>を行ってチャージ鋏撃を放つ時、または<color=#FFFFFF>「急凍パワー」</color>を消費して<color=#FFFFFF>『通常攻撃：急凍剪定法』</color>を発動した時、スキルの会心ダメージ+<color=#2BAD00>100%</color>。"
             }
         },
         "MathSkill": {
             "Title": "追加能力：ライジングストーム",
-            "Description": "チームに自身と同じ属性または同じ陣営のメンバーがいる時に発動：\nエレンが<color=#98EFF0>氷属性ダメージ</color>を与えた時、以降の<color=#98EFF0>氷属性与ダメージ</color>が3%アップする、継続時間10秒、最大10重まで重ね掛け可能。重複して発動すると継続時間が更新される。"
+            "Description": "チームに自身と同じ属性または同じ陣営のメンバーがいる時に発動：\nエレンが<color=#98EFF0>氷属性ダメージ</color>を与えた時、以降の<color=#98EFF0>氷属性与ダメージ</color>+3%、継続時間10秒、最大10重まで重ね掛け可能。重複して発動すると継続時間が更新される。"
         }
     },
     "SkillDescriptions": {
@@ -119,237 +119,237 @@
             }
         },
         "1": {
-            "119100004": {
+            "119100005": {
                 "Title": "特殊スキル：尾びれビンタ",
                 "Description": " <IconMap:Icon_Special> を押して発動：\n素早く尾びれで薙ぎ払って前方に攻撃を放ち、<color=#98EFF0>氷属性ダメージ</color>を与える。\nスキル発動中、中断耐性レベルがアップする。"
             },
-            "119100005": {
+            "119100006": {
                 "Title": "強化特殊スキル：一掃",
                 "Description": "エネルギーが溜まっている状態で <IconMap:Icon_SpecialReady> を押して発動：\n尾びれで薙ぎ払って前方に強力な攻撃を放ち、<color=#98EFF0>氷属性ダメージ</color>を大量に与える。\n敵に命中すると、<color=#FFFFFF>「急凍パワー」</color>を1Pt獲得する。\nスキル発動中、無敵効果を得る。\nスキル発動後、そのまま<color=#FFFFFF>『通常攻撃』</color>の3段目に繋げることが可能。"
             },
-            "119100006": {
+            "119100007": {
                 "Title": "強化特殊スキル：シャーク・トルネード",
                 "Description": "<color=#FFFFFF>『強化特殊スキル：一掃』</color>発動後にエネルギーが溜まっている状態で <IconMap:Icon_SpecialReady> を押して発動：\n前方に強力な斬撃を連続で放ち、<color=#98EFF0>氷属性ダメージ</color>を大量に与える。\n敵に命中すると、<color=#FFFFFF>「急凍パワー」</color>を1Pt獲得する。\nスキル発動中、無敵効果を得る。\nスキル発動後、そのまま<color=#FFFFFF>『通常攻撃』</color>の3段目に繋げることが可能。"
             },
-            "119110015": {
+            "119110027": {
                 "Title": "特殊スキル：尾びれビンタ"
             },
-            "119110016": {
+            "119110028": {
                 "Description": "ダメージ倍率",
                 "Param": "{Skill:1191010, Prop:1001}"
             },
-            "119110017": {
+            "119110029": {
                 "Description": "ブレイク倍率",
                 "Param": "{Skill:1191010, Prop:1002}"
             },
-            "119110018": {
+            "119110030": {
                 "Title": "強化特殊スキル：一掃"
             },
-            "119110019": {
+            "119110031": {
                 "Description": "ダメージ倍率",
                 "Param": "{Skill:1191011, Prop:1001}"
             },
-            "119110020": {
+            "119110032": {
                 "Description": "ブレイク倍率",
                 "Param": "{Skill:1191011, Prop:1002}"
             },
-            "119110021": {
+            "119110033": {
                 "Description": "エネルギー消費",
                 "Param": "40Pt"
             },
-            "119110022": {
+            "119110034": {
                 "Title": "強化特殊スキル：シャーク・トルネード"
             },
-            "119110023": {
+            "119110035": {
                 "Description": "ダメージ倍率",
                 "Param": "{Skill:1191012, Prop:1001}"
             },
-            "119110024": {
+            "119110036": {
                 "Description": "ブレイク倍率",
                 "Param": "{Skill:1191012, Prop:1002}"
             },
-            "119110025": {
+            "119110037": {
                 "Description": "エネルギー消費",
                 "Param": "40Pt"
             }
         },
         "2": {
-            "119100007": {
+            "119100008": {
                 "Title": "回避：渦",
                 "Description": " <IconMap:Icon_Evade> を押して発動：\nダッシュで高速回避する。\nスキル発動中、無敵効果を得る。\n<color=#FFFFFF>『極限回避』</color>を発動した場合、エレンは<color=#FFFFFF>「クイックチャージ」</color>効果を獲得する、最大で5秒継続。効果中は、次の<color=#FFFFFF>『ダッシュ攻撃：薄氷の急襲』</color>のチャージ時間が短縮される、1回のみ発動できる。"
             },
-            "119100008": {
+            "119100009": {
                 "Title": "ダッシュ：狩り遊ぶ",
                 "Description": " <IconMap:Icon_Evade> を長押しまたは2回押して発動：\n<color=#FFFFFF>『遊狩』</color>状態に入り、素早くダッシュで移動する。\n<color=#FFFFFF>『遊狩』</color>状態中は{LAYOUT_CONSOLECONTROLLER#スティック}{LAYOUT_FALLBACK#スティック}で方向転換し、離すと止まる。\nスキルを発動した瞬間に、しばらく無敵効果を得る。"
             },
-            "119100009": {
-                "Title": "ダッシュ攻撃：薄氷の急襲",
-                "Description": "<color=#FFFFFF>『遊狩』</color>状態にある時、 <IconMap:Icon_Normal> を押して発動：\n敵に回転斬撃を放ったのち、ハサミを開いてクイック鋏撃を行い、<color=#98EFF0>氷属性ダメージ</color>を与える。\nクイック鋏撃が命中した時、<color=#FFFFFF>「急凍パワー」</color>を1Pt獲得する。\n\n<color=#FFFFFF>『遊狩』</color>状態にある時、 <IconMap:Icon_Normal> を長押しして発動：\n敵に回転斬撃を放ったのち、ハサミを開いてチャージ鋏撃を行い、<color=#98EFF0>氷属性ダメージ</color>を大量に与える。\nチャージ鋏撃が命中した時、<color=#FFFFFF>「急凍パワー」</color>を3Pt獲得する。敵が<color=#98EFF0>「凍結」</color>状態にある場合、必ず<color=#98EFF0>「砕氷」</color>効果を発動する。\nチャージ中は中断耐性レベルがアップし、被ダメージが40%ダウンする。\nスキル発動中、無敵効果を得る。"
-            },
             "119100010": {
+                "Title": "ダッシュ攻撃：薄氷の急襲",
+                "Description": "<color=#FFFFFF>『遊狩』</color>状態にある時、 <IconMap:Icon_Normal> を押して発動：\n敵に回転斬撃を放ったのち、ハサミを開いてクイック鋏撃を行い、<color=#98EFF0>氷属性ダメージ</color>を与える。\nクイック鋏撃が命中した時、<color=#FFFFFF>「急凍パワー」</color>を1Pt獲得する。\n\n<color=#FFFFFF>『遊狩』</color>状態にある時、 <IconMap:Icon_Normal> を長押しして発動：\n敵に回転斬撃を放ったのち、ハサミを開いてチャージ鋏撃を行い、<color=#98EFF0>氷属性ダメージ</color>を大量に与える。\nチャージ鋏撃が命中した時、<color=#FFFFFF>「急凍パワー」</color>を3Pt獲得する。敵が<color=#98EFF0>「凍結」</color>状態にある場合、必ず<color=#98EFF0>「砕氷」</color>効果を発動する。\nチャージ中は中断耐性レベルがアップし、被ダメージ-40%。\nスキル発動中、無敵効果を得る。"
+            },
+            "119100012": {
                 "Title": "急凍",
                 "Description": "<color=#FFFFFF>「急凍パワー」</color>を所持している場合、<color=#FFFFFF>「急凍」</color>効果を発動する。<color=#FFFFFF>「急凍」</color>効果発動後、<color=#FFFFFF>『通常攻撃』</color>と<color=#FFFFFF>『ダッシュ攻撃』</color>は<color=#FFFFFF>「急凍パワー」</color>を消費し、<color=#98EFF0>氷属性ダメージ</color>を大量に与える。エレンが所持できる<color=#FFFFFF>「急凍パワー」</color>は最大6Ptまで。"
             },
-            "119100011": {
+            "119100013": {
                 "Title": "ダッシュ攻撃：荒波",
                 "Description": "回避時に <IconMap:Icon_Normal> を押して発動：\n前方に突進斬撃を放ち、<color=#F0D12B>物理属性ダメージ</color>を与える。"
             },
-            "119100012": {
+            "119100014": {
                 "Title": "ダッシュ攻撃：寒潮",
                 "Description": "<color=#FFFFFF>「急凍」</color>効果発動後に回避した時に <IconMap:Icon_Normal> を押して発動：\n前方に突進斬撃を放ち、<color=#98EFF0>氷属性ダメージ</color>を与える。\n<color=#FFFFFF>「急凍パワー」</color>を1Pt消費する。"
             },
-            "119100013": {
+            "119100015": {
                 "Title": "回避反撃：暗礁",
                 "Description": "<color=#FFFFFF>『極限回避』</color>後に <IconMap:Icon_Normal> を押して発動：\n素早く敵の間をくぐり抜け、ハサミを開いて鋏撃を行い、<color=#98EFF0>氷属性ダメージ</color>を与える。\nスキル発動中、無敵効果を得る。"
             },
-            "119110026": {
+            "119110038": {
                 "Title": "ダッシュ攻撃：薄氷の急襲"
             },
-            "119110027": {
+            "119110039": {
                 "Description": "回転斬撃ダメージ倍率",
                 "Param": "{Skill:1191007, Prop:1001}"
             },
-            "119110028": {
+            "119110040": {
                 "Description": "クイック鋏撃ダメージ倍率",
                 "Param": "{Skill:1191008, Prop:1001}"
             },
-            "119110029": {
+            "119110041": {
                 "Description": "チャージ鋏撃ダメージ倍率",
                 "Param": "{Skill:1191009, Prop:1001}"
             },
-            "119110030": {
+            "119110042": {
                 "Description": "回転斬撃ブレイク倍率",
                 "Param": "{Skill:1191007, Prop:1002}"
             },
-            "119110031": {
+            "119110043": {
                 "Description": "クイック鋏撃ブレイク倍率",
                 "Param": "{Skill:1191008, Prop:1002}"
             },
-            "119110032": {
+            "119110044": {
                 "Description": "チャージ鋏撃ブレイク倍率",
                 "Param": "{Skill:1191009, Prop:1002}"
             },
-            "119110033": {
+            "119110045": {
                 "Description": "クイック鋏撃で獲得する急凍パワー",
                 "Param": "1Pt"
             },
-            "119110034": {
+            "119110046": {
                 "Description": "チャージ鋏撃で獲得する急凍パワー",
                 "Param": "3Pt"
             },
-            "119110035": {
+            "119110047": {
                 "Title": "ダッシュ攻撃：荒波"
             },
-            "119110036": {
+            "119110048": {
                 "Description": "ダメージ倍率",
                 "Param": "{Skill:1191013, Prop:1001}"
             },
-            "119110037": {
+            "119110049": {
                 "Description": "ブレイク倍率",
                 "Param": "{Skill:1191013, Prop:1002}"
             },
-            "119110038": {
+            "119110050": {
                 "Title": "ダッシュ攻撃：寒潮"
             },
-            "119110039": {
+            "119110051": {
                 "Description": "ダメージ倍率",
                 "Param": "{Skill:1191014, Prop:1001}"
             },
-            "119110040": {
+            "119110052": {
                 "Description": "ブレイク倍率",
                 "Param": "{Skill:1191014, Prop:1002}"
             },
-            "119110041": {
+            "119110053": {
                 "Title": "回避反撃：暗礁"
             },
-            "119110042": {
+            "119110054": {
                 "Description": "ダメージ倍率",
                 "Param": "{Skill:1191015, Prop:1001}"
             },
-            "119110043": {
+            "119110055": {
                 "Description": "ブレイク倍率",
                 "Param": "{Skill:1191015, Prop:1002}"
             }
         },
         "3": {
-            "119100014": {
+            "119100016": {
                 "Title": "連携スキル：雪崩",
                 "Description": "<color=#FFFFFF>『連携スキル』</color>開始時に、対応するエージェントを選択して発動：\n空中から落下攻撃を放ち、氷の嵐を生成し、<color=#98EFF0>氷属性ダメージ</color>を大量に与える。\nスキル発動中、無敵効果を得る。"
             },
-            "119100015": {
+            "119100017": {
                 "Title": "終結スキル：終わりなき冬の狂宴",
                 "Description": "デシベルレートが<color=#FFFFFF>『Maximum』</color>に達した時に <IconMap:Icon_UltimateReady> を押して発動：\n空中から落下攻撃を放ち、氷の嵐を生成し、ハサミで強烈な一撃を与え、<color=#98EFF0>氷属性ダメージ</color>を大量に与える。\nスキル発動中、無敵効果を得る。"
             },
-            "119110044": {
+            "119110056": {
                 "Title": "連携スキル：雪崩"
             },
-            "119110045": {
+            "119110057": {
                 "Description": "ダメージ倍率",
                 "Param": "{Skill:1191016, Prop:1001}"
             },
-            "119110046": {
+            "119110058": {
                 "Description": "ブレイク倍率",
                 "Param": "{Skill:1191016, Prop:1002}"
             },
-            "119110047": {
+            "119110059": {
                 "Title": "終結スキル：終わりなき冬の狂宴"
             },
-            "119110048": {
+            "119110060": {
                 "Description": "ダメージ倍率",
                 "Param": "{Skill:1191017, Prop:1001}"
             },
-            "119110049": {
+            "119110061": {
                 "Description": "ブレイク倍率",
                 "Param": "{Skill:1191017, Prop:1002}"
             }
         },
         "6": {
-            "119100017": {
+            "119100020": {
                 "Title": "クイック支援：護衛シャーク",
                 "Description": "操作しているメンバーが吹き飛ばされた時に、 <IconMap:Icon_Switch> を押して発動：\n素早く敵の間をくぐりながらハサミを開き、鋏撃を行い<color=#98EFF0>氷属性ダメージ</color>を与える。\nスキル発動中、無敵効果を得る。\n\n操作しているメンバーが吹き飛ばされた時に、 {LAYOUT_CONSOLECONTROLLER#スティック}{LAYOUT_FALLBACK#スティック}を入力しながら <IconMap:Icon_Switch> を押して発動：\n<color=#FFFFFF>『遊狩』</color>状態に入り、素早くダッシュで移動する。\n<color=#FFFFFF>『遊狩』</color>状態中は{LAYOUT_CONSOLECONTROLLER#スティック}{LAYOUT_FALLBACK#スティック}で方向転換し、離すと止まる。\nスキルを発動した瞬間に、しばらく無敵効果を得る。\n<color=#FFFFFF>『クイック支援』</color>発動時、エレンは<color=#FFFFFF>「クイックチャージ」</color>効果を獲得する、最大で5秒継続。効果中は、次の<color=#FFFFFF>『ダッシュ攻撃：薄氷の急襲』</color>のチャージ時間が短縮される、1回のみ発動できる。"
             },
-            "119100018": {
+            "119100021": {
                 "Title": "パリィ支援：向かい波",
                 "Description": "出場中のメンバーが攻撃されそうになった時に、 <IconMap:Icon_Switch> を押して発動：\n敵の攻撃をパリィし、ブレイク値を大量に蓄積させる。\nスキル発動中、無敵効果を得る。"
             },
-            "119100019": {
+            "119100022": {
                 "Title": "支援突撃：巡洋シャーク",
                 "Description": "<color=#FFFFFF>『パリィ支援』</color>発動後、 <IconMap:Icon_Normal> を押して発動：\n前方の敵に突進斬撃を放ち、<color=#98EFF0>氷属性ダメージ</color>を与える。\nスキルの攻撃中、 <IconMap:Icon_Normal> を連打または長押しすると、スキルの継続時間が延長される。\nスキル発動中、無敵効果を得る。"
             },
-            "119110050": {
+            "119110062": {
                 "Title": "クイック支援：護衛シャーク"
             },
-            "119110051": {
+            "119110063": {
                 "Description": "ダメージ倍率",
                 "Param": "{Skill:1191018, Prop:1001}"
             },
-            "119110052": {
+            "119110064": {
                 "Description": "ブレイク倍率",
                 "Param": "{Skill:1191018, Prop:1002}"
             },
-            "119110053": {
+            "119110065": {
                 "Title": "パリィ支援：向かい波"
             },
-            "119110054": {
+            "119110066": {
                 "Description": "パリィ・軽 ブレイク倍率",
                 "Param": "{Skill:1191019, Prop:1002}"
             },
-            "119110055": {
+            "119110067": {
                 "Description": "パリィ・重 ブレイク倍率",
                 "Param": "{Skill:1191020, Prop:1002}"
             },
-            "119110056": {
+            "119110068": {
                 "Description": "パリィ・連続 ブレイク倍率",
                 "Param": "{Skill:1191021, Prop:1002}"
             },
-            "119110057": {
+            "119110069": {
                 "Title": "支援突撃：巡洋シャーク"
             },
-            "119110058": {
+            "119110070": {
                 "Description": "ダメージ倍率",
                 "Param": "{Skill:1191022, Prop:1001}"
             },
-            "119110059": {
+            "119110071": {
                 "Description": "ブレイク倍率",
                 "Param": "{Skill:1191022, Prop:1002}"
             }
@@ -511,6 +511,30 @@
             "DamageGrowth": 250,
             "DazeValue": 0,
             "DazeGrowth": 0
+        },
+        "1191027": {
+            "DamageValue": 6040,
+            "DamageGrowth": 550,
+            "DazeValue": 2580,
+            "DazeGrowth": 120
+        },
+        "1191028": {
+            "DamageValue": 1300,
+            "DamageGrowth": 120,
+            "DazeValue": 560,
+            "DazeGrowth": 30
+        },
+        "1191029": {
+            "DamageValue": 23020,
+            "DamageGrowth": 2100,
+            "DazeValue": 6700,
+            "DazeGrowth": 310
+        },
+        "1191030": {
+            "DamageValue": 14680,
+            "DamageGrowth": 1340,
+            "DazeValue": 8420,
+            "DazeGrowth": 390
         }
     }
 }

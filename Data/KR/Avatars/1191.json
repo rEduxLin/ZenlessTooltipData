@@ -119,237 +119,237 @@
             }
         },
         "1": {
-            "119100004": {
+            "119100005": {
                 "Title": "특수 스킬: 꼬리 흔들기",
                 "Description": "<IconMap:Icon_Special>을 짧게 탭하여 시전:\n전방에 빠른 꼬리치기 공격으로 <color=#98EFF0>얼음 속성 피해</color>를 준다.\n스킬을 시전하는 동안 경직 저항 레벨이 증가한다."
             },
-            "119100005": {
+            "119100006": {
                 "Title": "강화 특수 스킬: 휩쓸기",
                 "Description": "에너지가 충분한 상태에서 <IconMap:Icon_SpecialReady>을 짧게 탭하여 시전:\n전방에 강력한 꼬리치기 공격으로 대량의 <color=#98EFF0>얼음 속성 피해</color>를 준다.\n적에게 명중 시 <color=#FFFFFF>[급랭 충전]</color>을 1pt 획득한다.\n스킬을 시전하는 동안 무적 효과를 보유한다.\n스킬 시전 후, 바로 세 번째 <color=#FFFFFF>[일반 공격]</color>을 이어서 사용할 수 있다."
             },
-            "119100006": {
+            "119100007": {
                 "Title": "강화 특수 스킬: 샤크나미",
                 "Description": "<color=#FFFFFF>[강화 특수 스킬: 휩쓸기]</color> 시전 후, 에너지가 충분한 상태에서 <IconMap:Icon_SpecialReady>을 짧게 탭하여 시전:\n전방에 강력한 연속 베기로 대량의 <color=#98EFF0>얼음 속성 피해</color>를 준다.\n적에게 명중 시 <color=#FFFFFF>[급랭 충전]</color>을 1pt 획득한다.\n스킬을 시전하는 동안 무적 효과를 보유한다.\n스킬 시전 후, 바로 세 번째 <color=#FFFFFF>[일반 공격]</color>을 이어서 사용할 수 있다."
             },
-            "119110015": {
+            "119110027": {
                 "Title": "특수 스킬: 꼬리 흔들기"
             },
-            "119110016": {
+            "119110028": {
                 "Description": "피해 배율",
                 "Param": "{Skill:1191010, Prop:1001}"
             },
-            "119110017": {
+            "119110029": {
                 "Description": "그로기 배율",
                 "Param": "{Skill:1191010, Prop:1002}"
             },
-            "119110018": {
+            "119110030": {
                 "Title": "강화 특수 스킬: 휩쓸기"
             },
-            "119110019": {
+            "119110031": {
                 "Description": "피해 배율",
                 "Param": "{Skill:1191011, Prop:1001}"
             },
-            "119110020": {
+            "119110032": {
                 "Description": "그로기 배율",
                 "Param": "{Skill:1191011, Prop:1002}"
             },
-            "119110021": {
+            "119110033": {
                 "Description": "에너지 소모",
                 "Param": "40pt"
             },
-            "119110022": {
+            "119110034": {
                 "Title": "강화 특수 스킬: 샤크나미"
             },
-            "119110023": {
+            "119110035": {
                 "Description": "피해 배율",
                 "Param": "{Skill:1191012, Prop:1001}"
             },
-            "119110024": {
+            "119110036": {
                 "Description": "그로기 배율",
                 "Param": "{Skill:1191012, Prop:1002}"
             },
-            "119110025": {
+            "119110037": {
                 "Description": "에너지 소모",
                 "Param": "40pt"
             }
         },
         "2": {
-            "119100007": {
+            "119100008": {
                 "Title": "회피: 소용돌이",
                 "Description": "<IconMap:Icon_Evade>을 짧게 탭하여 시전:\n빠른 대시로 회피한다.\n스킬을 시전하는 동안 무적 효과를 보유한다.\n<color=#FFFFFF>[극한 회피]</color> 발동 시 엘렌은 <color=#FFFFFF>[고속 차지]</color> 효과를 획득해 <color=#FFFFFF>[대시 공격: 살얼음 잠습]</color>의 차지 시간이 줄어든다. 최대 5초 지속 혹은 1회 발동한다."
             },
-            "119100008": {
+            "119100009": {
                 "Title": "대시: 사냥 순행",
                 "Description": "<IconMap:Icon_Evade>을 홀드 혹은 두 번 눌러 시전:\n<color=#FFFFFF>[순행]</color> 상태에 진입하고 빠른 대시로 이동한다.\n<color=#FFFFFF>[순행]</color> 상태에서는 {LAYOUT_CONSOLECONTROLLER#스틱으로}{LAYOUT_FALLBACK#방향키로} 방향을 컨트롤할 수 있으며 {LAYOUT_CONSOLECONTROLLER#스틱}{LAYOUT_FALLBACK#방향키}에서 손을 떼면 멈춘다.\n스킬을 시전하는 순간 짧은 무적 효과를 보유한다."
             },
-            "119100009": {
+            "119100010": {
                 "Title": "대시 공격: 살얼음 잠습",
                 "Description": "<color=#FFFFFF>[순행]</color> 상태에서 <IconMap:Icon_Normal>을 짧게 탭하여 시전:\n적에게 회전 베기를 시전한 후 빠른 가위질로 <color=#98EFF0>얼음 속성 피해</color>를 준다.\n빠른 가위질이 명중하면 <color=#FFFFFF>[급랭 충전]</color>을 1pt 획득한다.\n\n<color=#FFFFFF>[순행]</color> 상태에서 <IconMap:Icon_Normal>을 홀드해 시전:\n적에게 회전 베기를 시전한 후 차지 가위질로 대량의 <color=#98EFF0>얼음 속성 피해</color>를 준다.\n차지 가위질이 명중하면 <color=#FFFFFF>[급랭 충전]</color>을 3pt 획득한다. 만약 적이 <color=#98EFF0>[빙결]</color> 상태라면 반드시 <color=#98EFF0>[쇄빙]</color> 효과를 발동한다.\n스킬을 차지하는 동안 경직 저항 레벨이 증가하고, 받는 피해가 40% 감소한다.\n스킬을 시전하는 동안 무적 효과를 보유한다."
             },
-            "119100010": {
+            "119100012": {
                 "Title": "급랭",
                 "Description": "<color=#FFFFFF>[급랭 충전]</color> 보유 시 <color=#FFFFFF>[급랭]</color> 효과를 활성화한다. <color=#FFFFFF>[급랭]</color> 효과 활성화 후 <color=#FFFFFF>[일반 공격]</color> 및 <color=#FFFFFF>[대시 공격]</color>이 <color=#FFFFFF>[급랭 충전]</color>을 소모해 대량의 <color=#98EFF0>얼음 속성 피해</color>를 준다. 엘렌은 <color=#FFFFFF>[급랭 충전]</color>을 최대 6pt 보유할 수 있다."
             },
-            "119100011": {
+            "119100013": {
                 "Title": "대시 공격: 성난 파도",
                 "Description": "회피 시 <IconMap:Icon_Normal>을 짧게 탭하여 시전:\n전방에 돌진 베기로 <color=#F0D12B>물리 피해</color>를 준다."
             },
-            "119100012": {
+            "119100014": {
                 "Title": "대시 공격: 한파",
                 "Description": "<color=#FFFFFF>[급랭]</color> 효과 활성화 후 회피 시 <IconMap:Icon_Normal>을 짧게 탭하여 시전:\n전방에 돌진 베기로 <color=#98EFF0>얼음 속성 피해</color>를 준다.\n<color=#FFFFFF>[급랭 충전]</color>을 1pt 소모한다."
             },
-            "119100013": {
+            "119100015": {
                 "Title": "회피 반격: 암초",
                 "Description": "<color=#FFFFFF>[극한 회피]</color> 발동 후 <IconMap:Icon_Normal>을 짧게 탭하여 시전:\n적을 빠르게 꿰뚫고 가위질로 <color=#98EFF0>얼음 속성 피해</color>를 준다.\n스킬을 시전하는 동안 무적 효과를 보유한다."
             },
-            "119110026": {
+            "119110038": {
                 "Title": "대시 공격: 살얼음 잠습"
             },
-            "119110027": {
+            "119110039": {
                 "Description": "회전 베기 피해 배율",
                 "Param": "{Skill:1191007, Prop:1001}"
             },
-            "119110028": {
+            "119110040": {
                 "Description": "빠른 가위질 피해 배율",
                 "Param": "{Skill:1191008, Prop:1001}"
             },
-            "119110029": {
+            "119110041": {
                 "Description": "차지 가위질 피해 배율",
                 "Param": "{Skill:1191009, Prop:1001}"
             },
-            "119110030": {
+            "119110042": {
                 "Description": "회전 베기 그로기 배율",
                 "Param": "{Skill:1191007, Prop:1002}"
             },
-            "119110031": {
+            "119110043": {
                 "Description": "빠른 가위질 그로기 배율",
                 "Param": "{Skill:1191008, Prop:1002}"
             },
-            "119110032": {
+            "119110044": {
                 "Description": "차지 가위질 그로기 배율",
                 "Param": "{Skill:1191009, Prop:1002}"
             },
-            "119110033": {
+            "119110045": {
                 "Description": "빠른 가위질로 획득하는 급랭 충전",
                 "Param": "1pt"
             },
-            "119110034": {
+            "119110046": {
                 "Description": "차지 가위질로 획득하는 급랭 충전",
                 "Param": "3pt"
             },
-            "119110035": {
+            "119110047": {
                 "Title": "대시 공격: 성난 파도"
             },
-            "119110036": {
+            "119110048": {
                 "Description": "피해 배율",
                 "Param": "{Skill:1191013, Prop:1001}"
             },
-            "119110037": {
+            "119110049": {
                 "Description": "그로기 배율",
                 "Param": "{Skill:1191013, Prop:1002}"
             },
-            "119110038": {
+            "119110050": {
                 "Title": "대시 공격: 한파"
             },
-            "119110039": {
+            "119110051": {
                 "Description": "피해 배율",
                 "Param": "{Skill:1191014, Prop:1001}"
             },
-            "119110040": {
+            "119110052": {
                 "Description": "그로기 배율",
                 "Param": "{Skill:1191014, Prop:1002}"
             },
-            "119110041": {
+            "119110053": {
                 "Title": "회피 반격: 암초"
             },
-            "119110042": {
+            "119110054": {
                 "Description": "피해 배율",
                 "Param": "{Skill:1191015, Prop:1001}"
             },
-            "119110043": {
+            "119110055": {
                 "Description": "그로기 배율",
                 "Param": "{Skill:1191015, Prop:1002}"
             }
         },
         "3": {
-            "119100014": {
+            "119100016": {
                 "Title": "콤보 스킬: 눈사태",
                 "Description": "<color=#FFFFFF>[콤보 스킬]</color> 발동 시 해당 캐릭터를 선택해 시전:\n공중에서 내리쳐 얼음폭풍을 생성해 대량의 <color=#98EFF0>얼음 속성 피해</color>를 준다.\n스킬을 시전하는 동안 무적 효과를 보유한다."
             },
-            "119100015": {
+            "119100017": {
                 "Title": "궁극기: 영원한 겨울의 향연",
                 "Description": "데시벨 레벨 <color=#FFFFFF>[Maximum]</color> 달성 시 <IconMap:Icon_UltimateReady>을 짧게 탭하여 시전:\n공중에서 내리쳐 얼음폭풍을 생성한 후 가위로 강력한 일격을 가해 대량의 <color=#98EFF0>얼음 속성 피해</color>를 준다.\n스킬을 시전하는 동안 무적 효과를 보유한다."
             },
-            "119110044": {
+            "119110056": {
                 "Title": "콤보 스킬: 눈사태"
             },
-            "119110045": {
+            "119110057": {
                 "Description": "피해 배율",
                 "Param": "{Skill:1191016, Prop:1001}"
             },
-            "119110046": {
+            "119110058": {
                 "Description": "그로기 배율",
                 "Param": "{Skill:1191016, Prop:1002}"
             },
-            "119110047": {
+            "119110059": {
                 "Title": "궁극기: 영원한 겨울의 향연"
             },
-            "119110048": {
+            "119110060": {
                 "Description": "피해 배율",
                 "Param": "{Skill:1191017, Prop:1001}"
             },
-            "119110049": {
+            "119110061": {
                 "Description": "그로기 배율",
                 "Param": "{Skill:1191017, Prop:1002}"
             }
         },
         "6": {
-            "119100017": {
+            "119100020": {
                 "Title": "빠른 지원: 상어 경호원",
                 "Description": "현재 조작 중인 캐릭터가 넉업되면 <IconMap:Icon_Switch>을 짧게 탭하여 시전:\n적을 빠르게 꿰뚫고 가위질로 <color=#98EFF0>얼음 속성 피해</color>를 준다.\n스킬을 시전하는 동안 무적 효과를 보유한다.\n현재 조작 중인 캐릭터가 넉업되면 {LAYOUT_CONSOLECONTROLLER#스틱을}{LAYOUT_FALLBACK#방향키를} 움직이고 <IconMap:Icon_Switch>을 짧게 탭하여 시전:\n<color=#FFFFFF>[순행]</color> 상태에 진입하고 빠른 대시로 이동한다.\n<color=#FFFFFF>[순행]</color> 상태에서는 {LAYOUT_CONSOLECONTROLLER#스틱으로}{LAYOUT_FALLBACK#방향키로} 방향을 컨트롤할 수 있으며 {LAYOUT_CONSOLECONTROLLER#스틱}{LAYOUT_FALLBACK#방향키}에서 손을 떼면 멈춘다.\n스킬을 시전하는 순간 짧은 무적 효과를 보유한다.\n<color=#FFFFFF>[빠른 지원]</color> 시전 시 엘렌은 <color=#FFFFFF>[고속 차지]</color> 효과를 획득해 <color=#FFFFFF>[대시 공격: 살얼음 잠습]</color>의 차지 시간이 줄어든다. 최대 5초 지속 혹은 1회 발동한다."
             },
-            "119100018": {
+            "119100021": {
                 "Title": "패링 지원: 맞파도",
                 "Description": "출전 캐릭터 피격 직전에 <IconMap:Icon_Switch>을 짧게 탭하여 시전:\n적의 공격을 패링하고 대량의 그로기 수치를 누적한다.\n스킬을 시전하는 동안 무적 효과를 보유한다."
             },
-            "119100019": {
+            "119100022": {
                 "Title": "지원 돌격: 샤크 크루저",
                 "Description": "<color=#FFFFFF>[패링 지원]</color> 시전 후 <IconMap:Icon_Normal>을 짧게 탭하여 시전:\n전방의 적에게 돌진 베기로 <color=#98EFF0>얼음 속성 피해</color>를 준다.\n스킬 공격 중에 <IconMap:Icon_Normal>을 연타 혹은 홀드하면 스킬의 지속 시간을 연장할 수 있다.\n스킬을 시전하는 동안 무적 효과를 보유한다."
             },
-            "119110050": {
+            "119110062": {
                 "Title": "빠른 지원: 상어 경호원"
             },
-            "119110051": {
+            "119110063": {
                 "Description": "피해 배율",
                 "Param": "{Skill:1191018, Prop:1001}"
             },
-            "119110052": {
+            "119110064": {
                 "Description": "그로기 배율",
                 "Param": "{Skill:1191018, Prop:1002}"
             },
-            "119110053": {
+            "119110065": {
                 "Title": "패링 지원: 맞파도"
             },
-            "119110054": {
+            "119110066": {
                 "Description": "가벼운 패링 그로기 배율",
                 "Param": "{Skill:1191019, Prop:1002}"
             },
-            "119110055": {
+            "119110067": {
                 "Description": "강한 패링 그로기 배율",
                 "Param": "{Skill:1191020, Prop:1002}"
             },
-            "119110056": {
+            "119110068": {
                 "Description": "연속 패링 그로기 배율",
                 "Param": "{Skill:1191021, Prop:1002}"
             },
-            "119110057": {
+            "119110069": {
                 "Title": "지원 돌격: 샤크 크루저"
             },
-            "119110058": {
+            "119110070": {
                 "Description": "피해 배율",
                 "Param": "{Skill:1191022, Prop:1001}"
             },
-            "119110059": {
+            "119110071": {
                 "Description": "그로기 배율",
                 "Param": "{Skill:1191022, Prop:1002}"
             }
@@ -511,6 +511,30 @@
             "DamageGrowth": 250,
             "DazeValue": 0,
             "DazeGrowth": 0
+        },
+        "1191027": {
+            "DamageValue": 6040,
+            "DamageGrowth": 550,
+            "DazeValue": 2580,
+            "DazeGrowth": 120
+        },
+        "1191028": {
+            "DamageValue": 1300,
+            "DamageGrowth": 120,
+            "DazeValue": 560,
+            "DazeGrowth": 30
+        },
+        "1191029": {
+            "DamageValue": 23020,
+            "DamageGrowth": 2100,
+            "DazeValue": 6700,
+            "DazeGrowth": 310
+        },
+        "1191030": {
+            "DamageValue": 14680,
+            "DamageGrowth": 1340,
+            "DazeValue": 8420,
+            "DazeGrowth": 390
         }
     }
 }

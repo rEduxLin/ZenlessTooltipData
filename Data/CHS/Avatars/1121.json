@@ -39,13 +39,13 @@
         "UniqueSkill": {
             "Title": "核心被动：守卫",
             "DescriptionByLevel": {
-                "1": "本的初始攻击力随初始防御力提升，提升效果等同于自身初始防御力的<color=#2BAD00>40%</color>；\n在<color=#FFFFFF>[强化特殊技]</color>中追加强力打击时，为全队提供等同于自身<color=#2BAD00>15%</color>防御力+<color=#2BAD00>100</color>点护盾，持续30秒。",
-                "2": "本的初始攻击力随初始防御力提升，提升效果等同于自身初始防御力的<color=#2BAD00>46%</color>；\n在<color=#FFFFFF>[强化特殊技]</color>中追加强力打击时，为全队提供等同于自身<color=#2BAD00>17.5%</color>防御力+<color=#2BAD00>220</color>点护盾，持续30秒。",
-                "3": "本的初始攻击力随初始防御力提升，提升效果等同于自身初始防御力的<color=#2BAD00>52%</color>；\n在<color=#FFFFFF>[强化特殊技]</color>中追加强力打击时，为全队提供等同于自身<color=#2BAD00>20%</color>防御力+<color=#2BAD00>330</color>点护盾，持续30秒。",
-                "4": "本的初始攻击力随初始防御力提升，提升效果等同于自身初始防御力的<color=#2BAD00>60%</color>；\n在<color=#FFFFFF>[强化特殊技]</color>中追加强力打击时，为全队提供等同于自身<color=#2BAD00>22.5%</color>防御力+<color=#2BAD00>460</color>点护盾，持续30秒。",
-                "5": "本的初始攻击力随初始防御力提升，提升效果等同于自身初始防御力的<color=#2BAD00>66%</color>；\n在<color=#FFFFFF>[强化特殊技]</color>中追加强力打击时，为全队提供等同于自身<color=#2BAD00>25%</color>防御力+<color=#2BAD00>500</color>点护盾，持续30秒。",
-                "6": "本的初始攻击力随初始防御力提升，提升效果等同于初始自身防御力的<color=#2BAD00>72%</color>；\n在<color=#FFFFFF>[强化特殊技]</color>中追加强力打击时，为全队提供等同于自身<color=#2BAD00>27.5%</color>防御力+<color=#2BAD00>525</color>点护盾，持续30秒。",
-                "7": "本的初始攻击力随初始防御力提升，提升效果等同于自身初始防御力的<color=#2BAD00>80%</color>；\n在<color=#FFFFFF>[强化特殊技]</color>中追加强力打击时，为全队提供等同于自身<color=#2BAD00>30%</color>防御力+<color=#2BAD00>550</color>点护盾，持续30秒。"
+                "1": "本的初始攻击力随初始防御力提升，提升效果等同于自身初始防御力的<color=#2BAD00>40%</color>；\n在<color=#FFFFFF>[强化特殊技]</color>中追加强力打击时，为全队角色提供等同于自身<color=#2BAD00>15%</color>防御力+<color=#2BAD00>100</color>点护盾，持续30秒。",
+                "2": "本的初始攻击力随初始防御力提升，提升效果等同于自身初始防御力的<color=#2BAD00>46%</color>；\n在<color=#FFFFFF>[强化特殊技]</color>中追加强力打击时，为全队角色提供等同于自身<color=#2BAD00>17.5%</color>防御力+<color=#2BAD00>220</color>点护盾，持续30秒。",
+                "3": "本的初始攻击力随初始防御力提升，提升效果等同于自身初始防御力的<color=#2BAD00>52%</color>；\n在<color=#FFFFFF>[强化特殊技]</color>中追加强力打击时，为全队角色提供等同于自身<color=#2BAD00>20%</color>防御力+<color=#2BAD00>330</color>点护盾，持续30秒。",
+                "4": "本的初始攻击力随初始防御力提升，提升效果等同于自身初始防御力的<color=#2BAD00>60%</color>；\n在<color=#FFFFFF>[强化特殊技]</color>中追加强力打击时，为全队角色提供等同于自身<color=#2BAD00>22.5%</color>防御力+<color=#2BAD00>460</color>点护盾，持续30秒。",
+                "5": "本的初始攻击力随初始防御力提升，提升效果等同于自身初始防御力的<color=#2BAD00>66%</color>；\n在<color=#FFFFFF>[强化特殊技]</color>中追加强力打击时，为全队角色提供等同于自身<color=#2BAD00>25%</color>防御力+<color=#2BAD00>500</color>点护盾，持续30秒。",
+                "6": "本的初始攻击力随初始防御力提升，提升效果等同于自身初始防御力的<color=#2BAD00>72%</color>；\n在<color=#FFFFFF>[强化特殊技]</color>中追加强力打击时，为全队角色提供等同于自身<color=#2BAD00>27.5%</color>防御力+<color=#2BAD00>525</color>点护盾，持续30秒。",
+                "7": "本的初始攻击力随初始防御力提升，提升效果等同于自身初始防御力的<color=#2BAD00>80%</color>；\n在<color=#FFFFFF>[强化特殊技]</color>中追加强力打击时，为全队角色提供等同于自身<color=#2BAD00>30%</color>防御力+<color=#2BAD00>550</color>点护盾，持续30秒。"
             }
         },
         "MathSkill": {

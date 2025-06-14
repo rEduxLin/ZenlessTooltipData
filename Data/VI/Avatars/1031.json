@@ -31,7 +31,7 @@
         },
         "6": {
             "Title": "Trường Năng Lượng Ăn Mòn",
-            "Description": "Khi trường năng lượng gây sát thương cho kẻ địch, Tỷ Lệ Bạo Kích mà toàn đội gây ra cho mục tiêu này tăng 1,5%, tối đa dồn 10 tầng, duy trì 12s, mỗi tầng hiệu quả sẽ tính giờ riêng.",
+            "Description": "Khi trường năng lượng gây sát thương cho kẻ địch, Tỷ Lệ Bạo Kích mà tất cả đơn vị gây ra cho mục tiêu này tăng 1,5%, tối đa dồn 10 tầng, duy trì 12s, mỗi tầng hiệu quả sẽ tính giờ riêng.",
             "Lore": "Lựa chọn đạn dược cao cấp hơn, thì lượng thuốc và hàm lượng vật chất Ether cô đặc cũng cao hơn, lợi hại hơn, thời gian duy trì dài hơn... giá cũng mắc hơn."
         }
     },
@@ -50,7 +50,7 @@
         },
         "MathSkill": {
             "Title": "Năng Lực Thêm: Hang Thỏ Xảo Quyệt",
-            "Description": "Khi trong đội có nhân vật cùng phe hoặc có thuộc tính giống bản thân sẽ kích hoạt:\nKhi Nicole thông qua <color=#FFFFFF>Bị Động Cốt Lõi: Rương Cơ Quan</color> thi triển hiệu quả debuff lên kẻ địch, <color=#FE437E>DMG Ether</color> do toàn đội gây cho mục tiêu tăng thêm 25%, duy trì 3,5s."
+            "Description": "Khi trong đội có nhân vật cùng phe hoặc có thuộc tính giống bản thân sẽ kích hoạt:\nKhi Nicole thông qua <color=#FFFFFF>Bị Động Cốt Lõi: Rương Cơ Quan</color> thi triển hiệu quả debuff lên kẻ địch, <color=#FE437E>DMG Ether</color> do tất cả đơn vị gây cho mục tiêu tăng thêm 25%, duy trì 3,5s."
         }
     },
     "SkillDescriptions": {

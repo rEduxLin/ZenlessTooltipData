@@ -11,7 +11,7 @@
         },
         "2": {
             "Title": "持ち腐れ",
-            "Description": "<color=#FFFFFF>『連携スキル』</color>または<color=#FFFFFF>『終結スキル』</color>発動時、悠真は<color=#FFFFFF>「電閃」</color>を7重獲得する、最大7重まで重ね掛け可能。<color=#FFFFFF>「電閃」</color>を所持している時、<color=#FFFFFF>『ダッシュ攻撃：飛天の弦・斬』</color>の与ダメージが50%アップする。<color=#FFFFFF>『ダッシュ攻撃：飛天の弦・斬』</color>終了後、<color=#FFFFFF>「電閃」</color>を1重消費する。",
+            "Description": "<color=#FFFFFF>『連携スキル』</color>または<color=#FFFFFF>『終結スキル』</color>発動時、悠真は<color=#FFFFFF>「電閃」</color>を7重獲得する、最大7重まで重ね掛け可能。<color=#FFFFFF>「電閃」</color>を所持している時、<color=#FFFFFF>『ダッシュ攻撃：飛天の弦・斬』</color>の与ダメージ+50%。<color=#FFFFFF>『ダッシュ攻撃：飛天の弦・斬』</color>終了後、<color=#FFFFFF>「電閃」</color>を1重消費する。",
             "Lore": "「こう見えて、めちゃくちゃ弱いんですよねえ…僕って」\n悠真は気だるそうにデスクへ突っ伏す。\n「この任務、別の人に振りません？」"
         },
         "3": {
@@ -39,18 +39,18 @@
         "UniqueSkill": {
             "Title": "コアパッシブ：払暁",
             "DescriptionByLevel": {
-                "1": "<color=#FFFFFF>『ダッシュ攻撃：飛天の弦・斬』</color>の会心率が<color=#2BAD00>10.6%</color>アップする。悠真の<color=#FFFFFF>『ダッシュ攻撃：飛天の弦・斬』</color>が敵に命中し、なおかつ会心が出た時、<color=#FFFFFF>「才覚」</color>を1重獲得する、1回のスキルで3重まで重ね掛けでき、最大で6重まで重ね掛け可能、継続時間5秒、重複して発動すると継続時間が更新される。<color=#FFFFFF>「才覚」</color>1重につき、<color=#FFFFFF>『ダッシュ攻撃：飛天の弦・斬』</color>の与える会心ダメージが<color=#2BAD00>6%</color>アップする。",
-                "2": "<color=#FFFFFF>『ダッシュ攻撃：飛天の弦・斬』</color>の会心率が<color=#2BAD00>13%</color>アップする。悠真の<color=#FFFFFF>『ダッシュ攻撃：飛天の弦・斬』</color>が敵に命中し、なおかつ会心が出た時、<color=#FFFFFF>「才覚」</color>を1重獲得する、1回のスキルで3重まで重ね掛けでき、最大で6重まで重ね掛け可能、継続時間5秒、重複して発動すると継続時間が更新される。<color=#FFFFFF>「才覚」</color>1重につき、<color=#FFFFFF>『ダッシュ攻撃：飛天の弦・斬』</color>の与える会心ダメージが<color=#2BAD00>7%</color>アップする。",
-                "3": "<color=#FFFFFF>『ダッシュ攻撃：飛天の弦・斬』</color>の会心率が<color=#2BAD00>15.4%</color>アップする。悠真の<color=#FFFFFF>『ダッシュ攻撃：飛天の弦・斬』</color>が敵に命中し、なおかつ会心が出た時、<color=#FFFFFF>「才覚」</color>を1重獲得する、1回のスキルで3重まで重ね掛けでき、最大で6重まで重ね掛け可能、継続時間5秒、重複して発動すると継続時間が更新される。<color=#FFFFFF>「才覚」</color>1重につき、<color=#FFFFFF>『ダッシュ攻撃：飛天の弦・斬』</color>の与える会心ダメージが<color=#2BAD00>8%</color>アップする。",
-                "4": "<color=#FFFFFF>『ダッシュ攻撃：飛天の弦・斬』</color>の会心率が<color=#2BAD00>17.8%</color>アップする。悠真の<color=#FFFFFF>『ダッシュ攻撃：飛天の弦・斬』</color>が敵に命中し、なおかつ会心が出た時、<color=#FFFFFF>「才覚」</color>を1重獲得する、1回のスキルで3重まで重ね掛けでき、最大で6重まで重ね掛け可能、継続時間5秒、重複して発動すると継続時間が更新される。<color=#FFFFFF>「才覚」</color>1重につき、<color=#FFFFFF>『ダッシュ攻撃：飛天の弦・斬』</color>の与える会心ダメージが<color=#2BAD00>9%</color>アップする。",
-                "5": "<color=#FFFFFF>『ダッシュ攻撃：飛天の弦・斬』</color>の会心率が<color=#2BAD00>20.2%</color>アップする。悠真の<color=#FFFFFF>『ダッシュ攻撃：飛天の弦・斬』</color>が敵に命中し、なおかつ会心が出た時、<color=#FFFFFF>「才覚」</color>を1重獲得する、1回のスキルで3重まで重ね掛けでき、最大で6重まで重ね掛け可能、継続時間5秒、重複して発動すると継続時間が更新される。<color=#FFFFFF>「才覚」</color>1重につき、<color=#FFFFFF>『ダッシュ攻撃：飛天の弦・斬』</color>の与える会心ダメージが<color=#2BAD00>10%</color>アップする。",
-                "6": "<color=#FFFFFF>『ダッシュ攻撃：飛天の弦・斬』</color>の会心率が<color=#2BAD00>22.6%</color>アップする。悠真の<color=#FFFFFF>『ダッシュ攻撃：飛天の弦・斬』</color>が敵に命中し、なおかつ会心が出た時、<color=#FFFFFF>「才覚」</color>を1重獲得する、1回のスキルで3重まで重ね掛けでき、最大で6重まで重ね掛け可能、継続時間5秒、重複して発動すると継続時間が更新される。<color=#FFFFFF>「才覚」</color>1重につき、<color=#FFFFFF>『ダッシュ攻撃：飛天の弦・斬』</color>の与える会心ダメージが<color=#2BAD00>11%</color>アップする。",
-                "7": "<color=#FFFFFF>『ダッシュ攻撃：飛天の弦・斬』</color>の会心率が<color=#2BAD00>25%</color>アップする。悠真の<color=#FFFFFF>『ダッシュ攻撃：飛天の弦・斬』</color>が敵に命中し、なおかつ会心が出た時、<color=#FFFFFF>「才覚」</color>を1重獲得する、1回のスキルで3重まで重ね掛けでき、最大で6重まで重ね掛け可能、継続時間5秒、重複して発動すると継続時間が更新される。<color=#FFFFFF>「才覚」</color>1重につき、<color=#FFFFFF>『ダッシュ攻撃：飛天の弦・斬』</color>の与える会心ダメージが<color=#2BAD00>12%</color>アップする。"
+                "1": "<color=#FFFFFF>『ダッシュ攻撃：飛天の弦・斬』</color>の会心率+<color=#2BAD00>10.6%</color>。悠真の<color=#FFFFFF>『ダッシュ攻撃：飛天の弦・斬』</color>が敵に命中し、なおかつ会心が出た時、<color=#FFFFFF>「才覚」</color>を1重獲得する、1回のスキルで3重まで重ね掛けでき、最大で6重まで重ね掛け可能、継続時間5秒、重複して発動すると継続時間が更新される。<color=#FFFFFF>「才覚」</color>1重につき、<color=#FFFFFF>『ダッシュ攻撃：飛天の弦・斬』</color>の与える会心ダメージ+<color=#2BAD00>6%</color>。",
+                "2": "<color=#FFFFFF>『ダッシュ攻撃：飛天の弦・斬』</color>の会心率+<color=#2BAD00>13%</color>。悠真の<color=#FFFFFF>『ダッシュ攻撃：飛天の弦・斬』</color>が敵に命中し、なおかつ会心が出た時、<color=#FFFFFF>「才覚」</color>を1重獲得する、1回のスキルで3重まで重ね掛けでき、最大で6重まで重ね掛け可能、継続時間5秒、重複して発動すると継続時間が更新される。<color=#FFFFFF>「才覚」</color>1重につき、<color=#FFFFFF>『ダッシュ攻撃：飛天の弦・斬』</color>の与える会心ダメージ+<color=#2BAD00>7%</color>。",
+                "3": "<color=#FFFFFF>『ダッシュ攻撃：飛天の弦・斬』</color>の会心率+<color=#2BAD00>15.4%</color>。悠真の<color=#FFFFFF>『ダッシュ攻撃：飛天の弦・斬』</color>が敵に命中し、なおかつ会心が出た時、<color=#FFFFFF>「才覚」</color>を1重獲得する、1回のスキルで3重まで重ね掛けでき、最大で6重まで重ね掛け可能、継続時間5秒、重複して発動すると継続時間が更新される。<color=#FFFFFF>「才覚」</color>1重につき、<color=#FFFFFF>『ダッシュ攻撃：飛天の弦・斬』</color>の与える会心ダメージ+<color=#2BAD00>8%</color>。",
+                "4": "<color=#FFFFFF>『ダッシュ攻撃：飛天の弦・斬』</color>の会心率+<color=#2BAD00>17.8%</color>。悠真の<color=#FFFFFF>『ダッシュ攻撃：飛天の弦・斬』</color>が敵に命中し、なおかつ会心が出た時、<color=#FFFFFF>「才覚」</color>を1重獲得する、1回のスキルで3重まで重ね掛けでき、最大で6重まで重ね掛け可能、継続時間5秒、重複して発動すると継続時間が更新される。<color=#FFFFFF>「才覚」</color>1重につき、<color=#FFFFFF>『ダッシュ攻撃：飛天の弦・斬』</color>の与える会心ダメージ+<color=#2BAD00>9%</color>。",
+                "5": "<color=#FFFFFF>『ダッシュ攻撃：飛天の弦・斬』</color>の会心率+<color=#2BAD00>20.2%</color>。悠真の<color=#FFFFFF>『ダッシュ攻撃：飛天の弦・斬』</color>が敵に命中し、なおかつ会心が出た時、<color=#FFFFFF>「才覚」</color>を1重獲得する、1回のスキルで3重まで重ね掛けでき、最大で6重まで重ね掛け可能、継続時間5秒、重複して発動すると継続時間が更新される。<color=#FFFFFF>「才覚」</color>1重につき、<color=#FFFFFF>『ダッシュ攻撃：飛天の弦・斬』</color>の与える会心ダメージ+<color=#2BAD00>10%</color>。",
+                "6": "<color=#FFFFFF>『ダッシュ攻撃：飛天の弦・斬』</color>の会心率+<color=#2BAD00>22.6%</color>。悠真の<color=#FFFFFF>『ダッシュ攻撃：飛天の弦・斬』</color>が敵に命中し、なおかつ会心が出た時、<color=#FFFFFF>「才覚」</color>を1重獲得する、1回のスキルで3重まで重ね掛けでき、最大で6重まで重ね掛け可能、継続時間5秒、重複して発動すると継続時間が更新される。<color=#FFFFFF>「才覚」</color>1重につき、<color=#FFFFFF>『ダッシュ攻撃：飛天の弦・斬』</color>の与える会心ダメージ+<color=#2BAD00>11%</color>。",
+                "7": "<color=#FFFFFF>『ダッシュ攻撃：飛天の弦・斬』</color>の会心率+<color=#2BAD00>25%</color>。悠真の<color=#FFFFFF>『ダッシュ攻撃：飛天の弦・斬』</color>が敵に命中し、なおかつ会心が出た時、<color=#FFFFFF>「才覚」</color>を1重獲得する、1回のスキルで3重まで重ね掛けでき、最大で6重まで重ね掛け可能、継続時間5秒、重複して発動すると継続時間が更新される。<color=#FFFFFF>「才覚」</color>1重につき、<color=#FFFFFF>『ダッシュ攻撃：飛天の弦・斬』</color>の与える会心ダメージ+<color=#2BAD00>12%</color>。"
             }
         },
         "MathSkill": {
             "Title": "追加能力：定格超越",
-            "Description": "チームに<color=#FFFFFF>「撃破」</color>または<color=#FFFFFF>「異常」</color>のメンバーがいる時に発動：\n悠真の攻撃がブレイク状態または状態異常の敵に命中した時、自身の与ダメージが40%アップする。悠真の<color=#FFFFFF>「羽落とし」</color>がブレイク状態または状態異常の敵に命中した時、<color=#FFFFFF>「囚電」</color>効果を2重付与する。"
+            "Description": "チームに<color=#FFFFFF>「撃破」</color>または<color=#FFFFFF>「異常」</color>のメンバーがいる時に発動：\n悠真の攻撃がブレイク状態または状態異常の敵に命中した時、自身の与ダメージ+40%。悠真の<color=#FFFFFF>「羽落とし」</color>がブレイク状態または状態異常の敵に命中した時、<color=#FFFFFF>「囚電」</color>効果を2重付与する。"
         }
     },
     "SkillDescriptions": {
@@ -221,7 +221,7 @@
             },
             "120110050": {
                 "Title": "ダッシュ攻撃：飛天の弦・斬",
-                "Description": "フィールド上に<color=#FFFFFF>「十文字」</color>の印を持つ敵がいる場合、悠真は<color=#FFFFFF>「醒覚」</color>状態に入り、<color=#FFFFFF>『ダッシュ攻撃：飛天の弦』</color>が<color=#FFFFFF>『ダッシュ攻撃：飛天の弦・斬』</color>に変わる。\n<color=#FFFFFF>「醒覚」</color>状態で回避した時に <IconMap:Icon_Normal> を押して発動：\n<color=#FFFFFF>「十文字」</color>の印を持つ敵のうち、自身に最も近いターゲットとの間合いを一気に詰めて、強力な斬撃を放ち、<color=#2EB6FF>電気属性ダメージ</color>を与える。\n斬撃がターゲットに命中すると、<color=#FFFFFF>「囚電」</color>効果を2重消費する、<color=#FFFFFF>「囚電」</color>効果が2重未満の場合は、<color=#FFFFFF>「十文字」</color>の印が打ち消される。<color=#FFFFFF>「十文字」</color>の印が消える前に <IconMap:Icon_Normal> を連打すると、<color=#FFFFFF>『ダッシュ攻撃：飛天の弦・斬』</color>を連続で発動できる。<color=#FFFFFF>「十文字」</color>の印を持つ敵がいなくなった時、<color=#FFFFFF>「醒覚」</color>状態は終了する。\n<color=#FFFFFF>「醒覚」</color>状態で<color=#FFFFFF>『通常攻撃：羽落とし』</color>を発動した後に <IconMap:Icon_Normal> を押すと、素早く<color=#FFFFFF>『ダッシュ攻撃：飛天の弦・斬』</color>に繋げることができる。\nスキル発動中、中断耐性レベルがアップし、被ダメージが40%ダウンする。"
+                "Description": "フィールド上に<color=#FFFFFF>「十文字」</color>の印を持つ敵がいる場合、悠真は<color=#FFFFFF>「醒覚」</color>状態に入り、<color=#FFFFFF>『ダッシュ攻撃：飛天の弦』</color>が<color=#FFFFFF>『ダッシュ攻撃：飛天の弦・斬』</color>に変わる。\n<color=#FFFFFF>「醒覚」</color>状態で回避した時に <IconMap:Icon_Normal> を押して発動：\n<color=#FFFFFF>「十文字」</color>の印を持つ敵のうち、自身に最も近いターゲットとの間合いを一気に詰めて、強力な斬撃を放ち、<color=#2EB6FF>電気属性ダメージ</color>を与える。\n斬撃がターゲットに命中すると、<color=#FFFFFF>「囚電」</color>効果を2重消費する、<color=#FFFFFF>「囚電」</color>効果が2重未満の場合は、<color=#FFFFFF>「十文字」</color>の印が打ち消される。<color=#FFFFFF>「十文字」</color>の印が消える前に <IconMap:Icon_Normal> を連打すると、<color=#FFFFFF>『ダッシュ攻撃：飛天の弦・斬』</color>を連続で発動できる。<color=#FFFFFF>「十文字」</color>の印を持つ敵がいなくなった時、<color=#FFFFFF>「醒覚」</color>状態は終了する。\n<color=#FFFFFF>「醒覚」</color>状態で<color=#FFFFFF>『通常攻撃：羽落とし』</color>を発動した後に <IconMap:Icon_Normal> を押すと、素早く<color=#FFFFFF>『ダッシュ攻撃：飛天の弦・斬』</color>に繋げることができる。\nスキル発動中、中断耐性レベルがアップし、被ダメージ-40%。"
             },
             "120110051": {
                 "Title": "ダッシュ攻撃：飛天の弦・斬"
@@ -467,6 +467,12 @@
             "DamageGrowth": 1730,
             "DazeValue": 4950,
             "DazeGrowth": 230
+        },
+        "1201023": {
+            "DamageValue": 0,
+            "DamageGrowth": 0,
+            "DazeValue": 0,
+            "DazeGrowth": 0
         }
     }
 }

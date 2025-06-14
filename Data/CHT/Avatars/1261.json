@@ -21,7 +21,7 @@
         },
         "4": {
             "Title": "因勢利導",
-            "Description": "隊伍中任意角色觸發<color=#F0D12B>[強擊]</color>或<color=#FFFFFF>[紊亂]</color>效果時，全隊造成的屬性異常傷害提升18%，持續15秒。",
+            "Description": "隊伍中任意角色觸發<color=#F0D12B>[強擊]</color>或<color=#FFFFFF>[紊亂]</color>效果時，全隊角色造成的屬性異常傷害提升18%，持續15秒。",
             "Lore": "「是獵人還是獵物，往往取決於你選擇的視角。不過，我更喜歡另一個簡單的判斷方式——」\n「輸的人，就是獵物。」"
         },
         "5": {
@@ -31,7 +31,7 @@
         },
         "6": {
             "Title": "「骯髒」技巧",
-            "Description": "<color=#FFFFFF>[狂熱]</color>狀態下，簡的暴擊率提升20%，暴擊傷害提升40%。隊伍中任意角色對敵人施加<color=#F0D12B>[強擊]</color>效果時，簡將直接進入<color=#FFFFFF>[狂熱]</color>狀態，並使<color=#FFFFFF>[狂熱心流]</color>回復至上限。本次<color=#F0D12B>[強擊]</color>傷害觸發暴擊時，將會對目標發動一次額外攻擊，造成等同於簡1600%異常精通的<color=#F0D12B>物理傷害</color>。",
+            "Description": "<color=#FFFFFF>[狂熱]</color>狀態下，簡的暴擊率提升20%，暴擊傷害提升40%。隊伍中任意角色對敵人施加<color=#F0D12B>[強擊]</color>效果時，簡將直接進入<color=#FFFFFF>[狂熱]</color>狀態，並使<color=#FFFFFF>[狂熱心流]</color>回復至上限。此次<color=#F0D12B>[強擊]</color>傷害觸發暴擊時，將會對目標發動一次額外攻擊，造成等同於簡1600%異常精通的<color=#F0D12B>物理傷害</color>。",
             "Lore": "街頭可不在乎手段髒不髒，只在乎結果贏沒贏。\n「看清最黑暗的欲望，才能推演出最痛切的弱點。」"
         }
     },
@@ -517,6 +517,18 @@
             "DamageGrowth": 12550,
             "DazeValue": 57530,
             "DazeGrowth": 2620
+        },
+        "1261028": {
+            "DamageValue": 6000,
+            "DamageGrowth": 0,
+            "DazeValue": 0,
+            "DazeGrowth": 0
+        },
+        "1261029": {
+            "DamageValue": 60000,
+            "DamageGrowth": 0,
+            "DazeValue": 0,
+            "DazeGrowth": 0
         }
     }
 }

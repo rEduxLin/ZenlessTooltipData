@@ -11,7 +11,7 @@
         },
         "2": {
             "Title": "« Vision éthérique »",
-            "Description": "Après avoir lancé un <color=#FFFFFF>Contrecoup</color>, Gâchette obtient 1 cumul d'<color=#FFFFFF>Œil de la chasse</color>. Lorsqu'elle exécute le coup final du <color=#FFFFFF>mode Sniper</color>, Gâchette obtient 2 cumuls d'<color=#FFFFFF>Œil de la chasse</color>. Chaque cumul d'<color=#FFFFFF>Œil de la chasse</color> augmente les DGT CRIT de tous les membres de l'escouade de 6 % pendant 10 s, cumulable 4 fois. Les déclenchements répétés réinitialisent la durée.",
+            "Description": "Après avoir lancé un <color=#FFFFFF>Contrecoup</color>, Gâchette obtient 1 cumul d'<color=#FFFFFF>Œil de la chasse</color>. Lorsqu'elle exécute le coup final du <color=#FFFFFF>mode Sniper</color>, Gâchette obtient 2 cumuls d'<color=#FFFFFF>Œil de la chasse</color>. Chaque cumul d'<color=#FFFFFF>Œil de la chasse</color> augmente les DGT CRIT de tous les personnages de l'escouade de 6 % pendant 10 s, cumulable 4 fois. Les déclenchements répétés réinitialisent la durée.",
             "Lore": "Dans les Néantres, la moindre fluctuation éthérique l'aide à observer ses alentours.\n« Avant, je considérais que ces yeux étaient maudits, qu'ils n'étaient capables d'apporter que de la souffrance.\nMais maintenant... ils sont mon unique moyen d'atteindre mes objectifs, et la preuve que je n'ai pas oublié mon passé. »"
         },
         "3": {
@@ -457,6 +457,12 @@
             "DamageValue": 20000,
             "DamageGrowth": 0,
             "DazeValue": 12000,
+            "DazeGrowth": 0
+        },
+        "1361024": {
+            "DamageValue": 0,
+            "DamageGrowth": 0,
+            "DazeValue": 0,
             "DazeGrowth": 0
         }
     }

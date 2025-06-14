@@ -6,7 +6,7 @@
     "Talents": {
         "1": {
             "Title": "Kenn deinen Feind und kenn dich selbst",
-            "Description": "Wenn ein Truppenmitglied einem Gegner eine Attributanomalie zufügt, erhält Yanagi 1 Stapelung <color=#FFFFFF>Klarheit</color>, hält 15 s, max. 3-fach stapelbar. Beim wiederholten Auslösen wird die Dauer aktualisiert. Wird Yanagi von einem Gegner getroffen, verbraucht sie 1 Stapelung <color=#FFFFFF>Klarheit</color> und wird 1 s lang unverwundbar. Wenn Yanagi 1 oder mehr Stapelungen <color=#FFFFFF>Klarheit</color> hat, erhöht sich ihre Anomaliekunde um 80 Pkt.",
+            "Description": "Wenn eine Truppenfigur einem Gegner eine Attributanomalie zufügt, erhält Yanagi 1 Stapelung <color=#FFFFFF>Klarheit</color>, hält 15 s, max. 3-fach stapelbar. Beim wiederholten Auslösen wird die Dauer aktualisiert. Wird Yanagi von einem Gegner getroffen, verbraucht sie 1 Stapelung <color=#FFFFFF>Klarheit</color> und wird 1 s lang unverwundbar. Wenn Yanagi 1 oder mehr Stapelungen <color=#FFFFFF>Klarheit</color> hat, erhöht sich ihre Anomaliekunde um 80 Pkt.",
             "Lore": "„Die Schwächen des Gegners klar zu erkennen, bedeutet, mehr Sicherheit zu erlangen ... und die Siegeschancen zu verbessern.“\nYanagi richtet ihre Brille und ist ruhig wie eh und je, obwohl der Sieg bereits garantiert ist."
         },
         "2": {
@@ -39,13 +39,13 @@
         "UniqueSkill": {
             "Title": "Passive Kernfähigkeit: Mondfinsternis",
             "DescriptionByLevel": {
-                "1": "Wenn Yanagi ihren <color=#FFFFFF>verstärkten Spezialangriff</color> angewendet hat und ein Truppenmitglied einem Gegner <color=#FFFFFF>Unordnung</color> zufügt, erhöht sich der SCH-Multiplikator von <color=#FFFFFF>Unordnung</color> um <color=#2BAD00>125 %</color>, hält 15 s. Beim Treffen von Gegnern mit ihrem <color=#FFFFFF>verstärkten Spezialangriff</color> erhöht sich der von Yanagi beim Ziel verursachte <color=#2EB6FF>Elektro-SCH</color> um <color=#2BAD00>10 %</color>, hält 15 s.",
-                "2": "Wenn Yanagi ihren <color=#FFFFFF>verstärkten Spezialangriff</color> angewendet hat und ein Truppenmitglied einem Gegner <color=#FFFFFF>Unordnung</color> zufügt, erhöht sich der SCH-Multiplikator von <color=#FFFFFF>Unordnung</color> um <color=#2BAD00>145 %</color>, hält 15 s. Beim Treffen von Gegnern mit ihrem <color=#FFFFFF>verstärkten Spezialangriff</color> erhöht sich der von Yanagi beim Ziel verursachte <color=#2EB6FF>Elektro-SCH</color> um <color=#2BAD00>11,6 %</color>, hält 15 s.",
-                "3": "Wenn Yanagi ihren <color=#FFFFFF>verstärkten Spezialangriff</color> angewendet hat und ein Truppenmitglied einem Gegner <color=#FFFFFF>Unordnung</color> zufügt, erhöht sich der SCH-Multiplikator von <color=#FFFFFF>Unordnung</color> um <color=#2BAD00>166 %</color>, hält 15 s. Beim Treffen von Gegnern mit ihrem <color=#FFFFFF>verstärkten Spezialangriff</color> erhöht sich der von Yanagi beim Ziel verursachte <color=#2EB6FF>Elektro-SCH</color> um <color=#2BAD00>13,3 %</color>, hält 15 s.",
-                "4": "Wenn Yanagi ihren <color=#FFFFFF>verstärkten Spezialangriff</color> angewendet hat und ein Truppenmitglied einem Gegner <color=#FFFFFF>Unordnung</color> zufügt, erhöht sich der SCH-Multiplikator von <color=#FFFFFF>Unordnung</color> um <color=#2BAD00>188 %</color>, hält 15 s. Beim Treffen von Gegnern mit ihrem <color=#FFFFFF>verstärkten Spezialangriff</color> erhöht sich der von Yanagi beim Ziel verursachte <color=#2EB6FF>Elektro-SCH</color> um <color=#2BAD00>15 %</color>, hält 15 s.",
-                "5": "Wenn Yanagi ihren <color=#FFFFFF>verstärkten Spezialangriff</color> angewendet hat und ein Truppenmitglied einem Gegner <color=#FFFFFF>Unordnung</color> zufügt, erhöht sich der SCH-Multiplikator von <color=#FFFFFF>Unordnung</color> um <color=#2BAD00>208 %</color>, hält 15 s. Beim Treffen von Gegnern mit ihrem <color=#FFFFFF>verstärkten Spezialangriff</color> erhöht sich der von Yanagi beim Ziel verursachte <color=#2EB6FF>Elektro-SCH</color> um <color=#2BAD00>16,6 %</color>, hält 15 s.",
-                "6": "Wenn Yanagi ihren <color=#FFFFFF>verstärkten Spezialangriff</color> angewendet hat und ein Truppenmitglied einem Gegner <color=#FFFFFF>Unordnung</color> zufügt, erhöht sich der SCH-Multiplikator von <color=#FFFFFF>Unordnung</color> um <color=#2BAD00>230 %</color>, hält 15 s. Beim Treffen von Gegnern mit ihrem <color=#FFFFFF>verstärkten Spezialangriff</color> erhöht sich der von Yanagi beim Ziel verursachte <color=#2EB6FF>Elektro-SCH</color> um <color=#2BAD00>18,3 %</color>, hält 15 s.",
-                "7": "Wenn Yanagi ihren <color=#FFFFFF>verstärkten Spezialangriff</color> angewendet hat und ein Truppenmitglied einem Gegner <color=#FFFFFF>Unordnung</color> zufügt, erhöht sich der SCH-Multiplikator von <color=#FFFFFF>Unordnung</color> um <color=#2BAD00>250 %</color>, hält 15 s. Beim Treffen von Gegnern mit ihrem <color=#FFFFFF>verstärkten Spezialangriff</color> erhöht sich der von Yanagi beim Ziel verursachte <color=#2EB6FF>Elektro-SCH</color> um <color=#2BAD00>20 %</color>, hält 15 s."
+                "1": "Wenn Yanagi ihren <color=#FFFFFF>verstärkten Spezialangriff</color> angewendet hat und eine Truppenfigur einem Gegner <color=#FFFFFF>Unordnung</color> zufügt, erhöht sich der SCH-Multiplikator von <color=#FFFFFF>Unordnung</color> um <color=#2BAD00>125 %</color>, hält 15 s. Beim Treffen von Gegnern mit ihrem <color=#FFFFFF>verstärkten Spezialangriff</color> erhöht sich der von Yanagi beim Ziel verursachte <color=#2EB6FF>Elektro-SCH</color> um <color=#2BAD00>10 %</color>, hält 15 s.",
+                "2": "Wenn Yanagi ihren <color=#FFFFFF>verstärkten Spezialangriff</color> angewendet hat und eine Truppenfigur einem Gegner <color=#FFFFFF>Unordnung</color> zufügt, erhöht sich der SCH-Multiplikator von <color=#FFFFFF>Unordnung</color> um <color=#2BAD00>145 %</color>, hält 15 s. Beim Treffen von Gegnern mit ihrem <color=#FFFFFF>verstärkten Spezialangriff</color> erhöht sich der von Yanagi beim Ziel verursachte <color=#2EB6FF>Elektro-SCH</color> um <color=#2BAD00>11,6 %</color>, hält 15 s.",
+                "3": "Wenn Yanagi ihren <color=#FFFFFF>verstärkten Spezialangriff</color> angewendet hat und eine Truppenfigur einem Gegner <color=#FFFFFF>Unordnung</color> zufügt, erhöht sich der SCH-Multiplikator von <color=#FFFFFF>Unordnung</color> um <color=#2BAD00>166 %</color>, hält 15 s. Beim Treffen von Gegnern mit ihrem <color=#FFFFFF>verstärkten Spezialangriff</color> erhöht sich der von Yanagi beim Ziel verursachte <color=#2EB6FF>Elektro-SCH</color> um <color=#2BAD00>13,3 %</color>, hält 15 s.",
+                "4": "Wenn Yanagi ihren <color=#FFFFFF>verstärkten Spezialangriff</color> angewendet hat und eine Truppenfigur einem Gegner <color=#FFFFFF>Unordnung</color> zufügt, erhöht sich der SCH-Multiplikator von <color=#FFFFFF>Unordnung</color> um <color=#2BAD00>188 %</color>, hält 15 s. Beim Treffen von Gegnern mit ihrem <color=#FFFFFF>verstärkten Spezialangriff</color> erhöht sich der von Yanagi beim Ziel verursachte <color=#2EB6FF>Elektro-SCH</color> um <color=#2BAD00>15 %</color>, hält 15 s.",
+                "5": "Wenn Yanagi ihren <color=#FFFFFF>verstärkten Spezialangriff</color> angewendet hat und eine Truppenfigur einem Gegner <color=#FFFFFF>Unordnung</color> zufügt, erhöht sich der SCH-Multiplikator von <color=#FFFFFF>Unordnung</color> um <color=#2BAD00>208 %</color>, hält 15 s. Beim Treffen von Gegnern mit ihrem <color=#FFFFFF>verstärkten Spezialangriff</color> erhöht sich der von Yanagi beim Ziel verursachte <color=#2EB6FF>Elektro-SCH</color> um <color=#2BAD00>16,6 %</color>, hält 15 s.",
+                "6": "Wenn Yanagi ihren <color=#FFFFFF>verstärkten Spezialangriff</color> angewendet hat und eine Truppenfigur einem Gegner <color=#FFFFFF>Unordnung</color> zufügt, erhöht sich der SCH-Multiplikator von <color=#FFFFFF>Unordnung</color> um <color=#2BAD00>230 %</color>, hält 15 s. Beim Treffen von Gegnern mit ihrem <color=#FFFFFF>verstärkten Spezialangriff</color> erhöht sich der von Yanagi beim Ziel verursachte <color=#2EB6FF>Elektro-SCH</color> um <color=#2BAD00>18,3 %</color>, hält 15 s.",
+                "7": "Wenn Yanagi ihren <color=#FFFFFF>verstärkten Spezialangriff</color> angewendet hat und eine Truppenfigur einem Gegner <color=#FFFFFF>Unordnung</color> zufügt, erhöht sich der SCH-Multiplikator von <color=#FFFFFF>Unordnung</color> um <color=#2BAD00>250 %</color>, hält 15 s. Beim Treffen von Gegnern mit ihrem <color=#FFFFFF>verstärkten Spezialangriff</color> erhöht sich der von Yanagi beim Ziel verursachte <color=#2EB6FF>Elektro-SCH</color> um <color=#2BAD00>20 %</color>, hält 15 s."
             }
         },
         "MathSkill": {
@@ -468,6 +468,18 @@
             "DamageGrowth": 2060,
             "DazeValue": 5730,
             "DazeGrowth": 270
+        },
+        "1221026": {
+            "DamageValue": 37780,
+            "DamageGrowth": 3440,
+            "DazeValue": 10960,
+            "DazeGrowth": 500
+        },
+        "1221027": {
+            "DamageValue": 144000,
+            "DamageGrowth": 0,
+            "DazeValue": 0,
+            "DazeGrowth": 0
         }
     }
 }

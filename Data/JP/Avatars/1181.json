@@ -6,12 +6,12 @@
     "Talents": {
         "1": {
             "Title": "リチャージチャンバー",
-            "Description": "<color=#FFFFFF>『通常攻撃』</color>の4段目が敵に命中するたびに、チーム全体がエネルギーを0.25Pt回復する。\n1回の攻撃で、この効果はチーム全体のエネルギーを最大2Pt回復できる。",
+            "Description": "<color=#FFFFFF>『通常攻撃』</color>の4段目が敵に命中するたびに、メンバー全員がエネルギーを0.25Pt回復する。\n1回の攻撃で、この効果はチーム全体のエネルギーを最大2Pt回復できる。",
             "Lore": "効率はエンジニアリングの命である。\nそれはグレースのガンの「薬室」で、ドクンドクンと鼓動している。"
         },
         "2": {
             "Title": "絶縁破壊",
-            "Description": "<color=#FFFFFF>『通常攻撃』</color>、<color=#FFFFFF>『特殊スキル』</color>、<color=#FFFFFF>『強化特殊スキル』</color>などのスキルにおいて、投げた手榴弾が敵に命中した時、ターゲットの<color=#2EB6FF>電気属性ダメージ耐性</color>が8.5%ダウンし、<color=#2EB6FF>電気属性の状態異常蓄積耐性</color>が8.5%ダウンする、継続時間8秒。",
+            "Description": "<color=#FFFFFF>『通常攻撃』</color>、<color=#FFFFFF>『特殊スキル』</color>、<color=#FFFFFF>『強化特殊スキル』</color>などのスキルにおいて、投げた手榴弾が敵に命中した時、ターゲットの<color=#2EB6FF>電気属性ダメージ耐性</color>-8.5%、<color=#2EB6FF>電気属性の状態異常蓄積耐性</color>-8.5%、継続時間8秒。",
             "Lore": "グレースは複雑な機械構造を「解剖」することを何よりも愛している——たとえ戦闘の最中であっても。\nそのごくわずかな綻びさえ徹底的に暴き出されたとき、「解剖」された側は何を思うのだろう。"
         },
         "3": {
@@ -21,7 +21,7 @@
         },
         "4": {
             "Title": "電爆キャパシタ",
-            "Description": "<color=#FFFFFF>『強化特殊スキル』</color>を発動した時、グレースはパワーを6重獲得する（最大6重）。<color=#FFFFFF>『通常攻撃』</color>または<color=#FFFFFF>『ダッシュ攻撃』</color>が敵に命中した時、パワーを1重消費することで、その攻撃のエネルギー獲得効率が20%アップする。",
+            "Description": "<color=#FFFFFF>『強化特殊スキル』</color>を発動した時、グレースはパワーを6重獲得する（最大6重）。<color=#FFFFFF>『通常攻撃：高圧ネイルガン』</color>または<color=#FFFFFF>『ダッシュ攻撃：抜き打ち検査』</color>が敵に命中した時、パワーを1重消費することで、その攻撃のエネルギー獲得効率+20%。",
             "Lore": "アンドーは疑っている——グレースが「電磁パルス回収モジュール」と呼ぶ部品の内部では、\n一匹のエーテルハムスターが日夜「回し車発電」に勤しんでいるのではないか、と。\n「なあ、オレの兄弟にもひとつ積んでくれねえか？」"
         },
         "5": {
@@ -39,13 +39,13 @@
         "UniqueSkill": {
             "Title": "コアパッシブ：プリドライバ撃針",
             "DescriptionByLevel": {
-                "1": "グレースの<color=#FFFFFF>『通常攻撃』</color>または<color=#FFFFFF>『ダッシュ攻撃』</color>が敵に命中し、<color=#F0D12B>物理属性ダメージ</color>を与えた時、<color=#FFFFFF>「電力」</color>を1重獲得する（最大8重）。<color=#FFFFFF>「電力」</color>の重数が上限に達した後に、<color=#FFFFFF>『特殊スキル』</color>または<color=#FFFFFF>『強化特殊スキル』</color>を発動した場合、全ての<color=#FFFFFF>「電力」</color>を消費することで、スキルによる<color=#2EB6FF>電気属性の状態異常蓄積値</color>が<color=#2BAD00>65%</color>アップする。",
-                "2": "グレースの<color=#FFFFFF>『通常攻撃』</color>または<color=#FFFFFF>『ダッシュ攻撃』</color>が敵に命中し、<color=#F0D12B>物理属性ダメージ</color>を与えた時、<color=#FFFFFF>「電力」</color>を1重獲得する（最大8重）。<color=#FFFFFF>「電力」</color>の重数が上限に達した後に、<color=#FFFFFF>『特殊スキル』</color>または<color=#FFFFFF>『強化特殊スキル』</color>を発動した場合、全ての<color=#FFFFFF>「電力」</color>を消費することで、スキルによる<color=#2EB6FF>電気属性の状態異常蓄積値</color>が<color=#2BAD00>75.8%</color>アップする。",
-                "3": "グレースの<color=#FFFFFF>『通常攻撃』</color>または<color=#FFFFFF>『ダッシュ攻撃』</color>が敵に命中し、<color=#F0D12B>物理属性ダメージ</color>を与えた時、<color=#FFFFFF>「電力」</color>を1重獲得する（最大8重）。<color=#FFFFFF>「電力」</color>の重数が上限に達した後に、<color=#FFFFFF>『特殊スキル』</color>または<color=#FFFFFF>『強化特殊スキル』</color>を発動した場合、全ての<color=#FFFFFF>「電力」</color>を消費することで、スキルによる<color=#2EB6FF>電気属性の状態異常蓄積値</color>が<color=#2BAD00>86.6%</color>アップする。",
-                "4": "グレースの<color=#FFFFFF>『通常攻撃』</color>または<color=#FFFFFF>『ダッシュ攻撃』</color>が敵に命中し、<color=#F0D12B>物理属性ダメージ</color>を与えた時、<color=#FFFFFF>「電力」</color>を1重獲得する（最大8重）。<color=#FFFFFF>「電力」</color>の重数が上限に達した後に、<color=#FFFFFF>『特殊スキル』</color>または<color=#FFFFFF>『強化特殊スキル』</color>を発動した場合、全ての<color=#FFFFFF>「電力」</color>を消費することで、スキルによる<color=#2EB6FF>電気属性の状態異常蓄積値</color>が<color=#2BAD00>97.5%</color>アップする。",
-                "5": "グレースの<color=#FFFFFF>『通常攻撃』</color>または<color=#FFFFFF>『ダッシュ攻撃』</color>が敵に命中し、<color=#F0D12B>物理属性ダメージ</color>を与えた時、<color=#FFFFFF>「電力」</color>を1重獲得する（最大8重）。<color=#FFFFFF>「電力」</color>の重数が上限に達した後に、<color=#FFFFFF>『特殊スキル』</color>または<color=#FFFFFF>『強化特殊スキル』</color>を発動した場合、全ての<color=#FFFFFF>「電力」</color>を消費することで、スキルによる<color=#2EB6FF>電気属性の状態異常蓄積値</color>が<color=#2BAD00>108.3%</color>アップする。",
-                "6": "グレースの<color=#FFFFFF>『通常攻撃』</color>または<color=#FFFFFF>『ダッシュ攻撃』</color>が敵に命中し、<color=#F0D12B>物理属性ダメージ</color>を与えた時、<color=#FFFFFF>「電力」</color>を1重獲得する（最大8重）。<color=#FFFFFF>「電力」</color>の重数が上限に達した後に、<color=#FFFFFF>『特殊スキル』</color>または<color=#FFFFFF>『強化特殊スキル』</color>を発動した場合、全ての<color=#FFFFFF>「電力」</color>を消費することで、スキルによる<color=#2EB6FF>電気属性の状態異常蓄積値</color>が<color=#2BAD00>119.1%</color>アップする。",
-                "7": "グレースの<color=#FFFFFF>『通常攻撃』</color>または<color=#FFFFFF>『ダッシュ攻撃』</color>が敵に命中し、<color=#F0D12B>物理属性ダメージ</color>を与えた時、<color=#FFFFFF>「電力」</color>を1重獲得する（最大8重）。<color=#FFFFFF>「電力」</color>の重数が上限に達した後に、<color=#FFFFFF>『特殊スキル』</color>または<color=#FFFFFF>『強化特殊スキル』</color>を発動した場合、全ての<color=#FFFFFF>「電力」</color>を消費することで、スキルによる<color=#2EB6FF>電気属性の状態異常蓄積値</color>が<color=#2BAD00>130%</color>アップする。"
+                "1": "グレースの<color=#FFFFFF>『通常攻撃』</color>または<color=#FFFFFF>『ダッシュ攻撃』</color>が敵に命中し、<color=#F0D12B>物理属性ダメージ</color>を与えた時、<color=#FFFFFF>「電力」</color>を1重獲得する（最大8重）。<color=#FFFFFF>「電力」</color>の重数が上限に達した後に、<color=#FFFFFF>『特殊スキル』</color>または<color=#FFFFFF>『強化特殊スキル』</color>を発動した場合、全ての<color=#FFFFFF>「電力」</color>を消費することで、スキルによる<color=#2EB6FF>電気属性の状態異常蓄積値</color>+<color=#2BAD00>65%</color>。",
+                "2": "グレースの<color=#FFFFFF>『通常攻撃』</color>または<color=#FFFFFF>『ダッシュ攻撃』</color>が敵に命中し、<color=#F0D12B>物理属性ダメージ</color>を与えた時、<color=#FFFFFF>「電力」</color>を1重獲得する（最大8重）。<color=#FFFFFF>「電力」</color>の重数が上限に達した後に、<color=#FFFFFF>『特殊スキル』</color>または<color=#FFFFFF>『強化特殊スキル』</color>を発動した場合、全ての<color=#FFFFFF>「電力」</color>を消費することで、スキルによる<color=#2EB6FF>電気属性の状態異常蓄積値</color>+<color=#2BAD00>75.8%</color>。",
+                "3": "グレースの<color=#FFFFFF>『通常攻撃』</color>または<color=#FFFFFF>『ダッシュ攻撃』</color>が敵に命中し、<color=#F0D12B>物理属性ダメージ</color>を与えた時、<color=#FFFFFF>「電力」</color>を1重獲得する（最大8重）。<color=#FFFFFF>「電力」</color>の重数が上限に達した後に、<color=#FFFFFF>『特殊スキル』</color>または<color=#FFFFFF>『強化特殊スキル』</color>を発動した場合、全ての<color=#FFFFFF>「電力」</color>を消費することで、スキルによる<color=#2EB6FF>電気属性の状態異常蓄積値</color>+<color=#2BAD00>86.6%</color>。",
+                "4": "グレースの<color=#FFFFFF>『通常攻撃』</color>または<color=#FFFFFF>『ダッシュ攻撃』</color>が敵に命中し、<color=#F0D12B>物理属性ダメージ</color>を与えた時、<color=#FFFFFF>「電力」</color>を1重獲得する（最大8重）。<color=#FFFFFF>「電力」</color>の重数が上限に達した後に、<color=#FFFFFF>『特殊スキル』</color>または<color=#FFFFFF>『強化特殊スキル』</color>を発動した場合、全ての<color=#FFFFFF>「電力」</color>を消費することで、スキルによる<color=#2EB6FF>電気属性の状態異常蓄積値</color>+<color=#2BAD00>97.5%</color>。",
+                "5": "グレースの<color=#FFFFFF>『通常攻撃』</color>または<color=#FFFFFF>『ダッシュ攻撃』</color>が敵に命中し、<color=#F0D12B>物理属性ダメージ</color>を与えた時、<color=#FFFFFF>「電力」</color>を1重獲得する（最大8重）。<color=#FFFFFF>「電力」</color>の重数が上限に達した後に、<color=#FFFFFF>『特殊スキル』</color>または<color=#FFFFFF>『強化特殊スキル』</color>を発動した場合、全ての<color=#FFFFFF>「電力」</color>を消費することで、スキルによる<color=#2EB6FF>電気属性の状態異常蓄積値</color>+<color=#2BAD00>108.3%</color>。",
+                "6": "グレースの<color=#FFFFFF>『通常攻撃』</color>または<color=#FFFFFF>『ダッシュ攻撃』</color>が敵に命中し、<color=#F0D12B>物理属性ダメージ</color>を与えた時、<color=#FFFFFF>「電力」</color>を1重獲得する（最大8重）。<color=#FFFFFF>「電力」</color>の重数が上限に達した後に、<color=#FFFFFF>『特殊スキル』</color>または<color=#FFFFFF>『強化特殊スキル』</color>を発動した場合、全ての<color=#FFFFFF>「電力」</color>を消費することで、スキルによる<color=#2EB6FF>電気属性の状態異常蓄積値</color>+<color=#2BAD00>119.1%</color>。",
+                "7": "グレースの<color=#FFFFFF>『通常攻撃』</color>または<color=#FFFFFF>『ダッシュ攻撃』</color>が敵に命中し、<color=#F0D12B>物理属性ダメージ</color>を与えた時、<color=#FFFFFF>「電力」</color>を1重獲得する（最大8重）。<color=#FFFFFF>「電力」</color>の重数が上限に達した後に、<color=#FFFFFF>『特殊スキル』</color>または<color=#FFFFFF>『強化特殊スキル』</color>を発動した場合、全ての<color=#FFFFFF>「電力」</color>を消費することで、スキルによる<color=#2EB6FF>電気属性の状態異常蓄積値</color>+<color=#2BAD00>130%</color>。"
             }
         },
         "MathSkill": {

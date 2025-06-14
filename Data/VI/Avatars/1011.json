@@ -50,7 +50,7 @@
         },
         "MathSkill": {
             "Title": "Năng Lực Thêm: Đường Điện Song Song",
-            "Description": "Khi trong đội có nhân vật cùng phe hoặc có thuộc tính giống bản thân sẽ kích hoạt:\nKhi Anby phát động <color=#FFFFFF>Phản Kích Khi Né</color> trúng kẻ địch, hồi phục thêm 7,2 điểm Năng Lượng, trong 5s tối đa kích hoạt 1 lần."
+            "Description": "Khi trong đội có nhân vật cùng phe hoặc có thuộc tính giống bản thân sẽ kích hoạt:\nKhi Anby <color=#FFFFFF>Phản Kích Khi Né</color> trúng kẻ địch, hồi phục thêm 7,2 điểm Năng Lượng, trong 5s tối đa kích hoạt 1 lần."
         }
     },
     "SkillDescriptions": {

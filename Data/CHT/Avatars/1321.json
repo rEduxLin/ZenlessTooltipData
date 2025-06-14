@@ -50,7 +50,7 @@
         },
         "MathSkill": {
             "Title": "額外能力：潛襲支點",
-            "Description": "隊伍中包含<color=#FFFFFF>[擊破]</color>角色或<color=#FFFFFF>[支援]</color>角色時觸發：\n伊芙琳的<color=#FFFFFF>[連攜技]</color>和<color=#FFFFFF>[終結技]</color>造成的傷害提升30%。當伊芙琳的暴擊率大於等於80%時，<color=#FFFFFF>[連攜技]</color>和<color=#FFFFFF>[終結技]</color>的傷害倍率提升至原本的125%。"
+            "Description": "隊伍中包含<color=#FFFFFF>[擊破]</color>角色或<color=#FFFFFF>[支援]</color>角色時觸發：\n伊芙琳的<color=#FFFFFF>[連攜技]</color>和<color=#FFFFFF>[終結技]</color>造成的傷害提升30%；當伊芙琳的暴擊率大於等於80%時，<color=#FFFFFF>[連攜技：月輝絲·絆]</color>、<color=#FFFFFF>[終結技：月輝絲·弦音]</color>和<color=#FFFFFF>[終結技：月輝絲·弦影]</color>的傷害倍率提升至原本的125%。"
         }
     },
     "SkillDescriptions": {
@@ -65,11 +65,11 @@
             },
             "132100003": {
                 "Title": "普通攻擊：絞勒式·Ⅰ型",
-                "Description": "<color=#FFFFFF>[燎火]</color>大於等於50%時，長按 <IconMap:Icon_Normal> 或 <IconMap:Icon_Special> 發動：\n消耗50%<color=#FFFFFF>[燎火]</color>，使用<color=#FFFFFF>[月輝絲·弦]</color>進行斬擊，造成<color=#FF5521>火屬性傷害</color>。\n招式發動期間抗打斷等級提升，受到的傷害降低40%。\n招式發動後，累積1點<color=#FFFFFF>[燎索點]</color>。"
+                "Description": "<color=#FFFFFF>[燎火]</color>達到50%時，長按 <IconMap:Icon_Normal> 或 <IconMap:Icon_Special> 發動：\n消耗50%<color=#FFFFFF>[燎火]</color>，使用<color=#FFFFFF>[月輝絲·弦]</color>進行斬擊，造成<color=#FF5521>火屬性傷害</color>。\n招式發動期間抗打斷等級提升，受到的傷害降低40%。\n招式發動後，累積1點<color=#FFFFFF>[燎索點]</color>。"
             },
             "132100004": {
                 "Title": "普通攻擊：絞勒式·Ⅱ型",
-                "Description": "<color=#FFFFFF>[燎火]</color>大於等於50%時，<color=#FFFFFF>[普通攻擊：絞勒式·Ⅰ型]</color>發動後，繼續長按  <IconMap:Icon_Normal> 或 <IconMap:Icon_Special> 發動：\n消耗50%<color=#FFFFFF>[燎火]</color>，使用<color=#FFFFFF>[月輝絲·弦]</color>進行追擊，造成<color=#FF5521>火屬性傷害</color>。\n招式發動期間抗打斷等級提升，受到的傷害降低40%。\n招式發動後，累積1點<color=#FFFFFF>[燎索點]</color>。"
+                "Description": "<color=#FFFFFF>[燎火]</color>達到50%時，<color=#FFFFFF>[普通攻擊：絞勒式·Ⅰ型]</color>發動後，繼續長按  <IconMap:Icon_Normal> 或 <IconMap:Icon_Special> 發動：\n消耗50%<color=#FFFFFF>[燎火]</color>，使用<color=#FFFFFF>[月輝絲·弦]</color>進行追擊，造成<color=#FF5521>火屬性傷害</color>。\n招式發動期間抗打斷等級提升，受到的傷害降低40%。\n招式發動後，累積1點<color=#FFFFFF>[燎索點]</color>。"
             },
             "132110001": {
                 "Title": "普通攻擊：割弦"

@@ -21,7 +21,7 @@
         },
         "4": {
             "Title": "S'adapter pour survivre",
-            "Description": "Lorsqu'un membre de l'escouade inflige <color=#F0D12B>Assaut</color> ou <color=#FFFFFF>Dysfonctionnement</color>, les DGT d'anomalies d'attribut de tous les membres de l'escouade augmentent de 18 % pendant 15 s.",
+            "Description": "Lorsqu'un personnage de l'escouade inflige <color=#F0D12B>Assaut</color> ou <color=#FFFFFF>Dysfonctionnement</color>, les DGT d'anomalies d'attribut de tous les personnages de l'escouade augmentent de 18 % pendant 15 s.",
             "Lore": "« Distinguer le chasseur de la proie dépend parfois du point de vue. Toutefois, je préfère voir ça de manière plus directe :\nLa proie, c'est celui qui perd. »"
         },
         "5": {
@@ -31,7 +31,7 @@
         },
         "6": {
             "Title": "Coup « bas »",
-            "Description": "Dans l'état <color=#FFFFFF>Passion</color>, le taux CRIT de Jane augmente de 20 %, et ses DGT CRIT de 40 %. Lorsqu'un membre de l'escouade inflige <color=#F0D12B>Assaut</color>, Jane entre immédiatement dans l'état <color=#FFFFFF>Passion</color>, et ses <color=#FFFFFF>Bouffées de Passion</color> montent au maximum. Lorsque les DGT de cet effet <color=#F0D12B>Assaut</color> déclenchent un coup critique, Jane assène une attaque additionnelle à l'ennemi, qui inflige des <color=#F0D12B>DGT physiques</color> équivalents à 1 600 % de son adresse d'anomalie.",
+            "Description": "Dans l'état <color=#FFFFFF>Passion</color>, le taux CRIT de Jane augmente de 20 %, et ses DGT CRIT de 40 %. Lorsqu'un personnage de l'escouade inflige <color=#F0D12B>Assaut</color>, Jane entre immédiatement dans l'état <color=#FFFFFF>Passion</color>, et ses <color=#FFFFFF>Bouffées de Passion</color> montent au maximum. Lorsque les DGT de cet effet <color=#F0D12B>Assaut</color> déclenchent un coup critique, Jane assène une attaque additionnelle à l'ennemi, qui inflige des <color=#F0D12B>DGT physiques</color> équivalents à 1 600 % de son adresse d'anomalie.",
             "Lore": "Dans la rue, les moyens ne comptent pas, seule la fin est importante.\n« Nos désirs les plus sombres révèlent nos plus grandes faiblesses. »"
         }
     },
@@ -517,6 +517,18 @@
             "DamageGrowth": 12550,
             "DazeValue": 57530,
             "DazeGrowth": 2620
+        },
+        "1261028": {
+            "DamageValue": 6000,
+            "DamageGrowth": 0,
+            "DazeValue": 0,
+            "DazeGrowth": 0
+        },
+        "1261029": {
+            "DamageValue": 60000,
+            "DamageGrowth": 0,
+            "DazeValue": 0,
+            "DazeGrowth": 0
         }
     }
 }

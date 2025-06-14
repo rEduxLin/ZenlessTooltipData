@@ -21,7 +21,7 @@
         },
         "4": {
             "Title": "熔爐餘溫",
-            "Description": "消耗<color=#FFFFFF>[熔爐升溫]</color>發動強化<color=#FFFFFF>[普通攻擊]</color>時，珂蕾妲獲得1層充能（上限2層）。<color=#FFFFFF>[連攜技]</color>或<color=#FFFFFF>[終結技]</color>命中敵人時，消耗所有充能，每層充能使目前招式造成的傷害提升18%。",
+            "Description": "消耗<color=#FFFFFF>[熔爐升溫]</color>發動強化<color=#FFFFFF>[普通攻擊]</color>時，珂蕾妲獲得1層充能（上限2層）。<color=#FFFFFF>[連攜技：天崩-地裂]</color>或<color=#FFFFFF>[終結技：錘進地心]</color>命中敵人時，消耗所有充能，每層充能使目前招式造成的傷害提升18%。",
             "Lore": "當熾熱的揮錘讓周圍溫度上升後，珂蕾妲便進入了作戰狀態。\n現在，她比以太炸藥更易燃易爆。"
         },
         "5": {
@@ -50,7 +50,7 @@
         },
         "MathSkill": {
             "Title": "額外能力：白祇管理學",
-            "Description": "隊伍中包含與自身屬性或陣營相同的角色時觸發：\n珂蕾妲發動<color=#FFFFFF>[強化特殊技]</color>引發爆炸命中敵人時，對目標施加減益效果。當目標陷入失衡狀態後，全隊<color=#FFFFFF>[連攜技]</color>對其造成的傷害提升35%，最多疊加2層，失衡狀態結束時該效果重置。"
+            "Description": "隊伍中包含與自身屬性或陣營相同的角色或<color=#FFFFFF>[命破]</color>角色時觸發：\n珂蕾妲發動<color=#FFFFFF>[強化特殊技]</color>引發爆炸命中敵人時，對目標施加減益效果。當目標陷入失衡狀態後，<color=#FFFFFF>[連攜技]</color>對其造成的傷害提升35%，最多疊加2層，失衡狀態結束時該效果重置。"
         }
     },
     "SkillDescriptions": {

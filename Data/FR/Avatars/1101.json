@@ -21,7 +21,7 @@
         },
         "4": {
             "Title": "Lueur de la forge",
-            "Description": "Koleda obtient un cumul de charge, jusqu'à un maximum de 2 cumuls, lorsqu'elle consomme <color=#FFFFFF>Feu de forge</color> pour utiliser son <color=#FFFFFF>attaque normale</color> renforcée. Lorsque son <color=#FFFFFF>enchaînement</color> ou <color=#FFFFFF>ultime</color> touche un ennemi, elle consomme tous ses cumuls de charge. Chaque cumul consommé augmente les DGT infligés par la compétence de 18 %.",
+            "Description": "Koleda obtient un cumul de charge, jusqu'à un maximum de 2 cumuls, lorsqu'elle consomme <color=#FFFFFF>Feu de forge</color> pour utiliser son <color=#FFFFFF>attaque normale</color> renforcée. Lorsque <color=#FFFFFF>Enchaînement : Effondrement dévastateur</color> ou <color=#FFFFFF>Ultime : Marteau sismique</color> touche un ennemi, elle consomme tous ses cumuls de charge. Chaque cumul consommé augmente les DGT infligés par la compétence de 18 %.",
             "Lore": "Koleda sent les flammes de la guerre l'entourer tandis que ses coups de marteau font monter la température ambiante.\nÀ ces moments-là, elle est plus inflammable et explosive que l'éther."
         },
         "5": {
@@ -50,7 +50,7 @@
         },
         "MathSkill": {
             "Title": "Capacité supplémentaire : Direction Belobog",
-            "Description": "Lorsqu'un autre personnage de votre escouade est du même attribut ou de la même faction que Koleda :\nLorsque l'explosion de l'<color=#FFFFFF>attaque spéciale EX</color> de Koleda touche un ennemi, celui-ci subit un malus. Lorsque la cible est étourdie, les DGT des <color=#FFFFFF>enchaînements</color> de tous les membres de l'escouade infligés à cet ennemi augmentent de 35 %. Effet cumulable 2 fois. L'effet se réinitialise lorsque l'effet d'Étourdissement prend fin."
+            "Description": "Lorsqu'un autre personnage de votre escouade est du même attribut, de la même faction que Koleda, ou de la spécialisation <color=#FFFFFF>Rupture</color> :\nLorsque l'explosion de l'<color=#FFFFFF>attaque spéciale EX</color> de Koleda touche un ennemi, celui-ci subit un malus. Lorsque la cible est étourdie, les DGT des <color=#FFFFFF>enchaînements</color> infligés à cet ennemi augmentent de 35 %. Effet cumulable 2 fois. L'effet se réinitialise lorsque l'effet d'Étourdissement prend fin."
         }
     },
     "SkillDescriptions": {

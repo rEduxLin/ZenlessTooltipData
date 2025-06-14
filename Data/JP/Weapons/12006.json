@@ -17,23 +17,23 @@
     "Talents": {
         "1": {
             "Title": "強音",
-            "Description": "<color=#FFFFFF>『連携スキル』</color>または<color=#FFFFFF>『終結スキル』</color>を発動すると、チーム全体の攻撃力+<color=#2BAD00>8%</color>、継続時間10秒。20秒に1回のみ発動可能。同じパッシブ効果は重ね掛け不可。"
+            "Description": "<color=#FFFFFF>『連携スキル』</color>または<color=#FFFFFF>『終結スキル』</color>を発動すると、メンバー全員の攻撃力+<color=#2BAD00>8%</color>、継続時間10秒。20秒に1回のみ発動可能。同じパッシブ効果は重ね掛け不可。"
         },
         "2": {
             "Title": "強音",
-            "Description": "<color=#FFFFFF>『連携スキル』</color>または<color=#FFFFFF>『終結スキル』</color>を発動すると、チーム全体の攻撃力+<color=#2BAD00>9%</color>、継続時間10秒。20秒に1回のみ発動可能。同じパッシブ効果は重ね掛け不可。"
+            "Description": "<color=#FFFFFF>『連携スキル』</color>または<color=#FFFFFF>『終結スキル』</color>を発動すると、メンバー全員の攻撃力+<color=#2BAD00>9%</color>、継続時間10秒。20秒に1回のみ発動可能。同じパッシブ効果は重ね掛け不可。"
         },
         "3": {
             "Title": "強音",
-            "Description": "<color=#FFFFFF>『連携スキル』</color>または<color=#FFFFFF>『終結スキル』</color>を発動すると、チーム全体の攻撃力+<color=#2BAD00>10%</color>、継続時間10秒。20秒に1回のみ発動可能。同じパッシブ効果は重ね掛け不可。"
+            "Description": "<color=#FFFFFF>『連携スキル』</color>または<color=#FFFFFF>『終結スキル』</color>を発動すると、メンバー全員の攻撃力+<color=#2BAD00>10%</color>、継続時間10秒。20秒に1回のみ発動可能。同じパッシブ効果は重ね掛け不可。"
         },
         "4": {
             "Title": "強音",
-            "Description": "<color=#FFFFFF>『連携スキル』</color>または<color=#FFFFFF>『終結スキル』</color>を発動すると、チーム全体の攻撃力+<color=#2BAD00>11%</color>、継続時間10秒。20秒に1回のみ発動可能。同じパッシブ効果は重ね掛け不可。"
+            "Description": "<color=#FFFFFF>『連携スキル』</color>または<color=#FFFFFF>『終結スキル』</color>を発動すると、メンバー全員の攻撃力+<color=#2BAD00>11%</color>、継続時間10秒。20秒に1回のみ発動可能。同じパッシブ効果は重ね掛け不可。"
         },
         "5": {
             "Title": "強音",
-            "Description": "<color=#FFFFFF>『連携スキル』</color>または<color=#FFFFFF>『終結スキル』</color>を発動すると、チーム全体の攻撃力+<color=#2BAD00>12%</color>、継続時間10秒。20秒に1回のみ発動可能。同じパッシブ効果は重ね掛け不可。"
+            "Description": "<color=#FFFFFF>『連携スキル』</color>または<color=#FFFFFF>『終結スキル』</color>を発動すると、メンバー全員の攻撃力+<color=#2BAD00>12%</color>、継続時間10秒。20秒に1回のみ発動可能。同じパッシブ効果は重ね掛け不可。"
         }
     }
 }

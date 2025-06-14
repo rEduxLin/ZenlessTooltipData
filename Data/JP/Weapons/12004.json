@@ -17,23 +17,23 @@
     "Talents": {
         "1": {
             "Title": "潮汐",
-            "Description": "<color=#FFFFFF>『強化特殊スキル』</color>を発動すると、チーム全体の衝撃力+<color=#2BAD00>8%</color>、継続時間10秒。20秒に1回のみ発動可能。同じパッシブ効果は重ね掛け不可。"
+            "Description": "<color=#FFFFFF>『強化特殊スキル』</color>を発動すると、メンバー全員の衝撃力+<color=#2BAD00>8%</color>、継続時間10秒。20秒に1回のみ発動可能。同じパッシブ効果は重ね掛け不可。"
         },
         "2": {
             "Title": "潮汐",
-            "Description": "<color=#FFFFFF>『強化特殊スキル』</color>を発動すると、チーム全体の衝撃力+<color=#2BAD00>9%</color>、継続時間10秒。20秒に1回のみ発動可能。同じパッシブ効果は重ね掛け不可。"
+            "Description": "<color=#FFFFFF>『強化特殊スキル』</color>を発動すると、メンバー全員の衝撃力+<color=#2BAD00>9%</color>、継続時間10秒。20秒に1回のみ発動可能。同じパッシブ効果は重ね掛け不可。"
         },
         "3": {
             "Title": "潮汐",
-            "Description": "<color=#FFFFFF>『強化特殊スキル』</color>を発動すると、チーム全体の衝撃力+<color=#2BAD00>10%</color>、継続時間10秒。20秒に1回のみ発動可能。同じパッシブ効果は重ね掛け不可。"
+            "Description": "<color=#FFFFFF>『強化特殊スキル』</color>を発動すると、メンバー全員の衝撃力+<color=#2BAD00>10%</color>、継続時間10秒。20秒に1回のみ発動可能。同じパッシブ効果は重ね掛け不可。"
         },
         "4": {
             "Title": "潮汐",
-            "Description": "<color=#FFFFFF>『強化特殊スキル』</color>を発動すると、チーム全体の衝撃力+<color=#2BAD00>11%</color>、継続時間10秒。20秒に1回のみ発動可能。同じパッシブ効果は重ね掛け不可。"
+            "Description": "<color=#FFFFFF>『強化特殊スキル』</color>を発動すると、メンバー全員の衝撃力+<color=#2BAD00>11%</color>、継続時間10秒。20秒に1回のみ発動可能。同じパッシブ効果は重ね掛け不可。"
         },
         "5": {
             "Title": "潮汐",
-            "Description": "<color=#FFFFFF>『強化特殊スキル』</color>を発動すると、チーム全体の衝撃力+<color=#2BAD00>12%</color>、継続時間10秒。20秒に1回のみ発動可能。同じパッシブ効果は重ね掛け不可。"
+            "Description": "<color=#FFFFFF>『強化特殊スキル』</color>を発動すると、メンバー全員の衝撃力+<color=#2BAD00>12%</color>、継続時間10秒。20秒に1回のみ発動可能。同じパッシブ効果は重ね掛け不可。"
         }
     }
 }

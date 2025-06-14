@@ -69,7 +69,7 @@
             },
             "120100004": {
                 "Title": "Basisangriff: Ha-Oto no Ya",
-                "Description": "Beim Treffen von Gegnern oder dem Boden mit dem 5. Angriff des <color=#FFFFFF>Basisangriffs: Wolkenbrecher</color>, dem <color=#FFFFFF>verstärkten Spezialangriff</color> oder dem <color=#FFFFFF>Kettenangriff</color> werden jeweils 2, 6 oder 6 <color=#FFFFFF>Elektroköcher</color> generiert.\nWenn keine <color=#FFFFFF>Elektroköcher</color> auf dem Feld sind und ein Truppenmitglied einem Gegner eine Attributanomalie zufügt, werden 6 <color=#FFFFFF>Elektroköcher</color> generiert, 12 s Abklingzeit.\nAuf dem Feld kann es gleichzeitig max. 6 <color=#FFFFFF>Elektroköcher</color> geben. Wenn Harumasa Gegner mit <color=#FFFFFF>Federfall</color> trifft und es <color=#FFFFFF>Elektroköcher</color> auf dem Feld gibt, werden diese aktiviert und feuern <color=#FFFFFF>Ha-Oto no Ya</color> auf das von <color=#FFFFFF>Federfall</color> getroffene Ziel ab, wobei <color=#2EB6FF>Elektro-SCH</color> verursacht wird.\nBeim Treffen von Gegnern mit <color=#FFFFFF>Ha-Oto no Ya</color> wird ihnen der Effekt <color=#FFFFFF>Elektrokerker</color> zugefügt, max. 8-fach stapelbar und hält 10 s. Beim wiederholten Auslösen wird die Dauer aktualisiert. Bei mindestens 2 Stapelungen <color=#FFFFFF>Elektrokerker</color> wird dem Ziel eine <color=#FFFFFF>X-Markierung</color> verliehen."
+                "Description": "Beim Treffen von Gegnern oder dem Boden mit dem 5. Angriff des <color=#FFFFFF>Basisangriffs: Wolkenbrecher</color>, dem <color=#FFFFFF>verstärkten Spezialangriff</color> oder dem <color=#FFFFFF>Kettenangriff</color> werden jeweils 2, 6 oder 6 <color=#FFFFFF>Elektroköcher</color> generiert.\nWenn keine <color=#FFFFFF>Elektroköcher</color> auf dem Feld sind und eine Truppenfigur einem Gegner eine Attributanomalie zufügt, werden 6 <color=#FFFFFF>Elektroköcher</color> generiert, 12 s Abklingzeit.\nAuf dem Feld kann es gleichzeitig max. 6 <color=#FFFFFF>Elektroköcher</color> geben. Wenn Harumasa Gegner mit <color=#FFFFFF>Federfall</color> trifft und es <color=#FFFFFF>Elektroköcher</color> auf dem Feld gibt, werden diese aktiviert und feuern <color=#FFFFFF>Ha-Oto no Ya</color> auf das von <color=#FFFFFF>Federfall</color> getroffene Ziel ab, wobei <color=#2EB6FF>Elektro-SCH</color> verursacht wird.\nBeim Treffen von Gegnern mit <color=#FFFFFF>Ha-Oto no Ya</color> wird ihnen der Effekt <color=#FFFFFF>Elektrokerker</color> zugefügt, max. 8-fach stapelbar und hält 10 s. Beim wiederholten Auslösen wird die Dauer aktualisiert. Bei mindestens 2 Stapelungen <color=#FFFFFF>Elektrokerker</color> wird dem Ziel eine <color=#FFFFFF>X-Markierung</color> verliehen."
             },
             "120110001": {
                 "Title": "Basisangriff: Wolkenbrecher"
@@ -467,6 +467,12 @@
             "DamageGrowth": 1730,
             "DazeValue": 4950,
             "DazeGrowth": 230
+        },
+        "1201023": {
+            "DamageValue": 0,
+            "DamageGrowth": 0,
+            "DazeValue": 0,
+            "DazeGrowth": 0
         }
     }
 }

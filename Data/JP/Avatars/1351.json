@@ -6,12 +6,12 @@
     "Talents": {
         "1": {
             "Title": "エゴイスト",
-            "Description": "<color=#FFFFFF>「囚縛」</color>効果を付与された敵にダメージを与えた時、自身の会心率が10%アップする。",
+            "Description": "<color=#FFFFFF>「囚縛」</color>効果を付与された敵にダメージを与えた時、自身の会心率+10%。",
             "Lore": "「利己主義ってのは生まれ持った本能みたいなものさ。\n後天的に開花することもあるけどね」\n「どうやって？」\n「何度か火傷するうちに、嫌でもなれるよ」"
         },
         "2": {
             "Title": "機を見るに敏",
-            "Description": "<color=#FFFFFF>『コアパッシブ：捕食者の本能』</color>により<color=#FFFFFF>「猟歩」</color>状態にある時、プルクラの攻撃力が追加で10%アップする。",
+            "Description": "<color=#FFFFFF>『コアパッシブ：捕食者の本能』</color>により<color=#FFFFFF>「猟歩」</color>状態にある時、プルクラの攻撃力が追加で+10%。",
             "Lore": "「傭兵にとって一番大切なのは、忠誠心なんかじゃなくて柔軟性。\nそこそこの雇い主を選んで、性に合う依頼を受けて、\n頼まれた仕事だけやってればいい。長期契約さえ結ばなきゃ、\n競合に鞍替えしたって文句は言われないよ」\n「…ずいぶん顔が広いようだな、プルクラ。ついさっきも\n一人追っ払ったが、あんたにお冠だったみたいだぞ」\n「どいつもこいつも気が短いね。ああいうのを身の程知らずって言うんだよ」"
         },
         "3": {
@@ -31,7 +31,7 @@
         },
         "6": {
             "Title": "マスクの下には",
-            "Description": "<color=#FFFFFF>『特殊スキル：バイトクロー・ナイトメア』</color>の与ダメージが15%アップし、重複攻撃の発動可能回数が2回増える。\n<color=#FFFFFF>『追加能力：ビジネスパートナー』</color>による<color=#FFFFFF>「囚縛」</color>効果が<color=#FFFFFF>『追加攻撃』</color>以外のスキルのダメージにも適用されるようになる。",
+            "Description": "<color=#FFFFFF>『特殊スキル：バイトクロー・ナイトメア』</color>の与ダメージ+15%、重複攻撃の発動可能回数が2回増える。\n<color=#FFFFFF>『追加能力：ビジネスパートナー』</color>による<color=#FFFFFF>「囚縛」</color>効果が<color=#FFFFFF>『追加攻撃』</color>以外のスキルのダメージにも適用されるようになる。",
             "Lore": "マスク式の呼吸フィルターは、エーテル粒子と花粉をブロックし、\n他人の恐怖または好奇の目から守ってくれる。欠点があるとすれば、\nこれを着けたままだと丸まって寝れないことくらいだろう。\nポカポカした場所で、無防備にお昼寝がしたい…\nそんなことを考えていると、急にドアが開かれた。\n夢から覚めたプルクラは咄嗟に「相棒」を顔に装着し、\n大声で叫ぶ——「だからノック！！」\n…そういえば、いつの間にか外せるようになったな。"
         }
     },
@@ -39,18 +39,18 @@
         "UniqueSkill": {
             "Title": "コアパッシブ：捕食者の本能",
             "DescriptionByLevel": {
-                "1": "プルクラが<color=#FFFFFF>『強化特殊スキル』</color>、<color=#FFFFFF>『支援突撃』</color>、<color=#FFFFFF>『連携スキル』</color>または<color=#FFFFFF>『終結スキル』</color>を発動した時、<color=#FFFFFF>「猟歩」</color>状態に入り、自身の与えるブレイク値が<color=#2BAD00>15%</color>アップする、継続時間6秒。\n他のメンバーと交代した後も<color=#FFFFFF>「猟歩」</color>状態にある場合、プルクラが次に出場するまで<color=#FFFFFF>「猟歩」</color>状態が継続する。\n<color=#FFFFFF>「猟歩」</color>状態のプルクラを操作している時、自身の重撃が敵に命中すると、前のメンバーの<color=#FFFFFF>『クイック支援』</color>が発動可能になる。",
-                "2": "プルクラが<color=#FFFFFF>『強化特殊スキル』</color>、<color=#FFFFFF>『支援突撃』</color>、<color=#FFFFFF>『連携スキル』</color>または<color=#FFFFFF>『終結スキル』</color>を発動した時、<color=#FFFFFF>「猟歩」</color>状態に入り、自身の与えるブレイク値が<color=#2BAD00>17.5%</color>アップする、継続時間6秒。\n他のメンバーと交代した後も<color=#FFFFFF>「猟歩」</color>状態にある場合、プルクラが次に出場するまで<color=#FFFFFF>「猟歩」</color>状態が継続する。\n<color=#FFFFFF>「猟歩」</color>状態のプルクラを操作している時、自身の重撃が敵に命中すると、前のメンバーの<color=#FFFFFF>『クイック支援』</color>が発動可能になる。",
-                "3": "プルクラが<color=#FFFFFF>『強化特殊スキル』</color>、<color=#FFFFFF>『支援突撃』</color>、<color=#FFFFFF>『連携スキル』</color>または<color=#FFFFFF>『終結スキル』</color>を発動した時、<color=#FFFFFF>「猟歩」</color>状態に入り、自身の与えるブレイク値が<color=#2BAD00>20%</color>アップする、継続時間6秒。\n他のメンバーと交代した後も<color=#FFFFFF>「猟歩」</color>状態にある場合、プルクラが次に出場するまで<color=#FFFFFF>「猟歩」</color>状態が継続する。\n<color=#FFFFFF>「猟歩」</color>状態のプルクラを操作している時、自身の重撃が敵に命中すると、前のメンバーの<color=#FFFFFF>『クイック支援』</color>が発動可能になる。",
-                "4": "プルクラが<color=#FFFFFF>『強化特殊スキル』</color>、<color=#FFFFFF>『支援突撃』</color>、<color=#FFFFFF>『連携スキル』</color>または<color=#FFFFFF>『終結スキル』</color>を発動した時、<color=#FFFFFF>「猟歩」</color>状態に入り、自身の与えるブレイク値が<color=#2BAD00>22.5%</color>アップする、継続時間6秒。\n他のメンバーと交代した後も<color=#FFFFFF>「猟歩」</color>状態にある場合、プルクラが次に出場するまで<color=#FFFFFF>「猟歩」</color>状態が継続する。\n<color=#FFFFFF>「猟歩」</color>状態のプルクラを操作している時、自身の重撃が敵に命中すると、前のメンバーの<color=#FFFFFF>『クイック支援』</color>が発動可能になる。",
-                "5": "プルクラが<color=#FFFFFF>『強化特殊スキル』</color>、<color=#FFFFFF>『支援突撃』</color>、<color=#FFFFFF>『連携スキル』</color>または<color=#FFFFFF>『終結スキル』</color>を発動した時、<color=#FFFFFF>「猟歩」</color>状態に入り、自身の与えるブレイク値が<color=#2BAD00>25%</color>アップする、継続時間6秒。\n他のメンバーと交代した後も<color=#FFFFFF>「猟歩」</color>状態にある場合、プルクラが次に出場するまで<color=#FFFFFF>「猟歩」</color>状態が継続する。\n<color=#FFFFFF>「猟歩」</color>状態のプルクラを操作している時、自身の重撃が敵に命中すると、前のメンバーの<color=#FFFFFF>『クイック支援』</color>が発動可能になる。",
-                "6": "プルクラが<color=#FFFFFF>『強化特殊スキル』</color>、<color=#FFFFFF>『支援突撃』</color>、<color=#FFFFFF>『連携スキル』</color>または<color=#FFFFFF>『終結スキル』</color>を発動した時、<color=#FFFFFF>「猟歩」</color>状態に入り、自身の与えるブレイク値が<color=#2BAD00>27.5%</color>アップする、継続時間6秒。\n他のメンバーと交代した後も<color=#FFFFFF>「猟歩」</color>状態にある場合、プルクラが次に出場するまで<color=#FFFFFF>「猟歩」</color>状態が継続する。\n<color=#FFFFFF>「猟歩」</color>状態のプルクラを操作している時、自身の重撃が敵に命中すると、前のメンバーの<color=#FFFFFF>『クイック支援』</color>が発動可能になる。",
-                "7": "プルクラが<color=#FFFFFF>『強化特殊スキル』</color>、<color=#FFFFFF>『支援突撃』</color>、<color=#FFFFFF>『連携スキル』</color>または<color=#FFFFFF>『終結スキル』</color>を発動した時、<color=#FFFFFF>「猟歩」</color>状態に入り、自身の与えるブレイク値が<color=#2BAD00>30%</color>アップする、継続時間6秒。\n他のメンバーと交代した後も<color=#FFFFFF>「猟歩」</color>状態にある場合、プルクラが次に出場するまで<color=#FFFFFF>「猟歩」</color>状態が継続する。\n<color=#FFFFFF>「猟歩」</color>状態のプルクラを操作している時、自身の重撃が敵に命中すると、前のメンバーの<color=#FFFFFF>『クイック支援』</color>が発動可能になる。"
+                "1": "プルクラが<color=#FFFFFF>『強化特殊スキル』</color>、<color=#FFFFFF>『支援突撃』</color>、<color=#FFFFFF>『連携スキル』</color>または<color=#FFFFFF>『終結スキル』</color>を発動した時、<color=#FFFFFF>「猟歩」</color>状態に入り、自身の与えるブレイク値+<color=#2BAD00>15%</color>、継続時間6秒。\n他のメンバーと交代した後も<color=#FFFFFF>「猟歩」</color>状態にある場合、プルクラが次に出場するまで<color=#FFFFFF>「猟歩」</color>状態が継続する。\n<color=#FFFFFF>「猟歩」</color>状態のプルクラを操作している時、自身の重撃が敵に命中すると、前のメンバーの<color=#FFFFFF>『クイック支援』</color>が発動可能になる。",
+                "2": "プルクラが<color=#FFFFFF>『強化特殊スキル』</color>、<color=#FFFFFF>『支援突撃』</color>、<color=#FFFFFF>『連携スキル』</color>または<color=#FFFFFF>『終結スキル』</color>を発動した時、<color=#FFFFFF>「猟歩」</color>状態に入り、自身の与えるブレイク値+<color=#2BAD00>17.5%</color>、継続時間6秒。\n他のメンバーと交代した後も<color=#FFFFFF>「猟歩」</color>状態にある場合、プルクラが次に出場するまで<color=#FFFFFF>「猟歩」</color>状態が継続する。\n<color=#FFFFFF>「猟歩」</color>状態のプルクラを操作している時、自身の重撃が敵に命中すると、前のメンバーの<color=#FFFFFF>『クイック支援』</color>が発動可能になる。",
+                "3": "プルクラが<color=#FFFFFF>『強化特殊スキル』</color>、<color=#FFFFFF>『支援突撃』</color>、<color=#FFFFFF>『連携スキル』</color>または<color=#FFFFFF>『終結スキル』</color>を発動した時、<color=#FFFFFF>「猟歩」</color>状態に入り、自身の与えるブレイク値+<color=#2BAD00>20%</color>、継続時間6秒。\n他のメンバーと交代した後も<color=#FFFFFF>「猟歩」</color>状態にある場合、プルクラが次に出場するまで<color=#FFFFFF>「猟歩」</color>状態が継続する。\n<color=#FFFFFF>「猟歩」</color>状態のプルクラを操作している時、自身の重撃が敵に命中すると、前のメンバーの<color=#FFFFFF>『クイック支援』</color>が発動可能になる。",
+                "4": "プルクラが<color=#FFFFFF>『強化特殊スキル』</color>、<color=#FFFFFF>『支援突撃』</color>、<color=#FFFFFF>『連携スキル』</color>または<color=#FFFFFF>『終結スキル』</color>を発動した時、<color=#FFFFFF>「猟歩」</color>状態に入り、自身の与えるブレイク値+<color=#2BAD00>22.5%</color>、継続時間6秒。\n他のメンバーと交代した後も<color=#FFFFFF>「猟歩」</color>状態にある場合、プルクラが次に出場するまで<color=#FFFFFF>「猟歩」</color>状態が継続する。\n<color=#FFFFFF>「猟歩」</color>状態のプルクラを操作している時、自身の重撃が敵に命中すると、前のメンバーの<color=#FFFFFF>『クイック支援』</color>が発動可能になる。",
+                "5": "プルクラが<color=#FFFFFF>『強化特殊スキル』</color>、<color=#FFFFFF>『支援突撃』</color>、<color=#FFFFFF>『連携スキル』</color>または<color=#FFFFFF>『終結スキル』</color>を発動した時、<color=#FFFFFF>「猟歩」</color>状態に入り、自身の与えるブレイク値+<color=#2BAD00>25%</color>、継続時間6秒。\n他のメンバーと交代した後も<color=#FFFFFF>「猟歩」</color>状態にある場合、プルクラが次に出場するまで<color=#FFFFFF>「猟歩」</color>状態が継続する。\n<color=#FFFFFF>「猟歩」</color>状態のプルクラを操作している時、自身の重撃が敵に命中すると、前のメンバーの<color=#FFFFFF>『クイック支援』</color>が発動可能になる。",
+                "6": "プルクラが<color=#FFFFFF>『強化特殊スキル』</color>、<color=#FFFFFF>『支援突撃』</color>、<color=#FFFFFF>『連携スキル』</color>または<color=#FFFFFF>『終結スキル』</color>を発動した時、<color=#FFFFFF>「猟歩」</color>状態に入り、自身の与えるブレイク値+<color=#2BAD00>27.5%</color>、継続時間6秒。\n他のメンバーと交代した後も<color=#FFFFFF>「猟歩」</color>状態にある場合、プルクラが次に出場するまで<color=#FFFFFF>「猟歩」</color>状態が継続する。\n<color=#FFFFFF>「猟歩」</color>状態のプルクラを操作している時、自身の重撃が敵に命中すると、前のメンバーの<color=#FFFFFF>『クイック支援』</color>が発動可能になる。",
+                "7": "プルクラが<color=#FFFFFF>『強化特殊スキル』</color>、<color=#FFFFFF>『支援突撃』</color>、<color=#FFFFFF>『連携スキル』</color>または<color=#FFFFFF>『終結スキル』</color>を発動した時、<color=#FFFFFF>「猟歩」</color>状態に入り、自身の与えるブレイク値+<color=#2BAD00>30%</color>、継続時間6秒。\n他のメンバーと交代した後も<color=#FFFFFF>「猟歩」</color>状態にある場合、プルクラが次に出場するまで<color=#FFFFFF>「猟歩」</color>状態が継続する。\n<color=#FFFFFF>「猟歩」</color>状態のプルクラを操作している時、自身の重撃が敵に命中すると、前のメンバーの<color=#FFFFFF>『クイック支援』</color>が発動可能になる。"
             }
         },
         "MathSkill": {
             "Title": "追加能力：ビジネスパートナー",
-            "Description": "チームに<color=#FFFFFF>[強攻]</color>のメンバーまたは自身と同じ陣営のメンバーがいる時に発動：\nプルクラの<color=#FFFFFF>『特殊スキル：バイトクロー・ナイトメア』</color>、<color=#FFFFFF>『強化特殊スキル』</color>、<color=#FFFFFF>『支援突撃』</color>、<color=#FFFFFF>『連携スキル』</color>または<color=#FFFFFF>『終結スキル』</color>が敵に命中した時、ターゲットに<color=#FFFFFF>「囚縛」</color>効果を付与する、継続時間15秒。\n<color=#FFFFFF>「囚縛」</color>効果を付与された敵に対し、全味方ユニットの<color=#FFFFFF>『追加攻撃』</color>の与ダメージが30%アップする。"
+            "Description": "チームに<color=#FFFFFF>[強攻]</color>、<color=#FFFFFF>[命破]</color>、または自身と同じ陣営のメンバーがいる時に発動：\nプルクラの<color=#FFFFFF>『特殊スキル：バイトクロー・ナイトメア』</color>、<color=#FFFFFF>『強化特殊スキル：バイトクロー・フラッシュ』</color>、<color=#FFFFFF>『支援突撃：別料金だよ』</color>、<color=#FFFFFF>『連携スキル：びっくりさせた？』</color>または<color=#FFFFFF>『終結スキル：遊びの時間さ』</color>が敵に命中した時、ターゲットに<color=#FFFFFF>「囚縛」</color>効果を付与する、継続時間15秒。\n<color=#FFFFFF>「囚縛」</color>効果を付与された敵に対し、全ユニットの<color=#FFFFFF>『追加攻撃』</color>の与ダメージ+30%。"
         }
     },
     "SkillDescriptions": {
@@ -109,7 +109,7 @@
             },
             "135100004": {
                 "Title": "特殊スキル：バイトクロー・ナイトメア",
-                "Description": "プルクラが<color=#FFFFFF>「猟歩」</color>状態に入った後、操作している他のエージェントの<color=#FFFFFF>『特殊スキル』</color>または<color=#FFFFFF>『強化特殊スキル』</color>の重撃が敵に命中した時に発動：\nターゲットを中心に一往復の高速攻撃を放ち、<color=#F0D12B>物理属性ダメージ</color>を与える。\nスキル発動後、操作している他のエージェントの任意攻撃が敵に命中した時、プルクラは重複して攻撃を発動する、最大5回まで発動できる。そのうち最後の1回は、より強力なとどめの一撃になる。\nスキル発動中、無敵効果を得る。\n<color=#FFFFFF>『特殊スキル：バイトクロー・ナイトメア』</color>は、<color=#FFFFFF>『追加攻撃』</color>である。"
+                "Description": "プルクラが<color=#FFFFFF>「猟歩」</color>状態に入った後、操作している他のメンバーの<color=#FFFFFF>『特殊スキル』</color>または<color=#FFFFFF>『強化特殊スキル』</color>の重撃が敵に命中した時に発動：\nターゲットを中心に一往復の高速攻撃を放ち、<color=#F0D12B>物理属性ダメージ</color>を与える。\nスキル発動後、操作している他のメンバーの任意攻撃が敵に命中した時、プルクラは重複して攻撃を発動する、最大5回まで発動できる。そのうち最後の1回は、より強力なとどめの一撃になる。\nスキル発動中、無敵効果を得る。\n<color=#FFFFFF>『特殊スキル：バイトクロー・ナイトメア』</color>は、<color=#FFFFFF>『追加攻撃』</color>である。"
             },
             "135100005": {
                 "Title": "強化特殊スキル：バイトクロー・フラッシュ",

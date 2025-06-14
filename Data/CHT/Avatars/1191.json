@@ -119,237 +119,237 @@
             }
         },
         "1": {
-            "119100004": {
+            "119100005": {
                 "Title": "特殊技：擺尾",
                 "Description": "點按 <IconMap:Icon_Special> 發動：\n向前方進行快速甩尾攻擊，造成<color=#98EFF0>冰屬性傷害</color>。\n招式發動期間抗打斷等級提升。"
             },
-            "119100005": {
+            "119100006": {
                 "Title": "強化特殊技：橫掃",
                 "Description": "能量足夠時，點按 <IconMap:Icon_SpecialReady> 發動：\n向前方進行強力甩尾攻擊，造成大量<color=#98EFF0>冰屬性傷害</color>。\n命中敵人時，獲得1點<color=#FFFFFF>[急凍充能]</color>。\n招式發動期間擁有無敵效果。\n招式發動後，可直接銜接第三段<color=#FFFFFF>[普通攻擊]</color>。"
             },
-            "119100006": {
+            "119100007": {
                 "Title": "強化特殊技：鯊捲風",
                 "Description": "<color=#FFFFFF>[強化特殊技：橫掃]</color>發動後，能量足夠時，點按 <IconMap:Icon_SpecialReady> 發動：\n向前方進行強力連續斬擊，造成大量<color=#98EFF0>冰屬性傷害</color>。\n命中敵人時，獲得1點<color=#FFFFFF>[急凍充能]</color>。\n招式發動期間擁有無敵效果。\n招式發動後，可直接銜接第三段<color=#FFFFFF>[普通攻擊]</color>。"
             },
-            "119110015": {
+            "119110027": {
                 "Title": "特殊技：擺尾"
             },
-            "119110016": {
+            "119110028": {
                 "Description": "傷害倍率",
                 "Param": "{Skill:1191010, Prop:1001}"
             },
-            "119110017": {
+            "119110029": {
                 "Description": "失衡倍率",
                 "Param": "{Skill:1191010, Prop:1002}"
             },
-            "119110018": {
+            "119110030": {
                 "Title": "強化特殊技：橫掃"
             },
-            "119110019": {
+            "119110031": {
                 "Description": "傷害倍率",
                 "Param": "{Skill:1191011, Prop:1001}"
             },
-            "119110020": {
+            "119110032": {
                 "Description": "失衡倍率",
                 "Param": "{Skill:1191011, Prop:1002}"
             },
-            "119110021": {
+            "119110033": {
                 "Description": "能量消耗",
                 "Param": "40點"
             },
-            "119110022": {
+            "119110034": {
                 "Title": "強化特殊技：鯊捲風"
             },
-            "119110023": {
+            "119110035": {
                 "Description": "傷害倍率",
                 "Param": "{Skill:1191012, Prop:1001}"
             },
-            "119110024": {
+            "119110036": {
                 "Description": "失衡倍率",
                 "Param": "{Skill:1191012, Prop:1002}"
             },
-            "119110025": {
+            "119110037": {
                 "Description": "能量消耗",
                 "Param": "40點"
             }
         },
         "2": {
-            "119100007": {
+            "119100008": {
                 "Title": "閃避：渦漩",
                 "Description": "點按 <IconMap:Icon_Evade> 發動：\n快速的衝刺閃避。\n招式發動期間擁有無敵效果。\n觸發<color=#FFFFFF>[極限閃避]</color>時，艾蓮將獲得<color=#FFFFFF>[快蓄]</color>效果，縮短<color=#FFFFFF>[衝刺攻擊：冰淵潛襲]</color>的蓄力時間，最多持續5秒或觸發一次。"
             },
-            "119100008": {
+            "119100009": {
                 "Title": "衝刺：狩獵巡遊",
                 "Description": "長按或按兩下 <IconMap:Icon_Evade> 發動：\n進入<color=#FFFFFF>[巡遊]</color>狀態，快速衝刺移動。\n在<color=#FFFFFF>[巡遊]</color>狀態下使用{LAYOUT_CONSOLECONTROLLER#操作桿}{LAYOUT_FALLBACK#搖桿}控制方向，鬆開{LAYOUT_CONSOLECONTROLLER#操作桿}{LAYOUT_FALLBACK#搖桿}則會停下。\n招式發動瞬間擁有短暫的無敵效果。"
             },
-            "119100009": {
+            "119100010": {
                 "Title": "衝刺攻擊：冰淵潛襲",
                 "Description": "在<color=#FFFFFF>[巡遊]</color>狀態下，點按 <IconMap:Icon_Normal> 發動：\n對敵人進行迴旋斬擊，隨後拉開剪刀，發動快速剪擊，造成<color=#98EFF0>冰屬性傷害</color>。\n快速剪擊命中時，獲得1點<color=#FFFFFF>[急凍充能]</color>。\n\n在<color=#FFFFFF>[巡遊]</color>狀態下，長按 <IconMap:Icon_Normal> 發動：\n對敵人進行迴旋斬擊，隨後拉開剪刀，發動蓄力剪擊，造成大量<color=#98EFF0>冰屬性傷害</color>。\n蓄力剪擊命中時，獲得3點<color=#FFFFFF>[急凍充能]</color>，若敵人處於<color=#98EFF0>[凍結]</color>狀態下，則必定觸發<color=#98EFF0>[碎冰]</color>效果。\n招式蓄力期間抗打斷等級提升，受到的傷害降低40%。\n招式發動期間擁有無敵效果。"
             },
-            "119100010": {
+            "119100012": {
                 "Title": "急凍",
                 "Description": "擁有<color=#FFFFFF>[急凍充能]</color>時，將觸發<color=#FFFFFF>[急凍]</color>效果。觸發<color=#FFFFFF>[急凍]</color>效果後，<color=#FFFFFF>[普通攻擊]</color>和<color=#FFFFFF>[衝刺攻擊]</color>將消耗<color=#FFFFFF>[急凍充能]</color>，造成大量<color=#98EFF0>冰屬性傷害</color>。艾蓮最多可以擁有6點<color=#FFFFFF>[急凍充能]</color>。"
             },
-            "119100011": {
+            "119100013": {
                 "Title": "衝刺攻擊：駭浪",
                 "Description": "閃避時，點按 <IconMap:Icon_Normal> 發動：\n向前方進行突進斬擊，造成<color=#F0D12B>物理傷害</color>。"
             },
-            "119100012": {
+            "119100014": {
                 "Title": "衝刺攻擊：寒潮",
                 "Description": "啟動<color=#FFFFFF>[急凍]</color>效果後，閃避時，點按 <IconMap:Icon_Normal> 發動：\n向前方進行突進斬擊，造成<color=#98EFF0>冰屬性傷害</color>。\n消耗1點<color=#FFFFFF>[急凍充能]</color>。"
             },
-            "119100013": {
+            "119100015": {
                 "Title": "閃避反擊：暗礁",
                 "Description": "觸發<color=#FFFFFF>[極限閃避]</color>後，點按 <IconMap:Icon_Normal> 發動：\n快速穿過敵人，拉開剪刀進行剪擊，造成<color=#98EFF0>冰屬性傷害</color>。\n招式發動期間擁有無敵效果。"
             },
-            "119110026": {
+            "119110038": {
                 "Title": "衝刺攻擊：冰淵潛襲"
             },
-            "119110027": {
+            "119110039": {
                 "Description": "迴旋斬擊傷害倍率",
                 "Param": "{Skill:1191007, Prop:1001}"
             },
-            "119110028": {
+            "119110040": {
                 "Description": "快速剪擊傷害倍率",
                 "Param": "{Skill:1191008, Prop:1001}"
             },
-            "119110029": {
+            "119110041": {
                 "Description": "蓄力剪擊傷害倍率",
                 "Param": "{Skill:1191009, Prop:1001}"
             },
-            "119110030": {
+            "119110042": {
                 "Description": "迴旋斬擊失衡倍率",
                 "Param": "{Skill:1191007, Prop:1002}"
             },
-            "119110031": {
+            "119110043": {
                 "Description": "快速剪擊失衡倍率",
                 "Param": "{Skill:1191008, Prop:1002}"
             },
-            "119110032": {
+            "119110044": {
                 "Description": "蓄力剪擊失衡倍率",
                 "Param": "{Skill:1191009, Prop:1002}"
             },
-            "119110033": {
+            "119110045": {
                 "Description": "快速剪擊獲得急凍充能",
                 "Param": "1點"
             },
-            "119110034": {
+            "119110046": {
                 "Description": "蓄力剪擊獲得急凍充能",
                 "Param": "3點"
             },
-            "119110035": {
+            "119110047": {
                 "Title": "衝刺攻擊：駭浪"
             },
-            "119110036": {
+            "119110048": {
                 "Description": "傷害倍率",
                 "Param": "{Skill:1191013, Prop:1001}"
             },
-            "119110037": {
+            "119110049": {
                 "Description": "失衡倍率",
                 "Param": "{Skill:1191013, Prop:1002}"
             },
-            "119110038": {
+            "119110050": {
                 "Title": "衝刺攻擊：寒潮"
             },
-            "119110039": {
+            "119110051": {
                 "Description": "傷害倍率",
                 "Param": "{Skill:1191014, Prop:1001}"
             },
-            "119110040": {
+            "119110052": {
                 "Description": "失衡倍率",
                 "Param": "{Skill:1191014, Prop:1002}"
             },
-            "119110041": {
+            "119110053": {
                 "Title": "閃避反擊：暗礁"
             },
-            "119110042": {
+            "119110054": {
                 "Description": "傷害倍率",
                 "Param": "{Skill:1191015, Prop:1001}"
             },
-            "119110043": {
+            "119110055": {
                 "Description": "失衡倍率",
                 "Param": "{Skill:1191015, Prop:1002}"
             }
         },
         "3": {
-            "119100014": {
+            "119100016": {
                 "Title": "連攜技：雪崩",
                 "Description": "觸發<color=#FFFFFF>[連攜技]</color>時，選擇對應角色發動：\n從空中下砸並生成一陣冰風暴，造成大量<color=#98EFF0>冰屬性傷害</color>。\n招式發動期間擁有無敵效果。"
             },
-            "119100015": {
+            "119100017": {
                 "Title": "終結技：永冬狂宴",
                 "Description": "喧響等級達到<color=#FFFFFF>[極]</color>時，點按 <IconMap:Icon_UltimateReady> 發動：\n從空中下砸並生成一陣冰風暴，隨後使用剪刀進行強力一擊，造成大量<color=#98EFF0>冰屬性傷害</color>。\n招式發動期間擁有無敵效果。"
             },
-            "119110044": {
+            "119110056": {
                 "Title": "連攜技：雪崩"
             },
-            "119110045": {
+            "119110057": {
                 "Description": "傷害倍率",
                 "Param": "{Skill:1191016, Prop:1001}"
             },
-            "119110046": {
+            "119110058": {
                 "Description": "失衡倍率",
                 "Param": "{Skill:1191016, Prop:1002}"
             },
-            "119110047": {
+            "119110059": {
                 "Title": "終結技：永冬狂宴"
             },
-            "119110048": {
+            "119110060": {
                 "Description": "傷害倍率",
                 "Param": "{Skill:1191017, Prop:1001}"
             },
-            "119110049": {
+            "119110061": {
                 "Description": "失衡倍率",
                 "Param": "{Skill:1191017, Prop:1002}"
             }
         },
         "6": {
-            "119100017": {
+            "119100020": {
                 "Title": "快速支援：護衛鮫",
                 "Description": "目前操作中的角色被擊飛時，點按 <IconMap:Icon_Switch> 發動：\n快速穿過敵人，拉開剪刀進行剪擊，造成<color=#98EFF0>冰屬性傷害</color>。\n招式發動期間擁有無敵效果。\n目前操作中的角色被擊飛時，拖曳{LAYOUT_CONSOLECONTROLLER#操作桿}{LAYOUT_FALLBACK#搖桿}，點按 <IconMap:Icon_Switch> 發動：\n進入<color=#FFFFFF>[巡遊]</color>狀態，快速衝刺移動。\n在<color=#FFFFFF>[巡遊]</color>狀態下使用{LAYOUT_CONSOLECONTROLLER#操作桿}{LAYOUT_FALLBACK#搖桿}控制方向，鬆開{LAYOUT_CONSOLECONTROLLER#操作桿}{LAYOUT_FALLBACK#搖桿}則會停下。\n招式發動瞬間擁有短暫的無敵效果。\n發動<color=#FFFFFF>[快速支援]</color>時，艾蓮將獲得<color=#FFFFFF>[快蓄]</color>效果，縮短<color=#FFFFFF>[衝刺攻擊：冰淵潛襲]</color>的蓄力時間，最多持續5秒或觸發一次。"
             },
-            "119100018": {
+            "119100021": {
                 "Title": "招架支援：迎頭浪",
                 "Description": "前場角色即將被攻擊時，點按 <IconMap:Icon_Switch> 發動：\n招架敵人的攻擊，累積大量失衡值。\n招式發動期間擁有無敵效果。"
             },
-            "119100019": {
+            "119100022": {
                 "Title": "支援突擊：巡洋鯊",
                 "Description": "發動<color=#FFFFFF>[招架支援]</color>後，點按 <IconMap:Icon_Normal> 發動：\n對前方敵人發動突進斬擊，造成<color=#98EFF0>冰屬性傷害</color>。\n招式攻擊期間，連點或長按 <IconMap:Icon_Normal> 可以延長招式的持續時間。\n招式發動期間擁有無敵效果。"
             },
-            "119110050": {
+            "119110062": {
                 "Title": "快速支援：護衛鮫"
             },
-            "119110051": {
+            "119110063": {
                 "Description": "傷害倍率",
                 "Param": "{Skill:1191018, Prop:1001}"
             },
-            "119110052": {
+            "119110064": {
                 "Description": "失衡倍率",
                 "Param": "{Skill:1191018, Prop:1002}"
             },
-            "119110053": {
+            "119110065": {
                 "Title": "招架支援：迎頭浪"
             },
-            "119110054": {
+            "119110066": {
                 "Description": "輕招架失衡倍率",
                 "Param": "{Skill:1191019, Prop:1002}"
             },
-            "119110055": {
+            "119110067": {
                 "Description": "重招架失衡倍率",
                 "Param": "{Skill:1191020, Prop:1002}"
             },
-            "119110056": {
+            "119110068": {
                 "Description": "連續招架失衡倍率",
                 "Param": "{Skill:1191021, Prop:1002}"
             },
-            "119110057": {
+            "119110069": {
                 "Title": "支援突擊：巡洋鯊"
             },
-            "119110058": {
+            "119110070": {
                 "Description": "傷害倍率",
                 "Param": "{Skill:1191022, Prop:1001}"
             },
-            "119110059": {
+            "119110071": {
                 "Description": "失衡倍率",
                 "Param": "{Skill:1191022, Prop:1002}"
             }
@@ -511,6 +511,30 @@
             "DamageGrowth": 250,
             "DazeValue": 0,
             "DazeGrowth": 0
+        },
+        "1191027": {
+            "DamageValue": 6040,
+            "DamageGrowth": 550,
+            "DazeValue": 2580,
+            "DazeGrowth": 120
+        },
+        "1191028": {
+            "DamageValue": 1300,
+            "DamageGrowth": 120,
+            "DazeValue": 560,
+            "DazeGrowth": 30
+        },
+        "1191029": {
+            "DamageValue": 23020,
+            "DamageGrowth": 2100,
+            "DazeValue": 6700,
+            "DazeGrowth": 310
+        },
+        "1191030": {
+            "DamageValue": 14680,
+            "DamageGrowth": 1340,
+            "DazeValue": 8420,
+            "DazeGrowth": 390
         }
     }
 }

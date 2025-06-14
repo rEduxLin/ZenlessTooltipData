@@ -31,7 +31,7 @@
         },
         "6": {
             "Title": "Campo de Energia Corrompido",
-            "Description": "Quando os campos de energia da Nicole causam dano a um inimigo, a Taxa CRIT de todos os membros da equipe contra o inimigo aumenta 1,5%, acumula até dez vezes e dura 12s. A duração de cada acúmulo é calculada separadamente.",
+            "Description": "Quando os campos de energia da Nicole causam dano a um inimigo, a Taxa CRIT de todos os aliados contra o inimigo aumenta 1,5%, acumula até dez vezes e dura 12s. A duração de cada acúmulo é calculada separadamente.",
             "Lore": "Adotar munição de qualidade superior com mais poder de fogo e mais Matéria Etérea comprimida garante um aumento de dano, maior duração de uso... e custos maiores."
         }
     },
@@ -50,7 +50,7 @@
         },
         "MathSkill": {
             "Title": "Habilidade Extra: Refúgio da Lebre",
-            "Description": "Quando outro personagem na sua equipe compartilha do mesmo atributo ou facção:\nQuando a <color=#FFFFFF>Passiva Principal: Caixa Mecânica</color> de Nicole aplica uma penalidade, toda a equipa causa 25% mais <color=#FE437E>Dano de Éter</color> ao alvo durante 3,5s."
+            "Description": "Quando outro personagem na sua equipe compartilha do mesmo atributo ou facção:\nQuando a <color=#FFFFFF>Passiva Principal: Caixa Mecânica</color> de Nicole aplica uma penalidade, todos os aliados causam 25% mais <color=#FE437E>Dano de Éter</color> ao alvo durante 3,5s."
         }
     },
     "SkillDescriptions": {

@@ -11,7 +11,7 @@
         },
         "2": {
             "Title": "フェイルセーフ・プロトコル",
-            "Description": "0号・アンビーの会心率が12%アップする。\n<color=#FFFFFF>『終結スキル』</color>を発動した時、0号・アンビーは<color=#FFFFFF>「雷鳴」</color>を6重獲得する（最大6重）。\n<color=#FFFFFF>「雷鳴」</color>を所持している場合、『特殊スキル・蒼光』が敵に命中した時、<color=#FFFFFF>「白雷」</color>の代わりに<color=#FFFFFF>「雷鳴」</color>を1重消費する（敵が<color=#FFFFFF>「白雷」</color>を所持していない場合は消費しない）。\n1回のスキルが複数の敵に命中した場合は、最大で<color=#FFFFFF>「雷鳴」</color>を1重消費する。\nこの方法で<color=#FFFFFF>「雷鳴」</color>を消費した時も、<color=#FFFFFF>「白雷」</color>による追加ダメージが発動する。",
+            "Description": "0号・アンビーの会心率+12%。\n<color=#FFFFFF>『終結スキル』</color>を発動した時、0号・アンビーは<color=#FFFFFF>「雷鳴」</color>を6重獲得する（最大6重）。\n<color=#FFFFFF>「雷鳴」</color>を所持している場合、0号・アンビーの『特殊スキル・蒼光』が敵に命中した時、<color=#FFFFFF>「白雷」</color>の代わりに<color=#FFFFFF>「雷鳴」</color>を1重消費する（敵が<color=#FFFFFF>「白雷」</color>を所持していない場合は消費しない）。\n1回のスキルが複数の敵に命中した場合は、最大で<color=#FFFFFF>「雷鳴」</color>を1重消費する。\nこの方法で<color=#FFFFFF>「雷鳴」</color>を消費した時も、<color=#FFFFFF>「白雷」</color>による追加ダメージが発動する。",
             "Lore": "「どうした{M#んだい}{F#の}？すごく疲れて{M#い}る{M#ようだけれど}{F#みたいだけど}」\n「私は…ううん、私は平気よ」\n「{M#僕}{F#私}に手伝えることがあったら、何でも言って{M#くれ}{F#！}」"
         },
         "3": {
@@ -39,18 +39,18 @@
         "UniqueSkill": {
             "Title": "コアパッシブ：電位差",
             "DescriptionByLevel": {
-                "1": "<color=#FFFFFF>「銀星」</color>の印を持つ敵に対し、0号・アンビーの与ダメージが<color=#2BAD00>12.5%</color>アップする。\n<color=#FFFFFF>「銀星」</color>の印を持つ敵に対し、<color=#FFFFFF>『追加攻撃』</color>による会心ダメージが、0号・アンビーの会心ダメージ<color=#2BAD00>15%</color>分アップする。",
-                "2": "<color=#FFFFFF>「銀星」</color>の印を持つ敵に対し、0号・アンビーの与ダメージが<color=#2BAD00>14.5%</color>アップする。\n<color=#FFFFFF>「銀星」</color>の印を持つ敵に対し、<color=#FFFFFF>『追加攻撃』</color>による会心ダメージが、0号・アンビーの会心ダメージ<color=#2BAD00>17.5%</color>分アップする。",
-                "3": "<color=#FFFFFF>「銀星」</color>の印を持つ敵に対し、0号・アンビーの与ダメージが<color=#2BAD00>16.5%</color>アップする。\n<color=#FFFFFF>「銀星」</color>の印を持つ敵に対し、<color=#FFFFFF>『追加攻撃』</color>による会心ダメージが、0号・アンビーの会心ダメージ<color=#2BAD00>20%</color>分アップする。",
-                "4": "<color=#FFFFFF>「銀星」</color>の印を持つ敵に対し、0号・アンビーの与ダメージが<color=#2BAD00>18.8%</color>アップする。\n<color=#FFFFFF>「銀星」</color>の印を持つ敵に対し、<color=#FFFFFF>『追加攻撃』</color>による会心ダメージが、0号・アンビーの会心ダメージ<color=#2BAD00>22.5%</color>分アップする。",
-                "5": "<color=#FFFFFF>「銀星」</color>の印を持つ敵に対し、0号・アンビーの与ダメージが<color=#2BAD00>20.8%</color>アップする。\n<color=#FFFFFF>「銀星」</color>の印を持つ敵に対し、<color=#FFFFFF>『追加攻撃』</color>による会心ダメージが、0号・アンビーの会心ダメージ<color=#2BAD00>25%</color>分アップする。",
-                "6": "<color=#FFFFFF>「銀星」</color>の印を持つ敵に対し、0号・アンビーの与ダメージが<color=#2BAD00>23%</color>アップする。\n<color=#FFFFFF>「銀星」</color>の印を持つ敵に対し、<color=#FFFFFF>『追加攻撃』</color>による会心ダメージが、0号・アンビーの会心ダメージ<color=#2BAD00>27.5%</color>分アップする。",
-                "7": "<color=#FFFFFF>「銀星」</color>の印を持つ敵に対し、0号・アンビーの与ダメージが<color=#2BAD00>25%</color>アップする。\n<color=#FFFFFF>「銀星」</color>の印を持つ敵に対し、<color=#FFFFFF>『追加攻撃』</color>による会心ダメージが、0号・アンビーの会心ダメージ<color=#2BAD00>30%</color>分アップする。"
+                "1": "<color=#FFFFFF>「銀星」</color>の印を持つ敵に対し、0号・アンビーの与ダメージ+<color=#2BAD00>12.5%</color>。\n<color=#FFFFFF>「銀星」</color>の印を持つ敵に対し、<color=#FFFFFF>『追加攻撃』</color>による会心ダメージが、0号・アンビーの会心ダメージ<color=#2BAD00>15%</color>分アップする。",
+                "2": "<color=#FFFFFF>「銀星」</color>の印を持つ敵に対し、0号・アンビーの与ダメージ+<color=#2BAD00>14.5%</color>。\n<color=#FFFFFF>「銀星」</color>の印を持つ敵に対し、<color=#FFFFFF>『追加攻撃』</color>による会心ダメージが、0号・アンビーの会心ダメージ<color=#2BAD00>17.5%</color>分アップする。",
+                "3": "<color=#FFFFFF>「銀星」</color>の印を持つ敵に対し、0号・アンビーの与ダメージ+<color=#2BAD00>16.5%</color>。\n<color=#FFFFFF>「銀星」</color>の印を持つ敵に対し、<color=#FFFFFF>『追加攻撃』</color>による会心ダメージが、0号・アンビーの会心ダメージ<color=#2BAD00>20%</color>分アップする。",
+                "4": "<color=#FFFFFF>「銀星」</color>の印を持つ敵に対し、0号・アンビーの与ダメージ+<color=#2BAD00>18.8%</color>。\n<color=#FFFFFF>「銀星」</color>の印を持つ敵に対し、<color=#FFFFFF>『追加攻撃』</color>による会心ダメージが、0号・アンビーの会心ダメージ<color=#2BAD00>22.5%</color>分アップする。",
+                "5": "<color=#FFFFFF>「銀星」</color>の印を持つ敵に対し、0号・アンビーの与ダメージ+<color=#2BAD00>20.8%</color>。\n<color=#FFFFFF>「銀星」</color>の印を持つ敵に対し、<color=#FFFFFF>『追加攻撃』</color>による会心ダメージが、0号・アンビーの会心ダメージ<color=#2BAD00>25%</color>分アップする。",
+                "6": "<color=#FFFFFF>「銀星」</color>の印を持つ敵に対し、0号・アンビーの与ダメージ+<color=#2BAD00>23%</color>。\n<color=#FFFFFF>「銀星」</color>の印を持つ敵に対し、<color=#FFFFFF>『追加攻撃』</color>による会心ダメージが、0号・アンビーの会心ダメージ<color=#2BAD00>27.5%</color>分アップする。",
+                "7": "<color=#FFFFFF>「銀星」</color>の印を持つ敵に対し、0号・アンビーの与ダメージ+<color=#2BAD00>25%</color>。\n<color=#FFFFFF>「銀星」</color>の印を持つ敵に対し、<color=#FFFFFF>『追加攻撃』</color>による会心ダメージが、0号・アンビーの会心ダメージ<color=#2BAD00>30%</color>分アップする。"
             }
         },
         "MathSkill": {
             "Title": "追加能力：誘電分極",
-            "Description": "チームに<color=#FFFFFF>「撃破」</color>または<color=#FFFFFF>「支援」</color>のメンバーがいる時に発動：\n0号・アンビーの会心率が10%アップする。\n0号・アンビーを操作している時、<color=#FFFFFF>「銀星」</color>の印を持つ敵に対し、チーム全体の<color=#FFFFFF>『追加攻撃』</color>の与ダメージが25%アップする。"
+            "Description": "チームに<color=#FFFFFF>[撃破]</color>または<color=#FFFFFF>[支援]</color>のメンバーがいる時に発動：\n0号・アンビーの会心率+10%。\n0号・アンビーを操作している時、<color=#FFFFFF>「銀星」</color>の印を持つ敵に対し、メンバー全員の<color=#FFFFFF>『追加攻撃』</color>の与ダメージ+25%。"
         }
     },
     "SkillDescriptions": {

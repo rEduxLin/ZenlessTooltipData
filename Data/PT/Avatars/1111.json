@@ -21,7 +21,7 @@
         },
         "4": {
             "Title": "Todos no clima!",
-            "Description": "Quando Anton usa um <color=#FFFFFF>Ataque em Cadeia</color> ou <color=#FFFFFF>Supremo</color>, a Taxa CRIT da equipe aumenta 10% por 12s.",
+            "Description": "Quando Anton usa um <color=#FFFFFF>Ataque em Cadeia</color> ou <color=#FFFFFF>Supremo</color>, a Taxa CRIT dos membros da equipe aumenta 10% por 12s.",
             "Lore": "\"Vamos lembrar o treinamento e avançar juntos!\"\nQuando Anton começa a ficar sério, todos ficam mais ágeis. Afinal, você vai estar treinando sem companhia amanhã se não conseguir manter o ritmo."
         },
         "5": {

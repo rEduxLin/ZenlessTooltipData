@@ -21,7 +21,7 @@
         },
         "4": {
             "Title": "Calor fundente",
-            "Description": "Al consumir el efecto de <color=#FFFFFF>fragua incandescente</color> y ejecutar un <color=#FFFFFF>ataque normal</color> fortalecido, Koleda obtiene 1 carga energizante (pueden acumularse hasta 2 cargas). Al golpear a un enemigo con una <color=#FFFFFF>técnica en cadena</color> o una <color=#FFFFFF>técnica definitiva</color>, consume todas las cargas energizantes. Por cada carga energizante consumida, aumenta el daño infligido en un 18 %.",
+            "Description": "Al consumir el efecto de <color=#FFFFFF>fragua incandescente</color> y ejecutar un <color=#FFFFFF>ataque normal</color> fortalecido, Koleda obtiene 1 carga energizante (pueden acumularse hasta 2 cargas). Al golpear a un enemigo con una <color=#FFFFFF>técnica en cadena: Catástrofe natural</color> o una <color=#FFFFFF>técnica definitiva: Martillazo sísmico</color>, consume todas las cargas energizantes. Por cada carga energizante consumida, aumenta el daño infligido en un 18 %.",
             "Lore": "El espíritu combatiente se introduce en Koleda conforme las llamas de su martillo aumentan la temperatura. Ahora ella es más volátil que el éter."
         },
         "5": {
@@ -50,7 +50,7 @@
         },
         "MathSkill": {
             "Title": "Técnica adicional: Gestión de Belobog",
-            "Description": "Si en el equipo hay miembros del mismo Atributo o la misma afiliación que ella:\nCuando Koleda golpea a un enemigo con la explosión provocada por una <color=#FFFFFF>técnica especial EX</color>, el objetivo obtiene un efecto negativo con el cual, al estar afectado por Aturdimiento, aumenta el daño infligido por la <color=#FFFFFF>técnica en cadena</color> de todos los miembros del equipo en un 35 %. Pueden acumularse hasta 2 cargas. Este efecto desaparece al terminar el estado de Aturdimiento."
+            "Description": "Si en el equipo hay miembros del mismo atributo, la misma afiliación que ella o <color=#FFFFFF>disruptivos</color>:\nCuando Koleda golpea a un enemigo con la explosión provocada por una <color=#FFFFFF>técnica especial EX</color>, el objetivo obtiene un efecto negativo con el cual, al estar afectado por Aturdimiento, el daño infligido por la <color=#FFFFFF>técnica en cadena</color> aumenta en un 35 %. Pueden acumularse hasta 2 cargas. Este efecto desaparece al terminar el estado de Aturdimiento."
         }
     },
     "SkillDescriptions": {

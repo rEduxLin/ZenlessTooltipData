@@ -6,7 +6,7 @@
     "Talents": {
         "1": {
             "Title": "Recharge Chamber",
-            "Description": "Saat <color=#FFFFFF>Basic Attack</color> tahap keempat Grace mengenai musuh, semua anggota tim akan memulihkan 0,25 poin Energy. Dalam satu serangan, efek ini hanya dapat memulihkan maks. 2 poin Energy untuk semua anggota tim.",
+            "Description": "Saat <color=#FFFFFF>Basic Attack</color> tahap keempat Grace mengenai musuh, semua Agen dalam tim akan memulihkan 0,25 poin Energy. Dalam satu serangan, efek ini hanya dapat memulihkan maks. 2 poin Energy untuk semua anggota tim.",
             "Lore": "Efisiensi - Itulah pintu rahasia ilmu teknis, dan di dalam hati Grace, terdapat kuncinya."
         },
         "2": {
@@ -21,7 +21,7 @@
         },
         "4": {
             "Title": "Burst Capacitor",
-            "Description": "Saat melancarkan <color=#FFFFFF>EX Special Attack</color>, Grace akan mendapatkan 6 lapis Charge (maks. 6 lapis).\nSaat <color=#FFFFFF>Basic Attack</color> atau <color=#FFFFFF>Dash Attack</color> Grace mengenai musuh, dia akan mengonsumsi 1 lapis Charge untuk meningkatkan Energy Generation Rate untuk Skill ini sebesar 20%.",
+            "Description": "Saat melancarkan <color=#FFFFFF>EX Special Attack</color>, Grace akan mendapatkan 6 lapis Charge (maks. 6 lapis). Saat <color=#FFFFFF>Basic Attack: High-Pressure Spike</color> atau <color=#FFFFFF>Dash Attack: Quick Inspection</color> Grace mengenai musuh, dia akan mengonsumsi 1 lapis Charge untuk meningkatkan Energy Generation Rate untuk Skill ini sebesar 20%.",
             "Lore": "Anton curiga bahwa di dalam komponen yang Grace sebut sebagai \"Modul Daur Ulang Listrik\", sebenarnya ada seekor hamster Ether yang terus berlari untuk menghasilkan energi...\n\"Boleh minta satu untuk Mas Bro enggak?\" tanya Anton."
         },
         "5": {

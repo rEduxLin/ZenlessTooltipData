@@ -50,7 +50,7 @@
         },
         "MathSkill": {
             "Title": "추가 능력: 비즈니스 파트너",
-            "Description": "파티에 <color=#FFFFFF>[강공]</color> 캐릭터 혹은 자신과 진영이 같은 캐릭터가 존재할 시 발동:\n펄크라가 시전한 <color=#FFFFFF>[특수 스킬: 포식의 발톱·악몽의 엄습]</color>, <color=#FFFFFF>[강화 특수 스킬]</color>, <color=#FFFFFF>[지원 돌격]</color>, <color=#FFFFFF>[콤보 스킬]</color>, <color=#FFFFFF>[궁극기]</color>가 적에게 명중 시 적에게 <color=#FFFFFF>[트랩]</color> 효과를 부여한다. 지속 시간: 15초. <color=#FFFFFF>[트랩]</color> 효과가 부여된 후, 모든 유닛의 <color=#FFFFFF>[여진 공격]</color>이 타깃에게 주는 피해가 30% 증가한다."
+            "Description": "파티에 <color=#FFFFFF>[강공]</color> 혹은 <color=#FFFFFF>[명파]</color> 캐릭터 혹은 자신과 진영이 같은 캐릭터가 존재할 시 발동:\n펄크라가 시전한 <color=#FFFFFF>[특수 스킬: 포식의 발톱·악몽의 엄습]</color>, <color=#FFFFFF>[강화 특수 스킬: 포식의 발톱·발놀림]</color>, <color=#FFFFFF>[지원 돌격: 별도 요금]</color>, <color=#FFFFFF>[콤보 스킬: 안녕, 이건 몰랐지?]</color>, <color=#FFFFFF>[궁극기: 자, 놀아 볼까]</color>가 적에게 명중 시 적에게 <color=#FFFFFF>[트랩]</color> 효과를 부여한다. 지속 시간: 15초. <color=#FFFFFF>[트랩]</color> 효과가 부여된 후, 모든 유닛이 시전한 <color=#FFFFFF>[여진 공격]</color>으로 타깃에게 주는 피해가 30% 증가한다."
         }
     },
     "SkillDescriptions": {
@@ -109,7 +109,7 @@
             },
             "135100004": {
                 "Title": "특수 스킬: 포식의 발톱·악몽의 엄습",
-                "Description": "펄크라가 <color=#FFFFFF>[사냥꾼의 걸음]</color> 상태 진입 후, 파티 내 다른 조작 중인 캐릭터가 시전한 <color=#FFFFFF>[특수 스킬]</color> 혹은 <color=#FFFFFF>[강화 특수 스킬]</color> 강공격이 적에게 명중 시 발동:\n타깃 적을 둘러싸고 빠르게 앞뒤로 찔러 <color=#F0D12B>물리 피해</color>를 준다.\n스킬 시전 후, 파티 내 다른 조작 중인 캐릭터가 시전한 임의의 공격이 적에게 명중 시 펄크라가 공격을 중복 시전한다. 최대 추가 발동: 5회, 마지막 공격은 더욱 강력한 종결의 일격으로 대체된다.\n스킬을 시전하는 동안 무적 효과를 보유한다.\n<color=#FFFFFF>[특수 스킬: 포식의 발톱·악몽의 엄습]</color>은 <color=#FFFFFF>[여진 공격]</color>이다."
+                "Description": "펄크라가 <color=#FFFFFF>[사냥꾼의 걸음]</color> 상태 진입 후, 파티 내 다른 조작 중인 캐릭터의 <color=#FFFFFF>[특수 스킬]</color> 혹은 <color=#FFFFFF>[강화 특수 스킬]</color> 강공격이 적에게 명중 시 발동:\n타깃 적을 둘러싸고 빠르게 앞뒤로 찔러 <color=#F0D12B>물리 피해</color>를 준다.\n스킬 시전 후, 파티 내 다른 조작 중인 캐릭터가 시전한 임의의 공격이 적에게 명중 시 펄크라가 공격을 중복 시전한다. 최대 추가 발동: 5회, 마지막 공격은 더욱 강력한 종결의 일격으로 대체된다.\n스킬을 시전하는 동안 무적 효과를 보유한다.\n<color=#FFFFFF>[특수 스킬: 포식의 발톱·악몽의 엄습]</color>은 <color=#FFFFFF>[여진 공격]</color>이다."
             },
             "135100005": {
                 "Title": "강화 특수 스킬: 포식의 발톱·발놀림",

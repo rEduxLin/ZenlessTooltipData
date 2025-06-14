@@ -50,7 +50,7 @@
         },
         "MathSkill": {
             "Title": "Additional Ability: \"Moonlit Frenzy\"",
-            "Description": "When another character in your squad is an <color=#FFFFFF>Attack</color> or <color=#FFFFFF>Anomaly</color> character:\nWhen Energy is consumed to trigger a <color=#FFFFFF>Precise Assist</color> or <color=#FFFFFF>Basic Attack: Finale</color>, Astra Yao will additionally follow up with 1 <color=#FFFFFF>Tremolo</color> and 3 <color=#FFFFFF>Tone Clusters</color>."
+            "Description": "When another character in your squad is an <color=#FFFFFF>Attack</color>, <color=#FFFFFF>Anomaly</color>, or <color=#FFFFFF>Rupture</color> character:\nWhen Energy is consumed to trigger a <color=#FFFFFF>Precise Assist</color> or <color=#FFFFFF>Basic Attack: Finale</color>, Astra Yao will additionally follow up with 1 <color=#FFFFFF>Tremolo</color> and 3 <color=#FFFFFF>Tone Clusters</color>."
         }
     },
     "SkillDescriptions": {
@@ -189,11 +189,11 @@
                 "Title": "Special Attack: \"Windchimes & Oaths\""
             },
             "131100044": {
-                "Description": "Squad DMG Increase",
+                "Description": "Squad Members DMG Increase",
                 "Param": "{CAL:0.08+AvatarSkillLevel(1)*0.01,100,2}%"
             },
             "131100045": {
-                "Description": "Squad CRIT DMG Increase",
+                "Description": "Squad Members CRIT DMG Increase",
                 "Param": "{CAL:0.07+AvatarSkillLevel(1)*0.015,100,2}%"
             },
             "131100046": {

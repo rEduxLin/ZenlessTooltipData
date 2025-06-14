@@ -6,7 +6,7 @@
     "Talents": {
         "1": {
             "Title": "十二平均律",
-            "Description": "耀嘉音攻击命中敌人时，目标的全属性伤害抗性降低6%，最多叠加3层，持续30秒，重复触发时刷新持续时间；进入战场时，耀嘉音立刻获得1000点喧响值；发动<color=#FFFFFF>[终结技]</color>时，全队各自获得1层<color=#FFFFFF>[庇佑之音]</color>效果，持续60秒，受到敌方攻击时，将消耗<color=#FFFFFF>[庇佑之音]</color>并获得无敌效果，持续1秒。",
+            "Description": "耀嘉音攻击命中敌人时，目标的全属性伤害抗性降低6%，最多叠加3层，持续30秒，重复触发时刷新持续时间；进入战场时，耀嘉音立刻获得1000点喧响值；发动<color=#FFFFFF>[终结技]</color>时，全队角色各自获得1层<color=#FFFFFF>[庇佑之音]</color>效果，持续60秒，受到敌方攻击时，将消耗<color=#FFFFFF>[庇佑之音]</color>并获得无敌效果，持续1秒。",
             "Lore": "「老师老师，什么是十二平均律？」\n「十二平均律是一种音乐的律式，就像小朋友们要排队队一样，声音也要排队队。」\n「那声音肯定也和小朋友一样，不爱排队队！」\n——嘉音六岁时的音乐老师，在她成名之后回忆道。"
         },
         "2": {
@@ -50,7 +50,7 @@
         },
         "MathSkill": {
             "Title": "额外能力：《月华乱舞》",
-            "Description": "队伍中存在<color=#FFFFFF>[强攻]</color>或<color=#FFFFFF>[异常]</color>角色时触发：\n消耗能量发动<color=#FFFFFF>[精准支援]</color>或<color=#FFFFFF>[普通攻击：终曲]</color>时，耀嘉音将额外追加释放1道<color=#FFFFFF>[震音]</color>和3枚<color=#FFFFFF>[音簇]</color>进行攻击。"
+            "Description": "队伍中存在<color=#FFFFFF>[强攻]</color>、<color=#FFFFFF>[异常]</color>或<color=#FFFFFF>[命破]</color>角色时触发：\n消耗能量发动<color=#FFFFFF>[精准支援]</color>或<color=#FFFFFF>[普通攻击：终曲]</color>时，耀嘉音将额外追加释放1道<color=#FFFFFF>[震音]</color>和3枚<color=#FFFFFF>[音簇]</color>进行攻击。"
         }
     },
     "SkillDescriptions": {
@@ -179,7 +179,7 @@
             },
             "131100006": {
                 "Title": "咏叹华彩",
-                "Description": "耀嘉音进入<color=#FFFFFF>[咏叹华彩]</color>状态后，全队造成的伤害提升<color=#2BAD00>{CAL:0.08+AvatarSkillLevel(1)*0.01,100,2}%</color>，全队暴击伤害提升<color=#2BAD00>{CAL:0.07+AvatarSkillLevel(1)*0.015,100,2}%</color>;\n<color=#FFFFFF>[咏叹华彩]</color>状态下，耀嘉音无法移动，但可以点按 <IconMap:Icon_Normal> 发动<color=#FFFFFF>[普通攻击：间奏]</color>，或点按 <IconMap:Icon_Evade> 发动闪避，触发<color=#FFFFFF>[极限闪避]</color>后，点按 <IconMap:Icon_Normal> ，可以发动<color=#FFFFFF>[普通攻击：副歌]</color>；\n状态持续期间，耀嘉音的抗打断等级提升，受到的伤害降低40%，切换至其他角色后，耀嘉音会继续留在前场，并获得无敌效果，切换回耀嘉音时，则会自动衔接发动<color=#FFFFFF>[特殊技：《风铃与旧约》]</color>；\n状态持续期间，长按 <IconMap:Icon_Normal> 发动<color=#FFFFFF>[普通攻击：终曲]</color>，或长按 <IconMap:Icon_Evade> ，可以退出<color=#FFFFFF>[咏叹华彩]</color>状态。"
+                "Description": "耀嘉音进入<color=#FFFFFF>[咏叹华彩]</color>状态后，全队角色造成的伤害提升<color=#2BAD00>{CAL:0.08+AvatarSkillLevel(1)*0.01,100,2}%</color>，全队角色暴击伤害提升<color=#2BAD00>{CAL:0.07+AvatarSkillLevel(1)*0.015,100,2}%</color>;\n<color=#FFFFFF>[咏叹华彩]</color>状态下，耀嘉音无法移动，但可以点按 <IconMap:Icon_Normal> 发动<color=#FFFFFF>[普通攻击：间奏]</color>，或点按 <IconMap:Icon_Evade> 发动闪避，触发<color=#FFFFFF>[极限闪避]</color>后，点按 <IconMap:Icon_Normal> ，可以发动<color=#FFFFFF>[普通攻击：副歌]</color>；\n状态持续期间，耀嘉音的抗打断等级提升，受到的伤害降低40%，切换至其他角色后，耀嘉音会继续留在前场，并获得无敌效果，切换回耀嘉音时，则会自动衔接发动<color=#FFFFFF>[特殊技：《风铃与旧约》]</color>；\n状态持续期间，长按 <IconMap:Icon_Normal> 发动<color=#FFFFFF>[普通攻击：终曲]</color>，或长按 <IconMap:Icon_Evade> ，可以退出<color=#FFFFFF>[咏叹华彩]</color>状态。"
             },
             "131100007": {
                 "Title": "和弦",
@@ -189,11 +189,11 @@
                 "Title": "特殊技：《风铃与旧约》"
             },
             "131100044": {
-                "Description": "全队伤害提升",
+                "Description": "全队角色伤害提升",
                 "Param": "{CAL:0.08+AvatarSkillLevel(1)*0.01,100,2}%"
             },
             "131100045": {
-                "Description": "全队暴击伤害提升",
+                "Description": "全队角色暴击伤害提升",
                 "Param": "{CAL:0.07+AvatarSkillLevel(1)*0.015,100,2}%"
             },
             "131100046": {
@@ -271,7 +271,7 @@
             },
             "131100012": {
                 "Title": "终结技：《幻想式奏鸣》",
-                "Description": "喧响等级达到<color=#FFFFFF>[极]</color>时，点按 <IconMap:Icon_UltimateReady> 发动：\n用歌声引导能量轰击，造成大量<color=#FE437E>以太伤害</color>，并为全队回复<color=#2BAD00>{CAL:-50+AvatarSkillLevel(3)*250,1,2}</color>点生命值；\n招式发动期间拥有无敌效果；\n招式命中敌人时，将触发<color=#FFFFFF>[快速支援]</color>；\n招式发动后，耀嘉音将进入<color=#FFFFFF>[咏叹华彩]</color>状态；\n招式发动后，下两次发动的<color=#FFFFFF>[快速支援]</color>，将被替换为<color=#FFFFFF>[连携技]</color>；\n次数耗尽前，全队<color=#FFFFFF>[连携技]</color>或<color=#FFFFFF>[终结技]</color>命中敌人时，将触发<color=#FFFFFF>[快速支援]</color>。"
+                "Description": "喧响等级达到<color=#FFFFFF>[极]</color>时，点按 <IconMap:Icon_UltimateReady> 发动：\n用歌声引导能量轰击，造成大量<color=#FE437E>以太伤害</color>，并为全队角色回复<color=#2BAD00>{CAL:-50+AvatarSkillLevel(3)*250,1,2}</color>点生命值；\n招式发动期间拥有无敌效果；\n招式命中敌人时，将触发<color=#FFFFFF>[快速支援]</color>；\n招式发动后，耀嘉音将进入<color=#FFFFFF>[咏叹华彩]</color>状态；\n招式发动后，下两次发动的<color=#FFFFFF>[快速支援]</color>，将被替换为<color=#FFFFFF>[连携技]</color>；\n次数耗尽前，全队角色<color=#FFFFFF>[连携技]</color>或<color=#FFFFFF>[终结技]</color>命中敌人时，将触发<color=#FFFFFF>[快速支援]</color>。"
             },
             "131100060": {
                 "Title": "连携技：《微醺协奏》"

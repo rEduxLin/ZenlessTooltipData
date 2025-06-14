@@ -6,7 +6,7 @@
     "Talents": {
         "1": {
             "Title": "ハンマリングリズム",
-            "Description": "<color=#FFFFFF>『特殊スキル』</color>または<color=#FFFFFF>『強化特殊スキル』</color>を、<color=#FFFFFF>『通常攻撃』</color>2段目、4段目、または強化された<color=#FFFFFF>『通常攻撃』</color>の後に繋げると、スキルの与えるブレイク値が15%アップする。",
+            "Description": "<color=#FFFFFF>『特殊スキル』</color>または<color=#FFFFFF>『強化特殊スキル』</color>を、<color=#FFFFFF>『通常攻撃』</color>2段目、4段目、または強化された<color=#FFFFFF>『通常攻撃』</color>の後に繋げると、スキルの与えるブレイク値+15%。",
             "Lore": "気性の荒さはただの表面に過ぎない。実は、クレタはとても繊細な心の持ち主だ。\n例えば、いつハンマーを振れば、相手を一番痛く叩けるか、彼女はよく知っている。"
         },
         "2": {
@@ -21,7 +21,7 @@
         },
         "4": {
             "Title": "溶炉の余熱",
-            "Description": "<color=#FFFFFF>「溶炉昇温」</color>を消費して強化された<color=#FFFFFF>『通常攻撃』</color>を発動した時、クレタはパワーを1重獲得する（最大2重）。\n<color=#FFFFFF>『連携スキル』</color>または<color=#FFFFFF>『終結スキル』</color>が敵に命中した時、すべてのパワーを消費し、パワー1重につき、その攻撃の与ダメージが18%アップする。",
+            "Description": "<color=#FFFFFF>「溶炉昇温」</color>を消費して強化された<color=#FFFFFF>『通常攻撃』</color>を発動した時、クレタはパワーを1重獲得する（最大2重）。<color=#FFFFFF>『連携スキル：天崩・地裂』</color>または<color=#FFFFFF>『終結スキル：地の底にぶちこんでやる！』</color>が敵に命中した時、すべてのパワーを消費し、パワー1重につき、その攻撃の与ダメージ+18%。",
             "Lore": "焼けつくようなハンマーの一振りで周囲の温度を爆上げし、\nクレタは戦闘状態に入った。\n今の彼女はエーテル爆薬よりも燃えやすく、そして爆ぜやすい。"
         },
         "5": {
@@ -39,18 +39,18 @@
         "UniqueSkill": {
             "Title": "コアパッシブ：爆砕槌",
             "DescriptionByLevel": {
-                "1": "クレタが<color=#FFFFFF>『強化特殊スキル』</color>、または<color=#FFFFFF>「溶炉昇温」</color>を消費し強化された<color=#FFFFFF>『通常攻撃』</color>を発動した時、スキルの与えるブレイク値が<color=#2BAD00>30%</color>アップする。",
-                "2": "クレタが<color=#FFFFFF>『強化特殊スキル』</color>、または<color=#FFFFFF>「溶炉昇温」</color>を消費し強化された<color=#FFFFFF>『通常攻撃』</color>を発動した時、スキルの与えるブレイク値が<color=#2BAD00>35%</color>アップする。",
-                "3": "クレタが<color=#FFFFFF>『強化特殊スキル』</color>、または<color=#FFFFFF>「溶炉昇温」</color>を消費し強化された<color=#FFFFFF>『通常攻撃』</color>を発動した時、スキルの与えるブレイク値が<color=#2BAD00>40%</color>アップする。",
-                "4": "クレタが<color=#FFFFFF>『強化特殊スキル』</color>、または<color=#FFFFFF>「溶炉昇温」</color>を消費し強化された<color=#FFFFFF>『通常攻撃』</color>を発動した時、スキルの与えるブレイク値が<color=#2BAD00>45%</color>アップする。",
-                "5": "クレタが<color=#FFFFFF>『強化特殊スキル』</color>、または<color=#FFFFFF>「溶炉昇温」</color>を消費し強化された<color=#FFFFFF>『通常攻撃』</color>を発動した時、スキルの与えるブレイク値が<color=#2BAD00>50%</color>アップする。",
-                "6": "クレタが<color=#FFFFFF>『強化特殊スキル』</color>、または<color=#FFFFFF>「溶炉昇温」</color>を消費し強化された<color=#FFFFFF>『通常攻撃』</color>を発動した時、スキルの与えるブレイク値が<color=#2BAD00>55%</color>アップする。",
-                "7": "クレタが<color=#FFFFFF>『強化特殊スキル』</color>、または<color=#FFFFFF>「溶炉昇温」</color>を消費し強化された<color=#FFFFFF>『通常攻撃』</color>を発動した時、スキルの与えるブレイク値が<color=#2BAD00>60%</color>アップする。"
+                "1": "クレタが<color=#FFFFFF>『強化特殊スキル』</color>、または<color=#FFFFFF>「溶炉昇温」</color>を消費し強化された<color=#FFFFFF>『通常攻撃』</color>を発動した時、スキルの与えるブレイク値+<color=#2BAD00>30%</color>。",
+                "2": "クレタが<color=#FFFFFF>『強化特殊スキル』</color>、または<color=#FFFFFF>「溶炉昇温」</color>を消費し強化された<color=#FFFFFF>『通常攻撃』</color>を発動した時、スキルの与えるブレイク値+<color=#2BAD00>35%</color>。",
+                "3": "クレタが<color=#FFFFFF>『強化特殊スキル』</color>、または<color=#FFFFFF>「溶炉昇温」</color>を消費し強化された<color=#FFFFFF>『通常攻撃』</color>を発動した時、スキルの与えるブレイク値+<color=#2BAD00>40%</color>。",
+                "4": "クレタが<color=#FFFFFF>『強化特殊スキル』</color>、または<color=#FFFFFF>「溶炉昇温」</color>を消費し強化された<color=#FFFFFF>『通常攻撃』</color>を発動した時、スキルの与えるブレイク値+<color=#2BAD00>45%</color>。",
+                "5": "クレタが<color=#FFFFFF>『強化特殊スキル』</color>、または<color=#FFFFFF>「溶炉昇温」</color>を消費し強化された<color=#FFFFFF>『通常攻撃』</color>を発動した時、スキルの与えるブレイク値+<color=#2BAD00>50%</color>。",
+                "6": "クレタが<color=#FFFFFF>『強化特殊スキル』</color>、または<color=#FFFFFF>「溶炉昇温」</color>を消費し強化された<color=#FFFFFF>『通常攻撃』</color>を発動した時、スキルの与えるブレイク値+<color=#2BAD00>55%</color>。",
+                "7": "クレタが<color=#FFFFFF>『強化特殊スキル』</color>、または<color=#FFFFFF>「溶炉昇温」</color>を消費し強化された<color=#FFFFFF>『通常攻撃』</color>を発動した時、スキルの与えるブレイク値+<color=#2BAD00>60%</color>。"
             }
         },
         "MathSkill": {
             "Title": "追加能力：白祇式経営学",
-            "Description": "チームに自身と同じ属性または同じ陣営のメンバーがいる時に発動：\nクレタの<color=#FFFFFF>『強化特殊スキル』</color>による爆発を敵に命中させると、ターゲットにデバフ効果を付与する。ターゲットがブレイク状態になった時、該当ターゲットに対してチーム全体の<color=#FFFFFF>『連携スキル』</color>の与ダメージが35%アップする、最大2重まで重ね掛け可能。ブレイク状態が終了するとリセットされる。"
+            "Description": "チームに自身と同じ属性、同じ陣営、または<color=#FFFFFF>[命破]</color>のメンバーがいる時に発動：\nクレタの<color=#FFFFFF>『強化特殊スキル』</color>による爆発を敵に命中させると、ターゲットにデバフ効果を付与する。ターゲットがブレイク状態になった時、該当ターゲットに対して<color=#FFFFFF>『連携スキル』</color>の与ダメージ+35%、最大2重まで重ね掛け可能。ブレイク状態が終了するとリセットされる。"
         }
     },
     "SkillDescriptions": {

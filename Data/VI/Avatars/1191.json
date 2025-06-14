@@ -119,237 +119,237 @@
             }
         },
         "1": {
-            "119100004": {
+            "119100005": {
                 "Title": "Chiến Kỹ: Vẫy Đuôi",
                 "Description": "Nhấn <IconMap:Icon_Special> phát động:\nHất đuôi nhanh về phía trước để tấn công, gây <color=#98EFF0>DMG Băng</color>.\nChiêu thức khi phát động sẽ tăng cấp Kháng Gián Đoạn."
             },
-            "119100005": {
+            "119100006": {
                 "Title": "Siêu Chiến Kỹ: Quét Sạch",
                 "Description": "Khi đủ Năng Lượng, nhấn <IconMap:Icon_SpecialReady> phát động:\nHất đuôi mạnh về phía trước để tấn công, gây lượng lớn <color=#98EFF0>DMG Băng</color>.\nKhi trúng kẻ địch, sẽ nhận 1 điểm <color=#FFFFFF>Sạc Cấp Đông</color>.\nChiêu thức khi phát động sẽ có hiệu quả Vô Địch.\nSau khi phát động chiêu thức, có thể trực tiếp thực hiện <color=#FFFFFF>Tấn Công Thường</color> đòn thứ 3 ngay sau đó."
             },
-            "119100006": {
+            "119100007": {
                 "Title": "Siêu Chiến Kỹ: Lốc Cá Mập",
                 "Description": "Sau khi phát động <color=#FFFFFF>Siêu Chiến Kỹ: Quét Sạch</color>， khi đủ Năng Lượng, nhấn <IconMap:Icon_SpecialReady> phát động:\nLiên tục chém mạnh về phía trước, gây lượng lớn <color=#98EFF0>DMG Băng</color>.\nKhi trúng kẻ địch, sẽ nhận 1 điểm <color=#FFFFFF>Sạc Cấp Đông</color>.\nChiêu thức khi phát động sẽ có hiệu quả Vô Địch.\nSau khi phát động chiêu thức, có thể trực tiếp thực hiện <color=#FFFFFF>Tấn Công Thường</color> đòn thứ 3 ngay sau đó."
             },
-            "119110015": {
+            "119110027": {
                 "Title": "Chiến Kỹ: Vẫy Đuôi"
             },
-            "119110016": {
+            "119110028": {
                 "Description": "Bội Số DMG",
                 "Param": "{Skill:1191010, Prop:1001}"
             },
-            "119110017": {
+            "119110029": {
                 "Description": "Bội Số Choáng",
                 "Param": "{Skill:1191010, Prop:1002}"
             },
-            "119110018": {
+            "119110030": {
                 "Title": "Siêu Chiến Kỹ: Quét Sạch"
             },
-            "119110019": {
+            "119110031": {
                 "Description": "Bội Số DMG",
                 "Param": "{Skill:1191011, Prop:1001}"
             },
-            "119110020": {
+            "119110032": {
                 "Description": "Bội Số Choáng",
                 "Param": "{Skill:1191011, Prop:1002}"
             },
-            "119110021": {
+            "119110033": {
                 "Description": "Tiêu Hao Năng Lượng",
                 "Param": "40 điểm"
             },
-            "119110022": {
+            "119110034": {
                 "Title": "Siêu Chiến Kỹ: Lốc Cá Mập"
             },
-            "119110023": {
+            "119110035": {
                 "Description": "Bội Số DMG",
                 "Param": "{Skill:1191012, Prop:1001}"
             },
-            "119110024": {
+            "119110036": {
                 "Description": "Bội Số Choáng",
                 "Param": "{Skill:1191012, Prop:1002}"
             },
-            "119110025": {
+            "119110037": {
                 "Description": "Tiêu Hao Năng Lượng",
                 "Param": "40 điểm"
             }
         },
         "2": {
-            "119100007": {
+            "119100008": {
                 "Title": "Né: Nước Xoáy",
                 "Description": "Nhấn <IconMap:Icon_Evade> để phát động:\nNhanh chóng né tránh.\nChiêu thức khi phát động sẽ có hiệu quả Vô Địch.\nKhi kích hoạt <color=#FFFFFF>Né Hoàn Hảo</color>, Ellen sẽ nhận được hiệu quả <color=#FFFFFF>Tụ Nhanh</color>, rút ngắn thời gian tụ lực của <color=#FFFFFF>Tấn Công Lướt: Tập Kích Vực Băng</color>, tối đa duy trì 5s hoặc kích hoạt một lần."
             },
-            "119100008": {
+            "119100009": {
                 "Title": "Lướt: Tuần Hành Săn Bắt",
                 "Description": "Nhấn giữ hoặc nhấn đúp <IconMap:Icon_Evade> để phát động:\nVào trạng thái <color=#FFFFFF>Tuần Tra</color>, lướt nhanh di chuyển.\nTrong trạng thái <color=#FFFFFF>Tuần Tra</color>, sử dụng {LAYOUT_CONSOLECONTROLLER#cần}{LAYOUT_FALLBACK#cần điều khiển} để kiểm soát phương hướng, thả {LAYOUT_CONSOLECONTROLLER#cần}{LAYOUT_FALLBACK#cần điều khiển} để dừng lại.\nKhoảnh khắc phát động chiêu thức sẽ có hiệu quả Vô Địch trong thời gian ngắn."
             },
-            "119100009": {
+            "119100010": {
                 "Title": "Tấn Công Lướt: Tập Kích Vực Băng",
                 "Description": "Trong trạng thái <color=#FFFFFF>Tuần Tra</color>, nhấn <IconMap:Icon_Normal> phát động:\nChém xoáy vào kẻ địch, sau đó rút kéo phát động Kéo Cắt Nhanh, gây <color=#98EFF0>DMG Băng</color>.\nKhi Kéo Cắt Nhanh đánh trúng, sẽ nhận 1 điểm <color=#FFFFFF>Sạc Cấp Đông</color>.\n\nTrong trạng thái <color=#FFFFFF>Tuần Tra</color>, nhấn giữ <IconMap:Icon_Normal> phát động:\nChém xoáy vào kẻ địch, sau đó rút kéo, phát động Tụ Lực Kéo Cắt, gây lượng lớn <color=#98EFF0>DMG Băng</color>.\nKhi Tụ Lực Kéo Cắt đánh trúng, sẽ nhận được 3 điểm <color=#FFFFFF>Sạc Cấp Đông</color>, nếu kẻ địch trong trạng thái <color=#98EFF0>Đóng Băng</color>, chắc chắn sẽ kích hoạt hiệu quả <color=#98EFF0>Phá Băng</color>.\nTrong thời gian tụ lực chiêu thức sẽ tăng cấp Kháng Gián Đoạn, sát thương phải chịu giảm 40%.\nChiêu thức khi phát động sẽ có hiệu quả Vô Địch."
             },
-            "119100010": {
+            "119100012": {
                 "Title": "Cấp Đông",
                 "Description": "Khi có <color=#FFFFFF>Sạc Cấp Đông</color>, sẽ kích hoạt hiệu quả <color=#FFFFFF>Cấp Đông</color>. Sau khi kích hoạt hiệu quả <color=#FFFFFF>Cấp Đông</color>, <color=#FFFFFF>Tấn Công Thường</color> và <color=#FFFFFF>Tấn Công Lướt</color> sẽ tiêu hao <color=#FFFFFF>Sạc Cấp Đông</color>, gây lượng lớn <color=#98EFF0>DMG Băng</color>. Ellen tối đa có 6 điểm <color=#FFFFFF>Sạc Cấp Đông</color>."
             },
-            "119100011": {
+            "119100013": {
                 "Title": "Tấn Công Lướt: Gợn Sóng",
                 "Description": "Khi né, nhấn <IconMap:Icon_Normal> phát động:\nThực hiện nhát chém đột ngột về phía trước, gây <color=#F0D12B>DMG Vật Lý</color>."
             },
-            "119100012": {
+            "119100014": {
                 "Title": "Tấn Công Lướt: Sóng Băng",
                 "Description": "Sau khi kích hoạt hiệu ứng <color=#FFFFFF>Cấp Đông</color>, khi né nhấn <IconMap:Icon_Normal> phát động:\nThực hiện nhát chém đột ngột về phía trước, gây <color=#98EFF0>DMG Băng</color>.\nTiêu hao 1 điểm <color=#FFFFFF>Sạc Cấp Đông</color>."
             },
-            "119100013": {
+            "119100015": {
                 "Title": "Phản Kích Khi Né: Đá Ngầm",
                 "Description": "Sau khi kích hoạt <color=#FFFFFF>Né Hoàn Hảo</color>, nhấn <IconMap:Icon_Normal> phát động:\nNhanh chóng xuyên qua kẻ địch, đồng thời dùng kéo tấn công, gây <color=#98EFF0>DMG Băng</color>.\nChiêu thức khi phát động sẽ có hiệu quả Vô Địch."
             },
-            "119110026": {
+            "119110038": {
                 "Title": "Tấn Công Lướt: Tập Kích Vực Băng"
             },
-            "119110027": {
+            "119110039": {
                 "Description": "Bội Số DMG Chém Xoáy",
                 "Param": "{Skill:1191007, Prop:1001}"
             },
-            "119110028": {
+            "119110040": {
                 "Description": "Bội Số DMG Kéo Cắt Nhanh",
                 "Param": "{Skill:1191008, Prop:1001}"
             },
-            "119110029": {
+            "119110041": {
                 "Description": "Bội Số DMG Tụ Lực Kéo Cắt",
                 "Param": "{Skill:1191009, Prop:1001}"
             },
-            "119110030": {
+            "119110042": {
                 "Description": "Bội Số Choáng Chém Xoáy",
                 "Param": "{Skill:1191007, Prop:1002}"
             },
-            "119110031": {
+            "119110043": {
                 "Description": "Bội Số Choáng Kéo Cắt Nhanh",
                 "Param": "{Skill:1191008, Prop:1002}"
             },
-            "119110032": {
+            "119110044": {
                 "Description": "Bội Số Choáng Tụ Lực Kéo Cắt",
                 "Param": "{Skill:1191009, Prop:1002}"
             },
-            "119110033": {
+            "119110045": {
                 "Description": "Kéo Cắt Nhanh Nhận Sạc Cấp Đông",
                 "Param": "1 điểm"
             },
-            "119110034": {
+            "119110046": {
                 "Description": "Tụ Lực Kéo Cắt Nhận Sạc Cấp Đông",
                 "Param": "3 điểm"
             },
-            "119110035": {
+            "119110047": {
                 "Title": "Tấn Công Lướt: Gợn Sóng"
             },
-            "119110036": {
+            "119110048": {
                 "Description": "Bội Số DMG",
                 "Param": "{Skill:1191013, Prop:1001}"
             },
-            "119110037": {
+            "119110049": {
                 "Description": "Bội Số Choáng",
                 "Param": "{Skill:1191013, Prop:1002}"
             },
-            "119110038": {
+            "119110050": {
                 "Title": "Tấn Công Lướt: Sóng Băng"
             },
-            "119110039": {
+            "119110051": {
                 "Description": "Bội Số DMG",
                 "Param": "{Skill:1191014, Prop:1001}"
             },
-            "119110040": {
+            "119110052": {
                 "Description": "Bội Số Choáng",
                 "Param": "{Skill:1191014, Prop:1002}"
             },
-            "119110041": {
+            "119110053": {
                 "Title": "Phản Kích Khi Né: Đá Ngầm"
             },
-            "119110042": {
+            "119110054": {
                 "Description": "Bội Số DMG",
                 "Param": "{Skill:1191015, Prop:1001}"
             },
-            "119110043": {
+            "119110055": {
                 "Description": "Bội Số Choáng",
                 "Param": "{Skill:1191015, Prop:1002}"
             }
         },
         "3": {
-            "119100014": {
+            "119100016": {
                 "Title": "Liên Kích: Tuyết Lở",
                 "Description": "Khi kích hoạt <color=#FFFFFF>Liên Kích</color>, chọn nhân vật tương ứng để phát động:\nĐập xuống từ trên không và sinh ra một trận lốc băng, gây lượng lớn <color=#98EFF0>DMG Băng</color>.\nChiêu thức khi phát động sẽ có hiệu quả Vô Địch."
             },
-            "119100015": {
+            "119100017": {
                 "Title": "Tuyệt Kỹ: Mùa Đông Bất Tận",
                 "Description": "Khi Cấp Decibel đạt <color=#FFFFFF>Cực Hạn</color>, nhấn <IconMap:Icon_UltimateReady> phát động:\nĐập xuống từ trên không và sinh ra một trận lốc băng, sau đó dùng kéo thực hiện một đòn tấn công mạnh mẽ, gây lượng lớn <color=#98EFF0>DMG Băng</color>.\nChiêu thức khi phát động sẽ có hiệu quả Vô Địch."
             },
-            "119110044": {
+            "119110056": {
                 "Title": "Liên Kích: Tuyết Lở"
             },
-            "119110045": {
+            "119110057": {
                 "Description": "Bội Số DMG",
                 "Param": "{Skill:1191016, Prop:1001}"
             },
-            "119110046": {
+            "119110058": {
                 "Description": "Bội Số Choáng",
                 "Param": "{Skill:1191016, Prop:1002}"
             },
-            "119110047": {
+            "119110059": {
                 "Title": "Tuyệt Kỹ: Mùa Đông Bất Tận"
             },
-            "119110048": {
+            "119110060": {
                 "Description": "Bội Số DMG",
                 "Param": "{Skill:1191017, Prop:1001}"
             },
-            "119110049": {
+            "119110061": {
                 "Description": "Bội Số Choáng",
                 "Param": "{Skill:1191017, Prop:1002}"
             }
         },
         "6": {
-            "119100017": {
+            "119100020": {
                 "Title": "Hỗ Trợ Nhanh: Cá Mập Hộ Vệ",
                 "Description": "Khi nhân vật đang thao tác bị đánh bay, nhấn <IconMap:Icon_Switch> phát động:\nNhanh chóng xuyên qua kẻ địch, rút kéo tấn công, gây <color=#98EFF0>DMG Băng</color>.\nChiêu thức khi phát động sẽ có hiệu quả Vô Địch.\nKhi nhân vật đang thao tác bị đánh bay, di chuyển {LAYOUT_CONSOLECONTROLLER#cần}{LAYOUT_FALLBACK#cần điều khiển}, nhấn <IconMap:Icon_Switch> phát động:\nVào trạng thái <color=#FFFFFF>Tuần Tra</color>, lướt nhanh di chuyển.\nTrong trạng thái <color=#FFFFFF>Tuần Tra</color>, dùng {LAYOUT_CONSOLECONTROLLER#cần}{LAYOUT_FALLBACK#cần điều khiển} để khống chế phương hướng, thả {LAYOUT_CONSOLECONTROLLER#cần}{LAYOUT_FALLBACK#cần điều khiển} sẽ ngừng lại.\nKhoảnh khắc phát động chiêu thức sẽ có hiệu quả Vô Địch trong thời gian ngắn.\nKhi phát động <color=#FFFFFF>Hỗ Trợ Nhanh</color>, Ellen sẽ nhận được hiệu quả <color=#FFFFFF>Tụ Nhanh</color>, rút ngắn thời gian tụ lực của <color=#FFFFFF>Tấn Công Lướt: Tập Kích Vực Băng</color>, tối đa duy trì 5s hoặc kích hoạt một lần."
             },
-            "119100018": {
+            "119100021": {
                 "Title": "Hỗ Trợ Chống Đỡ: Sóng Phủ Đầu",
                 "Description": "Khi nhân vật trong sân sắp bị tấn công, nhấn <IconMap:Icon_Switch> phát động:\nChống đỡ tấn công của kẻ địch, tích lũy lượng lớn Điểm Choáng.\nChiêu thức khi phát động sẽ có hiệu quả Vô Địch."
             },
-            "119100019": {
+            "119100022": {
                 "Title": "Đột Kích Chi Viện: Cá Mập Tuần Dương",
                 "Description": "Sau khi phát động <color=#FFFFFF>Hỗ Trợ Chống Đỡ</color>, nhấn <IconMap:Icon_Normal> phát động:\nLao đến chém vào kẻ địch phía trước, gây <color=#98EFF0>DMG Băng</color>.\nTrong khi chiêu thức tấn công, nếu nhấn liên tiếp hoặc nhấn giữ <IconMap:Icon_Normal> sẽ có thể kéo dài thời gian duy trì chiêu thức.\nChiêu thức khi phát động sẽ có hiệu quả Vô Địch."
             },
-            "119110050": {
+            "119110062": {
                 "Title": "Hỗ Trợ Nhanh: Cá Mập Hộ Vệ"
             },
-            "119110051": {
+            "119110063": {
                 "Description": "Bội Số DMG",
                 "Param": "{Skill:1191018, Prop:1001}"
             },
-            "119110052": {
+            "119110064": {
                 "Description": "Bội Số Choáng",
                 "Param": "{Skill:1191018, Prop:1002}"
             },
-            "119110053": {
+            "119110065": {
                 "Title": "Hỗ Trợ Chống Đỡ: Sóng Phủ Đầu"
             },
-            "119110054": {
+            "119110066": {
                 "Description": "Bội Số Đỡ Choáng Nhẹ",
                 "Param": "{Skill:1191019, Prop:1002}"
             },
-            "119110055": {
+            "119110067": {
                 "Description": "Bội Số Đỡ Choáng Mạnh",
                 "Param": "{Skill:1191020, Prop:1002}"
             },
-            "119110056": {
+            "119110068": {
                 "Description": "Bội Số Đỡ Choáng Liên Tục",
                 "Param": "{Skill:1191021, Prop:1002}"
             },
-            "119110057": {
+            "119110069": {
                 "Title": "Đột Kích Chi Viện: Cá Mập Tuần Dương"
             },
-            "119110058": {
+            "119110070": {
                 "Description": "Bội Số DMG",
                 "Param": "{Skill:1191022, Prop:1001}"
             },
-            "119110059": {
+            "119110071": {
                 "Description": "Bội Số Choáng",
                 "Param": "{Skill:1191022, Prop:1002}"
             }
@@ -511,6 +511,30 @@
             "DamageGrowth": 250,
             "DazeValue": 0,
             "DazeGrowth": 0
+        },
+        "1191027": {
+            "DamageValue": 6040,
+            "DamageGrowth": 550,
+            "DazeValue": 2580,
+            "DazeGrowth": 120
+        },
+        "1191028": {
+            "DamageValue": 1300,
+            "DamageGrowth": 120,
+            "DazeValue": 560,
+            "DazeGrowth": 30
+        },
+        "1191029": {
+            "DamageValue": 23020,
+            "DamageGrowth": 2100,
+            "DazeValue": 6700,
+            "DazeGrowth": 310
+        },
+        "1191030": {
+            "DamageValue": 14680,
+            "DamageGrowth": 1340,
+            "DazeValue": 8420,
+            "DazeGrowth": 390
         }
     }
 }

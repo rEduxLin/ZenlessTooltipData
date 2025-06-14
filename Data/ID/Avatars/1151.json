@@ -11,7 +11,7 @@
         },
         "2": {
             "Title": "Little Boar Captain",
-            "Description": "Saat Lucy melancarkan <color=#FFFFFF>Chain Attack</color> atau <color=#FFFFFF>Ultimate</color>, akan mendapatkan status <color=#FFFFFF>\"Cheer On!\"</color> kepada rekan Agen, Bangboo, serta Guard Boar yang berlangsung selama 10 detik.",
+            "Description": "Saat Lucy melancarkan <color=#FFFFFF>Chain Attack</color> atau <color=#FFFFFF>Ultimate</color>, akan mendapatkan status <color=#FFFFFF>\"Cheer On!\"</color> kepada semua Agen dalam tim, Bangboo, serta Guard Boar yang berlangsung selama 10 detik.",
             "Lore": "\"Tidak perlu ragu lagi, Kapten Lucy adalah pemimpin manusia separuh Boar terbaik di Calydon\"\nIni adalah kata penutup dari Woody dalam \"Laporan Kerja Tahunan Sons of Calydon\"."
         },
         "3": {
@@ -31,7 +31,7 @@
         },
         "6": {
             "Title": "Fierce Fangs of Fire",
-            "Description": "Saat rekan tim yang berada dalam status <color=#FFFFFF>\"Cheer On!\"</color> melancarkan <color=#FFFFFF>EX Special Attack</color> dan mengenai musuh, seekor Guard Boar akan jatuh dari udara dan memicu ledakan yang mengakibatkan <color=#FF5521>Fire DMG</color> setara dengan 300% ATK Guard Boar. Selain itu, durasi status <color=#FFFFFF>\"Cheer On!\"</color> semua anggota tim diperpanjang selama 5 detik.\nDurasi dapat diperpanjang maks. 3 kali (maks. 30 detik). Saat mendapatkan kembali status <color=#FFFFFF>\"Cheer On!\"</color>, kesempatan peningkatan juga akan direset.\nSetelah Guard Boar jatuh ke tanah dan memicu ledakan, akan memicu <color=#FFFFFF>\"Guard Boars: Spinning Swing!\"</color> satu kali.",
+            "Description": "Saat <color=#FFFFFF>EX Special Attack</color> rekan tim yang berada dalam status <color=#FFFFFF>\"Cheer On!\"</color> mengenai musuh, seekor Guard Boar akan jatuh dari udara dan memicu ledakan yang mengakibatkan <color=#FF5521>Fire DMG</color> setara dengan 300% ATK Guard Boar. Selain itu, durasi status <color=#FFFFFF>\"Cheer On!\"</color> semua Agen dalam tim, Bangboo, serta Guard Boar diperpanjang selama 5 detik.\nDurasi dapat diperpanjang maks. 3 kali (maks. 30 detik). Saat mendapatkan kembali status <color=#FFFFFF>\"Cheer On!\"</color>, kesempatan peningkatan juga akan direset.\nSetelah Guard Boar jatuh ke tanah dan memicu ledakan, akan memicu <color=#FFFFFF>\"Guard Boars: Spinning Swing!\"</color> satu kali.",
             "Lore": "Para manusia separuh Boar yang dikenal sebagai \"Crimson Mane Guard\" selalu berada di garis depan pertarungan!\nSulit untuk mengungkapkan apa yang kurasakan saat terbang dari tongkat bisbol itu, apa itu rasa kecewa atau rasa pasrah.\nBoar pemberani, maju ke depan!"
         }
     },
@@ -50,7 +50,7 @@
         },
         "MathSkill": {
             "Title": "Additional Ability: Batter Up!",
-            "Description": "Berlaku jika terdapat Agen di dalam tim yang memiliki Atribut yang sama atau berasal dari faksi yang sama:\nGuard Boar dapat mewarisi CRIT Rate dan CRIT DMG Lucy."
+            "Description": "Berlaku jika terdapat Agen di dalam tim yang memiliki Atribut yang sama atau berasal dari faksi yang sama atau Agen <color=#FFFFFF>Rupture</color>:\nGuard Boar dapat mewarisi CRIT Rate dan CRIT DMG Lucy."
         }
     },
     "SkillDescriptions": {
@@ -160,7 +160,7 @@
             },
             "115100006": {
                 "Title": "Cheer On!",
-                "Description": "Setelah melancarkan <color=#FFFFFF>EX Special Attack</color> dan saat Guard Boar memicu ledakan, semua anggota sekutu, Bangboo, dan Guard Boar akan mendapatkan status <color=#FFFFFF>Cheer On!</color>. Dalam status <color=#FFFFFF>Cheer On!</color>, ATK unit sekutu akan meningkat sebesar <color=#2BAD00>{CAL:13+AvatarSkillLevel(1)*0.8,1,2}%</color> nilai awal ATK Lucy + <color=#2BAD00>{CAL:40+AvatarSkillLevel(1)*4,1,2}</color> poin (maks. 600 poin). Saat melancarkan <color=#FFFFFF>Line Drive</color>, status <color=#FFFFFF>Cheer On!</color> berlangsung selama 10 detik. Saat melancarkan <color=#FFFFFF>Fly Ball</color>, status <color=#FFFFFF>Cheer On!</color> berlangsung selama 15 detik. Memicu ulang akan memperbarui durasi."
+                "Description": "Setelah melancarkan <color=#FFFFFF>EX Special Attack</color> dan saat Guard Boar memicu ledakan, semua Agen dalam tim, Bangboo, dan Guard Boar akan mendapatkan status <color=#FFFFFF>Cheer On!</color>. Dalam status <color=#FFFFFF>Cheer On!</color>, ATK unit sekutu akan meningkat sebesar <color=#2BAD00>{CAL:13+AvatarSkillLevel(1)*0.8,1,2}%</color> nilai awal ATK Lucy + <color=#2BAD00>{CAL:40+AvatarSkillLevel(1)*4,1,2}</color> poin (maks. 600 poin). Saat melancarkan <color=#FFFFFF>Line Drive</color>, status <color=#FFFFFF>Cheer On!</color> berlangsung selama 10 detik. Saat melancarkan <color=#FFFFFF>Fly Ball</color>, status <color=#FFFFFF>Cheer On!</color> berlangsung selama 15 detik. Memicu ulang akan memperbarui durasi."
             },
             "115110022": {
                 "Title": "Cheer On!"

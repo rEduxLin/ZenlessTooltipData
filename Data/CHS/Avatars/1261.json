@@ -21,7 +21,7 @@
         },
         "4": {
             "Title": "因势利导",
-            "Description": "队伍中任意角色触发<color=#F0D12B>[强击]</color>或<color=#FFFFFF>[紊乱]</color>效果时，全队造成的属性异常伤害提升18%，持续15秒。",
+            "Description": "队伍中任意角色触发<color=#F0D12B>[强击]</color>或<color=#FFFFFF>[紊乱]</color>效果时，全队角色造成的属性异常伤害提升18%，持续15秒。",
             "Lore": "「是猎人还是猎物，往往取决于你选择的视角。不过，我更喜欢另一个简单的判断方式——」\n「输的人，就是猎物。」"
         },
         "5": {
@@ -31,7 +31,7 @@
         },
         "6": {
             "Title": "「肮脏」技巧",
-            "Description": "<color=#FFFFFF>[狂热]</color>状态下，简的暴击率提升20%，暴击伤害提升40%；队伍中任意角色对敌人施加<color=#F0D12B>[强击]</color>效果时，简将直接进入<color=#FFFFFF>[狂热]</color>状态，并使<color=#FFFFFF>[狂热心流]</color>回复至上限，本次<color=#F0D12B>[强击]</color>伤害触发暴击时，将会对目标发动一次额外攻击，造成等同于简1600%异常精通的<color=#F0D12B>物理伤害</color>。",
+            "Description": "<color=#FFFFFF>[狂热]</color>状态下，简的暴击率提升20%，暴击伤害提升40%；队伍中任意角色对敌人施加<color=#F0D12B>[强击]</color>效果时，简将直接进入<color=#FFFFFF>[狂热]</color>状态，并使<color=#FFFFFF>[狂热心流]</color>回复至上限，此次<color=#F0D12B>[强击]</color>伤害触发暴击时，将会对目标发动一次额外攻击，造成等同于简1600%异常精通的<color=#F0D12B>物理伤害</color>。",
             "Lore": "街头可不在乎手段脏不脏，只在乎结果赢没赢。\n「看清最黑暗的欲望，才能推演出最痛切的弱点。」"
         }
     },
@@ -517,6 +517,18 @@
             "DamageGrowth": 12550,
             "DazeValue": 57530,
             "DazeGrowth": 2620
+        },
+        "1261028": {
+            "DamageValue": 6000,
+            "DamageGrowth": 0,
+            "DazeValue": 0,
+            "DazeGrowth": 0
+        },
+        "1261029": {
+            "DamageValue": 60000,
+            "DamageGrowth": 0,
+            "DazeValue": 0,
+            "DazeGrowth": 0
         }
     }
 }

@@ -6,7 +6,7 @@
     "Talents": {
         "1": {
             "Title": "獵鳥技巧",
-            "Description": "從背後攻擊命中敵人時，貓又無視目標16%<color=#F0D12B>物理傷害抗性</color>。敵方處於失衡狀態時，貓又對其發動的所有攻擊均被視為背後攻擊。",
+            "Description": "從背後攻擊命中敵人時，貓又無視目標16%<color=#F0D12B>物理傷害抗性</color>。敵方處於失衡狀態時，貓又對其所有攻擊均被視為背後攻擊。",
             "Lore": "嬌小的貓又並沒有強大的膂力，取而代之的是捕捉對手弱點的眼光，和準確攻擊弱點的迅敏。"
         },
         "2": {
@@ -39,13 +39,13 @@
         "UniqueSkill": {
             "Title": "核心被動：貓步詭影",
             "DescriptionByLevel": {
-                "1": "貓又發動<color=#FFFFFF>[閃避反擊]</color>或<color=#FFFFFF>[快速支援]</color>命中敵人時，自身造成的傷害提升<color=#2BAD00>30%</color>，持續6秒。",
-                "2": "貓又發動<color=#FFFFFF>[閃避反擊]</color>或<color=#FFFFFF>[快速支援]</color>命中敵人時，自身造成的傷害提升<color=#2BAD00>35%</color>，持續6秒。",
-                "3": "貓又發動<color=#FFFFFF>[閃避反擊]</color>或<color=#FFFFFF>[快速支援]</color>命中敵人時，自身造成的傷害提升<color=#2BAD00>40%</color>，持續6秒。",
-                "4": "貓又發動<color=#FFFFFF>[閃避反擊]</color>或<color=#FFFFFF>[快速支援]</color>命中敵人時，自身造成的傷害提升<color=#2BAD00>45%</color>，持續6秒。",
-                "5": "貓又發動<color=#FFFFFF>[閃避反擊]</color>或<color=#FFFFFF>[快速支援]</color>命中敵人時，自身造成的傷害提升<color=#2BAD00>50%</color>，持續6秒。",
-                "6": "貓又發動<color=#FFFFFF>[閃避反擊]</color>或<color=#FFFFFF>[快速支援]</color>命中敵人時，自身造成的傷害提升<color=#2BAD00>55%</color>，持續6秒。",
-                "7": "貓又發動<color=#FFFFFF>[閃避反擊]</color>或<color=#FFFFFF>[快速支援]</color>命中敵人時，自身造成的傷害提升<color=#2BAD00>60%</color>，持續6秒。"
+                "1": "貓又<color=#FFFFFF>[閃避反擊]</color>或<color=#FFFFFF>[快速支援]</color>命中敵人時，自身造成的傷害提升<color=#2BAD00>30%</color>，持續6秒。",
+                "2": "貓又<color=#FFFFFF>[閃避反擊]</color>或<color=#FFFFFF>[快速支援]</color>命中敵人時，自身造成的傷害提升<color=#2BAD00>35%</color>，持續6秒。",
+                "3": "貓又<color=#FFFFFF>[閃避反擊]</color>或<color=#FFFFFF>[快速支援]</color>命中敵人時，自身造成的傷害提升<color=#2BAD00>40%</color>，持續6秒。",
+                "4": "貓又<color=#FFFFFF>[閃避反擊]</color>或<color=#FFFFFF>[快速支援]</color>命中敵人時，自身造成的傷害提升<color=#2BAD00>45%</color>，持續6秒。",
+                "5": "貓又<color=#FFFFFF>[閃避反擊]</color>或<color=#FFFFFF>[快速支援]</color>命中敵人時，自身造成的傷害提升<color=#2BAD00>50%</color>，持續6秒。",
+                "6": "貓又<color=#FFFFFF>[閃避反擊]</color>或<color=#FFFFFF>[快速支援]</color>命中敵人時，自身造成的傷害提升<color=#2BAD00>55%</color>，持續6秒。",
+                "7": "貓又<color=#FFFFFF>[閃避反擊]</color>或<color=#FFFFFF>[快速支援]</color>命中敵人時，自身造成的傷害提升<color=#2BAD00>60%</color>，持續6秒。"
             }
         },
         "MathSkill": {

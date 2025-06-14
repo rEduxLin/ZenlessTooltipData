@@ -17,7 +17,7 @@
         "3": {
             "Title": "\"Another and the Same\"",
             "Description": "Level <color=#FFFFFF>Basic Attack</color>, <color=#FFFFFF>Dodge</color>, <color=#FFFFFF>Assist</color>, <color=#FFFFFF>Special Attack</color>, dan <color=#FFFFFF>Chain Attack</color> +2.",
-            "Lore": "\"Kita mengukur bayangan satu sama lain dengan senja, menemukan bahwa mereka sepenuhnya tumpang tindih.\"\nDi senja tak terhitung yang tidak kamu sadari, dia menyaksikan matahari terbenam yang sama bersamamu, mengubah laut menjadi kehangatan yang indah.\nDi tengah persimpangan jalan, dia dengan tegas memilih jalan yang menuju ke sisimu.\nDan hari ini, dia akhirnya berdiri dengan bayangannya yang tumpang tindih dengan bayanganmu.\nDan hari ini, matahari yang terbenam tetaplah sama."
+            "Lore": "\"Kita mengukur bayangan satu sama lain dengan senja, menemukan bahwa mereka sepenuhnya tumpang tindih.\"\nDi senja tak terhitung yang tidak kamu sadari, dia menyaksikan matahari terbenam yang sama bersamamu, mengubah laut menjadi kehangatan yang indah.\nSaat dihadapkan dengan persimpangan jalan yang tak terhitung jumlahnya, dia dengan tegas memilih jalan yang menuju ke sisimu.\nDan hari ini, dia akhirnya berdiri dengan bayangannya yang tumpang tindih dengan bayanganmu.\nDan hari ini, matahari yang terbenam tetaplah sama."
         },
         "4": {
             "Title": "\"The Wind Between the Reeds\"",
@@ -50,7 +50,7 @@
         },
         "MathSkill": {
             "Title": "Additional Ability: Prophetic Tears",
-            "Description": "Berlaku jika terdapat Agen <color=#FFFFFF>Anomaly</color> lain atau Agen yang memiliki Atribut yang sama di dalam tim:\nSaat Agen lain di dalam tim mengakibatkan Attribute Anomaly terhadap musuh, Vivian akan mengonsumsi 1 poin <color=#FFFFFF>Guard Feather</color> dan melancarkan <color=#FFFFFF>Basic Attack: Featherbloom</color> terhadap target. Efek ini dapat terpicu 1 kali setiap 0,5 detik.\nDMG dari <color=#FE437E>Corruption</color> dan DMG <color=#FFFFFF>Disorder</color> dari status <color=#FE437E>Corruption</color> yang diakibatkan semua anggota tim meningkat <color=#2BAD00>12%</color>."
+            "Description": "Berlaku jika terdapat Agen <color=#FFFFFF>Anomaly</color> lain atau Agen yang memiliki Atribut yang sama di dalam tim:\nSaat Agen lain di dalam tim mengakibatkan Attribute Anomaly terhadap musuh, Vivian akan mengonsumsi 1 poin <color=#FFFFFF>Guard Feather</color> dan melancarkan <color=#FFFFFF>Basic Attack: Featherbloom</color> terhadap target. Efek ini dapat terpicu 1 kali setiap 0,5 detik.\nDMG dari <color=#FE437E>Corruption</color> dan DMG <color=#FFFFFF>Disorder</color> dari status <color=#FE437E>Corruption</color> yang diakibatkan semua Agen dalam tim meningkat <color=#2BAD00>12%</color>."
         }
     },
     "SkillDescriptions": {

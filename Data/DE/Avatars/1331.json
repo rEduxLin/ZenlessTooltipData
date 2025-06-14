@@ -50,7 +50,7 @@
         },
         "MathSkill": {
             "Title": "Zusatzfähigkeit: Tränen der Prophetin",
-            "Description": "Wenn sich in der Truppe eine andere <color=#FFFFFF>Anomalie</color>-Figur oder eine Figur mit demselben Attribut befindet:\nWenn eine andere Figur in der Truppe einem Gegner eine Attributanomalie zufügt, verbraucht Vivian 1 Pkt. <color=#FFFFFF>Schutzgefieder</color>, um einmal den <color=#FFFFFF>Basisangriff: Daunenblüte</color> gegen das Ziel zu entfesseln. Kann einmal alle 0,5 s ausgelöst werden.\nDer durch alle Truppenmitglieder verursachte <color=#FE437E>Korrosion</color>-SCH und der <color=#FFFFFF>Unordnung</color>-SCH des <color=#FE437E>Korrosion</color>-Zustands erhöhen sich um <color=#2BAD00>12 %</color>."
+            "Description": "Wenn sich in der Truppe eine andere <color=#FFFFFF>Anomalie</color>-Figur oder eine Figur mit demselben Attribut befindet:\nWenn eine andere Figur in der Truppe einem Gegner eine Attributanomalie zufügt, verbraucht Vivian 1 Pkt. <color=#FFFFFF>Schutzgefieder</color>, um einmal den <color=#FFFFFF>Basisangriff: Daunenblüte</color> gegen das Ziel zu entfesseln. Kann einmal alle 0,5 s ausgelöst werden.\nDer durch alle Truppenfiguren verursachte <color=#FE437E>Korrosion</color>-SCH und der <color=#FFFFFF>Unordnung</color>-SCH des <color=#FE437E>Korrosion</color>-Zustands erhöhen sich um <color=#2BAD00>12 %</color>."
         }
     },
     "SkillDescriptions": {
@@ -69,7 +69,7 @@
             },
             "133100004": {
                 "Title": "Basisangriff: Daunenblüte",
-                "Description": "Wenn ein Truppenmitglied einen Gegner mit einem <color=#FFFFFF>verstärkten Spezialangriff</color> trifft, verbraucht Vivian 1 Pkt. <color=#FFFFFF>Schutzgefieder</color> und entfesselt einmal <color=#FFFFFF>Basisangriff: Daunenblüte</color> gegen das Ziel, wobei <color=#FE437E>Äther-SCH</color> verursacht wird; einmal pro Anwendung derselben Fähigkeit auslösbar. Dieser Effekt kann ausgelöst werden, auch wenn Vivian nicht auf dem Feld ist.\nEs können max. 5 Pkt. <color=#FFFFFF>Schutzgefieder</color> im Besitz sein."
+                "Description": "Wenn eine Truppenfigur einen Gegner mit einem <color=#FFFFFF>verstärkten Spezialangriff</color> trifft, verbraucht Vivian 1 Pkt. <color=#FFFFFF>Schutzgefieder</color> und entfesselt einmal <color=#FFFFFF>Basisangriff: Daunenblüte</color> gegen das Ziel, wobei <color=#FE437E>Äther-SCH</color> verursacht wird; einmal pro Anwendung derselben Fähigkeit auslösbar. Dieser Effekt kann ausgelöst werden, auch wenn Vivian nicht auf dem Feld ist.\nEs können max. 5 Pkt. <color=#FFFFFF>Schutzgefieder</color> im Besitz sein."
             },
             "133100017": {
                 "Title": "Basisangriff: Gefiederter Schlag"

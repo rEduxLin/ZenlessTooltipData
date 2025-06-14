@@ -31,7 +31,7 @@
         },
         "6": {
             "Title": "Corrupting Energy Field",
-            "Description": "When Nicole's energy fields deal DMG to an enemy, all squad member's CRIT Rate against that enemy increases by 1.5%, stacking up to 10 times, and lasting 12s. The duration of each stack is calculated separately.",
+            "Description": "When Nicole's energy fields deal DMG to an enemy, all units' CRIT Rate against that enemy increases by 1.5%, stacking up to 10 times, and lasting 12s. The duration of each stack is calculated separately.",
             "Lore": "A switch to higher quality ammo with better firepower and increased compressed Etheric Matter leads to higher damage, longer use duration... and higher costs."
         }
     },
@@ -50,7 +50,7 @@
         },
         "MathSkill": {
             "Title": "Additional Ability: Hare of Many Burrows",
-            "Description": "When another character in your squad shares the same Attribute or Faction:\nWhen Nicole's <color=#FFFFFF>Core Passive: Mechanical Case</color> applies a debuff to an enemy, all squad members deal 25% more <color=#FE437E>Ether DMG</color> to the target for 3.5s."
+            "Description": "When another character in your squad shares the same Attribute or Faction:\nWhen Nicole's <color=#FFFFFF>Core Passive: Mechanical Case</color> applies a debuff to an enemy, all units deal 25% more <color=#FE437E>Ether DMG</color> to the target for 3.5s."
         }
     },
     "SkillDescriptions": {

@@ -21,7 +21,7 @@
         },
         "4": {
             "Title": "Burst Capacitor",
-            "Description": "When Grace uses her <color=#FFFFFF>EX Special Attack</color>, she gains 6 stacks of Charge (max 6 stacks). When her <color=#FFFFFF>Basic Attack</color> or <color=#FFFFFF>Dash Attack</color> hits an enemy, 1 stack of Charge is consumed, increasing her Energy Generation Rate of the attack by 20%.",
+            "Description": "When Grace uses her <color=#FFFFFF>EX Special Attack</color>, she gains 6 stacks of Charge (max 6 stacks). When her <color=#FFFFFF>Basic Attack: High-Pressure Spike</color> or <color=#FFFFFF>Dash Attack: Quick Inspection</color> hits an enemy, 1 stack of Charge is consumed, increasing her Energy Generation Rate of the attack by 20%.",
             "Lore": "Anton suspected within the component Grace referred to as the \"Electropulse Recycling Module,\" there was, in fact, an Ether hamster tirelessly generating energy around the clock.\n\"Can you equip my bro with one too?\""
         },
         "5": {

@@ -31,7 +31,7 @@
         },
         "6": {
             "Title": "Terror en una noche de tormenta",
-            "Description": "Al golpear al enemigo con una <color=#FFFFFF>técnica especial EX</color>, una <color=#FFFFFF>técnica en cadena</color> o una <color=#FFFFFF>técnica definitiva</color>, aumenta el <color=#2EB6FF>daño eléctrico</color> de todos los miembros del equipo en un 15 % durante 8 s.",
+            "Description": "Al golpear al enemigo con una <color=#FFFFFF>técnica especial EX</color>, una <color=#FFFFFF>técnica en cadena</color> o una <color=#FFFFFF>técnica definitiva</color>, aumenta el <color=#2EB6FF>daño eléctrico</color> de todos los personajes del equipo en un 15 % durante 8 s.",
             "Lore": "Los relámpagos rugían aquella noche de lluvia en el castillo y los largos pasillos estaban repletos de sombras macabras.\nCon los circuitos de pánico sobrecargados, comenzaba la función de terror..."
         }
     },
@@ -50,7 +50,7 @@
         },
         "MathSkill": {
             "Title": "Técnica adicional: Baile impecable",
-            "Description": "Si en el equipo hay miembros del mismo Atributo o la misma afiliación que ella:\nCuando cualquier miembro del equipo provoca un <color=#2EB6FF>electrochoque</color> sobre el enemigo, la duración del efecto aumenta en 3 s. Si hay enemigos afectados por <color=#2EB6FF>electrochoque</color> en combate, aumenta el <color=#2EB6FF>daño eléctrico</color> infligido por todos los miembros del equipo en un 10 %."
+            "Description": "Si en el equipo hay miembros del mismo Atributo o la misma afiliación,. cuando cualquier miembro del equipo provoca un <color=#2EB6FF>electrochoque</color> sobre el enemigo, la duración del efecto aumenta en 3 s. Si hay enemigos afectados por <color=#2EB6FF>electrochoque</color> en combate, aumenta el <color=#2EB6FF>daño eléctrico</color> infligido por todos los personajes del equipo en un 10 %."
         }
     },
     "SkillDescriptions": {

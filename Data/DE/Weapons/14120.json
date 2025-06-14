@@ -17,23 +17,23 @@
     "Talents": {
         "1": {
             "Title": "Wachstum durch Widrigkeit",
-            "Description": "KRIT-Rate erhöht sich um <color=#2BAD00>10 %</color>. Der <color=#2EB6FF>Elektro-SCH</color> durch <color=#FFFFFF>Sprintangriffe</color> erhöht sich um <color=#2BAD00>40 %</color>. Wenn ein Truppenmitglied einem Gegner eine Attributanomalie zufügt oder Benommenheit verursacht, erhöht sich die KRIT-Rate des Trägers zusätzlich um <color=#2BAD00>10 %</color>, hält 15 s."
+            "Description": "KRIT-Rate erhöht sich um <color=#2BAD00>10 %</color>. Der <color=#2EB6FF>Elektro-SCH</color> durch <color=#FFFFFF>Sprintangriffe</color> erhöht sich um <color=#2BAD00>40 %</color>. Wenn eine Truppenfigur einem Gegner eine Attributanomalie zufügt oder Benommenheit verursacht, erhöht sich die KRIT-Rate des Trägers zusätzlich um <color=#2BAD00>10 %</color>, hält 15 s."
         },
         "2": {
             "Title": "Wachstum durch Widrigkeit",
-            "Description": "KRIT-Rate erhöht sich um <color=#2BAD00>11,5 %</color>. Der <color=#2EB6FF>Elektro-SCH</color> durch <color=#FFFFFF>Sprintangriffe</color> erhöht sich um <color=#2BAD00>46 %</color>. Wenn ein Truppenmitglied einem Gegner eine Attributanomalie zufügt oder Benommenheit verursacht, erhöht sich die KRIT-Rate des Trägers zusätzlich um <color=#2BAD00>11,5 %</color>, hält 15 s."
+            "Description": "KRIT-Rate erhöht sich um <color=#2BAD00>11,5 %</color>. Der <color=#2EB6FF>Elektro-SCH</color> durch <color=#FFFFFF>Sprintangriffe</color> erhöht sich um <color=#2BAD00>46 %</color>. Wenn eine Truppenfigur einem Gegner eine Attributanomalie zufügt oder Benommenheit verursacht, erhöht sich die KRIT-Rate des Trägers zusätzlich um <color=#2BAD00>11,5 %</color>, hält 15 s."
         },
         "3": {
             "Title": "Wachstum durch Widrigkeit",
-            "Description": "KRIT-Rate erhöht sich um <color=#2BAD00>13 %</color>. Der <color=#2EB6FF>Elektro-SCH</color> durch <color=#FFFFFF>Sprintangriffe</color> erhöht sich um <color=#2BAD00>52 %</color>. Wenn ein Truppenmitglied einem Gegner eine Attributanomalie zufügt oder Benommenheit verursacht, erhöht sich die KRIT-Rate des Trägers zusätzlich um <color=#2BAD00>13 %</color>, hält 15 s."
+            "Description": "KRIT-Rate erhöht sich um <color=#2BAD00>13 %</color>. Der <color=#2EB6FF>Elektro-SCH</color> durch <color=#FFFFFF>Sprintangriffe</color> erhöht sich um <color=#2BAD00>52 %</color>. Wenn eine Truppenfigur einem Gegner eine Attributanomalie zufügt oder Benommenheit verursacht, erhöht sich die KRIT-Rate des Trägers zusätzlich um <color=#2BAD00>13 %</color>, hält 15 s."
         },
         "4": {
             "Title": "Wachstum durch Widrigkeit",
-            "Description": "KRIT-Rate erhöht sich um <color=#2BAD00>14,5 %</color>. Der <color=#2EB6FF>Elektro-SCH</color> durch <color=#FFFFFF>Sprintangriffe</color> erhöht sich um <color=#2BAD00>58 %</color>. Wenn ein Truppenmitglied einem Gegner eine Attributanomalie zufügt oder Benommenheit verursacht, erhöht sich die KRIT-Rate des Trägers zusätzlich um <color=#2BAD00>14,5 %</color>, hält 15 s."
+            "Description": "KRIT-Rate erhöht sich um <color=#2BAD00>14,5 %</color>. Der <color=#2EB6FF>Elektro-SCH</color> durch <color=#FFFFFF>Sprintangriffe</color> erhöht sich um <color=#2BAD00>58 %</color>. Wenn eine Truppenfigur einem Gegner eine Attributanomalie zufügt oder Benommenheit verursacht, erhöht sich die KRIT-Rate des Trägers zusätzlich um <color=#2BAD00>14,5 %</color>, hält 15 s."
         },
         "5": {
             "Title": "Wachstum durch Widrigkeit",
-            "Description": "KRIT-Rate erhöht sich um <color=#2BAD00>16 %</color>. Der <color=#2EB6FF>Elektro-SCH</color> durch <color=#FFFFFF>Sprintangriffe</color> erhöht sich um <color=#2BAD00>64 %</color>. Wenn ein Truppenmitglied einem Gegner eine Attributanomalie zufügt oder Benommenheit verursacht, erhöht sich die KRIT-Rate des Trägers zusätzlich um <color=#2BAD00>16 %</color>, hält 15 s."
+            "Description": "KRIT-Rate erhöht sich um <color=#2BAD00>16 %</color>. Der <color=#2EB6FF>Elektro-SCH</color> durch <color=#FFFFFF>Sprintangriffe</color> erhöht sich um <color=#2BAD00>64 %</color>. Wenn eine Truppenfigur einem Gegner eine Attributanomalie zufügt oder Benommenheit verursacht, erhöht sich die KRIT-Rate des Trägers zusätzlich um <color=#2BAD00>16 %</color>, hält 15 s."
         }
     }
 }

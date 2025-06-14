@@ -11,7 +11,7 @@
         },
         "2": {
             "Title": "Visión etérea",
-            "Description": "Al activar una <color=#FFFFFF>réplica</color>, Gatillo obtiene 1 carga de <color=#FFFFFF>vista de cazadora</color>. Al ejecutar un ataque final en la <color=#FFFFFF>postura de francotiradora</color>, Gatillo obtiene 2 cargas de <color=#FFFFFF>vista de cazadora</color>. Por cada carga de <color=#FFFFFF>vista de cazadora</color>, el Daño Crítico de todos los miembros del equipo aumenta en un 6 % durante 10 s. Pueden acumularse hasta 4 cargas. La duración se reinicia con cada activación.",
+            "Description": "Al activar una <color=#FFFFFF>réplica</color>, Gatillo obtiene 1 carga de <color=#FFFFFF>vista de cazadora</color>. Al ejecutar un ataque final en la <color=#FFFFFF>postura de francotiradora</color>, Gatillo obtiene 2 cargas de <color=#FFFFFF>vista de cazadora</color>. Por cada carga de <color=#FFFFFF>vista de cazadora</color>, el Daño Crítico de todos los personajes del equipo aumenta en un 6 % durante 10 s. Pueden acumularse hasta 4 cargas. La duración se reinicia con cada activación.",
             "Lore": "Cuando se encuentra en la Cavidad, todas las fluctuaciones etéreas a su alrededor se convierten en una ayuda para su observación espacial.\n«Antes pensaba que estos ojos eran una maldición que solo me causaba dolor.»\n«Pero ahora... sé que son la clave para alcanzar mis objetivos, y la prueba de que no he olvidado mi pasado.»"
         },
         "3": {
@@ -457,6 +457,12 @@
             "DamageValue": 20000,
             "DamageGrowth": 0,
             "DazeValue": 12000,
+            "DazeGrowth": 0
+        },
+        "1361024": {
+            "DamageValue": 0,
+            "DamageGrowth": 0,
+            "DazeValue": 0,
             "DazeGrowth": 0
         }
     }

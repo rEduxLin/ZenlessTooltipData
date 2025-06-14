@@ -31,7 +31,7 @@
         },
         "6": {
             "Title": "Volonté de la Suzeraine",
-            "Description": "<color=#FFFFFF>Attaque spéciale EX : Bouclier percutant surpuissant</color> et le <color=#FFFFFF>soutien de suivi</color> infligent à coup sûr un coup critique. Les DGT de la compétence augmentent de 50 %, et de 50 % supplémentaires contre la cible principale. Lorsque César lance <color=#FFFFFF>Attaque spéciale EX : Bouclier percutant surpuissant</color> ou un <color=#FFFFFF>soutien de suivi</color>, son taux CRIT augmente de 30 %, et ses DGT CRIT de 60 % pendant 15 s.",
+            "Description": "<color=#FFFFFF>Attaque spéciale EX : Bouclier percutant surpuissant</color> et <color=#FFFFFF>Soutien de suivi : Lame assistante</color> infligent à coup sûr un coup critique. Les DGT de la compétence augmentent de 50 %, et de 50 % supplémentaires contre la cible principale. Lorsque César lance <color=#FFFFFF>Attaque spéciale EX : Bouclier percutant surpuissant</color> ou un <color=#FFFFFF>soutien de suivi</color>, son taux CRIT augmente de 30 %, et ses DGT CRIT de 60 % pendant 15 s.",
             "Lore": "« Avant, je ne faisais que regarder devant moi. Je pensais que tant que j'étais forte, je serais capable de tout faire.\nMais être un grand chef demande plus que de la force.\nIl faut que je puisse protéger les amis qui me soutiennent derrière moi. Ils sont la raison pour laquelle je continue d'avancer. »"
         }
     },
@@ -50,7 +50,7 @@
         },
         "MathSkill": {
             "Title": "Capacité supplémentaire : Esprit combatif",
-            "Description": "Lorsqu'il y a un autre personnage capable de lancer des <color=#FFFFFF>soutiens défensifs</color> ou appartenant à la même faction que César :\nLorsque César déclenche une <color=#FFFFFF>parade parfaite</color>, un <color=#FFFFFF>contre défensif</color>, un <color=#FFFFFF>soutien défensif</color> ou <color=#FFFFFF>Attaque normale : Impasse</color>, elle inflige un malus aux ennemis dans un rayon de 7 m, qui augmente les DGT infligés à ces ennemis par tous les membres de l'escouade de 25 % pendant 30 s."
+            "Description": "Lorsqu'il y a un autre personnage capable de lancer des <color=#FFFFFF>soutiens défensifs</color> ou appartenant à la même faction que César :\nLorsque César déclenche une <color=#FFFFFF>parade parfaite</color>, un <color=#FFFFFF>contre défensif</color>, un <color=#FFFFFF>soutien défensif</color> ou <color=#FFFFFF>Attaque normale : Impasse</color>, elle inflige un malus aux ennemis dans un rayon de 7 m, qui augmente les DGT infligés à ces ennemis par tous les personnages de l'escouade de 25 % pendant 30 s."
         }
     },
     "SkillDescriptions": {

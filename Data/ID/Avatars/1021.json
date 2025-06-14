@@ -6,7 +6,7 @@
     "Talents": {
         "1": {
             "Title": "Bird Hunter",
-            "Description": "Saat Back Attack mengenai musuh, Nekomata akan mengabaikan 16% <color=#F0D12B>ketahanan Physical DMG</color> target.\nSaat musuh dalam status Stun, semua serangan yang dilancarkan Nekomata akan dianggap sebagai Back Attack.",
+            "Description": "Saat Back Attack mengenai musuh, Nekomata akan mengabaikan 16% <color=#F0D12B>ketahanan Physical DMG</color> target.\nSaat musuh dalam status Stun, semua serangan Nekomata terhadapnya akan dianggap sebagai Back Attack.",
             "Lore": "Meski Nekomata tidak memiliki kekuatan yang besar karena tubuhnya yang mungil, tapi dia memiliki mata yang tajam untuk menangkap kelemahan lawan, serta serangan yang cepat dan akurat untuk menyerang tepat di bagian yang paling menyakitkan!"
         },
         "2": {
@@ -39,18 +39,18 @@
         "UniqueSkill": {
             "Title": "Core Passive: Stealthy Paws",
             "DescriptionByLevel": {
-                "1": "Saat <color=#FFFFFF>Dodge Counter</color> atau <color=#FFFFFF>Quick Assist</color> Nekomata mengenai musuh, DMG yang diakibatkan oleh Nekomata akan meningkat <color=#2BAD00>30%</color> selama 6 detik.",
-                "2": "Saat <color=#FFFFFF>Dodge Counter</color> atau <color=#FFFFFF>Quick Assist</color> Nekomata mengenai musuh, DMG yang diakibatkan oleh Nekomata akan meningkat <color=#2BAD00>35%</color> selama 6 detik.",
-                "3": "Saat <color=#FFFFFF>Dodge Counter</color> atau <color=#FFFFFF>Quick Assist</color> Nekomata mengenai musuh, DMG yang diakibatkan oleh Nekomata akan meningkat <color=#2BAD00>40%</color> selama 6 detik.",
-                "4": "Saat <color=#FFFFFF>Dodge Counter</color> atau <color=#FFFFFF>Quick Assist</color> Nekomata mengenai musuh, DMG yang diakibatkan oleh Nekomata akan meningkat <color=#2BAD00>45%</color> selama 6 detik.",
-                "5": "Saat <color=#FFFFFF>Dodge Counter</color> atau <color=#FFFFFF>Quick Assist</color> Nekomata mengenai musuh, DMG yang diakibatkan oleh Nekomata akan meningkat <color=#2BAD00>50%</color> selama 6 detik.",
-                "6": "Saat <color=#FFFFFF>Dodge Counter</color> atau <color=#FFFFFF>Quick Assist</color> Nekomata mengenai musuh, DMG yang diakibatkan oleh Nekomata akan meningkat <color=#2BAD00>55%</color> selama 6 detik.",
-                "7": "Saat <color=#FFFFFF>Dodge Counter</color> atau <color=#FFFFFF>Quick Assist</color> Nekomata mengenai musuh, DMG yang diakibatkan oleh Nekomata akan meningkat <color=#2BAD00>60%</color> selama 6 detik."
+                "1": "Saat <color=#FFFFFF>Dodge Counter</color> atau <color=#FFFFFF>Quick Assist</color> mengenai musuh, DMG yang diakibatkan oleh Nekomata akan meningkat <color=#2BAD00>30%</color> selama 6 detik.",
+                "2": "Saat <color=#FFFFFF>Dodge Counter</color> atau <color=#FFFFFF>Quick Assist</color> mengenai musuh, DMG yang diakibatkan oleh Nekomata akan meningkat <color=#2BAD00>35%</color> selama 6 detik.",
+                "3": "Saat <color=#FFFFFF>Dodge Counter</color> atau <color=#FFFFFF>Quick Assist</color> mengenai musuh, DMG yang diakibatkan oleh Nekomata akan meningkat <color=#2BAD00>40%</color> selama 6 detik.",
+                "4": "Saat <color=#FFFFFF>Dodge Counter</color> atau <color=#FFFFFF>Quick Assist</color> mengenai musuh, DMG yang diakibatkan oleh Nekomata akan meningkat <color=#2BAD00>45%</color> selama 6 detik.",
+                "5": "Saat <color=#FFFFFF>Dodge Counter</color> atau <color=#FFFFFF>Quick Assist</color> mengenai musuh, DMG yang diakibatkan oleh Nekomata akan meningkat <color=#2BAD00>50%</color> selama 6 detik.",
+                "6": "Saat <color=#FFFFFF>Dodge Counter</color> atau <color=#FFFFFF>Quick Assist</color> mengenai musuh, DMG yang diakibatkan oleh Nekomata akan meningkat <color=#2BAD00>55%</color> selama 6 detik.",
+                "7": "Saat <color=#FFFFFF>Dodge Counter</color> atau <color=#FFFFFF>Quick Assist</color> mengenai musuh, DMG yang diakibatkan oleh Nekomata akan meningkat <color=#2BAD00>60%</color> selama 6 detik."
             }
         },
         "MathSkill": {
             "Title": "Additional Ability: Catwalk",
-            "Description": "Berlaku jika terdapat Agen di dalam tim yang memiliki Atribut yang sama atau berasal dari faksi yang sama:\nSetelah anggota tim mana pun mengakibatkan efek <color=#F0D12B>Assault</color> terhadap musuh, DMG dari <color=#FFFFFF>EX Special Attack</color> Nekomata berikutnya akan meningkat 35%. Dapat ditumpuk maks. 2 lapis."
+            "Description": "Berlaku jika terdapat Agen yang memiliki Atribut yang sama atau berasal dari faksi yang sama di dalam tim:\nSetelah anggota tim mana pun mengakibatkan efek <color=#F0D12B>Assault</color> terhadap musuh, DMG dari <color=#FFFFFF>EX Special Attack</color> Nekomata berikutnya akan meningkat 35%. Dapat ditumpuk maks. 2 lapis."
         }
     },
     "SkillDescriptions": {

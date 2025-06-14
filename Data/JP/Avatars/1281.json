@@ -11,7 +11,7 @@
         },
         "2": {
             "Title": "向上心",
-            "Description": "<color=#FFFFFF>『特殊スキル：タイヤくるくる』</color>と<color=#FFFFFF>『強化特殊スキル：エンジンぶんぶん』</color>発動中、パイパーの移動速度が早くなる。<color=#FFFFFF>『特殊スキル：億劫な重さ』</color>、<color=#FFFFFF>『強化特殊スキル：兆、重たい』</color>または<color=#FFFFFF>『終結スキル』</color>の落下攻撃が敵に命中した時、スキルの与える<color=#F0D12B>物理属性ダメージ</color>が10%アップする。<color=#FFFFFF>「動力」</color>1重につき、追加で効果が1%上昇する。",
+            "Description": "<color=#FFFFFF>『特殊スキル：タイヤくるくる』</color>と<color=#FFFFFF>『強化特殊スキル：エンジンぶんぶん』</color>発動中、パイパーの移動速度が早くなる。<color=#FFFFFF>『特殊スキル：億劫な重さ』</color>、<color=#FFFFFF>『強化特殊スキル：兆、重たい』</color>または<color=#FFFFFF>『終結スキル』</color>の落下攻撃が敵に命中した時、スキルの与える<color=#F0D12B>物理属性ダメージ</color>+10%。<color=#FFFFFF>「動力」</color>1重につき、この効果が追加で+1%。",
             "Lore": "一時の努力は、より長い時間休憩するため…\nとはいえ、努力しなくていいに越したことはない。\nパイパーは伸びをすると、トラック内に設えたふかふかのベッドをポンポンして横になった。"
         },
         "3": {
@@ -39,18 +39,18 @@
         "UniqueSkill": {
             "Title": "コアパッシブ：パワーチャージ",
             "DescriptionByLevel": {
-                "1": "<color=#FFFFFF>『強化特殊スキル：エンジンぶんぶん』</color>または<color=#FFFFFF>『終結スキル』</color>の回転斬撃が敵に命中した時、<color=#FFFFFF>「動力」</color>を1重獲得する、最大20重まで重ね掛け可能、継続時間12秒、重複して発動すると継続時間が更新される。<color=#FFFFFF>「動力」</color>1重につき、パイパーの<color=#F0D12B>物理属性の状態異常蓄積効率</color>が<color=#2BAD00>2%</color>アップする。",
-                "2": "<color=#FFFFFF>『強化特殊スキル：エンジンぶんぶん』</color>または<color=#FFFFFF>『終結スキル』</color>の回転斬撃が敵に命中した時、<color=#FFFFFF>「動力」</color>を1重獲得する、最大20重まで重ね掛け可能、継続時間12秒、重複して発動すると継続時間が更新される。<color=#FFFFFF>「動力」</color>1重につき、パイパーの<color=#F0D12B>物理属性の状態異常蓄積効率</color>が<color=#2BAD00>2.3%</color>アップする。",
-                "3": "<color=#FFFFFF>『強化特殊スキル：エンジンぶんぶん』</color>または<color=#FFFFFF>『終結スキル』</color>の回転斬撃が敵に命中した時、<color=#FFFFFF>「動力」</color>を1重獲得する、最大20重まで重ね掛け可能、継続時間12秒、重複して発動すると継続時間が更新される。<color=#FFFFFF>「動力」</color>1重につき、パイパーの<color=#F0D12B>物理属性の状態異常蓄積効率</color>が<color=#2BAD00>2.6%</color>アップする。",
-                "4": "<color=#FFFFFF>『強化特殊スキル：エンジンぶんぶん』</color>または<color=#FFFFFF>『終結スキル』</color>の回転斬撃が敵に命中した時、<color=#FFFFFF>「動力」</color>を1重獲得する、最大20重まで重ね掛け可能、継続時間12秒、重複して発動すると継続時間が更新される。<color=#FFFFFF>「動力」</color>1重につき、パイパーの<color=#F0D12B>物理属性の状態異常蓄積効率</color>が<color=#2BAD00>3%</color>アップする。",
-                "5": "<color=#FFFFFF>『強化特殊スキル：エンジンぶんぶん』</color>または<color=#FFFFFF>『終結スキル』</color>の回転斬撃が敵に命中した時、<color=#FFFFFF>「動力」</color>を1重獲得する、最大20重まで重ね掛け可能、継続時間12秒、重複して発動すると継続時間が更新される。<color=#FFFFFF>「動力」</color>1重につき、パイパーの<color=#F0D12B>物理属性の状態異常蓄積効率</color>が<color=#2BAD00>3.3%</color>アップする。",
-                "6": "<color=#FFFFFF>『強化特殊スキル：エンジンぶんぶん』</color>または<color=#FFFFFF>『終結スキル』</color>の回転斬撃が敵に命中した時、<color=#FFFFFF>「動力」</color>を1重獲得する、最大20重まで重ね掛け可能、継続時間12秒、重複して発動すると継続時間が更新される。<color=#FFFFFF>「動力」</color>1重につき、パイパーの<color=#F0D12B>物理属性の状態異常蓄積効率</color>が<color=#2BAD00>3.6%</color>アップする。",
-                "7": "<color=#FFFFFF>『強化特殊スキル：エンジンぶんぶん』</color>または<color=#FFFFFF>『終結スキル』</color>の回転斬撃が敵に命中した時、<color=#FFFFFF>「動力」</color>を1重獲得する、最大20重まで重ね掛け可能、継続時間12秒、重複して発動すると継続時間が更新される。<color=#FFFFFF>「動力」</color>1重につき、パイパーの<color=#F0D12B>物理属性の状態異常蓄積効率</color>が<color=#2BAD00>4%</color>アップする。"
+                "1": "<color=#FFFFFF>『強化特殊スキル：エンジンぶんぶん』</color>または<color=#FFFFFF>『終結スキル』</color>の回転斬撃が敵に命中した時、<color=#FFFFFF>「動力」</color>を1重獲得する、最大20重まで重ね掛け可能、継続時間12秒、重複して発動すると継続時間が更新される。<color=#FFFFFF>「動力」</color>1重につき、パイパーの<color=#F0D12B>物理属性の状態異常蓄積効率</color>+<color=#2BAD00>2%</color>。",
+                "2": "<color=#FFFFFF>『強化特殊スキル：エンジンぶんぶん』</color>または<color=#FFFFFF>『終結スキル』</color>の回転斬撃が敵に命中した時、<color=#FFFFFF>「動力」</color>を1重獲得する、最大20重まで重ね掛け可能、継続時間12秒、重複して発動すると継続時間が更新される。<color=#FFFFFF>「動力」</color>1重につき、パイパーの<color=#F0D12B>物理属性の状態異常蓄積効率</color>+<color=#2BAD00>2.3%</color>。",
+                "3": "<color=#FFFFFF>『強化特殊スキル：エンジンぶんぶん』</color>または<color=#FFFFFF>『終結スキル』</color>の回転斬撃が敵に命中した時、<color=#FFFFFF>「動力」</color>を1重獲得する、最大20重まで重ね掛け可能、継続時間12秒、重複して発動すると継続時間が更新される。<color=#FFFFFF>「動力」</color>1重につき、パイパーの<color=#F0D12B>物理属性の状態異常蓄積効率</color>+<color=#2BAD00>2.6%</color>。",
+                "4": "<color=#FFFFFF>『強化特殊スキル：エンジンぶんぶん』</color>または<color=#FFFFFF>『終結スキル』</color>の回転斬撃が敵に命中した時、<color=#FFFFFF>「動力」</color>を1重獲得する、最大20重まで重ね掛け可能、継続時間12秒、重複して発動すると継続時間が更新される。<color=#FFFFFF>「動力」</color>1重につき、パイパーの<color=#F0D12B>物理属性の状態異常蓄積効率</color>+<color=#2BAD00>3%</color>。",
+                "5": "<color=#FFFFFF>『強化特殊スキル：エンジンぶんぶん』</color>または<color=#FFFFFF>『終結スキル』</color>の回転斬撃が敵に命中した時、<color=#FFFFFF>「動力」</color>を1重獲得する、最大20重まで重ね掛け可能、継続時間12秒、重複して発動すると継続時間が更新される。<color=#FFFFFF>「動力」</color>1重につき、パイパーの<color=#F0D12B>物理属性の状態異常蓄積効率</color>+<color=#2BAD00>3.3%</color>。",
+                "6": "<color=#FFFFFF>『強化特殊スキル：エンジンぶんぶん』</color>または<color=#FFFFFF>『終結スキル』</color>の回転斬撃が敵に命中した時、<color=#FFFFFF>「動力」</color>を1重獲得する、最大20重まで重ね掛け可能、継続時間12秒、重複して発動すると継続時間が更新される。<color=#FFFFFF>「動力」</color>1重につき、パイパーの<color=#F0D12B>物理属性の状態異常蓄積効率</color>+<color=#2BAD00>3.6%</color>。",
+                "7": "<color=#FFFFFF>『強化特殊スキル：エンジンぶんぶん』</color>または<color=#FFFFFF>『終結スキル』</color>の回転斬撃が敵に命中した時、<color=#FFFFFF>「動力」</color>を1重獲得する、最大20重まで重ね掛け可能、継続時間12秒、重複して発動すると継続時間が更新される。<color=#FFFFFF>「動力」</color>1重につき、パイパーの<color=#F0D12B>物理属性の状態異常蓄積効率</color>+<color=#2BAD00>4%</color>。"
             }
         },
         "MathSkill": {
             "Title": "追加能力：一緒に飛ばそうぜい",
-            "Description": "チームに自身と同じ属性または同じ陣営のメンバーがいる時に発動：\nパイパーが<color=#FFFFFF>「動力」</color>を20重以上所持している時、チーム全体の与ダメージが18%アップする。"
+            "Description": "チームに自身と同じ属性または同じ陣営のメンバーがいる時に発動：\nパイパーが<color=#FFFFFF>「動力」</color>を20重以上所持している時、メンバー全員の与ダメージ+18%。"
         }
     },
     "SkillDescriptions": {
@@ -98,7 +98,7 @@
         "1": {
             "128100002": {
                 "Title": "特殊スキル：タイヤくるくる",
-                "Description": " <IconMap:Icon_Special> を押して発動：\n周囲に回転斬撃を放ち、<color=#F0D12B>物理属性ダメージ</color>を与える。\n <IconMap:Icon_Special> を長押しすると、スキルの継続時間が延長され、回転斬撃の威力も徐々に高くなる。同時にスキルのチャージレベルが上がる、最大2回まで。\n<color=#FFFFFF>『通常攻撃』</color>の最初の3段、<color=#FFFFFF>『ダッシュ攻撃』</color>、または<color=#FFFFFF>『回避反撃』</color>の後に繋げると、チャージレベルが上がった状態で素早く<color=#FFFFFF>『特殊スキル：タイヤくるくる』</color>を発動できる。\nスキル発動中、中断耐性レベルがアップし、被ダメージが40%ダウンする。"
+                "Description": " <IconMap:Icon_Special> を押して発動：\n周囲に回転斬撃を放ち、<color=#F0D12B>物理属性ダメージ</color>を与える。\n <IconMap:Icon_Special> を長押しすると、スキルの継続時間が延長され、回転斬撃の威力も徐々に高くなる。同時にスキルのチャージレベルが上がる、最大2回まで。\n<color=#FFFFFF>『通常攻撃』</color>の最初の3段、<color=#FFFFFF>『ダッシュ攻撃』</color>、または<color=#FFFFFF>『回避反撃』</color>の後に繋げると、チャージレベルが上がった状態で素早く<color=#FFFFFF>『特殊スキル：タイヤくるくる』</color>を発動できる。\nスキル発動中、中断耐性レベルがアップし、被ダメージ-40%。"
             },
             "128100003": {
                 "Title": "特殊スキル：億劫な重さ",
@@ -106,7 +106,7 @@
             },
             "128100004": {
                 "Title": "強化特殊スキル：エンジンぶんぶん",
-                "Description": "エネルギーが溜まっている状態、かつ<color=#FFFFFF>『特殊スキル：タイヤくるくる』</color>のチャージレベルが最大に達している時、続けて <IconMap:Icon_SpecialReady> を長押しして発動：\n高速で周囲に回転斬撃を放ち、<color=#F0D12B>物理属性ダメージ</color>を大量に与える。\n発動中は継続してエネルギーを消費する、最大で3秒継続。\nスキル発動中、中断耐性レベルがアップし、被ダメージが40%ダウンする。"
+                "Description": "エネルギーが溜まっている状態、かつ<color=#FFFFFF>『特殊スキル：タイヤくるくる』</color>のチャージレベルが最大に達している時、続けて <IconMap:Icon_SpecialReady> を長押しして発動：\n高速で周囲に回転斬撃を放ち、<color=#F0D12B>物理属性ダメージ</color>を大量に与える。\n発動中は継続してエネルギーを消費する、最大で3秒継続。\nスキル発動中、中断耐性レベルがアップし、被ダメージ-40%。"
             },
             "128100005": {
                 "Title": "強化特殊スキル：兆、重たい",

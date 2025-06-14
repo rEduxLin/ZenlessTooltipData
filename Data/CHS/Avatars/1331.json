@@ -17,11 +17,11 @@
         "3": {
             "Title": "《另一个，同一个》",
             "Description": "<color=#FFFFFF>[普通攻击]</color>、<color=#FFFFFF>[闪避]</color>、<color=#FFFFFF>[支援技]</color>、<color=#FFFFFF>[特殊技]</color>、<color=#FFFFFF>[连携技]</color> 技能等级+2",
-            "Lore": "「我们用黄昏丈量彼此的阴影，发现完全重叠。」\n在你不知道的无数个黄昏里，她曾与你看着同一个太阳西沉，将一片海煮沸至瑰丽暖色。\n在无数分差的路径中，她坚定地选择了走到你身边的方向。\n而今天，她终于与你影子相叠。\n而今天，夕阳依旧。"
+            "Lore": "「我们用黄昏丈量彼此的阴影，发现完全重叠。」\n在你不知道的无数个黄昏里，她曾与你看着同一个太阳西沉，将一片海煮沸至瑰丽暖色。\n在无数分岔的路径中，她坚定地选择了走到你身边的方向。\n而今天，她终于与你影子相叠。\n而今天，夕阳依旧。"
         },
         "4": {
             "Title": "《苇间风》",
-            "Description": "<color=#FFFFFF>[普通攻击：裙裾浮游 · 悬落]</color>和<color=#FFFFFF>[普通攻击：落羽生花]</color>命中时必定暴击，并使薇薇安的攻击力提升12%，持续12秒，重复触发时刷新持续时间；进入战场时，薇薇安立即获得5点<color=#FFFFFF>[护羽]</color>。",
+            "Description": "<color=#FFFFFF>[普通攻击：裙裾浮游·悬落]</color>和<color=#FFFFFF>[普通攻击：落羽生花]</color>命中时必定暴击，并使薇薇安的攻击力提升12%，持续12秒，重复触发时刷新持续时间；进入战场时，薇薇安立即获得5点<color=#FFFFFF>[护羽]</color>。",
             "Lore": "「将我的真心，如月光铺满你脚下的路。」\n在追赶你的路上，她已自成穹顶。\n她没有如此博爱，拥有的也并不算多。\n但为你，只为你，她可倾泻月光，覆盖黑暗，修补裂痕。\n你是她唯一的慷慨，是她最大的勇气。"
         },
         "5": {
@@ -31,7 +31,7 @@
         },
         "6": {
             "Title": "《薇薇安》",
-            "Description": "薇薇安造成的<color=#FE437E>以太伤害</color>提升40%；<color=#FFFFFF>[普通攻击：淑女礼仪 · 舞步]</color>突进期间触发极限闪避、发动<color=#FFFFFF>[强化特殊技：堇花悼亡]</color>时，均额外回复1点<color=#FFFFFF>[飞羽]</color>；发动<color=#FFFFFF>[普通攻击：裙裾浮游 · 悬落]</color>时会消耗全部<color=#FFFFFF>[护羽]</color>，下落攻击的范围大幅增加，并在命中时触发一次特殊的<color=#FFFFFF>[异放]</color>，额外消耗的<color=#FFFFFF>[护羽]</color>会提高此次<color=#FFFFFF>[异放]</color>结算的额外异常伤害的比例，最多消耗5点<color=#FFFFFF>[护羽]</color>，使伤害比例提高至原本的5倍。",
+            "Description": "薇薇安造成的<color=#FE437E>以太伤害</color>提升40%；<color=#FFFFFF>[普通攻击：淑女礼仪·舞步]</color>突进期间触发极限闪避、发动<color=#FFFFFF>[强化特殊技：堇花悼亡]</color>时，均额外回复1点<color=#FFFFFF>[飞羽]</color>；发动<color=#FFFFFF>[普通攻击：裙裾浮游·悬落]</color>时会消耗全部<color=#FFFFFF>[护羽]</color>，下落攻击的范围大幅增加，并在命中时触发一次特殊的<color=#FFFFFF>[异放]</color>，额外消耗的<color=#FFFFFF>[护羽]</color>会提高此次<color=#FFFFFF>[异放]</color>结算的额外异常伤害的比例，最多消耗5点<color=#FFFFFF>[护羽]</color>，使伤害比例提高至原本的5倍。",
             "Lore": "「薇薇安是一首只送给你的情诗。」\n「我们拥有世界上所有的时间。」\n「所以，请允许我把余生写成你的注脚。」"
         }
     },
@@ -39,18 +39,18 @@
         "UniqueSkill": {
             "Title": "核心被动：命运悲歌",
             "DescriptionByLevel": {
-                "1": "<color=#FFFFFF>[普通攻击：落羽生花]</color>命中处于<color=#FE437E>以太异常状态</color>、<color=#2EB6FF>电属性异常状态</color>、<color=#FF5521>火属性异常状态</color>、<color=#F0D12B>物理属性异常状态</color>、<color=#98EFF0>冰属性异常状态</color>的目标时，触发一次<color=#FFFFFF>[异放]</color>：额外结算一次属性异常伤害，相对于原属性异常伤害的比例为每10点异常精通<color=#FE437E>3.07%</color>/<color=#2EB6FF>1.6%</color>/<color=#FF5521>4%</color>/<color=#F0D12B>0.37%</color>/<color=#98EFF0>0.54%</color>；\n<color=#FFFFFF>[普通攻击：裙裾浮游 · 悬落]</color>或<color=#FFFFFF>[普通攻击：落羽生花]</color>命中处于任意属性异常状态的目标时，使目标陷入<color=#FFFFFF>[薇薇安的预言]</color>，每0.55秒受到薇薇安55%攻击力的<color=#FE437E>以太伤害</color>，该伤害可以触发属性异常效果的额外伤害；当目标不再处于属性异常状态时，<color=#FFFFFF>[薇薇安的预言]</color>结束；\n进入战场时，薇薇安获得2点<color=#FFFFFF>[飞羽]</color>。",
-                "2": "<color=#FFFFFF>[普通攻击：落羽生花]</color>命中处于<color=#FE437E>以太异常状态</color>、<color=#2EB6FF>电属性异常状态</color>、<color=#FF5521>火属性异常状态</color>、<color=#F0D12B>物理属性异常状态</color>、<color=#98EFF0>冰属性异常状态</color>的目标时，触发一次<color=#FFFFFF>[异放]</color>：额外结算一次属性异常伤害，相对于原属性异常伤害的比例为每10点异常精通<color=#FE437E>3.59%</color>/<color=#2EB6FF>1.86%</color>/<color=#FF5521>4.66%</color>/<color=#F0D12B>0.44%</color>/<color=#98EFF0>0.63%</color>；\n<color=#FFFFFF>[普通攻击：裙裾浮游 · 悬落]</color>或<color=#FFFFFF>[普通攻击：落羽生花]</color>命中处于任意属性异常状态的目标时，使目标陷入<color=#FFFFFF>[薇薇安的预言]</color>，每0.55秒受到薇薇安55%攻击力的<color=#FE437E>以太伤害</color>，该伤害可以触发属性异常效果的额外伤害；当目标不再处于属性异常状态时，<color=#FFFFFF>[薇薇安的预言]</color>结束；\n进入战场时，薇薇安获得2点<color=#FFFFFF>[飞羽]</color>。",
-                "3": "<color=#FFFFFF>[普通攻击：落羽生花]</color>命中处于<color=#FE437E>以太异常状态</color>、<color=#2EB6FF>电属性异常状态</color>、<color=#FF5521>火属性异常状态</color>、<color=#F0D12B>物理属性异常状态</color>、<color=#98EFF0>冰属性异常状态</color>的目标时，触发一次<color=#FFFFFF>[异放]</color>：额外结算一次属性异常伤害，相对于原属性异常伤害的比例为每10点异常精通<color=#FE437E>4.11%</color>/<color=#2EB6FF>2.12%</color>/<color=#FF5521>5.32%</color>/<color=#F0D12B>0.51%</color>/<color=#98EFF0>0.72%</color>；\n<color=#FFFFFF>[普通攻击：裙裾浮游 · 悬落]</color>或<color=#FFFFFF>[普通攻击：落羽生花]</color>命中处于任意属性异常状态的目标时，使目标陷入<color=#FFFFFF>[薇薇安的预言]</color>，每0.55秒受到薇薇安55%攻击力的<color=#FE437E>以太伤害</color>，该伤害可以触发属性异常效果的额外伤害；当目标不再处于属性异常状态时，<color=#FFFFFF>[薇薇安的预言]</color>结束；\n进入战场时，薇薇安获得2点<color=#FFFFFF>[飞羽]</color>。",
-                "4": "<color=#FFFFFF>[普通攻击：落羽生花]</color>命中处于<color=#FE437E>以太异常状态</color>、<color=#2EB6FF>电属性异常状态</color>、<color=#FF5521>火属性异常状态</color>、<color=#F0D12B>物理属性异常状态</color>、<color=#98EFF0>冰属性异常状态</color>的目标时，触发一次<color=#FFFFFF>[异放]</color>：额外结算一次属性异常伤害，相对于原属性异常伤害的比例为每10点异常精通<color=#FE437E>4.63%</color>/<color=#2EB6FF>2.38%</color>/<color=#FF5521>5.98%</color>/<color=#F0D12B>0.58%</color>/<color=#98EFF0>0.81%</color>；\n<color=#FFFFFF>[普通攻击：裙裾浮游 · 悬落]</color>或<color=#FFFFFF>[普通攻击：落羽生花]</color>命中处于任意属性异常状态的目标时，使目标陷入<color=#FFFFFF>[薇薇安的预言]</color>，每0.55秒受到薇薇安55%攻击力的<color=#FE437E>以太伤害</color>，该伤害可以触发属性异常效果的额外伤害；当目标不再处于属性异常状态时，<color=#FFFFFF>[薇薇安的预言]</color>结束；\n进入战场时，薇薇安获得2点<color=#FFFFFF>[飞羽]</color>。",
-                "5": "<color=#FFFFFF>[普通攻击：落羽生花]</color>命中处于<color=#FE437E>以太异常状态</color>、<color=#2EB6FF>电属性异常状态</color>、<color=#FF5521>火属性异常状态</color>、<color=#F0D12B>物理属性异常状态</color>、<color=#98EFF0>冰属性异常状态</color>的目标时，触发一次<color=#FFFFFF>[异放]</color>：额外结算一次属性异常伤害，相对于原属性异常伤害的比例为每10点异常精通<color=#FE437E>5.15%</color>/<color=#2EB6FF>2.64%</color>/<color=#FF5521>6.64%</color>/<color=#F0D12B>0.65%</color>/<color=#98EFF0>0.9%</color>；\n<color=#FFFFFF>[普通攻击：裙裾浮游 · 悬落]</color>或<color=#FFFFFF>[普通攻击：落羽生花]</color>命中处于任意属性异常状态的目标时，使目标陷入<color=#FFFFFF>[薇薇安的预言]</color>，每0.55秒受到薇薇安55%攻击力的<color=#FE437E>以太伤害</color>，该伤害可以触发属性异常效果的额外伤害；当目标不再处于属性异常状态时，<color=#FFFFFF>[薇薇安的预言]</color>结束；\n进入战场时，薇薇安获得2点<color=#FFFFFF>[飞羽]</color>。",
-                "6": "<color=#FFFFFF>[普通攻击：落羽生花]</color>命中处于<color=#FE437E>以太异常状态</color>、<color=#2EB6FF>电属性异常状态</color>、<color=#FF5521>火属性异常状态</color>、<color=#F0D12B>物理属性异常状态</color>、<color=#98EFF0>冰属性异常状态</color>的目标时，触发一次<color=#FFFFFF>[异放]</color>：额外结算一次属性异常伤害，相对于原属性异常伤害的比例为每10点异常精通<color=#FE437E>5.65%</color>/<color=#2EB6FF>2.9%</color>/<color=#FF5521>7.3%</color>/<color=#F0D12B>0.7%</color>/<color=#98EFF0>0.99%</color>；\n<color=#FFFFFF>[普通攻击：裙裾浮游 · 悬落]</color>或<color=#FFFFFF>[普通攻击：落羽生花]</color>命中处于任意属性异常状态的目标时，使目标陷入<color=#FFFFFF>[薇薇安的预言]</color>，每0.55秒受到薇薇安55%攻击力的<color=#FE437E>以太伤害</color>，该伤害可以触发属性异常效果的额外伤害；当目标不再处于属性异常状态时，<color=#FFFFFF>[薇薇安的预言]</color>结束；\n进入战场时，薇薇安获得2点<color=#FFFFFF>[飞羽]</color>。",
-                "7": "<color=#FFFFFF>[普通攻击：落羽生花]</color>命中处于<color=#FE437E>以太异常状态</color>、<color=#2EB6FF>电属性异常状态</color>、<color=#FF5521>火属性异常状态</color>、<color=#F0D12B>物理属性异常状态</color>、<color=#98EFF0>冰属性异常状态</color>的目标时，触发一次<color=#FFFFFF>[异放]</color>：额外结算一次属性异常伤害，相对于原属性异常伤害的比例为每10点异常精通<color=#FE437E>6.15%</color>/<color=#2EB6FF>3.2%</color>/<color=#FF5521>8%</color>/<color=#F0D12B>0.75%</color>/<color=#98EFF0>1.08%</color>；\n<color=#FFFFFF>[普通攻击：裙裾浮游 · 悬落]</color>或<color=#FFFFFF>[普通攻击：落羽生花]</color>命中处于任意属性异常状态的目标时，使目标陷入<color=#FFFFFF>[薇薇安的预言]</color>，每0.55秒受到薇薇安55%攻击力的<color=#FE437E>以太伤害</color>，该伤害可以触发属性异常效果的额外伤害；当目标不再处于属性异常状态时，<color=#FFFFFF>[薇薇安的预言]</color>结束；\n进入战场时，薇薇安获得2点<color=#FFFFFF>[飞羽]</color>。"
+                "1": "<color=#FFFFFF>[普通攻击：落羽生花]</color>命中处于<color=#FE437E>以太异常状态</color>、<color=#2EB6FF>电属性异常状态</color>、<color=#FF5521>火属性异常状态</color>、<color=#F0D12B>物理属性异常状态</color>、<color=#98EFF0>冰属性异常状态</color>的目标时，触发一次<color=#FFFFFF>[异放]</color>：额外结算一次属性异常伤害，相对于原属性异常伤害的比例为每10点异常精通<color=#FE437E>3.07%</color>/<color=#2EB6FF>1.6%</color>/<color=#FF5521>4%</color>/<color=#F0D12B>0.37%</color>/<color=#98EFF0>0.54%</color>；\n<color=#FFFFFF>[普通攻击：裙裾浮游·悬落]</color>或<color=#FFFFFF>[普通攻击：落羽生花]</color>命中处于任意属性异常状态的目标时，使目标陷入<color=#FFFFFF>[薇薇安的预言]</color>，每0.55秒受到薇薇安55%攻击力的<color=#FE437E>以太伤害</color>，该伤害可以触发属性异常效果的额外伤害；当目标不再处于属性异常状态时，<color=#FFFFFF>[薇薇安的预言]</color>结束；\n进入战场时，薇薇安获得2点<color=#FFFFFF>[飞羽]</color>。",
+                "2": "<color=#FFFFFF>[普通攻击：落羽生花]</color>命中处于<color=#FE437E>以太异常状态</color>、<color=#2EB6FF>电属性异常状态</color>、<color=#FF5521>火属性异常状态</color>、<color=#F0D12B>物理属性异常状态</color>、<color=#98EFF0>冰属性异常状态</color>的目标时，触发一次<color=#FFFFFF>[异放]</color>：额外结算一次属性异常伤害，相对于原属性异常伤害的比例为每10点异常精通<color=#FE437E>3.59%</color>/<color=#2EB6FF>1.86%</color>/<color=#FF5521>4.66%</color>/<color=#F0D12B>0.44%</color>/<color=#98EFF0>0.63%</color>；\n<color=#FFFFFF>[普通攻击：裙裾浮游·悬落]</color>或<color=#FFFFFF>[普通攻击：落羽生花]</color>命中处于任意属性异常状态的目标时，使目标陷入<color=#FFFFFF>[薇薇安的预言]</color>，每0.55秒受到薇薇安55%攻击力的<color=#FE437E>以太伤害</color>，该伤害可以触发属性异常效果的额外伤害；当目标不再处于属性异常状态时，<color=#FFFFFF>[薇薇安的预言]</color>结束；\n进入战场时，薇薇安获得2点<color=#FFFFFF>[飞羽]</color>。",
+                "3": "<color=#FFFFFF>[普通攻击：落羽生花]</color>命中处于<color=#FE437E>以太异常状态</color>、<color=#2EB6FF>电属性异常状态</color>、<color=#FF5521>火属性异常状态</color>、<color=#F0D12B>物理属性异常状态</color>、<color=#98EFF0>冰属性异常状态</color>的目标时，触发一次<color=#FFFFFF>[异放]</color>：额外结算一次属性异常伤害，相对于原属性异常伤害的比例为每10点异常精通<color=#FE437E>4.11%</color>/<color=#2EB6FF>2.12%</color>/<color=#FF5521>5.32%</color>/<color=#F0D12B>0.51%</color>/<color=#98EFF0>0.72%</color>；\n<color=#FFFFFF>[普通攻击：裙裾浮游·悬落]</color>或<color=#FFFFFF>[普通攻击：落羽生花]</color>命中处于任意属性异常状态的目标时，使目标陷入<color=#FFFFFF>[薇薇安的预言]</color>，每0.55秒受到薇薇安55%攻击力的<color=#FE437E>以太伤害</color>，该伤害可以触发属性异常效果的额外伤害；当目标不再处于属性异常状态时，<color=#FFFFFF>[薇薇安的预言]</color>结束；\n进入战场时，薇薇安获得2点<color=#FFFFFF>[飞羽]</color>。",
+                "4": "<color=#FFFFFF>[普通攻击：落羽生花]</color>命中处于<color=#FE437E>以太异常状态</color>、<color=#2EB6FF>电属性异常状态</color>、<color=#FF5521>火属性异常状态</color>、<color=#F0D12B>物理属性异常状态</color>、<color=#98EFF0>冰属性异常状态</color>的目标时，触发一次<color=#FFFFFF>[异放]</color>：额外结算一次属性异常伤害，相对于原属性异常伤害的比例为每10点异常精通<color=#FE437E>4.63%</color>/<color=#2EB6FF>2.38%</color>/<color=#FF5521>5.98%</color>/<color=#F0D12B>0.58%</color>/<color=#98EFF0>0.81%</color>；\n<color=#FFFFFF>[普通攻击：裙裾浮游·悬落]</color>或<color=#FFFFFF>[普通攻击：落羽生花]</color>命中处于任意属性异常状态的目标时，使目标陷入<color=#FFFFFF>[薇薇安的预言]</color>，每0.55秒受到薇薇安55%攻击力的<color=#FE437E>以太伤害</color>，该伤害可以触发属性异常效果的额外伤害；当目标不再处于属性异常状态时，<color=#FFFFFF>[薇薇安的预言]</color>结束；\n进入战场时，薇薇安获得2点<color=#FFFFFF>[飞羽]</color>。",
+                "5": "<color=#FFFFFF>[普通攻击：落羽生花]</color>命中处于<color=#FE437E>以太异常状态</color>、<color=#2EB6FF>电属性异常状态</color>、<color=#FF5521>火属性异常状态</color>、<color=#F0D12B>物理属性异常状态</color>、<color=#98EFF0>冰属性异常状态</color>的目标时，触发一次<color=#FFFFFF>[异放]</color>：额外结算一次属性异常伤害，相对于原属性异常伤害的比例为每10点异常精通<color=#FE437E>5.15%</color>/<color=#2EB6FF>2.64%</color>/<color=#FF5521>6.64%</color>/<color=#F0D12B>0.65%</color>/<color=#98EFF0>0.9%</color>；\n<color=#FFFFFF>[普通攻击：裙裾浮游·悬落]</color>或<color=#FFFFFF>[普通攻击：落羽生花]</color>命中处于任意属性异常状态的目标时，使目标陷入<color=#FFFFFF>[薇薇安的预言]</color>，每0.55秒受到薇薇安55%攻击力的<color=#FE437E>以太伤害</color>，该伤害可以触发属性异常效果的额外伤害；当目标不再处于属性异常状态时，<color=#FFFFFF>[薇薇安的预言]</color>结束；\n进入战场时，薇薇安获得2点<color=#FFFFFF>[飞羽]</color>。",
+                "6": "<color=#FFFFFF>[普通攻击：落羽生花]</color>命中处于<color=#FE437E>以太异常状态</color>、<color=#2EB6FF>电属性异常状态</color>、<color=#FF5521>火属性异常状态</color>、<color=#F0D12B>物理属性异常状态</color>、<color=#98EFF0>冰属性异常状态</color>的目标时，触发一次<color=#FFFFFF>[异放]</color>：额外结算一次属性异常伤害，相对于原属性异常伤害的比例为每10点异常精通<color=#FE437E>5.65%</color>/<color=#2EB6FF>2.9%</color>/<color=#FF5521>7.3%</color>/<color=#F0D12B>0.7%</color>/<color=#98EFF0>0.99%</color>；\n<color=#FFFFFF>[普通攻击：裙裾浮游·悬落]</color>或<color=#FFFFFF>[普通攻击：落羽生花]</color>命中处于任意属性异常状态的目标时，使目标陷入<color=#FFFFFF>[薇薇安的预言]</color>，每0.55秒受到薇薇安55%攻击力的<color=#FE437E>以太伤害</color>，该伤害可以触发属性异常效果的额外伤害；当目标不再处于属性异常状态时，<color=#FFFFFF>[薇薇安的预言]</color>结束；\n进入战场时，薇薇安获得2点<color=#FFFFFF>[飞羽]</color>。",
+                "7": "<color=#FFFFFF>[普通攻击：落羽生花]</color>命中处于<color=#FE437E>以太异常状态</color>、<color=#2EB6FF>电属性异常状态</color>、<color=#FF5521>火属性异常状态</color>、<color=#F0D12B>物理属性异常状态</color>、<color=#98EFF0>冰属性异常状态</color>的目标时，触发一次<color=#FFFFFF>[异放]</color>：额外结算一次属性异常伤害，相对于原属性异常伤害的比例为每10点异常精通<color=#FE437E>6.15%</color>/<color=#2EB6FF>3.2%</color>/<color=#FF5521>8%</color>/<color=#F0D12B>0.75%</color>/<color=#98EFF0>1.08%</color>；\n<color=#FFFFFF>[普通攻击：裙裾浮游·悬落]</color>或<color=#FFFFFF>[普通攻击：落羽生花]</color>命中处于任意属性异常状态的目标时，使目标陷入<color=#FFFFFF>[薇薇安的预言]</color>，每0.55秒受到薇薇安55%攻击力的<color=#FE437E>以太伤害</color>，该伤害可以触发属性异常效果的额外伤害；当目标不再处于属性异常状态时，<color=#FFFFFF>[薇薇安的预言]</color>结束；\n进入战场时，薇薇安获得2点<color=#FFFFFF>[飞羽]</color>。"
             }
         },
         "MathSkill": {
             "Title": "额外能力：预言之泪",
-            "Description": "队伍中存在其他<color=#FFFFFF>[异常]</color>角色或与自身属性相同的角色时触发：\n队伍中其他角色对敌人施加属性异常效果时，薇薇安会消耗1点<color=#FFFFFF>[护羽]</color>并对目标发动一次<color=#FFFFFF>[普通攻击：落羽生花]</color>，0.5秒内至多触发一次；\n全队造成的<color=#FE437E>[侵蚀]</color>伤害和<color=#FE437E>[侵蚀]</color>状态被结算的<color=#FFFFFF>[紊乱]</color>伤害提升<color=#2BAD00>12%</color>。"
+            "Description": "队伍中存在其他<color=#FFFFFF>[异常]</color>角色或与自身属性相同的角色时触发：\n队伍中其他角色对敌人施加属性异常效果时，薇薇安会消耗1点<color=#FFFFFF>[护羽]</color>并对目标发动一次<color=#FFFFFF>[普通攻击：落羽生花]</color>，0.5秒内至多触发一次；\n全队角色造成的<color=#FE437E>[侵蚀]</color>伤害和<color=#FE437E>[侵蚀]</color>状态被结算的<color=#FFFFFF>[紊乱]</color>伤害提升<color=#2BAD00>12%</color>。"
         }
     },
     "SkillDescriptions": {
@@ -60,12 +60,12 @@
                 "Description": "点按 <IconMap:Icon_Normal> 发动：\n向前方进行至多四段的攻击，造成<color=#F0D12B>物理伤害</color>和<color=#FE437E>以太伤害</color>；\n发动第四段攻击后进入<color=#FFFFFF>[淑女礼仪]</color>状态；\n拥有<color=#FFFFFF>[飞羽]</color>时，在第四段攻击过程中保持按住 <IconMap:Icon_Normal> 可进入<color=#FFFFFF>[裙裾浮游]</color>状态。"
             },
             "133100002": {
-                "Title": "普通攻击：淑女礼仪 · 舞步",
+                "Title": "普通攻击：淑女礼仪·舞步",
                 "Description": "<color=#FFFFFF>[淑女礼仪]</color>状态下，点按 <IconMap:Icon_Normal> 发动：\n向前突进攻击，造成<color=#FE437E>以太伤害</color>，并在命中目标时回复1点<color=#FFFFFF>[飞羽]</color>；\n招式发动期间拥有无敌效果；\n若突进期间触发极限闪避，会额外回复1点<color=#FFFFFF>[飞羽]</color>；\n招式发动后若拥有<color=#FFFFFF>[飞羽]</color>，会进入<color=#FFFFFF>[裙裾浮游]</color>状态，可以通过招式发动时保持长按 <IconMap:Icon_Evade> 取消。"
             },
             "133100003": {
-                "Title": "普通攻击：裙裾浮游 · 悬落",
-                "Description": "<color=#FFFFFF>[裙裾浮游]</color>状态下，点按 <IconMap:Icon_Normal> 发动：\n向前方发动范围攻击，造成<color=#FE437E>以太伤害</color>；\n招式发动后消耗全部<color=#FFFFFF>[飞羽]</color>，每消耗1点<color=#FFFFFF>[飞羽]</color>，都会获得1点<color=#FFFFFF>[护羽]</color>；\n招式发动期间拥有无敌效果；\n在<color=#FFFFFF>[裙裾浮游]</color>状态下切换角色时，薇薇安会自动发动<color=#FFFFFF>[普通攻击：裙裾浮游 · 悬落]</color>；\n在<color=#FFFFFF>[裙裾浮游]</color>状态下点按 <IconMap:Icon_Evade> 可以退出<color=#FFFFFF>[裙裾浮游]</color>状态。"
+                "Title": "普通攻击：裙裾浮游·悬落",
+                "Description": "<color=#FFFFFF>[裙裾浮游]</color>状态下，点按 <IconMap:Icon_Normal> 发动：\n向前方发动范围攻击，造成<color=#FE437E>以太伤害</color>；\n招式发动后消耗全部<color=#FFFFFF>[飞羽]</color>，每消耗1点<color=#FFFFFF>[飞羽]</color>，都会获得1点<color=#FFFFFF>[护羽]</color>；\n招式发动期间拥有无敌效果；\n在<color=#FFFFFF>[裙裾浮游]</color>状态下切换角色时，薇薇安会自动发动<color=#FFFFFF>[普通攻击：裙裾浮游·悬落]</color>；\n在<color=#FFFFFF>[裙裾浮游]</color>状态下点按 <IconMap:Icon_Evade> 可以退出<color=#FFFFFF>[裙裾浮游]</color>状态。"
             },
             "133100004": {
                 "Title": "普通攻击：落羽生花",
@@ -107,7 +107,7 @@
                 "Param": "{Skill:1331004, Prop:1002}"
             },
             "133100026": {
-                "Title": "普通攻击：淑女礼仪 · 舞步"
+                "Title": "普通攻击：淑女礼仪·舞步"
             },
             "133100027": {
                 "Description": "伤害倍率",
@@ -118,7 +118,7 @@
                 "Param": "{Skill:1331005, Prop:1002}"
             },
             "133100029": {
-                "Title": "普通攻击：裙裾浮游 · 悬落"
+                "Title": "普通攻击：裙裾浮游·悬落"
             },
             "133100030": {
                 "Description": "伤害倍率",

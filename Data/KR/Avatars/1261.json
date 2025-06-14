@@ -21,7 +21,7 @@
         },
         "4": {
             "Title": "유연한 리드",
-            "Description": "파티 내 임의의 캐릭터가 <color=#F0D12B>[강타]</color> 혹은 <color=#FFFFFF>[혼돈]</color> 효과 발동 시 모든 파티원이 주는 속성 이상 피해가 18% 증가한다. 지속 시간: 15초",
+            "Description": "파티 내 임의의 캐릭터가 <color=#F0D12B>[강타]</color> 혹은 <color=#FFFFFF>[혼돈]</color> 효과 발동 시 파티 내 모든 캐릭터가 주는 속성 이상 피해가 18% 증가한다. 지속 시간: 15초",
             "Lore": "「사냥꾼이 될 것인가, 사냥감이 될 것인가? 이런 문제는 네가 선택한 관점에 따라 결정되곤 하지. 근데 난 더 간단한 판단 방식을 좋아해——」\n「지는 사람이 사냥감이야」"
         },
         "5": {
@@ -517,6 +517,18 @@
             "DamageGrowth": 12550,
             "DazeValue": 57530,
             "DazeGrowth": 2620
+        },
+        "1261028": {
+            "DamageValue": 6000,
+            "DamageGrowth": 0,
+            "DazeValue": 0,
+            "DazeGrowth": 0
+        },
+        "1261029": {
+            "DamageValue": 60000,
+            "DamageGrowth": 0,
+            "DazeValue": 0,
+            "DazeGrowth": 0
         }
     }
 }

@@ -21,7 +21,7 @@
         },
         "4": {
             "Title": "Ofenglühen",
-            "Description": "Verleiht Koleda, wenn sie beim Anwenden des verstärkten <color=#FFFFFF>Basisangriffs</color> <color=#FFFFFF>Ofenfeuer</color> verbraucht hat, 1 Stapelung „Aufladung“ (max. 2 Stapelungen).\nVerbraucht beim Treffen von Gegnern mit dem <color=#FFFFFF>Kettenangriff</color> oder <color=#FFFFFF>Ultimate</color> alle Aufladungen und erhöht für jede Stapelung den verursachten SCH der entsprechenden Fähigkeit um 18 %.",
+            "Description": "Koleda erhält, wenn sie <color=#FFFFFF>Ofenfeuer</color> verbraucht und den verstärkten <color=#FFFFFF>Basisangriff</color> anwendet, 1 Stapelung Aufladung (max. 2 Stapelungen). Beim Treffen von Gegnern mit dem <color=#FFFFFF>Kettenangriff: Verheerender Einsturz</color> oder <color=#FFFFFF>Ultimate: Hammerbeben</color> werden alle Aufladungen verbraucht und für jede Stapelung Aufladung erhöht sich der durch die entsprechende Fähigkeit verursachte SCH um 18 %.",
             "Lore": "Koleda verspürt die Flammen des Krieges, wenn ihre Hammerschläge die Umgebungstemperatur erhöhen.\nSie ist jetzt noch entflammbarer und explosiver als Äther-Sprengstoff."
         },
         "5": {
@@ -50,7 +50,7 @@
         },
         "MathSkill": {
             "Title": "Zusatzfähigkeit: Belobog-Management",
-            "Description": "Wenn eine andere Figur in der Truppe dasselbe Attribut hat oder eine andere Figur derselben Fraktion angehört:\nVerleiht dem Ziel einen Maluseffekt, wenn Koleda mit einem <color=#FFFFFF>verstärkten Spezialangriff</color> eine Explosion auslöst und Gegner trifft. Erhöht, nachdem das Ziel benommen gemacht wurde, den durch die <color=#FFFFFF>Kettenangriffe</color> aller Truppenmitglieder verursachten SCH am Ziel um 35 %, max. 2-fach stapelbar. Dieser Effekt wird zurückgesetzt, wenn der Zustand Benommenheit endet."
+            "Description": "Wenn eine andere Figur in der Truppe dasselbe Attribut hat oder derselben Fraktion angehört oder sich eine <color=#FFFFFF>Spaltung</color>-Figur in der Truppe befindet:\nVerleiht dem Ziel einen Maluseffekt, wenn Koleda mit einem <color=#FFFFFF>verstärkten Spezialangriff</color> eine Explosion auslöst und Gegner trifft. Erhöht, nachdem das Ziel in den Benommenheitszustand versetzt wurde, den durch <color=#FFFFFF>Kettenangriffe</color> verursachten SCH am Ziel um 35 %, max. 2-fach stapelbar. Dieser Effekt wird zurückgesetzt, wenn der Benommenheitszustand endet."
         }
     },
     "SkillDescriptions": {

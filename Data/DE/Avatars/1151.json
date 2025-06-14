@@ -11,7 +11,7 @@
         },
         "2": {
             "Title": "Käpt’n Schweinchen",
-            "Description": "Verleiht allen verbündeten Figuren, Bangboos und Wächterschweinchen 10 s lang den Zustand <color=#FFFFFF>„Gib Gas!“</color>, wenn Lucy einen <color=#FFFFFF>Kettenangriff</color> oder <color=#FFFFFF>Ultimate</color> anwendet.",
+            "Description": "Wenn Lucy einen <color=#FFFFFF>Kettenangriff</color> oder <color=#FFFFFF>Ultimate</color> anwendet, verleiht sie allen Truppenfiguren, Bangboo und Wächterschweinchen 10 s lang den Zustand <color=#FFFFFF>„Gib Gas!“</color>.",
             "Lore": "„Es steht deshalb außer Frage, dass Kapitänin Lucy die beste Anführerin unter allen Eberthirens von ,Söhnen von Calydon‘ ist!“\nSchlusswort des „Jahresberichts der Söhne von Calydon“, Autor: Baumi."
         },
         "3": {
@@ -31,7 +31,7 @@
         },
         "6": {
             "Title": "Flammende Stoßzähne",
-            "Description": "Wenn ein Truppenmitglied im Zustand <color=#FFFFFF>„Gib Gas!“</color> einen Gegner mit einem <color=#FFFFFF>verstärkten Spezialangriff</color> trifft, fällt ein Wächterschweinchen vom Himmel, löst eine Explosion aus, wenn es auf dem Boden aufschlägt, und verursacht dabei <color=#FF5521>Feuer-SCH</color> in Höhe von 300 % des ANG des Wächterschweinchens. Dadurch wird auch die Dauer des Zustands <color=#FFFFFF>„Gib Gas!“</color> von allen Truppenmitgliedern um 5 s verlängert. Die Dauer des Zustands kann max. 3-mal und höchstens bis zu 30 s verlängert werden. Durch erneutes Erhalten des Zustands <color=#FFFFFF>„Gib Gas!“</color> werden die Möglichkeiten zur Verlängerung der Dauer zurückgesetzt. Nachdem das Wächterschweinchen auf dem Boden aufgeschlagen und eine Explosion ausgelöst hat, führt es einmal <color=#FFFFFF>„Wächterschweinchen: Wirbelnde Wirbelhiebe!“</color> aus.",
+            "Description": "Wenn ein Truppenmitglied im Zustand <color=#FFFFFF>„Gib Gas!“</color> einen Gegner mit einem <color=#FFFFFF>verstärkten Spezialangriff</color> trifft, fällt ein Wächterschweinchen vom Himmel, löst eine Explosion aus, wenn es auf dem Boden aufschlägt, und verursacht dabei <color=#FF5521>Feuer-SCH</color> in Höhe von 300 % des ANG des Wächterschweinchens. Dadurch wird auch die Dauer des Zustands <color=#FFFFFF>„Gib Gas!“</color> von allen Truppenfiguren, Bangboo und Wächterschweinchen um 5 s verlängert. Die Dauer kann bis zu 3-mal verlängert werden (mit einer Obergrenze von 30 s). Durch erneutes Erhalten des Zustands <color=#FFFFFF>„Gib Gas!“</color> wird die Stapelanzahl zurückgesetzt. Nachdem das Wächterschweinchen auf dem Boden aufgeschlagen und eine Explosion ausgelöst hat, wird einmal <color=#FFFFFF>„Wächterschweinchen: Wirbelnde Wirbelhiebe!“</color> ausgeführt.",
             "Lore": "Wächter von roten Borsten sind Schweinchenthirens, die immer als erste auf die Gegner stürmen! \nObwohl es schwer zu sagen ist, ob sie bereitwillig sind oder nicht, wenn der Baseballschläger schwingt. \nDoch egal, was die Wahrheit ist, diese furchtlosen Schweinchen stehen immer vor allen anderen!"
         }
     },
@@ -50,7 +50,7 @@
         },
         "MathSkill": {
             "Title": "Zusatzfähigkeit: Bereit zum „Ball“ schlagen!",
-            "Description": "Wenn eine andere Figur in der Truppe dasselbe Attribut hat oder eine andere Figur derselben Fraktion angehört:\nLucys KRIT-Rate und KRIT-SCH können an die Wächterschweinchen übergeben werden."
+            "Description": "Wenn eine andere Figur in der Truppe dasselbe Attribut hat oder derselben Fraktion angehört oder sich eine <color=#FFFFFF>Spaltung</color>-Figur in der Truppe befindet:\nLucys KRIT-Rate und KRIT-SCH können an die Wächterschweinchen übergeben werden."
         }
     },
     "SkillDescriptions": {
@@ -160,7 +160,7 @@
             },
             "115100006": {
                 "Title": "Gib Gas!",
-                "Description": "Nachdem Lucy <color=#FFFFFF>verstärkte Spezialangriffe</color> angewendet hat: Alle verbündeten Figuren, Bangboos und Wächterschweinchen erhalten den Zustand <color=#FFFFFF>„Gib Gas!“</color>, wenn ein Wächterschweinchen eine Explosion auslöst. Im Zustand <color=#FFFFFF>„Gib Gas!“</color> wird der ANG aller verbündeten Einheiten um das Ergebnis von <color=#2BAD00>{CAL:13+AvatarSkillLevel(1)*0.8,1,2} %</color> von Lucys anfänglichem ANG + <color=#2BAD00>{CAL:40+AvatarSkillLevel(1)*4,1,2}</color> erhöht, max. um 600 Pkt. Wenn ein <color=#FFFFFF>Line Drive</color> oder <color=#FFFFFF>Flyball</color> ausgeführt wird, wird die Dauer des Zustands <color=#FFFFFF>„Gib Gas!“</color> jeweils um 10 s oder 15 s verlängert. Beim wiederholten Auslösen wird die Dauer aktualisiert."
+                "Description": "Nachdem Lucy einen <color=#FFFFFF>verstärkten Spezialangriff</color> angewendet hat: Alle Truppenfiguren, Bangboo und Wächterschweinchen erhalten den Zustand <color=#FFFFFF>„Gib Gas!“</color>, wenn ein Wächterschweinchen eine Explosion auslöst. Im Zustand <color=#FFFFFF>„Gib Gas!“</color> wird der ANG aller verbündeten Einheiten um das Ergebnis von <color=#2BAD00>{CAL:13+AvatarSkillLevel(1)*0.8,1,2} %</color> von Lucys anfänglichem ANG + <color=#2BAD00>{CAL:40+AvatarSkillLevel(1)*4,1,2}</color> erhöht, max. um 600 Pkt. Bei einem <color=#FFFFFF>Line Drive</color> hält der Zustand <color=#FFFFFF>„Gib Gas!“</color> 10 s und bei einem <color=#FFFFFF>Flyball</color> 15 s. Beim wiederholten Auslösen wird die Dauer aktualisiert."
             },
             "115110022": {
                 "Title": "Gib Gas!"

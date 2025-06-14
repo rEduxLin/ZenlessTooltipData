@@ -11,7 +11,7 @@
         },
         "2": {
             "Title": "Giao Thức Dự Phòng",
-            "Description": "Chiến Binh 0 - Anby tăng 12% Tỷ Lệ Bạo Kích. Khi phát động <color=#FFFFFF>Tuyệt Kỹ</color>, Chiến Binh 0 - Anby sẽ nhận được 6 tầng <color=#FFFFFF>Sấm Vang</color> (tối đa 6 tầng). Khi có <color=#FFFFFF>Sấm Vang</color>, nếu Chiến Binh 0 - Anby phát động <color=#FFFFFF>Chiến Kỹ: Ánh Chớp Xanh</color> đánh trúng kẻ địch có <color=#FFFFFF>Sấm Trắng</color>, sẽ đổi thành tiêu hao 1 tầng <color=#FFFFFF>Sấm Vang</color> thay thế. Khi cùng một chiêu thức đánh trúng nhiều kẻ địch, tối đa tiêu hao 1 tầng <color=#FFFFFF>Sấm Vang</color>, khi tiêu hao <color=#FFFFFF>Sấm Vang</color> vẫn sẽ kích hoạt sát thương bổ sung của <color=#FFFFFF>Sấm Trắng</color>.",
+            "Description": "Chiến Binh 0 - Anby tăng 12% Tỷ Lệ Bạo Kích. Khi phát động <color=#FFFFFF>Tuyệt Kỹ</color>, Chiến Binh 0 - Anby sẽ nhận được 6 tầng <color=#FFFFFF>Sấm Vang</color> (tối đa 6 tầng). Khi có <color=#FFFFFF>Sấm Vang</color>, <color=#FFFFFF>Chiến Kỹ: Ánh Chớp Xanh</color> của Chiến Binh 0 - Anby đánh trúng kẻ địch có <color=#FFFFFF>Sấm Trắng</color>, sẽ đổi thành tiêu hao 1 tầng <color=#FFFFFF>Sấm Vang</color> thay thế. Khi cùng một chiêu thức đánh trúng nhiều kẻ địch, tối đa tiêu hao 1 tầng <color=#FFFFFF>Sấm Vang</color>. Khi tiêu hao <color=#FFFFFF>Sấm Vang</color> vẫn sẽ kích hoạt sát thương bổ sung của <color=#FFFFFF>Sấm Trắng</color>.",
             "Lore": "\"Sao thế? Trông cô có vẻ mệt mỏi.\"\n\"Tôi... không sao.\"\n\"Nếu cần giúp đỡ thì cứ nói nhé.\""
         },
         "3": {
@@ -50,7 +50,7 @@
         },
         "MathSkill": {
             "Title": "Năng Lực Thêm: Điện Cực Hóa",
-            "Description": "Khi trong đội có nhân vật <color=#FFFFFF>Khống Chế</color> hoặc <color=#FFFFFF>Chi Viện</color> sẽ kích hoạt:\nChiến Binh 0 - Anby tăng 10% Tỷ Lệ Bạo Kích. Khi nhân vật đang thao tác là Chiến Binh 0 - Anby, sát thương <color=#FFFFFF>Cú Đánh Bổ Sung</color> của toàn đội gây ra cho kẻ địch có <color=#FFFFFF>Ngôi Sao Bạc</color> sẽ tăng 25%."
+            "Description": "Khi trong đội có nhân vật <color=#FFFFFF>Khống Chế</color> hoặc <color=#FFFFFF>Chi Viện</color> sẽ kích hoạt:\nChiến Binh 0 - Anby tăng 10% Tỷ Lệ Bạo Kích. Khi nhân vật đang thao tác là Chiến Binh 0 - Anby, sát thương <color=#FFFFFF>Cú Đánh Bổ Sung</color> mà nhân vật toàn đội gây ra cho kẻ địch có <color=#FFFFFF>Ngôi Sao Bạc</color> sẽ tăng 25%."
         }
     },
     "SkillDescriptions": {

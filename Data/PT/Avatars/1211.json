@@ -31,7 +31,7 @@
         },
         "6": {
             "Title": "Terror da Noite de Tempestade",
-            "Description": "Quando um <color=#FFFFFF>Ataque Especial Reforçado</color>, <color=#FFFFFF>Ataque em Cadeia</color> ou <color=#FFFFFF>Supremo</color> atinge um inimigo, o <color=#2EB6FF>Dano Elétrico</color> de toda a equipe aumenta 15% por 8s.",
+            "Description": "Quando um <color=#FFFFFF>Ataque Especial Reforçado</color>, <color=#FFFFFF>Ataque em Cadeia</color> ou <color=#FFFFFF>Supremo</color> atinge um inimigo, o <color=#2EB6FF>Dano Elétrico</color> de todos os membros da equipe aumenta 15% por 8s.",
             "Lore": "Um trovão ressoa pelo velho castelo em uma noite chuvosa. As profundezas dos longos corredores são tomadas por sombras sinistras. \nCircuitos de medo sobrecarregados, iniciar gravação de filme de terror."
         }
     },

@@ -39,13 +39,13 @@
         "UniqueSkill": {
             "Title": "Bị Động Cốt Lõi: Thoắt Ẩn Thoắt Hiện",
             "DescriptionByLevel": {
-                "1": "Khi Nekomata phát động <color=#FFFFFF>Phản Kích Khi Né</color> hoặc <color=#FFFFFF>Hỗ Trợ Nhanh</color> đánh trúng kẻ địch, sát thương bản thân gây ra tăng <color=#2BAD00>30%</color>, duy trì 6s.",
-                "2": "Khi Nekomata phát động <color=#FFFFFF>Phản Kích Khi Né</color> hoặc <color=#FFFFFF>Hỗ Trợ Nhanh</color> đánh trúng kẻ địch, sát thương bản thân gây ra tăng <color=#2BAD00>35%</color>, duy trì 6s.",
-                "3": "Khi Nekomata phát động <color=#FFFFFF>Phản Kích Khi Né</color> hoặc <color=#FFFFFF>Hỗ Trợ Nhanh</color> đánh trúng kẻ địch, sát thương bản thân gây ra tăng <color=#2BAD00>40%</color>, duy trì 6s.",
-                "4": "Khi Nekomata phát động <color=#FFFFFF>Phản Kích Khi Né</color> hoặc <color=#FFFFFF>Hỗ Trợ Nhanh</color> đánh trúng kẻ địch, sát thương bản thân gây ra tăng <color=#2BAD00>45%</color>, duy trì 6s.",
-                "5": "Khi Nekomata phát động <color=#FFFFFF>Phản Kích Khi Né</color> hoặc <color=#FFFFFF>Hỗ Trợ Nhanh</color> đánh trúng kẻ địch, sát thương bản thân gây ra tăng <color=#2BAD00>50%</color>, duy trì 6s.",
-                "6": "Khi Nekomata phát động <color=#FFFFFF>Phản Kích Khi Né</color> hoặc <color=#FFFFFF>Hỗ Trợ Nhanh</color> đánh trúng kẻ địch, sát thương bản thân gây ra tăng <color=#2BAD00>55%</color>, duy trì 6s.",
-                "7": "Khi Nekomata phát động <color=#FFFFFF>Phản Kích Khi Né</color> hoặc <color=#FFFFFF>Hỗ Trợ Nhanh</color> đánh trúng kẻ địch, sát thương bản thân gây ra tăng <color=#2BAD00>60%</color>, duy trì 6s."
+                "1": "Khi Nekomata <color=#FFFFFF>Phản Kích Khi Né</color> hoặc <color=#FFFFFF>Hỗ Trợ Nhanh</color> đánh trúng kẻ địch, sát thương bản thân gây ra tăng <color=#2BAD00>30%</color>, duy trì 6s.",
+                "2": "Khi Nekomata <color=#FFFFFF>Phản Kích Khi Né</color> hoặc <color=#FFFFFF>Hỗ Trợ Nhanh</color> đánh trúng kẻ địch, sát thương bản thân gây ra tăng <color=#2BAD00>35%</color>, duy trì 6s.",
+                "3": "Khi Nekomata <color=#FFFFFF>Phản Kích Khi Né</color> hoặc <color=#FFFFFF>Hỗ Trợ Nhanh</color> đánh trúng kẻ địch, sát thương bản thân gây ra tăng <color=#2BAD00>40%</color>, duy trì 6s.",
+                "4": "Khi Nekomata <color=#FFFFFF>Phản Kích Khi Né</color> hoặc <color=#FFFFFF>Hỗ Trợ Nhanh</color> đánh trúng kẻ địch, sát thương bản thân gây ra tăng <color=#2BAD00>45%</color>, duy trì 6s.",
+                "5": "Khi Nekomata <color=#FFFFFF>Phản Kích Khi Né</color> hoặc <color=#FFFFFF>Hỗ Trợ Nhanh</color> đánh trúng kẻ địch, sát thương bản thân gây ra tăng <color=#2BAD00>50%</color>, duy trì 6s.",
+                "6": "Khi Nekomata <color=#FFFFFF>Phản Kích Khi Né</color> hoặc <color=#FFFFFF>Hỗ Trợ Nhanh</color> đánh trúng kẻ địch, sát thương bản thân gây ra tăng <color=#2BAD00>55%</color>, duy trì 6s.",
+                "7": "Khi Nekomata <color=#FFFFFF>Phản Kích Khi Né</color> hoặc <color=#FFFFFF>Hỗ Trợ Nhanh</color> đánh trúng kẻ địch, sát thương bản thân gây ra tăng <color=#2BAD00>60%</color>, duy trì 6s."
             }
         },
         "MathSkill": {

@@ -39,13 +39,13 @@
         "UniqueSkill": {
             "Title": "核心被動：破曉",
             "DescriptionByLevel": {
-                "1": "<color=#FFFFFF>[衝刺攻擊：飛弦·斬]</color>的暴擊率提升<color=#2BAD00>10.6%</color>，悠真發動<color=#FFFFFF>[衝刺攻擊：飛弦·斬]</color>命中敵人並觸發暴擊時，將獲得1層<color=#FFFFFF>[鋒芒]</color>，同一招式內最多獲得3層，<color=#FFFFFF>[鋒芒]</color>最多疊加6層，持續5秒，重複觸發時重置持續時間。每層<color=#FFFFFF>[鋒芒]</color>會使<color=#FFFFFF>[衝刺攻擊：飛弦·斬]</color>造成的暴擊傷害提升<color=#2BAD00>6%</color>。",
-                "2": "<color=#FFFFFF>[衝刺攻擊：飛弦·斬]</color>的暴擊率提升<color=#2BAD00>13%</color>，悠真發動<color=#FFFFFF>[衝刺攻擊：飛弦·斬]</color>命中敵人並觸發暴擊時，將獲得1層<color=#FFFFFF>[鋒芒]</color>，同一招式內最多獲得3層，<color=#FFFFFF>[鋒芒]</color>最多疊加6層，持續5秒，重複觸發時重置持續時間。每層<color=#FFFFFF>[鋒芒]</color>會使<color=#FFFFFF>[衝刺攻擊：飛弦·斬]</color>造成的暴擊傷害提升<color=#2BAD00>7%</color>。",
-                "3": "<color=#FFFFFF>[衝刺攻擊：飛弦·斬]</color>的暴擊率提升<color=#2BAD00>15.4%</color>，悠真發動<color=#FFFFFF>[衝刺攻擊：飛弦·斬]</color>命中敵人並觸發暴擊時，將獲得1層<color=#FFFFFF>[鋒芒]</color>，同一招式內最多獲得3層，<color=#FFFFFF>[鋒芒]</color>最多疊加6層，持續5秒，重複觸發時重置持續時間。每層<color=#FFFFFF>[鋒芒]</color>會使<color=#FFFFFF>[衝刺攻擊：飛弦·斬]</color>造成的暴擊傷害提升<color=#2BAD00>8%</color>。",
-                "4": "<color=#FFFFFF>[衝刺攻擊：飛弦·斬]</color>的暴擊率提升<color=#2BAD00>17.8%</color>，悠真發動<color=#FFFFFF>[衝刺攻擊：飛弦·斬]</color>命中敵人並觸發暴擊時，將獲得1層<color=#FFFFFF>[鋒芒]</color>，同一招式內最多獲得3層，<color=#FFFFFF>[鋒芒]</color>最多疊加6層，持續5秒，重複觸發時重置持續時間。每層<color=#FFFFFF>[鋒芒]</color>會使<color=#FFFFFF>[衝刺攻擊：飛弦·斬]</color>造成的暴擊傷害提升<color=#2BAD00>9%</color>。",
-                "5": "<color=#FFFFFF>[衝刺攻擊：飛弦·斬]</color>的暴擊率提升<color=#2BAD00>20.2%</color>，悠真發動<color=#FFFFFF>[衝刺攻擊：飛弦·斬]</color>命中敵人並觸發暴擊時，將獲得1層<color=#FFFFFF>[鋒芒]</color>，同一招式內最多獲得3層，<color=#FFFFFF>[鋒芒]</color>最多疊加6層，持續5秒，重複觸發時重置持續時間。每層<color=#FFFFFF>[鋒芒]</color>會使<color=#FFFFFF>[衝刺攻擊：飛弦·斬]</color>造成的暴擊傷害提升<color=#2BAD00>10%</color>。",
-                "6": "<color=#FFFFFF>[衝刺攻擊：飛弦·斬]</color>的暴擊率提升<color=#2BAD00>22.6%</color>，悠真發動<color=#FFFFFF>[衝刺攻擊：飛弦·斬]</color>命中敵人並觸發暴擊時，將獲得1層<color=#FFFFFF>[鋒芒]</color>，同一招式內最多獲得3層，<color=#FFFFFF>[鋒芒]</color>最多疊加6層，持續5秒，重複觸發時重置持續時間。每層<color=#FFFFFF>[鋒芒]</color>會使<color=#FFFFFF>[衝刺攻擊：飛弦·斬]</color>造成的暴擊傷害提升<color=#2BAD00>11%</color>。",
-                "7": "<color=#FFFFFF>[衝刺攻擊：飛弦·斬]</color>的暴擊率提升<color=#2BAD00>25%</color>，悠真發動<color=#FFFFFF>[衝刺攻擊：飛弦·斬]</color>命中敵人並觸發暴擊時，將獲得1層<color=#FFFFFF>[鋒芒]</color>，同一招式內最多獲得3層，<color=#FFFFFF>[鋒芒]</color>最多疊加6層，持續5秒，重複觸發時重置持續時間。每層<color=#FFFFFF>[鋒芒]</color>會使<color=#FFFFFF>[衝刺攻擊：飛弦·斬]</color>造成的暴擊傷害提升<color=#2BAD00>12%</color>。"
+                "1": "<color=#FFFFFF>[衝刺攻擊：飛弦·斬]</color>的暴擊率提升<color=#2BAD00>10.6%</color>，悠真的<color=#FFFFFF>[衝刺攻擊：飛弦·斬]</color>命中敵人並觸發暴擊時，將獲得1層<color=#FFFFFF>[鋒芒]</color>，同一招式內最多獲得3層，<color=#FFFFFF>[鋒芒]</color>最多疊加6層，持續5秒，重複觸發時重置持續時間。每層<color=#FFFFFF>[鋒芒]</color>會使<color=#FFFFFF>[衝刺攻擊：飛弦·斬]</color>造成的暴擊傷害提升<color=#2BAD00>6%</color>。",
+                "2": "<color=#FFFFFF>[衝刺攻擊：飛弦·斬]</color>的暴擊率提升<color=#2BAD00>13%</color>，悠真的<color=#FFFFFF>[衝刺攻擊：飛弦·斬]</color>命中敵人並觸發暴擊時，將獲得1層<color=#FFFFFF>[鋒芒]</color>，同一招式內最多獲得3層，<color=#FFFFFF>[鋒芒]</color>最多疊加6層，持續5秒，重複觸發時重置持續時間。每層<color=#FFFFFF>[鋒芒]</color>會使<color=#FFFFFF>[衝刺攻擊：飛弦·斬]</color>造成的暴擊傷害提升<color=#2BAD00>7%</color>。",
+                "3": "<color=#FFFFFF>[衝刺攻擊：飛弦·斬]</color>的暴擊率提升<color=#2BAD00>15.4%</color>，悠真的<color=#FFFFFF>[衝刺攻擊：飛弦·斬]</color>命中敵人並觸發暴擊時，將獲得1層<color=#FFFFFF>[鋒芒]</color>，同一招式內最多獲得3層，<color=#FFFFFF>[鋒芒]</color>最多疊加6層，持續5秒，重複觸發時重置持續時間。每層<color=#FFFFFF>[鋒芒]</color>會使<color=#FFFFFF>[衝刺攻擊：飛弦·斬]</color>造成的暴擊傷害提升<color=#2BAD00>8%</color>。",
+                "4": "<color=#FFFFFF>[衝刺攻擊：飛弦·斬]</color>的暴擊率提升<color=#2BAD00>17.8%</color>，悠真的<color=#FFFFFF>[衝刺攻擊：飛弦·斬]</color>命中敵人並觸發暴擊時，將獲得1層<color=#FFFFFF>[鋒芒]</color>，同一招式內最多獲得3層，<color=#FFFFFF>[鋒芒]</color>最多疊加6層，持續5秒，重複觸發時重置持續時間。每層<color=#FFFFFF>[鋒芒]</color>會使<color=#FFFFFF>[衝刺攻擊：飛弦·斬]</color>造成的暴擊傷害提升<color=#2BAD00>9%</color>。",
+                "5": "<color=#FFFFFF>[衝刺攻擊：飛弦·斬]</color>的暴擊率提升<color=#2BAD00>20.2%</color>，悠真的<color=#FFFFFF>[衝刺攻擊：飛弦·斬]</color>命中敵人並觸發暴擊時，將獲得1層<color=#FFFFFF>[鋒芒]</color>，同一招式內最多獲得3層，<color=#FFFFFF>[鋒芒]</color>最多疊加6層，持續5秒，重複觸發時重置持續時間。每層<color=#FFFFFF>[鋒芒]</color>會使<color=#FFFFFF>[衝刺攻擊：飛弦·斬]</color>造成的暴擊傷害提升<color=#2BAD00>10%</color>。",
+                "6": "<color=#FFFFFF>[衝刺攻擊：飛弦·斬]</color>的暴擊率提升<color=#2BAD00>22.6%</color>，悠真的<color=#FFFFFF>[衝刺攻擊：飛弦·斬]</color>命中敵人並觸發暴擊時，將獲得1層<color=#FFFFFF>[鋒芒]</color>，同一招式內最多獲得3層，<color=#FFFFFF>[鋒芒]</color>最多疊加6層，持續5秒，重複觸發時重置持續時間。每層<color=#FFFFFF>[鋒芒]</color>會使<color=#FFFFFF>[衝刺攻擊：飛弦·斬]</color>造成的暴擊傷害提升<color=#2BAD00>11%</color>。",
+                "7": "<color=#FFFFFF>[衝刺攻擊：飛弦·斬]</color>的暴擊率提升<color=#2BAD00>25%</color>，悠真的<color=#FFFFFF>[衝刺攻擊：飛弦·斬]</color>命中敵人並觸發暴擊時，將獲得1層<color=#FFFFFF>[鋒芒]</color>，同一招式內最多獲得3層，<color=#FFFFFF>[鋒芒]</color>最多疊加6層，持續5秒，重複觸發時重置持續時間。每層<color=#FFFFFF>[鋒芒]</color>會使<color=#FFFFFF>[衝刺攻擊：飛弦·斬]</color>造成的暴擊傷害提升<color=#2BAD00>12%</color>。"
             }
         },
         "MathSkill": {
@@ -69,7 +69,7 @@
             },
             "120100004": {
                 "Title": "普通攻擊：甲乙矢",
-                "Description": "第五段<color=#FFFFFF>[普通攻擊：穿雲]</color>/<color=#FFFFFF>[強化特殊技]</color>/<color=#FFFFFF>[連攜技]</color>命中敵人或地面時，可生成2/6/6枚<color=#FFFFFF>[電壺]</color>。\n若場上不存在<color=#FFFFFF>[電壺]</color>，隊伍中任意角色對敵人施加屬性異常效果時，可生成6枚<color=#FFFFFF>[電壺]</color>，12秒內最多觸發一次。\n<color=#FFFFFF>[電壺]</color>同一時間內最多存在6枚，悠真發射<color=#FFFFFF>[落羽]</color>命中敵人時，若場上存在<color=#FFFFFF>[電壺]</color>，則會將其啟動，向被<color=#FFFFFF>[落羽]</color>命中的目標發射<color=#FFFFFF>[甲乙矢]</color>，造成<color=#2EB6FF>電屬性傷害</color>。\n<color=#FFFFFF>[甲乙矢]</color>命中敵人時，會為其施加<color=#FFFFFF>[電囚]</color>效果，最多疊加8層，持續10秒，重複觸發時重置持續時間，<color=#FFFFFF>[電囚]</color>效果大於等於2層時，將在目標身上生成<color=#FFFFFF>[十文字]</color>標記。"
+                "Description": "第五段<color=#FFFFFF>[普通攻擊：穿雲]</color>/<color=#FFFFFF>[強化特殊技]</color>/<color=#FFFFFF>[連攜技]</color>命中敵人或地面時，可生成2/6/6枚<color=#FFFFFF>[電壺]</color>。\n若場上不存在<color=#FFFFFF>[電壺]</color>，隊伍中任意角色對敵人施加屬性異常效果時，可生成6枚<color=#FFFFFF>[電壺]</color>，12秒內最多觸發一次。\n<color=#FFFFFF>[電壺]</color>同一時間內最多存在6枚，悠真發射<color=#FFFFFF>[落羽]</color>命中敵人時，若場上存在<color=#FFFFFF>[電壺]</color>，則會將其啟動，向被<color=#FFFFFF>[落羽]</color>命中的目標發射<color=#FFFFFF>[甲乙矢]</color>，造成<color=#2EB6FF>電屬性傷害</color>。\n<color=#FFFFFF>[甲乙矢]</color>命中敵人時，會為其施加<color=#FFFFFF>[電囚]</color>效果，最多疊加8層，持續10秒，重複觸發時重置持續時間，<color=#FFFFFF>[電囚]</color>效果達到2層時，將在目標身上生成<color=#FFFFFF>[十文字]</color>標記。"
             },
             "120110001": {
                 "Title": "普通攻擊：穿雲"
@@ -467,6 +467,12 @@
             "DamageGrowth": 1730,
             "DazeValue": 4950,
             "DazeGrowth": 230
+        },
+        "1201023": {
+            "DamageValue": 0,
+            "DamageGrowth": 0,
+            "DazeValue": 0,
+            "DazeGrowth": 0
         }
     }
 }

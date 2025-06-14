@@ -11,7 +11,7 @@
         },
         "2": {
             "Title": "Fail-Safe Protocol",
-            "Description": "CRIT Rate Soldier 0 - Anby meningkat 12%.\nSaat melancarkan <color=#FFFFFF>Ultimate</color>, Soldier 0 - Anby akan mendapatkan 6 lapis <color=#FFFFFF>Thunder's Cry</color> (Maks. 6 lapis). Setelah memiliki <color=#FFFFFF>Thunder's Cry</color>, saat <color=#FFFFFF>Special Attack: Azure Flash</color> yang dilancarkan Soldier 0 - Anby mengenai musuh dengan <color=#FFFFFF>White Thunder</color>, akan mengonsumsi 1 lapis <color=#FFFFFF>Thunder's Cry</color> sebagai gantinya. Saat Skill mengenai lebih dari satu musuh, tetap hanya akan mengonsumsi 1 lapis <color=#FFFFFF>Thunder's Cry</color>. Saat mengonsumsi <color=#FFFFFF>Thunder's Cry</color>, tetap akan memicu DMG tambahan yang diakibatkan dari <color=#FFFFFF>White Thunder</color>.",
+            "Description": "CRIT Rate Soldier 0 - Anby meningkat 12%.\nSaat melancarkan <color=#FFFFFF>Ultimate</color>, Soldier 0 - Anby akan mendapatkan 6 lapis <color=#FFFFFF>Thunder's Cry</color> (Maks. 6 lapis). Setelah memiliki <color=#FFFFFF>Thunder's Cry</color>, saat <color=#FFFFFF>Special Attack: Azure Flash</color> Soldier 0 - Anby mengenai musuh yang memiliki <color=#FFFFFF>White Thunder</color>, akan mengonsumsi 1 lapis <color=#FFFFFF>Thunder's Cry</color> sebagai gantinya. Saat Skill mengenai lebih dari satu musuh, tetap hanya akan mengonsumsi 1 lapis <color=#FFFFFF>Thunder's Cry</color>. Saat mengonsumsi <color=#FFFFFF>Thunder's Cry</color>, tetap akan memicu DMG tambahan yang diakibatkan dari <color=#FFFFFF>White Thunder</color>.",
             "Lore": "\"Ada apa? Kamu kelihatan lelah.\"\n\"Aku... tidak apa-apa.\"\n\"Kalau butuh bantuan, bilang saja kapan pun.\""
         },
         "3": {
@@ -50,7 +50,7 @@
         },
         "MathSkill": {
             "Title": "Additional Ability: Voltage Surge",
-            "Description": "Berlaku jika terdapat Agen <color=#FFFFFF>Stun</color> atau <color=#FFFFFF>Support</color> di dalam tim:\nSoldier 0 - Anby akan mendapatkan peningkatan CRIT Rate sebesar 10%. Saat menggunakan Soldier 0 - Anby sebagai Agen yang Dikendalikan, <color=#FFFFFF>Aftershock</color> dari semua anggota tim akan mengakibatkan 25% DMG lebih besar terhadap musuh yang ditandai <color=#FFFFFF>Silver Star</color>."
+            "Description": "Berlaku jika terdapat Agen <color=#FFFFFF>Stun</color> atau <color=#FFFFFF>Support</color> di dalam tim:\nSoldier 0 - Anby akan mendapatkan peningkatan CRIT Rate sebesar 10%. Saat menggunakan Soldier 0 - Anby sebagai Agen yang Dikendalikan, <color=#FFFFFF>Aftershock</color> dari semua Agen dalam tim akan mengakibatkan 25% DMG lebih besar terhadap musuh yang ditandai <color=#FFFFFF>Silver Star</color>."
         }
     },
     "SkillDescriptions": {

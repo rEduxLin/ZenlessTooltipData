@@ -21,7 +21,7 @@
         },
         "4": {
             "Title": "Adapt and Thrive",
-            "Description": "Saat salah satu Agen di dalam tim memicu efek <color=#F0D12B>Assault</color> atau <color=#FFFFFF>Disorder</color>, Attribute Anomaly DMG yang diakibatkan semua anggota tim akan meningkat 18% selama 15 detik.",
+            "Description": "Saat salah satu Agen di dalam tim memicu efek <color=#F0D12B>Assault</color> atau <color=#FFFFFF>Disorder</color>, Attribute Anomaly DMG yang diakibatkan semua Agen dalam tim akan meningkat 18% selama 15 detik.",
             "Lore": "\"Soal jadi pemburu atau mangsa, itu semua tergantung pada sudut pandangmu. Tetapi, aku lebih suka dengan cara yang lebih simpel—\"\n\"Yang kalah ya... jadi mangsanya~\""
         },
         "5": {
@@ -517,6 +517,18 @@
             "DamageGrowth": 12550,
             "DazeValue": 57530,
             "DazeGrowth": 2620
+        },
+        "1261028": {
+            "DamageValue": 6000,
+            "DamageGrowth": 0,
+            "DazeValue": 0,
+            "DazeGrowth": 0
+        },
+        "1261029": {
+            "DamageValue": 60000,
+            "DamageGrowth": 0,
+            "DazeValue": 0,
+            "DazeGrowth": 0
         }
     }
 }

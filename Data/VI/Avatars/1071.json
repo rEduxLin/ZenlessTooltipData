@@ -31,7 +31,7 @@
         },
         "6": {
             "Title": "Chí Khí Bá Chủ",
-            "Description": "<color=#FFFFFF>Siêu Chiến Kỹ: Khiên Siêu Cường Lực</color> và <color=#FFFFFF>Đột Kích Chi Viện</color> chắc chắn kích hoạt bạo kích. Sát thương do chiêu thức gây ra tăng 50%, sát thương gây ra cho mục tiêu chính tăng thêm 50%. Khi Caesar phát động <color=#FFFFFF>Siêu Chiến Kỹ: Khiên Siêu Cường Lực</color> hoặc <color=#FFFFFF>Đột Kích Chi Viện</color>, Tỷ Lệ Bạo Kích của bản thân tăng 30%, DMG Bạo Kích tăng 60%, duy trì 15s.",
+            "Description": "<color=#FFFFFF>Siêu Chiến Kỹ: Khiên Siêu Cường Lực</color> và <color=#FFFFFF>Đột Kích Chi Viện: Mũi Nhọn Chi Viện</color> chắc chắn kích hoạt bạo kích. Sát thương do chiêu thức gây ra tăng 50%, sát thương gây ra cho mục tiêu chính tăng thêm 50%. Khi Caesar phát động <color=#FFFFFF>Siêu Chiến Kỹ: Khiên Siêu Cường Lực</color> hoặc <color=#FFFFFF>Đột Kích Chi Viện: Mũi Nhọn Chi Viện</color>, Tỷ Lệ Bạo Kích của bản thân tăng 30%, DMG Bạo Kích tăng 60%, duy trì 15s.",
             "Lore": "\"Tôi đã từng chỉ lo nhìn về phía trước. Tôi tưởng rằng chỉ cần bản thân đủ mạnh, thì không có việc gì không thể làm.\"\n\"Nhưng muốn trở thành Bá Chủ ưu tú, chỉ thế thôi là hoàn toàn không đủ.\"\n\"Tôi còn phải bảo vệ thật tốt những đồng đội ở hậu phương — Họ mới là lý do để tôi kiên trì tiến bước.\""
         }
     },
@@ -50,7 +50,7 @@
         },
         "MathSkill": {
             "Title": "Năng Lực Thêm: Hừng Hực Chiến Ý",
-            "Description": "Khi trong đội có nhân vật khác có thể phát động <color=#FFFFFF>Hỗ Trợ Chống Đỡ</color> hoặc nhân vật cùng phe với bản thân sẽ phát động:\nKhi Caesar kích hoạt <color=#FFFFFF>Chống Đỡ Chính Xác</color>, <color=#FFFFFF>Phòng Ngự Phản Kích</color>, <color=#FFFFFF>Hỗ Trợ Chống Đỡ</color> hoặc phát động <color=#FFFFFF>Tấn Công Thường: Đường Này Không Thông!</color>, sẽ gán hiệu quả debuff lên kẻ địch trong phạm vi 7m gần bản thân, tăng 25% sát thương do toàn đội gây ra cho kẻ địch này, duy trì 30s."
+            "Description": "Khi trong đội có nhân vật khác có thể phát động <color=#FFFFFF>Hỗ Trợ Chống Đỡ</color> hoặc nhân vật cùng phe với bản thân sẽ kích hoạt:\nKhi Caesar kích hoạt <color=#FFFFFF>Chống Đỡ Chính Xác</color>, <color=#FFFFFF>Phòng Ngự Phản Kích</color>, <color=#FFFFFF>Hỗ Trợ Chống Đỡ</color> hoặc phát động <color=#FFFFFF>Tấn Công Thường: Đường Này Không Thông!</color>, sẽ gán hiệu quả debuff lên kẻ địch trong phạm vi 7m gần bản thân, tăng 25% sát thương do nhân vật toàn đội gây ra cho kẻ địch này, duy trì 30s."
         }
     },
     "SkillDescriptions": {

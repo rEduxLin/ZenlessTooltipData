@@ -11,7 +11,7 @@
         },
         "2": {
             "Title": "Äthersicht",
-            "Description": "Beim Auslösen von <color=#FFFFFF>Nachschock</color> erhält Trigger 1 Stapelung <color=#FFFFFF>Jagender Blick</color>. Wenn sie einen Gnadenstoß in der <color=#FFFFFF>Scharfschießstellung</color> ausführt, erhält Trigger 2 Stapelungen <color=#FFFFFF>Jagender Blick</color>. Erhöht pro Stapelung <color=#FFFFFF>Jagender Blick</color> den KRIT-SCH aller Truppenmitglieder um 6 %, max. 4-fach stapelbar, hält 10 s. Beim wiederholten Auslösen wird die Dauer aktualisiert.",
+            "Description": "Beim Auslösen von <color=#FFFFFF>Nachschock</color> erhält Trigger 1 Stapelung <color=#FFFFFF>Jagender Blick</color>. Wenn sie einen Gnadenstoß in der <color=#FFFFFF>Scharfschießstellung</color> ausführt, erhält Trigger 2 Stapelungen <color=#FFFFFF>Jagender Blick</color>. Erhöht pro Stapelung <color=#FFFFFF>Jagender Blick</color> den KRIT-SCH aller Truppenfiguren um 6 %, max. 4-fach stapelbar, hält 10 s. Beim wiederholten Auslösen wird die Dauer aktualisiert.",
             "Lore": "In der Höhle hilft ihr jede Ätherschwankung, ein Gespür für ihre räumliche Umgebung zu bekommen.\n„Einst dachte ich, diese Augen seien ein Fluch, der mir nichts als Schmerzen bereitet.“\n„Aber jetzt ... sind sie mein Ticket, um mein Ziel zu erreichen, und der Beweis, dass ich meine Vergangenheit nie vergessen habe.“"
         },
         "3": {
@@ -457,6 +457,12 @@
             "DamageValue": 20000,
             "DamageGrowth": 0,
             "DazeValue": 12000,
+            "DazeGrowth": 0
+        },
+        "1361024": {
+            "DamageValue": 0,
+            "DamageGrowth": 0,
+            "DazeValue": 0,
             "DazeGrowth": 0
         }
     }

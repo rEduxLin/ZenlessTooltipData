@@ -11,7 +11,7 @@
         },
         "2": {
             "Title": "冗余协议",
-            "Description": "零号·安比的暴击率提升12%；发动<color=#FFFFFF>[终结技]</color>时，零号·安比会获得6层<color=#FFFFFF>[电鸣]</color>（上限6层）；拥有<color=#FFFFFF>[电鸣]</color>后，零号·安比发动<color=#FFFFFF>[特殊技：苍光]</color>命中拥有<color=#FFFFFF>[白雷]</color>的敌人时，将改为消耗1层<color=#FFFFFF>[电鸣]</color>作为代替，同一招式命中多名敌人时最多消耗1层<color=#FFFFFF>[电鸣]</color>，消耗<color=#FFFFFF>[电鸣]</color>时仍会触发<color=#FFFFFF>[白雷]</color>的额外伤害。",
+            "Description": "零号·安比的暴击率提升12%；发动<color=#FFFFFF>[终结技]</color>时，零号·安比会获得6层<color=#FFFFFF>[电鸣]</color>（上限6层）；拥有<color=#FFFFFF>[电鸣]</color>后，零号·安比<color=#FFFFFF>[特殊技：苍光]</color>命中拥有<color=#FFFFFF>[白雷]</color>的敌人时，将改为消耗1层<color=#FFFFFF>[电鸣]</color>作为代替，同一招式命中多名敌人时最多消耗1层<color=#FFFFFF>[电鸣]</color>，消耗<color=#FFFFFF>[电鸣]</color>时仍会触发<color=#FFFFFF>[白雷]</color>的额外伤害。",
             "Lore": "「怎么了？你看起来很累。」\n「我…没事。」\n「如果需要帮忙，随时开口。」"
         },
         "3": {
@@ -50,7 +50,7 @@
         },
         "MathSkill": {
             "Title": "额外能力：电极化",
-            "Description": "队伍中存在<color=#FFFFFF>[击破]</color>或<color=#FFFFFF>[支援]</color>角色时触发：\n零号·安比的暴击率提升10%；当前操作中的角色为零号·安比时，全队<color=#FFFFFF>[追加攻击]</color>对拥有<color=#FFFFFF>[银星]</color>标记的敌人造成的伤害提升25%。"
+            "Description": "队伍中存在<color=#FFFFFF>[击破]</color>或<color=#FFFFFF>[支援]</color>角色时触发：\n零号·安比的暴击率提升10%；当前操作中的角色为零号·安比时，全队角色<color=#FFFFFF>[追加攻击]</color>对拥有<color=#FFFFFF>[银星]</color>标记的敌人造成的伤害提升25%。"
         }
     },
     "SkillDescriptions": {

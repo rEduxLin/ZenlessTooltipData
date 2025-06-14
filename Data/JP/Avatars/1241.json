@@ -11,7 +11,7 @@
         },
         "2": {
             "Title": "エーテルの余燼",
-            "Description": "<color=#FFFFFF>「制圧モード」</color>において、朱鳶の中断耐性レベルがアップし、被ダメージが10%ダウンする。<color=#FFFFFF>「強化散弾」</color>を消費した攻撃が敵に命中した時、朱鳶の<color=#FFFFFF>『通常攻撃：抵抗はやめなさい』</color>と<color=#FFFFFF>『ダッシュ攻撃：火力制圧』</color>による<color=#FE437E>エーテル属性ダメージ</color>が10%アップする、最大5重まで重ね掛け可能、継続時間5秒。\n発砲するたびに、最大で1重獲得可能。重複して発動すると継続時間が更新される。",
+            "Description": "<color=#FFFFFF>「制圧モード」</color>において、朱鳶の中断耐性レベルがアップし、被ダメージ-10%。<color=#FFFFFF>「強化散弾」</color>を消費した攻撃が敵に命中した時、朱鳶の<color=#FFFFFF>『通常攻撃：抵抗はやめなさい』</color>と<color=#FFFFFF>『ダッシュ攻撃：火力制圧』</color>による<color=#FE437E>エーテル属性ダメージ</color>+10%、最大5重まで重ね掛け可能、継続時間5秒。\n発砲するたびに、最大で1重獲得可能。重複して発動すると継続時間が更新される。",
             "Lore": "治安局が朱鳶のために配備した特製エーテル弾は、命中した者に不可逆的な侵蝕ダメージを与える。\n朱鳶は発砲前、決まって投降を呼びかけるが…それは本気で相手の身を案じているからだ。"
         },
         "3": {
@@ -39,18 +39,18 @@
         "UniqueSkill": {
             "Title": "コアパッシブ：特殊弾薬",
             "DescriptionByLevel": {
-                "1": "朱鳶が<color=#FFFFFF>「制圧モード」</color>で<color=#FFFFFF>「強化散弾」</color>を消費して攻撃する時、スキルの与ダメージが<color=#2BAD00>20%</color>アップする。ブレイク状態の敵を攻撃する際は、この効果が追加で<color=#2BAD00>20%</color>アップする。フィールド入場時、即座に<color=#FFFFFF>「強化散弾」</color>を6発獲得する。",
-                "2": "朱鳶が<color=#FFFFFF>「制圧モード」</color>で<color=#FFFFFF>「強化散弾」</color>を消費して攻撃する時、スキルの与ダメージが<color=#2BAD00>23.3%</color>アップする。ブレイク状態の敵を攻撃する際は、この効果が追加で<color=#2BAD00>23.3%</color>アップする。フィールド入場時、即座に<color=#FFFFFF>「強化散弾」</color>を6発獲得する。",
-                "3": "朱鳶が<color=#FFFFFF>「制圧モード」</color>で<color=#FFFFFF>「強化散弾」</color>を消費して攻撃する時、スキルの与ダメージが<color=#2BAD00>26.6%</color>アップする。ブレイク状態の敵を攻撃する際は、この効果が追加で<color=#2BAD00>26.6%</color>アップする。フィールド入場時、即座に<color=#FFFFFF>「強化散弾」</color>を6発獲得する。",
-                "4": "朱鳶が<color=#FFFFFF>「制圧モード」</color>で<color=#FFFFFF>「強化散弾」</color>を消費して攻撃する時、スキルの与ダメージが<color=#2BAD00>30%</color>アップする。ブレイク状態の敵を攻撃する際は、この効果が追加で<color=#2BAD00>30%</color>アップする。フィールド入場時、即座に<color=#FFFFFF>「強化散弾」</color>を6発獲得する。",
-                "5": "朱鳶が<color=#FFFFFF>「制圧モード」</color>で<color=#FFFFFF>「強化散弾」</color>を消費して攻撃する時、スキルの与ダメージが<color=#2BAD00>33.3%</color>アップする。ブレイク状態の敵を攻撃する際は、この効果が追加で<color=#2BAD00>33.3%</color>アップする。フィールド入場時、即座に<color=#FFFFFF>「強化散弾」</color>を6発獲得する。",
-                "6": "朱鳶が<color=#FFFFFF>「制圧モード」</color>で<color=#FFFFFF>「強化散弾」</color>を消費して攻撃する時、スキルの与ダメージが<color=#2BAD00>36.6%</color>アップする。ブレイク状態の敵を攻撃する際は、この効果が追加で<color=#2BAD00>36.6%</color>アップする。フィールド入場時、即座に<color=#FFFFFF>「強化散弾」</color>を6発獲得する。",
-                "7": "朱鳶が<color=#FFFFFF>「制圧モード」</color>で<color=#FFFFFF>「強化散弾」</color>を消費して攻撃する時、スキルの与ダメージが<color=#2BAD00>40%</color>アップする。ブレイク状態の敵を攻撃する際は、この効果が追加で<color=#2BAD00>40%</color>アップする。フィールド入場時、即座に<color=#FFFFFF>「強化散弾」</color>を6発獲得する。"
+                "1": "朱鳶が<color=#FFFFFF>「制圧モード」</color>で<color=#FFFFFF>「強化散弾」</color>を消費して攻撃する時、スキルの与ダメージ+<color=#2BAD00>20%</color>。ブレイク状態の敵を攻撃する際は、この効果が追加で+<color=#2BAD00>20%</color>。フィールド入場時、即座に<color=#FFFFFF>「強化散弾」</color>を6発獲得する。",
+                "2": "朱鳶が<color=#FFFFFF>「制圧モード」</color>で<color=#FFFFFF>「強化散弾」</color>を消費して攻撃する時、スキルの与ダメージ+<color=#2BAD00>23.3%</color>。ブレイク状態の敵を攻撃する際は、この効果が追加で+<color=#2BAD00>23.3%</color>。フィールド入場時、即座に<color=#FFFFFF>「強化散弾」</color>を6発獲得する。",
+                "3": "朱鳶が<color=#FFFFFF>「制圧モード」</color>で<color=#FFFFFF>「強化散弾」</color>を消費して攻撃する時、スキルの与ダメージ+<color=#2BAD00>26.6%</color>。ブレイク状態の敵を攻撃する際は、この効果が追加で+<color=#2BAD00>26.6%</color>。フィールド入場時、即座に<color=#FFFFFF>「強化散弾」</color>を6発獲得する。",
+                "4": "朱鳶が<color=#FFFFFF>「制圧モード」</color>で<color=#FFFFFF>「強化散弾」</color>を消費して攻撃する時、スキルの与ダメージ+<color=#2BAD00>30%</color>。ブレイク状態の敵を攻撃する際は、この効果が追加で+<color=#2BAD00>30%</color>。フィールド入場時、即座に<color=#FFFFFF>「強化散弾」</color>を6発獲得する。",
+                "5": "朱鳶が<color=#FFFFFF>「制圧モード」</color>で<color=#FFFFFF>「強化散弾」</color>を消費して攻撃する時、スキルの与ダメージ+<color=#2BAD00>33.3%</color>。ブレイク状態の敵を攻撃する際は、この効果が追加で+<color=#2BAD00>33.3%</color>。フィールド入場時、即座に<color=#FFFFFF>「強化散弾」</color>を6発獲得する。",
+                "6": "朱鳶が<color=#FFFFFF>「制圧モード」</color>で<color=#FFFFFF>「強化散弾」</color>を消費して攻撃する時、スキルの与ダメージ+<color=#2BAD00>36.6%</color>。ブレイク状態の敵を攻撃する際は、この効果が追加で+<color=#2BAD00>36.6%</color>。フィールド入場時、即座に<color=#FFFFFF>「強化散弾」</color>を6発獲得する。",
+                "7": "朱鳶が<color=#FFFFFF>「制圧モード」</color>で<color=#FFFFFF>「強化散弾」</color>を消費して攻撃する時、スキルの与ダメージ+<color=#2BAD00>40%</color>。ブレイク状態の敵を攻撃する際は、この効果が追加で+<color=#2BAD00>40%</color>。フィールド入場時、即座に<color=#FFFFFF>「強化散弾」</color>を6発獲得する。"
             }
         },
         "MathSkill": {
             "Title": "追加能力：武装間連携",
-            "Description": "チームに<color=#FFFFFF>[支援]</color>のメンバーまたは自身と同じ陣営のメンバーがいる時に発動：\n朱鳶が<color=#FFFFFF>『強化特殊スキル』</color>、<color=#FFFFFF>『連携スキル』</color>または<color=#FFFFFF>『終結スキル』</color>を発動した時、自身の会心率が30%アップする、継続時間10秒。"
+            "Description": "チームに<color=#FFFFFF>[支援]</color>のメンバーまたは自身と同じ陣営のメンバーがいる時に発動：\n朱鳶が<color=#FFFFFF>『強化特殊スキル』</color>、<color=#FFFFFF>『連携スキル』</color>または<color=#FFFFFF>『終結スキル』</color>を発動した時、自身の会心率+30%、継続時間10秒。"
         }
     },
     "SkillDescriptions": {

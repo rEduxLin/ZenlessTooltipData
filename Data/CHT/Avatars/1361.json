@@ -11,7 +11,7 @@
         },
         "2": {
             "Title": "「以太視域」",
-            "Description": "發動<color=#FFFFFF>[追加攻擊]</color>時，「扳機」將獲得1層<color=#FFFFFF>[獵眸]</color>。在<color=#FFFFFF>[狙擊姿態]</color>下發動終結一擊時，「扳機」將獲得2層<color=#FFFFFF>[獵眸]</color>。每擁有1層<color=#FFFFFF>[獵眸]</color>，全隊暴擊傷害提升6%，最多疊加4層，持續10秒，重複觸發時重置持續時間。",
+            "Description": "發動<color=#FFFFFF>[追加攻擊]</color>時，「扳機」將獲得1層<color=#FFFFFF>[獵眸]</color>。在<color=#FFFFFF>[狙擊姿態]</color>下發動終結一擊時，「扳機」將獲得2層<color=#FFFFFF>[獵眸]</color>。每擁有1層<color=#FFFFFF>[獵眸]</color>，全隊角色暴擊傷害提升6%，最多疊加4層，持續10秒，重複觸發時重置持續時間。",
             "Lore": "置身於空洞內時，周圍的一切以太波動都將成為她觀測空間的助力。\n「曾經的我一直覺得這是雙充滿痛苦的、被詛咒的眼睛。」\n「但現在……它們是我達成目標的通行證，更是我不曾忘卻往日的證明。」"
         },
         "3": {
@@ -457,6 +457,12 @@
             "DamageValue": 20000,
             "DamageGrowth": 0,
             "DazeValue": 12000,
+            "DazeGrowth": 0
+        },
+        "1361024": {
+            "DamageValue": 0,
+            "DamageGrowth": 0,
+            "DazeValue": 0,
             "DazeGrowth": 0
         }
     }

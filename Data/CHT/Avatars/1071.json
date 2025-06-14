@@ -31,7 +31,7 @@
         },
         "6": {
             "Title": "霸主之志",
-            "Description": "<color=#FFFFFF>[強化特殊技：超強力盾擊]</color>和<color=#FFFFFF>[支援突擊]</color>必定觸發暴擊，招式造成的傷害提升50%，對主要目標造成的傷害額外提升50%；凱撒發動<color=#FFFFFF>[強化特殊技：超強力盾擊]</color>或<color=#FFFFFF>[支援突擊]</color>時，自身暴擊率提升30%，暴擊傷害提升60%，持續15秒。",
+            "Description": "<color=#FFFFFF>[強化特殊技：超強力盾擊]</color>和<color=#FFFFFF>[支援突擊：支援之鋒]</color>必定觸發暴擊，招式造成的傷害提升50%，對主要目標造成的傷害額外提升50%。凱撒發動<color=#FFFFFF>[強化特殊技：超強力盾擊]</color>或<color=#FFFFFF>[支援突擊：支援之鋒]</color>時，自身暴擊率提升30%，暴擊傷害提升60%，持續15秒。",
             "Lore": "「我曾只看向前方。我以為只要自己夠強，就沒有辦不到的事。」\n「但要成為優秀的霸主，這還遠遠不夠。」\n「我還需要守護好後方的同伴——他們才是我最大的底氣。」"
         }
     },
@@ -50,7 +50,7 @@
         },
         "MathSkill": {
             "Title": "額外能力：戰意激昂",
-            "Description": "隊伍中包含其他可發動<color=#FFFFFF>[招架支援]</color>的角色或與自身陣營相同的角色時觸發：\n凱撒觸發<color=#FFFFFF>[精準格擋]</color>、<color=#FFFFFF>[防禦反擊]</color>、<color=#FFFFFF>[招架支援]</color>或發動<color=#FFFFFF>[普通攻擊：此路不通！]</color>時，對自身附近7公尺範圍內的敵人施加減益效果，使全隊對其造成的傷害提升25%，持續30秒。"
+            "Description": "隊伍中包含其他可發動<color=#FFFFFF>[招架支援]</color>的角色或與自身陣營相同的角色時觸發：\n凱撒<color=#FFFFFF>[精準格擋]</color>、<color=#FFFFFF>[防禦反擊]</color>、<color=#FFFFFF>[招架支援]</color>或發動<color=#FFFFFF>[普通攻擊：此路不通！]</color>時，對自身附近7公尺範圍內的敵人施加減益效果，使全隊角色對其造成的傷害提升25%，持續30秒。"
         }
     },
     "SkillDescriptions": {

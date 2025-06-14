@@ -31,7 +31,7 @@
         },
         "6": {
             "Title": "Voluntad de la jefa suprema",
-            "Description": "La <color=#FFFFFF>técnica especial EX: Escudazo sobrepotenciado</color> y el <color=#FFFFFF>ataque sucesivo</color> activan un golpe crítico de forma garantizada. El daño que inflige la habilidad aumenta en un 50 % y el daño infligido al objetivo principal aumenta en un 50 % adicional. Cuando César ejecuta la <color=#FFFFFF>técnica especial EX: Escudazo sobrepotenciado</color> o un <color=#FFFFFF>ataque sucesivo</color>, su Probabilidad de Crítico y su Daño Crítico aumentan en un 30 % y 60 % respectivamente durante 15 s.",
+            "Description": "La <color=#FFFFFF>técnica especial EX: Escudazo sobrepotenciado</color> y el <color=#FFFFFF>ataque sucesivo: Filo de refuerzo</color> activan un golpe crítico de forma garantizada. El daño que inflige la habilidad aumenta en un 50 % y el daño infligido al objetivo principal aumenta en un 50 % adicional. Cuando César ejecuta la <color=#FFFFFF>técnica especial EX: Escudazo sobrepotenciado</color> o un <color=#FFFFFF>ataque sucesivo: Filo de refuerzo</color>, su Probabilidad de Crítico y su Daño Crítico aumentan en un 30 % y 60 % respectivamente durante 15 s.",
             "Lore": "«Siempre solía mirar hacia delante. Pensaba que, mientras fuera lo suficientemente fuerte, nada sería imposible. Pero, para ser una jefa suprema de los pies a la cabeza, la fuerza está lejos de ser suficiente. Debo proteger a los amigos que me acompañan. Son la única razón por la que he llegado hasta aquí.»"
         }
     },
@@ -50,7 +50,7 @@
         },
         "MathSkill": {
             "Title": "Técnica adicional: Espíritu guerrero",
-            "Description": "Si en el equipo hay más miembros capaces de activar un <color=#FFFFFF>apoyo defensivo</color> o de la misma afiliación que ella, cuando César activa un <color=#FFFFFF>bloqueo impecable</color>, una <color=#FFFFFF>contraofensiva</color> o un <color=#FFFFFF>apoyo defensivo</color>, o ejecuta un <color=#FFFFFF>ataque normal: ¡No hay marcha atrás!</color>, aplica un efecto negativo sobre los enemigos que se encuentren dentro de un radio de 7 m. El daño infligido por todos los miembros del equipo a estos enemigos aumenta en un 25 % durante 30 s."
+            "Description": "Si en el equipo hay más miembros capaces de activar un <color=#FFFFFF>apoyo defensivo</color> o de la misma afiliación que ella, cuando César activa un <color=#FFFFFF>bloqueo impecable</color>, una <color=#FFFFFF>contraofensiva</color> o un <color=#FFFFFF>apoyo defensivo</color>, o ejecuta un <color=#FFFFFF>ataque normal: ¡No hay marcha atrás!</color>, aplica un efecto negativo sobre los enemigos que se encuentren dentro de un radio de 7 m. El daño infligido por todos los personajes del equipo a estos enemigos aumenta en un 25 % durante 30 s."
         }
     },
     "SkillDescriptions": {
